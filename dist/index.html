@@ -10,22 +10,41 @@
   <aside class="rail">
     <img class="brand" src="assets/logo.png" alt="Decoding the Bible">
     <nav aria-label="Principal">
-      <button class="nav active" data-view="reader"><span>⌘</span> Lectura</button>
+      <button class="nav active" data-view="home"><span>✦</span> Inicio</button>
+      <button class="nav" data-view="reader"><span>⌘</span> Biblia</button>
+      <button class="nav" data-view="journey"><span>◎</span> Recorrido</button>
       <button class="nav" data-view="dima"><span>◉</span> DIMA</button>
-      <button class="nav" data-view="saved"><span>◇</span> Guardados <b id="savedCount">0</b></button>
+      <button class="nav" data-view="saved"><span>◇</span> Cuaderno <b id="savedCount">0</b></button>
     </nav>
-    <div class="rail-foot"><span class="gold-dot"></span><span>Génesis · MVP 01</span></div>
+    <button class="rail-foot" data-view="about"><span class="gold-dot"></span><span>Fuentes, método y créditos</span></button>
   </aside>
 
   <main>
     <header class="topbar">
       <button class="mobile-brand" aria-label="Abrir menú">DTB</button>
-      <div class="crumb"><span>BERESHIT</span><strong>Génesis</strong></div>
+      <div class="crumb"><span>DECODING THE BIBLE</span><strong id="topContext">Inicio</strong></div>
       <div class="chapter-switch" aria-label="Capítulo"><button data-chapter="1" class="active">01</button><button data-chapter="2">02</button></div>
       <button id="searchBtn" class="icon-btn" aria-label="Buscar">⌕</button>
     </header>
 
-    <section id="readerView" class="view active">
+    <section id="homeView" class="view active">
+      <div class="home-grid">
+        <article class="welcome-card">
+          <p class="eyebrow">TU LECTURA · HOY</p>
+          <h1>Volvé al texto.<br><em>Que la palabra se abra.</em></h1>
+          <p class="welcome-copy">Génesis 1–2 leído desde el hebreo, con las decisiones de traducción a la vista.</p>
+          <button class="primary large" id="continueReading">Continuar leyendo <span>→</span></button>
+        </article>
+        <aside class="daily-card" id="dailyCard"></aside>
+      </div>
+      <div class="dashboard-row">
+        <article class="progress-panel"><div class="section-title"><div><p class="eyebrow">RECORRIDO BERESHIT</p><h2>Leer no alcanza: hay que atravesar.</h2></div><strong id="progressPercent">0%</strong></div><div class="progress-track"><i id="progressFill"></i></div><div id="stepPreview" class="step-preview"></div><button class="text-button" data-view="journey">Ver recorrido completo →</button></article>
+        <article class="stats-panel"><p class="eyebrow">TU HUELLA</p><div class="stat"><strong id="readStat">0</strong><span>versículos recorridos</span></div><div class="stat"><strong id="decodedStat">0</strong><span>palabras decodificadas</span></div><div class="stat"><strong id="savedStat">0</strong><span>marcas en el cuaderno</span></div></article>
+      </div>
+      <section class="access-grid"><button data-view="reader"><span>א</span><strong>Biblia</strong><small>Texto DIMA + hebreo</small></button><button data-view="dima"><span>◉</span><strong>Verbum Revelans</strong><small>Entrá por una palabra</small></button><button data-view="saved"><span>◇</span><strong>Cuaderno</strong><small>Notas y hallazgos</small></button></section>
+    </section>
+
+    <section id="readerView" class="view">
       <div class="reader-head">
         <div><p class="eyebrow">LECTURA DIMA · OSHB / CÓDICE DE LENINGRADO</p><h1 id="chapterTitle">Génesis <em>1</em></h1></div>
         <div class="layer-switch" role="tablist"><button class="active" data-layer="dima">DIMA</button><button data-layer="hebrew">Hebreo</button></div>
@@ -37,8 +56,14 @@
           <h2>La traducción también decide.</h2>
           <p>Tocá un número dorado para abrir la decisión detrás de una palabra. No vas a recibir una verdad cerrada: vas a ver qué está documentado y qué es lectura.</p>
           <div class="legend"><span class="e1">E1</span> documentado <span class="d1">D1</span> inferencia DIMA</div>
+          <div class="reader-tools"><button id="fontDown" aria-label="Reducir texto">A−</button><button id="fontUp" aria-label="Aumentar texto">A+</button><button id="focusMode">Modo foco</button></div>
         </aside>
       </div>
+    </section>
+
+    <section id="journeyView" class="view">
+      <div class="lab-head"><p class="eyebrow">RECORRIDO GUIADO · BERESHIT</p><h1>Siete umbrales para <em>volver a leer</em></h1><p>No sigue el orden de un curso. Cada umbral desmonta una certeza y devuelve una pregunta al texto.</p></div>
+      <div id="journeySteps" class="journey-steps"></div>
     </section>
 
     <section id="dimaView" class="view">
@@ -47,8 +72,19 @@
     </section>
 
     <section id="savedView" class="view">
-      <div class="lab-head"><p class="eyebrow">TU RECORRIDO</p><h1>Marcas de <em>lectura</em></h1><p>Versículos y decodificaciones que elegiste conservar en este dispositivo.</p></div>
+      <div class="lab-head"><p class="eyebrow">TU CUADERNO</p><h1>Marcas de <em>lectura</em></h1><p>Lo que elegiste conservar y las preguntas que el texto te dejó.</p></div>
+      <div class="note-composer"><textarea id="personalNote" placeholder="Escribí una pregunta, una incomodidad o una conexión…"></textarea><button class="primary" id="savePersonalNote">Guardar nota</button><button class="secondary" id="downloadNotebook">Descargar cuaderno</button></div>
       <div id="savedList" class="saved-list"></div>
+    </section>
+
+    <section id="aboutView" class="view">
+      <div class="lab-head"><p class="eyebrow">TRAZABILIDAD</p><h1>Fuentes, método<br>y <em>créditos</em></h1><p>Esta edición distingue siempre el texto fuente, la traducción, el dato lingüístico y la lectura DIMA.</p></div>
+      <div class="credits-grid">
+        <article><span>01</span><h2>Texto hebreo</h2><p><strong>Open Scriptures Hebrew Bible v2.2 (OSHB)</strong>, basado en el Códice de Leningrado / Westminster Leningrad Codex. Morfología OSHM y referencias léxicas Strong.</p><p class="credit-tag">OSHB: CC BY 4.0 · WLC: dominio público</p></article>
+        <article><span>02</span><h2>Traducción</h2><p><strong>Traducción y lectura DIMA, por Rocío Dopazo.</strong> Una reconstrucción alternativa hecha directamente desde el hebreo, con criterios editoriales propios y niveles de evidencia explícitos.</p><p class="credit-tag">Edición MVP · Génesis 1–2</p></article>
+        <article><span>03</span><h2>Consulta y contraste</h2><p>Strong, Brown–Driver–Briggs, concordancia del corpus hebreo y comparación de cruces con Reina-Valera y Biblia de Jerusalén. Las hipótesis debatidas se presentan como debate, no como certeza.</p><p class="credit-tag">E1–E3: evidencia · D1–D2: lectura DIMA</p></article>
+        <article><span>04</span><h2>Qué DIMA no afirma</h2><p>No pretende revelar “lo que la Biblia realmente quiso decir”. Hace visible una lectura trazable: qué dice el texto, qué decide la traducción y dónde comienza la interpretación.</p><p class="credit-tag">Método DIMA · Decoding the Bible</p></article>
+      </div>
     </section>
   </main>
 </div>
@@ -58,6 +94,6 @@
   <div id="decodeContent"></div>
 </dialog>
 <dialog id="searchDialog" class="search-dialog"><form method="dialog"><input id="searchInput" placeholder="Buscar en Génesis 1–2…" autocomplete="off"><button>Cerrar</button></form><div id="searchResults"></div></dialog>
-<nav class="bottom-nav"><button data-view="reader" class="active">Lectura</button><button data-view="dima">DIMA</button><button data-view="saved">Guardados</button></nav>
+<nav class="bottom-nav"><button data-view="home" class="active">Inicio</button><button data-view="reader">Biblia</button><button data-view="journey">Recorrido</button><button data-view="saved">Cuaderno</button></nav>
 <script src="app.js"></script>
 </body></html>
