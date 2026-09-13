@@ -1,0 +1,631 @@
+{
+  "chapters": {
+    "1": [
+      {
+        "number": "1",
+        "text": "A la cabeza de todo, Elohim¹ trajo a ser² los cielos y la tierra.",
+        "hebrew": "בְּרֵאשִׁ֖ית בָּרָ֣א אֱלֹהִ֑ים אֵ֥ת הַשָּׁמַ֖יִם וְאֵ֥ת הָאָֽרֶץ ׃"
+      },
+      {
+        "number": "2",
+        "text": "Y la tierra aún no era apta para habitarse³, vacía; oscuridad sobre las aguas profundas⁴; y un aliento-fuerza-viviente⁵ de Elohim se cernía sobre las aguas, como un ave sobre su nido.",
+        "hebrew": "וְהָאָ֗רֶץ הָיְתָ֥ה תֹ֨הוּ֙ וָבֹ֔הוּ וְחֹ֖שֶׁךְ עַל ־ פְּנֵ֣י תְה֑וֹם וְר֣וּחַ אֱלֹהִ֔ים מְרַחֶ֖פֶת עַל ־ פְּנֵ֥י הַמָּֽיִם ׃"
+      },
+      {
+        "number": "3",
+        "text": "Y dijo Elohim: haya luz. Y hubo luz.",
+        "hebrew": "וַיֹּ֥אמֶר אֱלֹהִ֖ים יְהִ֣י א֑וֹר וַֽיְהִי ־ אֽוֹר ׃"
+      },
+      {
+        "number": "4",
+        "text": "Y vio Elohim que la luz estaba en su lugar, funcionando como corresponde⁶. Y separó Elohim la luz de la oscuridad.",
+        "hebrew": "וַיַּ֧רְא אֱלֹהִ֛ים אֶת ־ הָא֖וֹר כִּי ־ ט֑וֹב וַיַּבְדֵּ֣ל אֱלֹהִ֔ים בֵּ֥ין הָא֖וֹר וּבֵ֥ין הַחֹֽשֶׁךְ ׃"
+      },
+      {
+        "number": "5",
+        "text": "Y llamó Elohim a la luz Día, y a la oscuridad llamó Noche. Y hubo tarde-y-mañana⁷, un día uno⁸.",
+        "hebrew": "וַיִּקְרָ֨א אֱלֹהִ֤ים ׀ לָאוֹר֙ י֔וֹם וְלַחֹ֖שֶׁךְ קָ֣רָא לָ֑יְלָה וַֽיְהִי ־ עֶ֥רֶב וַֽיְהִי ־ בֹ֖קֶר י֥וֹם אֶחָֽד ׃ פ"
+      },
+      {
+        "number": "6",
+        "text": "Y dijo Elohim: haya un forjado⁹ en medio de las aguas, que separe aguas de aguas.",
+        "hebrew": "וַיֹּ֣אמֶר אֱלֹהִ֔ים יְהִ֥י רָקִ֖יעַ בְּת֣וֹךְ הַמָּ֑יִם וִיהִ֣י מַבְדִּ֔יל בֵּ֥ין מַ֖יִם לָמָֽיִם ׃"
+      },
+      {
+        "number": "7",
+        "text": "E hizo Elohim el forjado, y separó las aguas que están bajo el forjado de las aguas que están sobre el forjado. Y fue así.",
+        "hebrew": "וַיַּ֣עַשׂ אֱלֹהִים֮ אֶת ־ הָרָקִיעַ֒ וַיַּבְדֵּ֗ל בֵּ֤ין הַמַּ֨יִם֙ אֲשֶׁר֙ מִתַּ֣חַת לָרָקִ֔יעַ וּבֵ֣ין הַמַּ֔יִם אֲשֶׁ֖ר מֵעַ֣ל לָרָקִ֑יעַ וַֽיְהִי ־ כֵֽן ׃"
+      },
+      {
+        "number": "8",
+        "text": "Y llamó Elohim al forjado Cielos. Y hubo tarde-y-mañana⁷, día segundo.",
+        "hebrew": "וַיִּקְרָ֧א אֱלֹהִ֛ים לָֽרָקִ֖יעַ שָׁמָ֑יִם וַֽיְהִי ־ עֶ֥רֶב וַֽיְהִי ־ בֹ֖קֶר י֥וֹם שֵׁנִֽי ׃ פ"
+      },
+      {
+        "number": "9",
+        "text": "Y dijo Elohim: júntense las aguas bajo los cielos en un lugar, y aparezca lo seco. Y fue así.",
+        "hebrew": "וַיֹּ֣אמֶר אֱלֹהִ֗ים יִקָּו֨וּ הַמַּ֜יִם מִתַּ֤חַת הַשָּׁמַ֨יִם֙ אֶל ־ מָק֣וֹם אֶחָ֔ד וְתֵרָאֶ֖ה הַיַּבָּשָׁ֑ה וַֽיְהִי ־ כֵֽן ׃"
+      },
+      {
+        "number": "10",
+        "text": "Y llamó Elohim a lo seco Tierra, y al ayuntamiento de las aguas llamó Mares¹⁰. Y vio Elohim que estaba en condición⁶.",
+        "hebrew": "וַיִּקְרָ֨א אֱלֹהִ֤ים ׀ לַיַּבָּשָׁה֙ אֶ֔רֶץ וּלְמִקְוֵ֥ה הַמַּ֖יִם קָרָ֣א יַמִּ֑ים וַיַּ֥רְא אֱלֹהִ֖ים כִּי ־ טֽוֹב ׃"
+      },
+      {
+        "number": "11",
+        "text": "Y dijo Elohim: produzca la tierra hierba verde, hierba que dé semilla, árbol de fruto que dé fruto según su especie¹¹, cuya semilla esté en él, sobre la tierra. Y fue así.",
+        "hebrew": "וַיֹּ֣אמֶר אֱלֹהִ֗ים תַּֽדְשֵׁ֤א הָאָ֨רֶץ֙ דֶּ֔שֶׁא עֵ֚שֶׂב מַזְרִ֣יעַ זֶ֔רַע עֵ֣ץ פְּרִ֞י עֹ֤שֶׂה פְּרִי֙ לְמִינ֔וֹ אֲשֶׁ֥ר זַרְעוֹ ־ ב֖וֹ עַל ־ הָאָ֑רֶץ וַֽיְהִי ־ כֵֽן ׃"
+      },
+      {
+        "number": "12",
+        "text": "Y produjo la tierra hierba verde, hierba que da semilla según su especie, y árbol que da fruto cuya semilla está en él, según su especie. Y vio Elohim que estaba en condición⁶.",
+        "hebrew": "וַתּוֹצֵ֨א הָאָ֜רֶץ דֶּ֠שֶׁא עֵ֣שֶׂב מַזְרִ֤יעַ זֶ֨רַע֙ לְמִינֵ֔הוּ וְעֵ֧ץ עֹֽשֶׂה ־ פְּרִ֛י We read one or more accents in L differently than BHS. Often this notation indicates a typographical error in BHS. We read punctuation in L differently from BHS. אֲשֶׁ֥ר זַרְעוֹ ־ ב֖וֹ לְמִינֵ֑הוּ וַיַּ֥רְא אֱלֹהִ֖ים כִּי ־ טֽוֹב ׃"
+      },
+      {
+        "number": "13",
+        "text": "Y hubo tarde-y-mañana⁷, día tercero.",
+        "hebrew": "וַֽיְהִי ־ עֶ֥רֶב וַֽיְהִי ־ בֹ֖קֶר י֥וֹם שְׁלִישִֽׁי ׃ פ"
+      },
+      {
+        "number": "14",
+        "text": "Y dijo Elohim: haya lumbreras¹² en el forjado de los cielos para separar el día de la noche, y sean por señales y por tiempos-señalados¹³, y por días y años.",
+        "hebrew": "וַיֹּ֣אמֶר אֱלֹהִ֗ים יְהִ֤י מְאֹרֹת֙ בִּרְקִ֣יעַ הַשָּׁמַ֔יִם לְהַבְדִּ֕יל בֵּ֥ין הַיּ֖וֹם וּבֵ֣ין הַלָּ֑יְלָה וְהָי֤וּ לְאֹתֹת֙ וּלְמ֣וֹעֲדִ֔ים וּלְיָמִ֖ים וְשָׁנִֽים ׃"
+      },
+      {
+        "number": "15",
+        "text": "Y sean por lumbreras en el forjado de los cielos para alumbrar sobre la tierra. Y fue así.",
+        "hebrew": "וְהָי֤וּ לִמְאוֹרֹת֙ בִּרְקִ֣יעַ הַשָּׁמַ֔יִם לְהָאִ֖יר עַל ־ הָאָ֑רֶץ וַֽיְהִי ־ כֵֽן ׃"
+      },
+      {
+        "number": "16",
+        "text": "E hizo Elohim las dos grandes lumbreras: la lumbrera mayor para gobernar el día, y la lumbrera menor para gobernar la noche; y las estrellas.",
+        "hebrew": "וַיַּ֣עַשׂ אֱלֹהִ֔ים אֶת ־ שְׁנֵ֥י הַמְּאֹרֹ֖ת הַגְּדֹלִ֑ים אֶת ־ הַמָּא֤וֹר הַגָּדֹל֙ לְמֶמְשֶׁ֣לֶת הַיּ֔וֹם וְאֶת ־ הַמָּא֤וֹר הַקָּטֹן֙ לְמֶמְשֶׁ֣לֶת הַלַּ֔יְלָה וְאֵ֖ת הַכּוֹכָבִֽים ׃"
+      },
+      {
+        "number": "17",
+        "text": "Y las puso Elohim en el forjado de los cielos para alumbrar sobre la tierra,",
+        "hebrew": "וַיִּתֵּ֥ן אֹתָ֛ם אֱלֹהִ֖ים בִּרְקִ֣יעַ הַשָּׁמָ֑יִם לְהָאִ֖יר עַל ־ הָאָֽרֶץ ׃"
+      },
+      {
+        "number": "18",
+        "text": "y para gobernar en el día y en la noche, y para separar la luz de la oscuridad. Y vio Elohim que estaba en condición⁶.",
+        "hebrew": "וְלִמְשֹׁל֙ בַּיּ֣וֹם וּבַלַּ֔יְלָה וּֽלֲהַבְדִּ֔יל בֵּ֥ין הָא֖וֹר וּבֵ֣ין הַחֹ֑שֶׁךְ וַיַּ֥רְא אֱלֹהִ֖ים כִּי ־ טֽוֹב ׃"
+      },
+      {
+        "number": "19",
+        "text": "Y hubo tarde-y-mañana⁷, día cuarto.",
+        "hebrew": "וַֽיְהִי ־ עֶ֥רֶב וַֽיְהִי ־ בֹ֖קֶר י֥וֹם רְבִיעִֽי ׃ פ"
+      },
+      {
+        "number": "20",
+        "text": "Y dijo Elohim: bullan las aguas de bullicio de aliento-viviente¹⁴, y vuelen aves sobre la tierra, sobre la faz del forjado de los cielos.",
+        "hebrew": "וַיֹּ֣אמֶר אֱלֹהִ֔ים יִשְׁרְצ֣וּ הַמַּ֔יִם שֶׁ֖רֶץ נֶ֣פֶשׁ חַיָּ֑ה וְעוֹף֙ יְעוֹפֵ֣ף עַל ־ הָאָ֔רֶץ עַל ־ פְּנֵ֖י רְקִ֥יעַ הַשָּׁמָֽיִם ׃"
+      },
+      {
+        "number": "21",
+        "text": "Y trajo a ser² Elohim los grandes monstruos marinos¹⁵, y todo aliento-viviente que se desliza, de que bullen las aguas según su especie, y toda ave según su especie. Y vio Elohim que estaba en condición⁶.",
+        "hebrew": "וַיִּבְרָ֣א אֱלֹהִ֔ים אֶת ־ הַתַּנִּינִ֖ם הַגְּדֹלִ֑ים וְאֵ֣ת כָּל ־ נֶ֣פֶשׁ הַֽחַיָּ֣ה ׀ הָֽרֹמֶ֡שֶׂת אֲשֶׁר֩ שָׁרְצ֨וּ הַמַּ֜יִם לְמִֽינֵהֶ֗ם וְאֵ֨ת כָּל ־ ע֤וֹף כָּנָף֙ לְמִינֵ֔הוּ וַיַּ֥רְא אֱלֹהִ֖ים כִּי ־ טֽוֹב ׃"
+      },
+      {
+        "number": "22",
+        "text": "Y los bendijo Elohim diciendo: fructificad y multiplicaos, y llenad las aguas en los mares, y multiplíquense las aves en la tierra.",
+        "hebrew": "וַיְבָ֧רֶךְ אֹתָ֛ם אֱלֹהִ֖ים לֵאמֹ֑ר פְּר֣וּ וּרְב֗וּ וּמִלְא֤וּ אֶת ־ הַמַּ֨יִם֙ בַּיַּמִּ֔ים וְהָע֖וֹף יִ֥רֶב בָּאָֽרֶץ ׃"
+      },
+      {
+        "number": "23",
+        "text": "Y hubo tarde-y-mañana⁷, día quinto.",
+        "hebrew": "וַֽיְהִי ־ עֶ֥רֶב וַֽיְהִי ־ בֹ֖קֶר י֥וֹם חֲמִישִֽׁי ׃ פ"
+      },
+      {
+        "number": "24",
+        "text": "Y dijo Elohim: produzca la tierra aliento-viviente según su especie: ganado, reptil, y bestia de la tierra según su especie. Y fue así.",
+        "hebrew": "וַיֹּ֣אמֶר אֱלֹהִ֗ים תּוֹצֵ֨א הָאָ֜רֶץ נֶ֤פֶשׁ חַיָּה֙ לְמִינָ֔הּ בְּהֵמָ֥ה וָרֶ֛מֶשׂ וְחַֽיְתוֹ ־ אֶ֖רֶץ לְמִינָ֑הּ וַֽיְהִי ־ כֵֽן ׃"
+      },
+      {
+        "number": "25",
+        "text": "E hizo Elohim la bestia de la tierra según su especie, y el ganado según su especie, y todo reptil de la tierra según su especie. Y vio Elohim que estaba en condición⁶.",
+        "hebrew": "וַיַּ֣עַשׂ אֱלֹהִים֩ אֶת ־ חַיַּ֨ת הָאָ֜רֶץ לְמִינָ֗הּ וְאֶת ־ הַבְּהֵמָה֙ לְמִינָ֔הּ וְאֵ֛ת כָּל ־ רֶ֥מֶשׂ הָֽאֲדָמָ֖ה לְמִינֵ֑הוּ וַיַּ֥רְא אֱלֹהִ֖ים כִּי ־ טֽוֹב ׃"
+      },
+      {
+        "number": "26",
+        "text": "Y dijo Elohim: hagamos al humano-de-tierra en nuestra marca-de-presencia¹⁶, según nuestra correspondencia¹⁶; y huelle con potestad sobre¹⁷ los peces del mar, las aves del cielo, el ganado, toda la tierra, y todo reptil que se desliza sobre la tierra.",
+        "hebrew": "וַיֹּ֣אמֶר אֱלֹהִ֔ים נַֽעֲשֶׂ֥ה אָדָ֛ם בְּצַלְמֵ֖נוּ כִּדְמוּתֵ֑נוּ וְיִרְדּוּ֩ בִדְגַ֨ת הַיָּ֜ם וּבְע֣וֹף הַשָּׁמַ֗יִם וּבַבְּהֵמָה֙ וּבְכָל ־ הָאָ֔רֶץ וּבְכָל ־ הָרֶ֖מֶשׂ הָֽרֹמֵ֥שׂ עַל ־ הָאָֽרֶץ ׃"
+      },
+      {
+        "number": "27",
+        "text": "Y trajo a ser² Elohim al humano-de-tierra en su marca-de-presencia¹⁶; en marca-de-presencia de Elohim lo trajo a ser²; macho y hembra los trajo a ser².",
+        "hebrew": "וַיִּבְרָ֨א אֱלֹהִ֤ים ׀ אֶת ־ הָֽאָדָם֙ בְּצַלְמ֔וֹ בְּצֶ֥לֶם אֱלֹהִ֖ים בָּרָ֣א אֹת֑וֹ זָכָ֥ר וּנְקֵבָ֖ה בָּרָ֥א אֹתָֽם ׃"
+      },
+      {
+        "number": "28",
+        "text": "Y los bendijo Elohim, y les dijo: fructificad y multiplicaos, llenad la tierra, y sometedla con fuerza¹⁷; y huelle con potestad sobre¹⁷ los peces del mar, las aves del cielo, y todo animal que se mueve sobre la tierra.",
+        "hebrew": "וַיְבָ֣רֶךְ אֹתָם֮ אֱלֹהִים֒ וַיֹּ֨אמֶר לָהֶ֜ם אֱלֹהִ֗ים פְּר֥וּ וּרְב֛וּ וּמִלְא֥וּ אֶת ־ הָאָ֖רֶץ וְכִבְשֻׁ֑הָ וּרְד֞וּ בִּדְגַ֤ת הַיָּם֙ וּבְע֣וֹף הַשָּׁמַ֔יִם וּבְכָל ־ חַיָּ֖ה הָֽרֹמֶ֥שֶׂת עַל ־ הָאָֽרֶץ ׃"
+      },
+      {
+        "number": "29",
+        "text": "Y dijo Elohim: he aquí que os he dado toda hierba que da semilla, que está sobre la faz de toda la tierra, y todo árbol en que hay fruto que da semilla; os serán para comer.",
+        "hebrew": "וַיֹּ֣אמֶר אֱלֹהִ֗ים הִנֵּה֩ נָתַ֨תִּי לָכֶ֜ם אֶת ־ כָּל ־ עֵ֣שֶׂב ׀ זֹרֵ֣עַ זֶ֗רַע אֲשֶׁר֙ עַל ־ פְּנֵ֣י כָל ־ הָאָ֔רֶץ וְאֶת ־ כָּל ־ הָעֵ֛ץ אֲשֶׁר ־ בּ֥וֹ פְרִי ־ עֵ֖ץ זֹרֵ֣עַ זָ֑רַע לָכֶ֥ם יִֽהְיֶ֖ה לְאָכְלָֽה ׃"
+      },
+      {
+        "number": "30",
+        "text": "Y a toda bestia de la tierra, y a toda ave del cielo, y a todo lo que se mueve sobre la tierra en que hay aliento-viviente, toda hierba verde les será para comer. Y fue así.",
+        "hebrew": "וּֽלְכָל ־ חַיַּ֣ת הָ֠אָרֶץ וּלְכָל ־ ע֨וֹף הַשָּׁמַ֜יִם וּלְכֹ֣ל ׀ רוֹמֵ֣שׂ עַל ־ הָאָ֗רֶץ אֲשֶׁר ־ בּוֹ֙ נֶ֣פֶשׁ חַיָּ֔ה אֶת ־ כָּל ־ יֶ֥רֶק עֵ֖שֶׂב לְאָכְלָ֑ה וַֽיְהִי ־ כֵֽן ׃"
+      },
+      {
+        "number": "31",
+        "text": "Y vio Elohim todo lo que había hecho, y he aquí: en condición óptima¹⁸. Y hubo tarde-y-mañana⁷, día sexto.",
+        "hebrew": "וַיַּ֤רְא אֱלֹהִים֙ אֶת ־ כָּל ־ אֲשֶׁ֣ר עָשָׂ֔ה וְהִנֵּה ־ ט֖וֹב מְאֹ֑ד וַֽיְהִי ־ עֶ֥רֶב וַֽיְהִי ־ בֹ֖קֶר י֥וֹם הַשִּׁשִּֽׁי ׃ פ"
+      }
+    ],
+    "2": [
+      {
+        "number": "1",
+        "text": "Y fueron acabados los cielos y la tierra, y todo su ejército.",
+        "hebrew": "וַיְכֻלּ֛וּ הַשָּׁמַ֥יִם וְהָאָ֖רֶץ וְכָל ־ צְבָאָֽם ׃"
+      },
+      {
+        "number": "2",
+        "text": "Y acabó Elohim en el día séptimo su obra que hizo, y cesó¹⁹ en el día séptimo de toda su obra que había hecho.",
+        "hebrew": "וַיְכַ֤ל אֱלֹהִים֙ בַּיּ֣וֹם הַשְּׁבִיעִ֔י מְלַאכְתּ֖וֹ אֲשֶׁ֣ר עָשָׂ֑ה וַיִּשְׁבֹּת֙ בַּיּ֣וֹם הַשְּׁבִיעִ֔י מִכָּל ־ מְלַאכְתּ֖וֹ אֲשֶׁ֥ר עָשָֽׂה ׃"
+      },
+      {
+        "number": "3",
+        "text": "Y bendijo Elohim al día séptimo, y lo santificó, porque en él cesó¹⁹ de toda su obra que había creado² Elohim para hacer.",
+        "hebrew": "וַיְבָ֤רֶךְ אֱלֹהִים֙ אֶת ־ י֣וֹם הַשְּׁבִיעִ֔י וַיְקַדֵּ֖שׁ אֹת֑וֹ כִּ֣י ב֤וֹ שָׁבַת֙ מִכָּל ־ מְלַאכְתּ֔וֹ אֲשֶׁר ־ בָּרָ֥א אֱלֹהִ֖ים לַעֲשֽׂוֹת ׃ פ"
+      },
+      {
+        "number": "4",
+        "text": "Estas son las generaciones²⁰ de los cielos y de la tierra cuando fueron traídos a ser²; en el día que hizo YHWH Elohim²¹ tierra y cielos.",
+        "hebrew": "אֵ֣לֶּה תוֹלְד֧וֹת הַשָּׁמַ֛יִם וְהָאָ֖רֶץ בְּהִבָּֽרְאָ֑ם בְּי֗וֹם עֲשׂ֛וֹת יְהוָ֥ה אֱלֹהִ֖ים אֶ֥רֶץ וְשָׁמָֽיִם ׃"
+      },
+      {
+        "number": "5",
+        "text": "Y ningún arbusto del campo había aún en la tierra, ni hierba del campo había aún nacido; porque YHWH Elohim no había hecho llover sobre la tierra, y adam²² no había, para trabajar la adamah²².",
+        "hebrew": "וְכֹ֣ל ׀ שִׂ֣יחַ הַשָּׂדֶ֗ה טֶ֚רֶם יִֽהְיֶ֣ה בָאָ֔רֶץ וְכָל ־ עֵ֥שֶׂב הַשָּׂדֶ֖ה טֶ֣רֶם יִצְמָ֑ח כִּי֩ לֹ֨א הִמְטִ֜יר יְהוָ֤ה אֱלֹהִים֙ עַל ־ הָאָ֔רֶץ וְאָדָ֣ם אַ֔יִן לַֽעֲבֹ֖ד אֶת ־ הָֽאֲדָמָֽה ׃"
+      },
+      {
+        "number": "6",
+        "text": "Y una neblina/manantial²³ subía de la tierra, y regaba toda la faz de la adamah.",
+        "hebrew": "וְאֵ֖ד יַֽעֲלֶ֣ה מִן ־ הָאָ֑רֶץ וְהִשְׁקָ֖ה אֶֽת ־ כָּל ־ פְּנֵֽי ־ הָֽאֲדָמָֽה ׃"
+      },
+      {
+        "number": "7",
+        "text": "Y formó²⁴ YHWH Elohim al adam, polvo de la adamah, y sopló en sus narices aliento de vidas²⁵; y fue el adam en aliento-viviente²⁶, lo mismo que ya eran las aves y los peces.",
+        "hebrew": "וַיִּיצֶר֩ יְהוָ֨ה אֱלֹהִ֜ים אֶת ־ הָֽאָדָ֗ם עָפָר֙ מִן ־ הָ֣אֲדָמָ֔ה וַיִּפַּ֥ח בְּאַפָּ֖יו נִשְׁמַ֣ת חַיִּ֑ים וַֽיְהִ֥י הָֽאָדָ֖ם לְנֶ֥פֶשׁ חַיָּֽה ׃"
+      },
+      {
+        "number": "8",
+        "text": "Y plantó YHWH Elohim un huerto en Edén²⁷, al oriente; y puso allí al adam que había formado.",
+        "hebrew": "וַיִּטַּ֞ע יְהוָ֧ה אֱלֹהִ֛ים גַּן ־ בְעֵ֖דֶן מִקֶּ֑דֶם וַיָּ֣שֶׂם שָׁ֔ם אֶת ־ הָֽאָדָ֖ם אֲשֶׁ֥ר יָצָֽר ׃"
+      },
+      {
+        "number": "9",
+        "text": "Y produjo YHWH Elohim de la adamah todo árbol delicioso a la vista, y bueno para comer: y el árbol de vida en medio del huerto, y el árbol del conocimiento de lo apto y lo no-apto²⁸.",
+        "hebrew": "וַיַּצְמַ֞ח יְהוָ֤ה אֱלֹהִים֙ מִן ־ הָ֣אֲדָמָ֔ה כָּל ־ עֵ֛ץ נֶחְמָ֥ד לְמַרְאֶ֖ה וְט֣וֹב לְמַאֲכָ֑ל וְעֵ֤ץ הַֽחַיִּים֙ בְּת֣וֹךְ הַגָּ֔ן וְעֵ֕ץ הַדַּ֖עַת ט֥וֹב וָרָֽע ׃"
+      },
+      {
+        "number": "10",
+        "text": "Y salía un río de Edén para regar el huerto, y de allí se repartía en cuatro brazos.",
+        "hebrew": "וְנָהָרּ֙ We read punctuation in L differently from BHS. יֹצֵ֣א מֵעֵ֔דֶן לְהַשְׁק֖וֹת אֶת ־ הַגָּ֑ן וּמִשָּׁם֙ יִפָּרֵ֔ד וְהָיָ֖ה לְאַרְבָּעָ֥ה רָאשִֽׁים ׃"
+      },
+      {
+        "number": "11-14",
+        "text": "(nombres de los cuatro ríos: Pisón, Gihón, Hidekel, Éufrates — sin cambios de sentido relevantes)",
+        "hebrew": "שֵׁ֥ם הָֽאֶחָ֖ד פִּישׁ֑וֹן ה֣וּא הַסֹּבֵ֗ב אֵ֚ת כָּל ־ אֶ֣רֶץ הַֽחֲוִילָ֔ה אֲשֶׁר ־ שָׁ֖ם הַזָּהָֽב ׃ וְשֵׁ֨ם הַנָּהָ֤ר הַשְּׁלִישִׁי֙ חִדֶּ֔קֶל ה֥וּא הַֽהֹלֵ֖ךְ קִדְמַ֣ת אַשּׁ֑וּר וְהַנָּהָ֥ר הָֽרְבִיעִ֖י ה֥וּא פְרָֽת ׃"
+      },
+      {
+        "number": "15",
+        "text": "Y tomó YHWH Elohim al adam, y lo puso en el huerto de Edén, para que lo sirviera y lo guardara²⁹.",
+        "hebrew": "וַיִּקַּ֛ח יְהוָ֥ה אֱלֹהִ֖ים אֶת ־ הָֽאָדָ֑ם וַיַּנִּחֵ֣הוּ בְגַן ־ עֵ֔דֶן לְעָבְדָ֖הּ וּלְשָׁמְרָֽהּ ׃"
+      },
+      {
+        "number": "16",
+        "text": "Y mandó YHWH Elohim al adam, diciendo: de todo árbol del huerto comerás libremente;",
+        "hebrew": "וַיְצַו֙ יְהוָ֣ה אֱלֹהִ֔ים עַל ־ הָֽאָדָ֖ם לֵאמֹ֑ר מִכֹּ֥ל עֵֽץ ־ הַגָּ֖ן אָכֹ֥ל תֹּאכֵֽל ׃"
+      },
+      {
+        "number": "17",
+        "text": "mas del árbol del conocimiento de lo apto y lo no-apto²⁸ no comerás; porque el día que de él comas, ciertamente morirás.",
+        "hebrew": "וּמֵעֵ֗ץ הַדַּ֨עַת֙ ט֣וֹב וָרָ֔ע לֹ֥א תֹאכַ֖ל מִמֶּ֑נּוּ כִּ֗י בְּי֛וֹם אֲכָלְךָ֥ מִמֶּ֖נּוּ מ֥וֹת תָּמֽוּת ׃"
+      },
+      {
+        "number": "18",
+        "text": "Y dijo YHWH Elohim: no está en condición⁶ que el adam esté solo; le haré una fuerza-de-rescate-a-su-lado³⁰.",
+        "hebrew": "וַיֹּ֨אמֶר֙ יְהוָ֣ה אֱלֹהִ֔ים לֹא ־ ט֛וֹב הֱי֥וֹת הָֽאָדָ֖ם לְבַדּ֑וֹ אֶֽעֱשֶׂהּ ־ לּ֥וֹ BHS has been faithful to the Leningrad Codex where there might be a question of the validity of the form and we keep the same form as BHS. עֵ֖זֶר כְּנֶגְדּֽוֹ ׃"
+      },
+      {
+        "number": "19",
+        "text": "Formó, pues, YHWH Elohim de la adamah toda bestia del campo, y toda ave de los cielos, y las trajo al adam, para ver cómo les llamaría; y todo lo que el adam llamó a los seres vivientes, ese es su nombre.",
+        "hebrew": "וַיִּצֶר֩ יְהוָ֨ה אֱלֹהִ֜ים מִן ־ הָֽאֲדָמָ֗ה כָּל ־ חַיַּ֤ת הַשָּׂדֶה֙ וְאֵת֙ כָּל ־ ע֣וֹף הַשָּׁמַ֔יִם וַיָּבֵא֙ אֶל ־ הָ֣אָדָ֔ם לִרְא֖וֹת מַה ־ יִּקְרָא ־ ל֑וֹ וְכֹל֩ אֲשֶׁ֨ר יִקְרָא ־ ל֧וֹ הָֽאָדָ֛ם נֶ֥פֶשׁ חַיָּ֖ה ה֥וּא שְׁמֽוֹ ׃"
+      },
+      {
+        "number": "20",
+        "text": "Y puso el adam nombres a todo ganado, y ave de los cielos, y a toda bestia del campo; mas para el adam no se halló fuerza-de-rescate-a-su-lado³⁰.",
+        "hebrew": "וַיִּקְרָ֨א הָֽאָדָ֜ם שֵׁמ֗וֹת לְכָל ־ הַבְּהֵמָה֙ וּלְע֣וֹף הַשָּׁמַ֔יִם וּלְכֹ֖ל חַיַּ֣ת הַשָּׂדֶ֑ה וּלְאָדָ֕ם לֹֽא ־ מָצָ֥א עֵ֖זֶר כְּנֶגְדּֽוֹ ׃"
+      },
+      {
+        "number": "21",
+        "text": "Y YHWH Elohim hizo caer sueño-de-trance³¹ sobre el adam, y se durmió: y tomó uno de sus lados³², y cerró la carne en su lugar.",
+        "hebrew": "וַיַּפֵּל֩ יְהוָ֨ה אֱלֹהִ֧ים ׀ תַּרְדֵּמָ֛ה עַל ־ הָאָדָ֖ם וַיִּישָׁ֑ן וַיִּקַּ֗ח אַחַת֙ מִצַּלְעֹתָ֔יו וַיִּסְגֹּ֥ר בָּשָׂ֖ר תַּחְתֶּֽנָּה ׃"
+      },
+      {
+        "number": "22",
+        "text": "Y del lado³² que YHWH Elohim tomó del adam, edificó una mujer, y la trajo al adam.",
+        "hebrew": "וַיִּבֶן֩ יְהוָ֨ה אֱלֹהִ֧ים ׀ אֶֽת ־ הַצֵּלָ֛ע אֲשֶׁר ־ לָקַ֥ח מִן ־ הָֽאָדָ֖ם לְאִשָּׁ֑ה וַיְבִאֶ֖הָ אֶל ־ הָֽאָדָֽם ׃"
+      },
+      {
+        "number": "23",
+        "text": "Y dijo el adam: esto es ahora hueso de mis huesos, y carne de mi carne; esto será llamada ishah (mujer), porque de ish (varón) fue tomada esto³³.",
+        "hebrew": "וַיֹּאמֶר֮ הָֽאָדָם֒ זֹ֣את הַפַּ֗עַם עֶ֚צֶם מֵֽעֲצָמַ֔י וּבָשָׂ֖ר מִבְּשָׂרִ֑י לְזֹאת֙ יִקָּרֵ֣א אִשָּׁ֔ה כִּ֥י מֵאִ֖ישׁ לֻֽקֳחָה ־ זֹּֽאת ׃"
+      },
+      {
+        "number": "24",
+        "text": "Por tanto, dejará el ish a su padre y a su madre, y se aferrará³⁴ a su ishah, y serán una sola carne.",
+        "hebrew": "עַל ־ כֵּן֙ יַֽעֲזָב ־ אִ֔ישׁ אֶת ־ אָבִ֖יו וְאֶת ־ אִמּ֑וֹ וְדָבַ֣ק בְּאִשְׁתּ֔וֹ וְהָי֖וּ לְבָשָׂ֥ר אֶחָֽד ׃"
+      },
+      {
+        "number": "25",
+        "text": "Y estaban ambos desnudos (arumim)³⁵, el adam y su ishah, y no se avergonzaban.",
+        "hebrew": "וַיִּֽהְי֤וּ שְׁנֵיהֶם֙ עֲרוּמִּ֔ים הָֽאָדָ֖ם וְאִשְׁתּ֑וֹ וְלֹ֖א יִתְבֹּשָֽׁשׁוּ ׃"
+      }
+    ]
+  },
+  "notes": [
+    {
+      "id": 1,
+      "title": "Elohim",
+      "body": "Morfológicamente plural (sufijo -im). E1 el plural gramatical, innegable. Lectura tradicional: \"plural de majestad\". Lectura crítica: resto de sustrato politeísta cananeo. Lectura propia, D1: \"creadores/la creación misma\" — misma base, conclusión distinta. Se dejó *sin traducir* en el texto para que el plural quede a la vista; \"Dios\" ya viene con el singular incorporado de fábrica.",
+      "evidence": [
+        "E1",
+        "D1"
+      ],
+      "hebrew": "אֱלֹהִים",
+      "teaser": "El plural que “Dios” suele ocultar."
+    },
+    {
+      "id": 2,
+      "title": "bara / trajo a ser",
+      "body": "Único verbo de \"crear\" con sujeto exclusivamente divino en todo el corpus (frente a asah, \"hacer\", y yatsar, \"formar\", que sí toman sujeto humano). E1 el dato de corpus; D1 la lectura de \"frontera de agencia\". Sin átomos ulteriores documentados con solidez.",
+      "evidence": [
+        "E1",
+        "D1"
+      ],
+      "hebrew": "בָּרָא",
+      "teaser": ""
+    },
+    {
+      "id": 3,
+      "title": "tohu vavohu / apta para habitarse",
+      "body": "En Isaías 34:11 y Jeremías 4:23 describe tierra desolada, no \"malvada\". Isaías 45:18: Dios \"no la creó tohu\" sino para ser habitada. E1: se opone a habitable/terminado, no a \"bueno\" moral.",
+      "evidence": [
+        "E1"
+      ],
+      "hebrew": "תֹהוּ וָבֹהוּ",
+      "teaser": "No caos moral: una tierra aún no habitable."
+    },
+    {
+      "id": 4,
+      "title": "tehom / aguas profundas",
+      "body": "Posible cognado del acadio Tiamat, aquí despersonalizado. E2/E3.",
+      "evidence": [
+        "E2",
+        "E3"
+      ],
+      "hebrew": "תְהוֹם",
+      "teaser": ""
+    },
+    {
+      "id": 5,
+      "title": "ruach / aliento-fuerza-viviente",
+      "body": "Una sola raíz cubre viento/aliento/espíritu — campo semántico unificado. E1. Y *merachefet / se cernía*: aparece solo dos veces en toda la Biblia hebrea; la otra (Deut. 32:11) describe un águila cerniéndose sobre sus crías. E1 — cuidado activo, no flotar pasivo.",
+      "evidence": [
+        "E1"
+      ],
+      "hebrew": "רוּחַ",
+      "teaser": "Viento, aliento y espíritu en un mismo campo."
+    },
+    {
+      "id": 6,
+      "title": "tov / en condición, funcionando como corresponde",
+      "body": "Eje apto/en condición, no moral binario. Decisión declarada (ver ficha del árbol del conocimiento), no hallazgo neutral.",
+      "evidence": [],
+      "hebrew": "טוֹב",
+      "teaser": "¿Bueno o apto para funcionar?"
+    },
+    {
+      "id": 7,
+      "title": "erev/boker / tarde-y-mañana",
+      "body": "Merismo: nombrar los dos extremos para decir \"el ciclo completo\".",
+      "evidence": [],
+      "hebrew": "עֶרֶב · בֹּקֶר",
+      "teaser": ""
+    },
+    {
+      "id": 8,
+      "title": "yom echad / día uno",
+      "body": "Cardinal, no ordinal — los días 2-6 sí usan ordinales. Asimetría real. E1.",
+      "evidence": [
+        "E1"
+      ],
+      "hebrew": "יוֹם אֶחָד",
+      "teaser": ""
+    },
+    {
+      "id": 9,
+      "title": "rakia / forjado",
+      "body": "Raíz raqa, \"batir/martillar hasta extender\" — el mismo verbo que describe a un orfebre batiendo oro hasta hacer lámina. E1. No es domo vacío: es material trabajado a golpes.",
+      "evidence": [
+        "E1"
+      ],
+      "hebrew": "רָקִיעַ",
+      "teaser": "Un cielo trabajado a golpes."
+    },
+    {
+      "id": 10,
+      "title": "yammim / Mares",
+      "body": "Plural, mismo patrón que Elohim/shamayim.",
+      "evidence": [],
+      "hebrew": "יַמִּים",
+      "teaser": ""
+    },
+    {
+      "id": 11,
+      "title": "le-mino / según su especie",
+      "body": "Raíz min, casi taxonómica — el texto marca límites de categoría con insistencia. E1.",
+      "evidence": [
+        "E1"
+      ],
+      "hebrew": "לְמִינוֹ",
+      "teaser": ""
+    },
+    {
+      "id": 12,
+      "title": "meorot / lumbreras",
+      "body": "NO es la misma palabra que or (luz, v.3) — misma raíz, forma distinta. La luz del día 1 no se identifica léxicamente con los astros del día 4. E1.",
+      "evidence": [
+        "E1"
+      ],
+      "hebrew": "מְאֹרֹת",
+      "teaser": ""
+    },
+    {
+      "id": 13,
+      "title": "moadim / tiempos-señalados",
+      "body": "Misma palabra usada luego para las fiestas religiosas de Israel — no es solo calendario agrícola. E1/E2.",
+      "evidence": [
+        "E1",
+        "E2"
+      ],
+      "hebrew": "מוֹעֲדִים",
+      "teaser": ""
+    },
+    {
+      "id": 14,
+      "title": "nephesh chayah / aliento-viviente",
+      "body": "Primera aparición: se aplica a los animales del agua y del aire antes que al humano. En 2:7 se usa la misma expresión exacta para el adam — no hay categoría gramatical exclusiva. E1, dato fuerte.",
+      "evidence": [
+        "E1"
+      ],
+      "hebrew": "נֶפֶשׁ חַיָּה",
+      "teaser": "La misma expresión para animales y humano."
+    },
+    {
+      "id": 15,
+      "title": "tanninim / grandes monstruos marinos",
+      "body": "Posible eco de figuras del caos marino (cf. Leviatán en otros textos), aquí sin combate, simples creaturas de Elohim. E2/E3.",
+      "evidence": [
+        "E2",
+        "E3"
+      ],
+      "hebrew": "תַּנִּינִם",
+      "teaser": ""
+    },
+    {
+      "id": 16,
+      "title": "tzelem / marca-de-presencia + demut / correspondencia",
+      "body": "Cuidado con R2: tzelem suena a tsel (\"sombra\"), pero esa relación no está documentada — sería el error de sonido-como-parentesco que el método prohíbe. El paralelo real es con el acadio tsalmu, \"estatua\" — usada para representar la presencia y autoridad de un rey donde él mismo no podía estar. E1/E2: \"imagen\" leería como \"presencia delegada\", no parecido visual.",
+      "evidence": [
+        "E1",
+        "E2"
+      ],
+      "hebrew": "צֶלֶם · דְּמוּת",
+      "teaser": "Imagen como presencia delegada."
+    },
+    {
+      "id": 17,
+      "title": "radah / huelle con potestad + kabash / someted con fuerza",
+      "body": "Las dos raíces comparten la misma imagen física de base: \"pisar/hollar bajo el pie\" (tread down) — de ahí pasan a \"subyugar, dominar\". No es lenguaje de cuidado suave: es la imagen de aplastar bajo el pie, aplicada dos veces seguidas, primero a la tierra y luego a los animales. E1, dato incómodo pero real.",
+      "evidence": [
+        "E1"
+      ],
+      "hebrew": "רָדָה · כָּבַשׁ",
+      "teaser": ""
+    },
+    {
+      "id": 18,
+      "title": "tov meod / condición óptima",
+      "body": "Séptima y última vez que aparece tov en el capítulo, ahora intensificado — cierre de un patrón de siete repeticiones. E1.",
+      "evidence": [
+        "E1"
+      ],
+      "hebrew": "טוֹב מְאֹד",
+      "teaser": ""
+    },
+    {
+      "id": 19,
+      "title": "shabat / cesó",
+      "body": "Significa \"cesar/detenerse\", no \"descansar\" en sentido de ocio. E1. Cuidado con R2: \"siete\" (sheva, שבע) y \"cesar/sábado\" (shabat, שבת) suenan parecidos transliterados pero son raíces distintas — no emparentadas.",
+      "evidence": [
+        "E1"
+      ],
+      "hebrew": "שָׁבַת",
+      "teaser": ""
+    },
+    {
+      "id": 20,
+      "title": "toledot / generaciones",
+      "body": "Raíz yalad, \"parir/engendrar\" — fórmula que organiza todo el libro de Génesis en diez secciones. E1.",
+      "evidence": [
+        "E1"
+      ],
+      "hebrew": "תּוֹלְדֹת",
+      "teaser": ""
+    },
+    {
+      "id": 21,
+      "title": "YHWH Elohim",
+      "body": "Primera vez que aparece el nombre compuesto — en Génesis 1 solo se usaba \"Elohim\". Dato textual real, con implicancias de crítica de fuentes. E1.",
+      "evidence": [
+        "E1"
+      ],
+      "hebrew": "יְהוָה אֱלֹהִים",
+      "teaser": ""
+    },
+    {
+      "id": 22,
+      "title": "adam / adamah",
+      "body": "Juego de palabras explícito del propio texto: \"no había adam para trabajar la adamah\" — el humano-de-tierra, hecho de la tierra misma. E1.",
+      "evidence": [
+        "E1"
+      ],
+      "hebrew": "אָדָם · אֲדָמָה",
+      "teaser": "El humano que lleva la tierra en el nombre."
+    },
+    {
+      "id": 23,
+      "title": "ed / neblina-manantial",
+      "body": "Traducción disputada entre \"neblina que sube\" y \"manantial/corriente subterránea\". E2/E3.",
+      "evidence": [
+        "E2",
+        "E3"
+      ],
+      "hebrew": "אֵד",
+      "teaser": ""
+    },
+    {
+      "id": 24,
+      "title": "yatsar / formó",
+      "body": "Tercer verbo de creación junto a bara y asah — el que implica modelar con materiales, como un alfarero. Para el humano se usa este verbo, no bara. E1.",
+      "evidence": [
+        "E1"
+      ],
+      "hebrew": "יָצַר",
+      "teaser": ""
+    },
+    {
+      "id": 25,
+      "title": "nishmat chayim / aliento de vidas",
+      "body": "Distinto de ruach (nota 5) y de nephesh — tres palabras del campo \"aliento/vida\" que conviene no aplanar en una sola traducción. E1.",
+      "evidence": [
+        "E1"
+      ],
+      "hebrew": "נִשְׁמַת חַיִּים",
+      "teaser": ""
+    },
+    {
+      "id": 26,
+      "title": "nephesh chayah aplicado al adam",
+      "body": "Ver nota 14 — misma expresión exacta que los animales.",
+      "evidence": [],
+      "hebrew": "נֶפֶשׁ חַיָּה",
+      "teaser": ""
+    },
+    {
+      "id": 27,
+      "title": "Edén",
+      "body": "Etimología disputada: raíz hebrea de \"delicia\" o cognado del acadio edinu (\"estepa\"). E2/E3.",
+      "evidence": [
+        "E2",
+        "E3"
+      ],
+      "hebrew": "עֵדֶן",
+      "teaser": ""
+    },
+    {
+      "id": 28,
+      "title": "árbol del conocimiento de lo apto y lo no-apto",
+      "body": "Ver ficha ya trabajada: eje de aptitud/función, no moral binaria; comer sería absolutizar el juicio binario como si fuera la totalidad de lo real (D1, lectura propia).",
+      "evidence": [
+        "D1"
+      ],
+      "hebrew": "טוֹב וָרָע",
+      "teaser": "Apto y no-apto, antes que bien y mal."
+    },
+    {
+      "id": 29,
+      "title": "avodah / sirviera + shamar / guardara",
+      "body": "El mismo par de verbos se usa después para el servicio de los levitas en el santuario. E1/E2: rol descrito con vocabulario de servicio sacerdotal, no agricultura simple.",
+      "evidence": [
+        "E1",
+        "E2"
+      ],
+      "hebrew": "עָבַד · שָׁמַר",
+      "teaser": ""
+    },
+    {
+      "id": 30,
+      "title": "ezer / fuerza-de-rescate + kenegdo / a-su-lado",
+      "body": "Ezer se usa 21 veces en la Biblia hebrea; en 16 describe a Dios ayudando a Israel — nunca connota subordinación, sí intervención activa (contextos militares en Salmos). Kenegdo indica paridad, no jerarquía. E1: \"ayuda idónea\" traiciona la carga real de las palabras.",
+      "evidence": [
+        "E1"
+      ],
+      "hebrew": "עֵזֶר כְּנֶגְדּוֹ",
+      "teaser": "Rescate y paridad, no subordinación."
+    },
+    {
+      "id": 31,
+      "title": "tardemah / sueño-de-trance",
+      "body": "Usada en otros textos para estados de trance profundo, a veces ligados a experiencia reveladora. E1/E2.",
+      "evidence": [
+        "E1",
+        "E2"
+      ],
+      "hebrew": "תַּרְדֵּמָה",
+      "teaser": ""
+    },
+    {
+      "id": 32,
+      "title": "tzela / lado",
+      "body": "En las otras 31 apariciones de esta palabra en la Biblia hebrea (arca, tabernáculo, templo) significa siempre \"lado/costado\" de una estructura — nunca \"costilla\". Es la ÚNICA vez que se traduce así en toda la Biblia. E1, dato fuerte y verificable por concordancia.",
+      "evidence": [
+        "E1"
+      ],
+      "hebrew": "צֵלָע",
+      "teaser": "Treinta y una veces “lado”; aquí, “costilla”."
+    },
+    {
+      "id": 33,
+      "title": "ishah / ish",
+      "body": "Juego de palabras explícito del propio texto — la mujer se llama ishah porque fue tomada de ish —, mismo tipo de pareja fonética que adam/adamah. E1.",
+      "evidence": [
+        "E1"
+      ],
+      "hebrew": "אִשָּׁה · אִישׁ",
+      "teaser": ""
+    },
+    {
+      "id": 34,
+      "title": "davak / se aferrará",
+      "body": "Verbo de adhesión física fuerte, no \"acompañarse\" suave.",
+      "evidence": [],
+      "hebrew": "דָּבַק",
+      "teaser": ""
+    },
+    {
+      "id": 35,
+      "title": "arumim / desnudos",
+      "body": "Suena casi idéntico a arum (\"astuto\"), la palabra que describe a la serpiente en 3:1. Juego fonético reconocido en la crítica literaria (paronomasia deliberada entre el final del cap. 2 y el inicio del cap. 3) — pero es recurso retórico del narrador, no parentesco etimológico entre las raíces. E1 como dato literario; D2 si alguien lo leyera como parentesco de raíz.",
+      "evidence": [
+        "E1",
+        "D2"
+      ],
+      "hebrew": "עֲרוּמִּים",
+      "teaser": "Un puente sonoro hacia la serpiente."
+    }
+  ],
+  "meta": {
+    "source": "OSHB v2.2 / Códice de Leningrado",
+    "license": "CC BY 4.0",
+    "method": "DIMA"
+  }
+}
