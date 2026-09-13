@@ -14,7 +14,7 @@ function bind(){
   $$('[data-layer]').forEach(b=>b.onclick=()=>{state.layer=b.dataset.layer;$$('[data-layer]').forEach(x=>x.classList.toggle('active',x===b));render()});
   $$('[data-view]').forEach(b=>b.onclick=()=>showView(b.dataset.view));
   $('#closeDialog').onclick=()=>$('#decodeDialog').close();$('#closeVerseDialog').onclick=()=>$('#verseDialog').close(); $('#searchBtn').onclick=()=>{$('#searchDialog').showModal();$('#searchInput').focus()};
-  $('#langBtn').onclick=()=>setLanguage(state.lang==='es'?'en':'es');$$('[data-set-lang]').forEach(b=>b.onclick=()=>setLanguage(b.dataset.setLang));$('#startApp').onclick=()=>{localStorage.setItem('dtb:onboarded','1');$('#onboarding').hidden=true;showView('library')};
+  $('#langBtn').onclick=()=>setLanguage(state.lang==='es'?'en':'es');$$('[data-set-lang]').forEach(b=>b.onclick=()=>setLanguage(b.dataset.setLang));$('#startApp').onclick=()=>{localStorage.setItem('dtb:onboarded','1');$('#onboarding').hidden=true;showView('home')};
   $('#searchInput').oninput=e=>search(e.target.value);
   $('#continueReading').onclick=()=>showView('reader');
   $('#enterBookOne').onclick=()=>showView('reader');
