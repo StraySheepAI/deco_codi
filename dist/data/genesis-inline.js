@@ -3586,1039 +3586,469 @@ window.GENESIS_DATA={
     ],
     "38": [
       {
-        "number": "1",
-        "hebrew": "וַֽיְהִי֙ בָּעֵ֣ת הַהִ֔וא וַיֵּ֥רֶד יְהוּדָ֖ה מֵאֵ֣ת אֶחָ֑יו וַיֵּ֛ט עַד־ אִ֥ישׁ עֲדֻלָּמִ֖י וּשְׁמ֥וֹ חִירָֽה׃",
-        "text": null
+        "number": "1-2",
+        "hebrew": "וַֽיְהִי֙ בָּעֵ֣ת הַהִ֔וא וַיֵּ֥רֶד יְהוּדָ֖ה מֵאֵ֣ת אֶחָ֑יו וַיֵּ֛ט עַד־ אִ֥ישׁ עֲדֻלָּמִ֖י וּשְׁמ֥וֹ חִירָֽה׃ וַיַּרְא־ שָׁ֧ם יְהוּדָ֛ה בַּת־ אִ֥ישׁ כְּנַעֲנִ֖י וּשְׁמ֣וֹ שׁ֑וּעַ וַיִּקָּחֶ֖הָ וַיָּבֹ֥א אֵלֶֽיהָ׃",
+        "text": "Aconteció en aquel tiempo que Judá se apartó de sus hermanos, y se fue a un varón adulamita que se llamaba Jirá. Y vio allí Judá a la hija de un varón cananeo que se llamaba Súa, y la tomó, y se llegó a ella."
       },
       {
-        "number": "2",
-        "hebrew": "וַיַּרְא־ שָׁ֧ם יְהוּדָ֛ה בַּת־ אִ֥ישׁ כְּנַעֲנִ֖י וּשְׁמ֣וֹ שׁ֑וּעַ וַיִּקָּחֶ֖הָ וַיָּבֹ֥א אֵלֶֽיהָ׃",
-        "text": null
+        "number": "3-5",
+        "hebrew": "וַתַּ֖הַר וַתֵּ֣לֶד בֵּ֑ן וַיִּקְרָ֥א אֶת־ שְׁמ֖וֹ עֵֽר׃ וַתַּ֥הַר ע֖וֹד וַתֵּ֣לֶד בֵּ֑ן וַתִּקְרָ֥א אֶת־ שְׁמ֖וֹ אוֹנָֽן׃ וַתֹּ֤סֶף עוֹד֙ וַתֵּ֣לֶד בֵּ֔ן וַתִּקְרָ֥א אֶת־ שְׁמ֖וֹ שֵׁלָ֑ה וְהָיָ֥ה בִכְזִ֖יב בְּלִדְתָּ֥הּ אֹתֽוֹ׃",
+        "text": "Y ella concibió, y dio a luz un hijo, y llamó su nombre Er. Y concibió otra vez, y dio a luz un hijo, y llamó su nombre Onán. Y volvió a concebir, y dio a luz un hijo, y llamó su nombre Selá; y estaba Judá en Quezib cuando ella lo dio a luz."
       },
       {
-        "number": "3",
-        "hebrew": "וַתַּ֖הַר וַתֵּ֣לֶד בֵּ֑ן וַיִּקְרָ֥א אֶת־ שְׁמ֖וֹ עֵֽר׃",
-        "text": null
+        "number": "6-7",
+        "hebrew": "וַיִּקַּ֧ח יְהוּדָ֛ה אִשָּׁ֖ה לְעֵ֣ר בְּכוֹר֑וֹ וּשְׁמָ֖הּ תָּמָֽר׃ וַיְהִ֗י עֵ֚ר בְּכ֣וֹר יְהוּדָ֔ה רַ֖ע בְּעֵינֵ֣י יְהוָ֑ה וַיְמִתֵ֖הוּ יְהוָֽה׃",
+        "text": "Y Judá tomó ishah para Er su primogénito, la cual se llamaba Tamar. Y Er, primogénito de Judá, fue malo a los ojos de YHWH, y le quitó la vida YHWH."
       },
       {
-        "number": "4",
-        "hebrew": "וַתַּ֥הַר ע֖וֹד וַתֵּ֣לֶד בֵּ֑ן וַתִּקְרָ֥א אֶת־ שְׁמ֖וֹ אוֹנָֽן׃",
-        "text": null
+        "number": "8-10",
+        "hebrew": "וַיֹּ֤אמֶר יְהוּדָה֙ לְאוֹנָ֔ן בֹּ֛א אֶל־ אֵ֥שֶׁת אָחִ֖יךָ וְיַבֵּ֣ם אֹתָ֑הּ וְהָקֵ֥ם זֶ֖רַע לְאָחִֽיךָ׃ וַיֵּ֣דַע אוֹנָ֔ן כִּ֛י לֹּ֥א ל֖וֹ יִהְיֶ֣ה הַזָּ֑רַע וְהָיָ֞ה אִם־ בָּ֨א אֶל־ אֵ֤שֶׁת אָחִיו֙ וְשִׁחֵ֣ת אַ֔רְצָה לְבִלְתִּ֥י נְתָן־ זֶ֖רַע לְאָחִֽיו׃ וַיֵּ֛רַע בְּעֵינֵ֥י יְהוָ֖ה אֲשֶׁ֣ר עָשָׂ֑ה וַיָּ֖מֶת גַּם־ אֹתֽוֹ׃",
+        "text": "Entonces Judá dijo a Onán: entra a la ishah de tu hermano, y cumple con ella el deber de cuñado¹⁸¹, y levanta descendencia a tu hermano. Y sabiendo Onán que la descendencia no sería suya, sucedía que cuando entraba a la ishah de su hermano, derramaba en tierra, para no dar descendencia a su hermano. Y desagradó a los ojos de YHWH lo que hacía, y también a él le quitó la vida."
       },
       {
-        "number": "5",
-        "hebrew": "וַתֹּ֤סֶף עוֹד֙ וַתֵּ֣לֶד בֵּ֔ן וַתִּקְרָ֥א אֶת־ שְׁמ֖וֹ שֵׁלָ֑ה וְהָיָ֥ה בִכְזִ֖יב בְּלִדְתָּ֥הּ אֹתֽוֹ׃",
-        "text": null
-      },
-      {
-        "number": "6",
-        "hebrew": "וַיִּקַּ֧ח יְהוּדָ֛ה אִשָּׁ֖ה לְעֵ֣ר בְּכוֹר֑וֹ וּשְׁמָ֖הּ תָּמָֽר׃",
-        "text": null
-      },
-      {
-        "number": "7",
-        "hebrew": "וַיְהִ֗י עֵ֚ר בְּכ֣וֹר יְהוּדָ֔ה רַ֖ע בְּעֵינֵ֣י יְהוָ֑ה וַיְמִתֵ֖הוּ יְהוָֽה׃",
-        "text": null
-      },
-      {
-        "number": "8",
-        "hebrew": "וַיֹּ֤אמֶר יְהוּדָה֙ לְאוֹנָ֔ן בֹּ֛א אֶל־ אֵ֥שֶׁת אָחִ֖יךָ וְיַבֵּ֣ם אֹתָ֑הּ וְהָקֵ֥ם זֶ֖רַע לְאָחִֽיךָ׃",
-        "text": null
-      },
-      {
-        "number": "9",
-        "hebrew": "וַיֵּ֣דַע אוֹנָ֔ן כִּ֛י לֹּ֥א ל֖וֹ יִהְיֶ֣ה הַזָּ֑רַע וְהָיָ֞ה אִם־ בָּ֨א אֶל־ אֵ֤שֶׁת אָחִיו֙ וְשִׁחֵ֣ת אַ֔רְצָה לְבִלְתִּ֥י נְתָן־ זֶ֖רַע לְאָחִֽיו׃",
-        "text": null
-      },
-      {
-        "number": "10",
-        "hebrew": "וַיֵּ֛רַע בְּעֵינֵ֥י יְהוָ֖ה אֲשֶׁ֣ר עָשָׂ֑ה וַיָּ֖מֶת גַּם־ אֹתֽוֹ׃",
-        "text": null
-      },
-      {
-        "number": "11",
-        "hebrew": "וַיֹּ֣אמֶר יְהוּדָה֩ לְתָמָ֨ר כַּלָּת֜וֹ שְׁבִ֧י אַלְמָנָ֣ה בֵית־ אָבִ֗יךְ עַד־ יִגְדַּל֙ שֵׁלָ֣ה בְנִ֔י כִּ֣י אָמַ֔ר פֶּן־ יָמ֥וּת גַּם־ ה֖וּא כְּאֶחָ֑יו וַתֵּ֣לֶךְ תָּמָ֔ר וַתֵּ֖שֶׁב בֵּ֥ית אָבִֽיהָ׃",
-        "text": null
-      },
-      {
-        "number": "12",
-        "hebrew": "וַיִּרְבּוּ֙ הַיָּמִ֔ים וַתָּ֖מָת בַּת־ שׁ֣וּעַ אֵֽשֶׁת־ יְהוּדָ֑ה וַיִּנָּ֣חֶם יְהוּדָ֗ה וַיַּ֜עַל עַל־ גֹּֽזֲזֵ֤י צֹאנוֹ֙ ה֗וּא וְחִירָ֛ה רֵעֵ֥הוּ הָעֲדֻלָּמִ֖י תִּמְנָֽתָה׃",
-        "text": null
-      },
-      {
-        "number": "13",
-        "hebrew": "וַיֻּגַּ֥ד לְתָמָ֖ר לֵאמֹ֑ר הִנֵּ֥ה חָמִ֛יךְ עֹלֶ֥ה תִמְנָ֖תָה לָגֹ֥ז צֹאנֽוֹ׃",
-        "text": null
+        "number": "11-13",
+        "hebrew": "וַיֹּ֣אמֶר יְהוּדָה֩ לְתָמָ֨ר כַּלָּת֜וֹ שְׁבִ֧י אַלְמָנָ֣ה בֵית־ אָבִ֗יךְ עַד־ יִגְדַּל֙ שֵׁלָ֣ה בְנִ֔י כִּ֣י אָמַ֔ר פֶּן־ יָמ֥וּת גַּם־ ה֖וּא כְּאֶחָ֑יו וַתֵּ֣לֶךְ תָּמָ֔ר וַתֵּ֖שֶׁב בֵּ֥ית אָבִֽיהָ׃ וַיִּרְבּוּ֙ הַיָּמִ֔ים וַתָּ֖מָת בַּת־ שׁ֣וּעַ אֵֽשֶׁת־ יְהוּדָ֑ה וַיִּנָּ֣חֶם יְהוּדָ֗ה וַיַּ֜עַל עַל־ גֹּֽזֲזֵ֤י צֹאנוֹ֙ ה֗וּא וְחִירָ֛ה רֵעֵ֥הוּ הָעֲדֻלָּמִ֖י תִּמְנָֽתָה׃ וַיֻּגַּ֥ד לְתָמָ֖ר לֵאמֹ֑ר הִנֵּ֥ה חָמִ֛יךְ עֹלֶ֥ה תִמְנָ֖תָה לָגֹ֥ז צֹאנֽוֹ׃",
+        "text": "Y Judá dijo a Tamar su nuera: quédate viuda en casa de tu padre hasta que crezca Selá mi hijo; porque dijo: no sea que muera él también como sus hermanos. Y se fue Tamar, y estuvo en casa de su padre. Y pasaron muchos días, y murió la hija de Súa, ishah de Judá; y Judá, consolado ya, subió a los trasquiladores de sus ovejas a Timnat, él y su amigo Jirá el adulamita. Y fue dado aviso a Tamar: he aquí tu suegro sube a Timnat a trasquilar sus ovejas."
       },
       {
         "number": "14",
         "hebrew": "וַתָּסַר֩ בִּגְדֵ֨י אַלְמְנוּתָ֜הּ מֵֽעָלֶ֗יהָ וַתְּכַ֤ס בַּצָּעִיף֙ וַתִּתְעַלָּ֔ף וַתֵּ֨שֶׁב֙ בְּפֶ֣תַח עֵינַ֔יִם אֲשֶׁ֖ר עַל־ דֶּ֣רֶךְ תִּמְנָ֑תָה כִּ֤י רָאֲתָה֙ כִּֽי־ גָדַ֣ל שֵׁלָ֔ה וְהִ֕וא לֹֽא־ נִתְּנָ֥ה ל֖וֹ לְאִשָּֽׁה׃",
-        "text": null
+        "text": "Entonces ella se quitó los vestidos de su viudez, y se cubrió con un velo, y se arrebozó, y se sentó a la entrada de Enáyim¹⁸², que está junto al camino de Timnat; porque veía que había crecido Selá, y ella no le había sido dada por ishah."
       },
       {
-        "number": "15",
-        "hebrew": "וַיִּרְאֶ֣הָ יְהוּדָ֔ה וַֽיַּחְשְׁבֶ֖הָ לְזוֹנָ֑ה כִּ֥י כִסְּתָ֖ה פָּנֶֽיהָ׃",
-        "text": null
+        "number": "15-16",
+        "hebrew": "וַיִּרְאֶ֣הָ יְהוּדָ֔ה וַֽיַּחְשְׁבֶ֖הָ לְזוֹנָ֑ה כִּ֥י כִסְּתָ֖ה פָּנֶֽיהָ׃ וַיֵּ֨ט אֵלֶ֜יהָ אֶל־ הַדֶּ֗רֶךְ וַיֹּ֨אמֶר֙ הָֽבָה־ נָּא֙ אָב֣וֹא אֵלַ֔יִךְ כִּ֚י לֹ֣א יָדַ֔ע כִּ֥י כַלָּת֖וֹ הִ֑וא וַתֹּ֨אמֶר֙ מַה־ תִּתֶּן־ לִּ֔י כִּ֥י תָב֖וֹא אֵלָֽי׃",
+        "text": "Y la vio Judá, y la tuvo por una prostituta¹⁸³, porque había cubierto su rostro. Y se apartó del camino hacia ella, y le dijo: te ruego que me dejes llegar a ti; pues no sabía que era su nuera. Y ella dijo: ¿qué me darás por llegar a mí?"
       },
       {
-        "number": "16",
-        "hebrew": "וַיֵּ֨ט אֵלֶ֜יהָ אֶל־ הַדֶּ֗רֶךְ וַיֹּ֨אמֶר֙ הָֽבָה־ נָּא֙ אָב֣וֹא אֵלַ֔יִךְ כִּ֚י לֹ֣א יָדַ֔ע כִּ֥י כַלָּת֖וֹ הִ֑וא וַתֹּ֨אמֶר֙ מַה־ תִּתֶּן־ לִּ֔י כִּ֥י תָב֖וֹא אֵלָֽי׃",
-        "text": null
+        "number": "17-18",
+        "hebrew": "וַיֹּ֕אמֶר אָנֹכִ֛י אֲשַׁלַּ֥ח גְּדִֽי־ עִזִּ֖ים מִן־ הַצֹּ֑אן וַתֹּ֕אמֶר אִם־ תִּתֵּ֥ן עֵרָב֖וֹן עַ֥ד שָׁלְחֶֽךָ׃ וַיֹּ֗אמֶר מָ֣ה הָֽעֵרָבוֹן֮ אֲשֶׁ֣ר אֶתֶּן־ לָּךְ֒ וַתֹּ֗אמֶר חֹתָֽמְךָ֙ וּפְתִילֶ֔ךָ וּמַטְּךָ֖ אֲשֶׁ֣ר בְּיָדֶ֑ךָ וַיִּתֶּן־ לָּ֛הּ וַיָּבֹ֥א אֵלֶ֖יהָ וַתַּ֥הַר לֽוֹ׃",
+        "text": "Y él respondió: yo te enviaré un cabrito de las cabras. Y ella dijo: ¿me darás prenda hasta que lo envíes? Entonces él dijo: ¿qué prenda te daré? Y ella respondió: tu sello, tu cordón, y tu bastón que tienes en tu mano. Y él se los dio, y se llegó a ella, y ella concibió de él."
       },
       {
-        "number": "17",
-        "hebrew": "וַיֹּ֕אמֶר אָנֹכִ֛י אֲשַׁלַּ֥ח גְּדִֽי־ עִזִּ֖ים מִן־ הַצֹּ֑אן וַתֹּ֕אמֶר אִם־ תִּתֵּ֥ן עֵרָב֖וֹן עַ֥ד שָׁלְחֶֽךָ׃",
-        "text": null
+        "number": "19-20",
+        "hebrew": "וַתָּ֣קָם וַתֵּ֔לֶךְ וַתָּ֥סַר צְעִיפָ֖הּ מֵעָלֶ֑יהָ וַתִּלְבַּ֖שׁ בִּגְדֵ֥י אַלְמְנוּתָֽהּ׃ וַיִּשְׁלַ֨ח יְהוּדָ֜ה אֶת־ גְּדִ֣י הָֽעִזִּ֗ים בְּיַד֙ רֵעֵ֣הוּ הָֽעֲדֻלָּמִ֔י לָקַ֥חַת הָעֵרָב֖וֹן מִיַּ֣ד הָאִשָּׁ֑ה וְלֹ֖א מְצָאָֽהּ׃",
+        "text": "Y se levantó y se fue, y se quitó el velo, y se vistió las ropas de su viudez. Y Judá envió el cabrito por mano de su amigo el adulamita, para recibir la prenda de mano de la mujer; pero no la halló."
       },
       {
-        "number": "18",
-        "hebrew": "וַיֹּ֗אמֶר מָ֣ה הָֽעֵרָבוֹן֮ אֲשֶׁ֣ר אֶתֶּן־ לָּךְ֒ וַתֹּ֗אמֶר חֹתָֽמְךָ֙ וּפְתִילֶ֔ךָ וּמַטְּךָ֖ אֲשֶׁ֣ר בְּיָדֶ֑ךָ וַיִּתֶּן־ לָּ֛הּ וַיָּבֹ֥א אֵלֶ֖יהָ וַתַּ֥הַר לֽוֹ׃",
-        "text": null
-      },
-      {
-        "number": "19",
-        "hebrew": "וַתָּ֣קָם וַתֵּ֔לֶךְ וַתָּ֥סַר צְעִיפָ֖הּ מֵעָלֶ֑יהָ וַתִּלְבַּ֖שׁ בִּגְדֵ֥י אַלְמְנוּתָֽהּ׃",
-        "text": null
-      },
-      {
-        "number": "20",
-        "hebrew": "וַיִּשְׁלַ֨ח יְהוּדָ֜ה אֶת־ גְּדִ֣י הָֽעִזִּ֗ים בְּיַד֙ רֵעֵ֣הוּ הָֽעֲדֻלָּמִ֔י לָקַ֥חַת הָעֵרָב֖וֹן מִיַּ֣ד הָאִשָּׁ֑ה וְלֹ֖א מְצָאָֽהּ׃",
-        "text": null
-      },
-      {
-        "number": "21",
-        "hebrew": "וַיִּשְׁאַ֞ל אֶת־ אַנְשֵׁ֤י מְקֹמָהּ֙ לֵאמֹ֔ר אַיֵּ֧ה הַקְּדֵשָׁ֛ה הִ֥וא בָעֵינַ֖יִם עַל־ הַדָּ֑רֶךְ וַיֹּ֣אמְר֔וּ לֹא־ הָיְתָ֥ה בָזֶ֖ה קְדֵשָֽׁה׃",
-        "text": null
-      },
-      {
-        "number": "22",
-        "hebrew": "וַיָּ֨שָׁב֙ אֶל־ יְהוּדָ֔ה וַיֹּ֖אמֶר לֹ֣א מְצָאתִ֑יהָ וְגַ֨ם אַנְשֵׁ֤י הַמָּקוֹם֙ אָֽמְר֔וּ לֹא־ הָיְתָ֥ה בָזֶ֖ה קְדֵשָֽׁה׃",
-        "text": null
-      },
-      {
-        "number": "23",
-        "hebrew": "וַיֹּ֤אמֶר יְהוּדָה֙ תִּֽקַּֽח־ לָ֔הּ פֶּ֖ן נִהְיֶ֣ה לָב֑וּז הִנֵּ֤ה שָׁלַ֨חְתִּי֙ הַגְּדִ֣י הַזֶּ֔ה וְאַתָּ֖ה לֹ֥א מְצָאתָֽהּ׃",
-        "text": null
+        "number": "21-23",
+        "hebrew": "וַיִּשְׁאַ֞ל אֶת־ אַנְשֵׁ֤י מְקֹמָהּ֙ לֵאמֹ֔ר אַיֵּ֧ה הַקְּדֵשָׁ֛ה הִ֥וא בָעֵינַ֖יִם עַל־ הַדָּ֑רֶךְ וַיֹּ֣אמְר֔וּ לֹא־ הָיְתָ֥ה בָזֶ֖ה קְדֵשָֽׁה׃ וַיָּ֨שָׁב֙ אֶל־ יְהוּדָ֔ה וַיֹּ֖אמֶר לֹ֣א מְצָאתִ֑יהָ וְגַ֨ם אַנְשֵׁ֤י הַמָּקוֹם֙ אָֽמְר֔וּ לֹא־ הָיְתָ֥ה בָזֶ֖ה קְדֵשָֽׁה׃ וַיֹּ֤אמֶר יְהוּדָה֙ תִּֽקַּֽח־ לָ֔הּ פֶּ֖ן נִהְיֶ֣ה לָב֑וּז הִנֵּ֤ה שָׁלַ֨חְתִּי֙ הַגְּדִ֣י הַזֶּ֔ה וְאַתָּ֖ה לֹ֥א מְצָאתָֽהּ׃",
+        "text": "Y preguntó a los hombres de aquel lugar: ¿dónde está la ramera consagrada¹⁸³ que estaba en Enáyim junto al camino? Y ellos le dijeron: no ha estado aquí ramera consagrada. Entonces él volvió a Judá, y dijo: no la hallé; y también los hombres del lugar dijeron: no ha estado aquí ramera consagrada. Y Judá dijo: tómeselo para sí, para que no seamos objeto de burla; he aquí yo he enviado este cabrito, y tú no la hallaste."
       },
       {
         "number": "24",
         "hebrew": "וַיְהִ֣י ׀ כְּמִשְׁלֹ֣שׁ חֳדָשִׁ֗ים וַיֻּגַּ֨ד לִֽיהוּדָ֤ה לֵֽאמֹר֙ זָֽנְתָה֙ תָּמָ֣ר כַּלָּתֶ֔ךָ וְגַ֛ם הִנֵּ֥ה הָרָ֖ה לִזְנוּנִ֑ים וַיֹּ֣אמֶר יְהוּדָ֔ה הוֹצִיא֖וּהָ וְתִשָּׂרֵֽף׃",
-        "text": null
+        "text": "Y sucedió que al cabo de unos tres meses, fue dado aviso a Judá: Tamar tu nuera ha fornicado, y además está encinta a causa de las fornicaciones. Y Judá dijo: sacadla, y sea quemada."
       },
       {
-        "number": "25",
-        "hebrew": "הִ֣וא מוּצֵ֗את וְהִ֨יא שָׁלְחָ֤ה אֶל־ חָמִ֨יהָ֙ לֵאמֹ֔ר לְאִישׁ֙ אֲשֶׁר־ אֵ֣לֶּה לּ֔וֹ אָנֹכִ֖י הָרָ֑ה וַתֹּ֨אמֶר֙ הַכֶּר־ נָ֔א לְמִ֞י הַחֹתֶ֧מֶת וְהַפְּתִילִ֛ים וְהַמַּטֶּ֖ה הָאֵֽלֶּה׃",
-        "text": null
+        "number": "25-26",
+        "hebrew": "הִ֣וא מוּצֵ֗את וְהִ֨יא שָׁלְחָ֤ה אֶל־ חָמִ֨יהָ֙ לֵאמֹ֔ר לְאִישׁ֙ אֲשֶׁר־ אֵ֣לֶּה לּ֔וֹ אָנֹכִ֖י הָרָ֑ה וַתֹּ֨אמֶר֙ הַכֶּר־ נָ֔א לְמִ֞י הַחֹתֶ֧מֶת וְהַפְּתִילִ֛ים וְהַמַּטֶּ֖ה הָאֵֽלֶּה׃ וַיַּכֵּ֣ר יְהוּדָ֗ה וַיֹּ֨אמֶר֙ צָֽדְקָ֣ה מִמֶּ֔נִּי כִּֽי־ עַל־ כֵּ֥ן לֹא־ נְתַתִּ֖יהָ לְשֵׁלָ֣ה בְנִ֑י וְלֹֽא־ יָסַ֥ף ע֖וֹד לְדַעְתָּֽה׃",
+        "text": "Cuando la sacaban, ella envió a decir a su suegro: del varón cuyas son estas cosas, estoy encinta. Y dijo: reconoce ahora de quién son este sello, este cordón y este bastón. Y Judá los reconoció, y dijo: más justa es ella que yo¹⁸⁴, por cuanto no la di a Selá mi hijo. Y nunca más la conoció."
       },
       {
-        "number": "26",
-        "hebrew": "וַיַּכֵּ֣ר יְהוּדָ֗ה וַיֹּ֨אמֶר֙ צָֽדְקָ֣ה מִמֶּ֔נִּי כִּֽי־ עַל־ כֵּ֥ן לֹא־ נְתַתִּ֖יהָ לְשֵׁלָ֣ה בְנִ֑י וְלֹֽא־ יָסַ֥ף ע֖וֹד לְדַעְתָּֽה׃",
-        "text": null
+        "number": "27-28",
+        "hebrew": "וַיְהִ֖י בְּעֵ֣ת לִדְתָּ֑הּ וְהִנֵּ֥ה תְאוֹמִ֖ים בְּבִטְנָֽהּ׃ וַיְהִ֥י בְלִדְתָּ֖הּ וַיִּתֶּן־ יָ֑ד וַתִּקַּ֣ח הַמְיַלֶּ֗דֶת וַתִּקְשֹׁ֨ר עַל־ יָד֤וֹ שָׁנִי֙ לֵאמֹ֔ר זֶ֖ה יָצָ֥א רִאשֹׁנָֽה׃",
+        "text": "Y aconteció que al tiempo de dar a luz, había gemelos en su vientre. Y sucedió, cuando daba a luz, que uno de ellos sacó la mano, y la partera tomó y ató a su mano un hilo de grana: este salió primero."
       },
       {
-        "number": "27",
-        "hebrew": "וַיְהִ֖י בְּעֵ֣ת לִדְתָּ֑הּ וְהִנֵּ֥ה תְאוֹמִ֖ים בְּבִטְנָֽהּ׃",
-        "text": null
-      },
-      {
-        "number": "28",
-        "hebrew": "וַיְהִ֥י בְלִדְתָּ֖הּ וַיִּתֶּן־ יָ֑ד וַתִּקַּ֣ח הַמְיַלֶּ֗דֶת וַתִּקְשֹׁ֨ר עַל־ יָד֤וֹ שָׁנִי֙ לֵאמֹ֔ר זֶ֖ה יָצָ֥א רִאשֹׁנָֽה׃",
-        "text": null
-      },
-      {
-        "number": "29",
-        "hebrew": "וַיְהִ֣י ׀ כְּמֵשִׁ֣יב יָד֗וֹ וְהִנֵּה֙ יָצָ֣א אָחִ֔יו וַתֹּ֕אמֶר מַה־ פָּרַ֖צְתָּ עָלֶ֣יךָ פָּ֑רֶץ וַיִּקְרָ֥א שְׁמ֖וֹ פָּֽרֶץ׃",
-        "text": null
-      },
-      {
-        "number": "30",
-        "hebrew": "וְאַחַר֙ יָצָ֣א אָחִ֔יו אֲשֶׁ֥ר עַל־ יָד֖וֹ הַשָּׁנִ֑י וַיִּקְרָ֥א שְׁמ֖וֹ זָֽרַח׃ ס",
-        "text": null
+        "number": "29-30",
+        "hebrew": "וַיְהִ֣י ׀ כְּמֵשִׁ֣יב יָד֗וֹ וְהִנֵּה֙ יָצָ֣א אָחִ֔יו וַתֹּ֕אמֶר מַה־ פָּרַ֖צְתָּ עָלֶ֣יךָ פָּ֑רֶץ וַיִּקְרָ֥א שְׁמ֖וֹ פָּֽרֶץ׃ וְאַחַר֙ יָצָ֣א אָחִ֔יו אֲשֶׁ֥ר עַל־ יָד֖וֹ הַשָּׁנִ֑י וַיִּקְרָ֥א שְׁמ֖וֹ זָֽרַח׃ ס",
+        "text": "Pero volviendo él a meter la mano, he aquí salió su hermano; y ella dijo: ¡qué brecha te has abierto! Y llamó su nombre Péretz¹⁸⁵. Después salió su hermano, el que tenía en su mano el hilo de grana, y llamó su nombre Zéraj."
       }
     ],
     "39": [
       {
         "number": "1",
         "hebrew": "וְיוֹסֵ֖ף הוּרַ֣ד מִצְרָ֑יְמָה וַיִּקְנֵ֡הוּ פּוֹטִיפַר֩ סְרִ֨יס פַּרְעֹ֜ה שַׂ֤ר הַטַּבָּחִים֙ אִ֣ישׁ מִצְרִ֔י מִיַּד֙ הַיִּשְׁמְעֵאלִ֔ים אֲשֶׁ֥ר הוֹרִדֻ֖הוּ שָֽׁמָּה׃",
-        "text": null
+        "text": "Y José fue llevado a Egipto; y lo compró Potifar, oficial del faraón, capitán de la guardia, varón egipcio, de mano de los ismaelitas que lo habían llevado allá."
       },
       {
-        "number": "2",
-        "hebrew": "וַיְהִ֤י יְהוָה֙ אֶת־ יוֹסֵ֔ף וַיְהִ֖י אִ֣ישׁ מַצְלִ֑יחַ וַיְהִ֕י בְּבֵ֥ית אֲדֹנָ֖יו הַמִּצְרִֽי׃",
-        "text": null
+        "number": "2-3",
+        "hebrew": "וַיְהִ֤י יְהוָה֙ אֶת־ יוֹסֵ֔ף וַיְהִ֖י אִ֣ישׁ מַצְלִ֑יחַ וַיְהִ֕י בְּבֵ֥ית אֲדֹנָ֖יו הַמִּצְרִֽי׃ וַיַּ֣רְא אֲדֹנָ֔יו כִּ֥י יְהוָ֖ה אִתּ֑וֹ וְכֹל֙ אֲשֶׁר־ ה֣וּא עֹשֶׂ֔ה יְהוָ֖ה מַצְלִ֥יחַ בְּיָדֽוֹ׃",
+        "text": "Y YHWH estaba con José¹⁸⁶, y fue varón próspero; y estaba en la casa de su señor el egipcio. Y vio su señor que YHWH estaba con él, y que todo lo que él hacía, YHWH lo hacía prosperar en su mano."
       },
       {
-        "number": "3",
-        "hebrew": "וַיַּ֣רְא אֲדֹנָ֔יו כִּ֥י יְהוָ֖ה אִתּ֑וֹ וְכֹל֙ אֲשֶׁר־ ה֣וּא עֹשֶׂ֔ה יְהוָ֖ה מַצְלִ֥יחַ בְּיָדֽוֹ׃",
-        "text": null
-      },
-      {
-        "number": "4",
-        "hebrew": "וַיִּמְצָ֨א יוֹסֵ֥ף חֵ֛ן בְּעֵינָ֖יו וַיְשָׁ֣רֶת אֹת֑וֹ וַיַּפְקִדֵ֨הוּ֙ עַל־ בֵּית֔וֹ וְכָל־ יֶשׁ־ ל֖וֹ נָתַ֥ן בְּיָדֽוֹ׃",
-        "text": null
-      },
-      {
-        "number": "5",
-        "hebrew": "וַיְהִ֡י מֵאָז֩ הִפְקִ֨יד אֹת֜וֹ בְּבֵית֗וֹ וְעַל֙ כָּל־ אֲשֶׁ֣ר יֶשׁ־ ל֔וֹ וַיְבָ֧רֶךְ יְהוָ֛ה אֶת־ בֵּ֥ית הַמִּצְרִ֖י בִּגְלַ֣ל יוֹסֵ֑ף וַיְהִ֞י בִּרְכַּ֤ת יְהוָה֙ בְּכָל־ אֲשֶׁ֣ר יֶשׁ־ ל֔וֹ בַּבַּ֖יִת וּבַשָּׂדֶֽה׃",
-        "text": null
+        "number": "4-5",
+        "hebrew": "וַיִּמְצָ֨א יוֹסֵ֥ף חֵ֛ן בְּעֵינָ֖יו וַיְשָׁ֣רֶת אֹת֑וֹ וַיַּפְקִדֵ֨הוּ֙ עַל־ בֵּית֔וֹ וְכָל־ יֶשׁ־ ל֖וֹ נָתַ֥ן בְּיָדֽוֹ׃ וַיְהִ֡י מֵאָז֩ הִפְקִ֨יד אֹת֜וֹ בְּבֵית֗וֹ וְעַל֙ כָּל־ אֲשֶׁ֣ר יֶשׁ־ ל֔וֹ וַיְבָ֧רֶךְ יְהוָ֛ה אֶת־ בֵּ֥ית הַמִּצְרִ֖י בִּגְלַ֣ל יוֹסֵ֑ף וַיְהִ֞י בִּרְכַּ֤ת יְהוָה֙ בְּכָל־ אֲשֶׁ֣ר יֶשׁ־ ל֔וֹ בַּבַּ֖יִת וּבַשָּׂדֶֽה׃",
+        "text": "Y halló José gracia en sus ojos, y le servía; y lo puso a cargo de su casa, y entregó en su mano todo lo que tenía. Y desde que lo puso a cargo de su casa y de todo lo que tenía, bendijo YHWH la casa del egipcio a causa de José; y la bendición de YHWH estuvo en todo lo que tenía, así en casa como en el campo."
       },
       {
         "number": "6",
         "hebrew": "וַיַּעֲזֹ֣ב כָּל־ אֲשֶׁר־ לוֹ֮ בְּיַד־ יוֹסֵף֒ וְלֹא־ יָדַ֤ע אִתּוֹ֙ מְא֔וּמָה כִּ֥י אִם־ הַלֶּ֖חֶם אֲשֶׁר־ ה֣וּא אוֹכֵ֑ל וַיְהִ֣י יוֹסֵ֔ף יְפֵה־ תֹ֖אַר וִיפֵ֥ה מַרְאֶֽה׃",
-        "text": null
+        "text": "Y dejó todo lo que tenía en mano de José, y con él no se preocupaba de cosa alguna sino del pan que comía. Y era José de hermoso semblante y de bella presencia¹⁸⁷."
       },
       {
-        "number": "7",
-        "hebrew": "וַיְהִ֗י אַחַר֙ הַדְּבָרִ֣ים הָאֵ֔לֶּה וַתִּשָּׂ֧א אֵֽשֶׁת־ אֲדֹנָ֛יו אֶת־ עֵינֶ֖יהָ אֶל־ יוֹסֵ֑ף וַתֹּ֖אמֶר שִׁכְבָ֥ה עִמִּֽי׃",
-        "text": null
-      },
-      {
-        "number": "8",
-        "hebrew": "וַיְמָאֵ֓ן ׀ וַיֹּ֨אמֶר֙ אֶל־ אֵ֣שֶׁת אֲדֹנָ֔יו הֵ֣ן אֲדֹנִ֔י לֹא־ יָדַ֥ע אִתִּ֖י מַה־ בַּבָּ֑יִת וְכֹ֥ל אֲשֶׁר־ יֶשׁ־ ל֖וֹ נָתַ֥ן בְּיָדִֽי׃",
-        "text": null
-      },
-      {
-        "number": "9",
-        "hebrew": "אֵינֶ֨נּוּ גָד֜וֹל בַּבַּ֣יִת הַזֶּה֮ מִמֶּנִּי֒ וְלֹֽא־ חָשַׂ֤ךְ מִמֶּ֨נִּי֙ מְא֔וּמָה כִּ֥י אִם־ אוֹתָ֖ךְ בַּאֲשֶׁ֣ר אַתְּ־ אִשְׁתּ֑וֹ וְאֵ֨יךְ אֶֽעֱשֶׂ֜ה הָרָעָ֤ה הַגְּדֹלָה֙ הַזֹּ֔את וְחָטָ֖אתִי לֵֽאלֹהִֽים׃",
-        "text": null
+        "number": "7-9",
+        "hebrew": "וַיְהִ֗י אַחַר֙ הַדְּבָרִ֣ים הָאֵ֔לֶּה וַתִּשָּׂ֧א אֵֽשֶׁת־ אֲדֹנָ֛יו אֶת־ עֵינֶ֖יהָ אֶל־ יוֹסֵ֑ף וַתֹּ֖אמֶר שִׁכְבָ֥ה עִמִּֽי׃ וַיְמָאֵ֓ן ׀ וַיֹּ֨אמֶר֙ אֶל־ אֵ֣שֶׁת אֲדֹנָ֔יו הֵ֣ן אֲדֹנִ֔י לֹא־ יָדַ֥ע אִתִּ֖י מַה־ בַּבָּ֑יִת וְכֹ֥ל אֲשֶׁר־ יֶשׁ־ ל֖וֹ נָתַ֥ן בְּיָדִֽי׃ אֵינֶ֨נּוּ גָד֜וֹל בַּבַּ֣יִת הַזֶּה֮ מִמֶּנִּי֒ וְלֹֽא־ חָשַׂ֤ךְ מִמֶּ֨נִּי֙ מְא֔וּמָה כִּ֥י אִם־ אוֹתָ֖ךְ בַּאֲשֶׁ֣ר אַתְּ־ אִשְׁתּ֑וֹ וְאֵ֨יךְ אֶֽעֱשֶׂ֜ה הָרָעָ֤ה הַגְּדֹלָה֙ הַזֹּ֔את וְחָטָ֖אתִי לֵֽאלֹהִֽים׃",
+        "text": "Y aconteció después de esto que la ishah de su señor puso sus ojos en José, y dijo: acuéstate conmigo. Mas él no quiso, y dijo a la ishah de su señor: he aquí mi señor no se preocupa conmigo de nada en la casa, y ha puesto en mi mano todo lo que tiene; no hay otro mayor que yo en esta casa, y ninguna cosa me ha reservado, sino a ti, por cuanto eres su ishah; ¿cómo, pues, haría yo este gran mal, y pecaría contra Elohim¹⁸⁸?"
       },
       {
         "number": "10",
         "hebrew": "וַיְהִ֕י כְּדַבְּרָ֥הּ אֶל־ יוֹסֵ֖ף י֣וֹם ׀ י֑וֹם וְלֹא־ שָׁמַ֥ע אֵלֶ֛יהָ לִשְׁכַּ֥ב אֶצְלָ֖הּ לִהְי֥וֹת עִמָּֽהּ׃",
-        "text": null
+        "text": "Y hablándole ella cada día, él no la escuchaba para acostarse al lado de ella, para estar con ella."
       },
       {
-        "number": "11",
-        "hebrew": "וַיְהִי֙ כְּהַיּ֣וֹם הַזֶּ֔ה וַיָּבֹ֥א הַבַּ֖יְתָה לַעֲשׂ֣וֹת מְלַאכְתּ֑וֹ וְאֵ֨ין אִ֜ישׁ מֵאַנְשֵׁ֥י הַבַּ֛יִת שָׁ֖ם בַּבָּֽיִת׃",
-        "text": null
+        "number": "11-12",
+        "hebrew": "וַיְהִי֙ כְּהַיּ֣וֹם הַזֶּ֔ה וַיָּבֹ֥א הַבַּ֖יְתָה לַעֲשׂ֣וֹת מְלַאכְתּ֑וֹ וְאֵ֨ין אִ֜ישׁ מֵאַנְשֵׁ֥י הַבַּ֛יִת שָׁ֖ם בַּבָּֽיִת׃ וַתִּתְפְּשֵׂ֧הוּ בְּבִגְד֛וֹ לֵאמֹ֖ר שִׁכְבָ֣ה עִמִּ֑י וַיַּעֲזֹ֤ב בִּגְדוֹ֙ בְּיָדָ֔הּ וַיָּ֖נָס וַיֵּצֵ֥א הַחֽוּצָה׃",
+        "text": "Aconteció que entró él un día en casa para hacer su oficio, y no había nadie de los de la casa allí; y ella lo asió por su ropa: acuéstate conmigo. Entonces él dejó su ropa en las manos de ella, y huyó y salió fuera."
       },
       {
-        "number": "12",
-        "hebrew": "וַתִּתְפְּשֵׂ֧הוּ בְּבִגְד֛וֹ לֵאמֹ֖ר שִׁכְבָ֣ה עִמִּ֑י וַיַּעֲזֹ֤ב בִּגְדוֹ֙ בְּיָדָ֔הּ וַיָּ֖נָס וַיֵּצֵ֥א הַחֽוּצָה׃",
-        "text": null
+        "number": "13-15",
+        "hebrew": "וַיְהִי֙ כִּרְאוֹתָ֔הּ כִּֽי־ עָזַ֥ב בִּגְד֖וֹ בְּיָדָ֑הּ וַיָּ֖נָס הַחֽוּצָה׃ וַתִּקְרָ֞א לְאַנְשֵׁ֣י בֵיתָ֗הּ וַתֹּ֤אמֶר לָהֶם֙ לֵאמֹ֔ר רְא֗וּ הֵ֥בִיא לָ֛נוּ אִ֥ישׁ עִבְרִ֖י לְצַ֣חֶק בָּ֑נוּ בָּ֤א אֵלַי֙ לִשְׁכַּ֣ב עִמִּ֔י וָאֶקְרָ֖א בְּק֥וֹל גָּדֽוֹל׃ וַיְהִ֣י כְשָׁמְע֔וֹ כִּֽי־ הֲרִימֹ֥תִי קוֹלִ֖י וָאֶקְרָ֑א וַיַּעֲזֹ֤ב בִּגְדוֹ֙ אֶצְלִ֔י וַיָּ֖נָס וַיֵּצֵ֥א הַחֽוּצָה׃",
+        "text": "Y cuando vio ella que le había dejado su ropa en sus manos, y había huido fuera, llamó a los de su casa, y les dijo: mirad, nos ha traído un varón hebreo¹⁸⁹ para que hiciera burla de nosotros; vino él a mí para acostarse conmigo, y yo di grandes voces; y viendo que yo alzaba la voz y gritaba, dejó junto a mí su ropa, y huyó y salió fuera."
       },
       {
-        "number": "13",
-        "hebrew": "וַיְהִי֙ כִּרְאוֹתָ֔הּ כִּֽי־ עָזַ֥ב בִּגְד֖וֹ בְּיָדָ֑הּ וַיָּ֖נָס הַחֽוּצָה׃",
-        "text": null
+        "number": "16-18",
+        "hebrew": "וַתַּנַּ֥ח בִּגְד֖וֹ אֶצְלָ֑הּ עַד־ בּ֥וֹא אֲדֹנָ֖יו אֶל־ בֵּיתֽוֹ׃ וַתְּדַבֵּ֣ר אֵלָ֔יו כַּדְּבָרִ֥ים הָאֵ֖לֶּה לֵאמֹ֑ר בָּֽא־ אֵלַ֞י הָעֶ֧בֶד הָֽעִבְרִ֛י אֲשֶׁר־ הֵבֵ֥אתָ לָּ֖נוּ לְצַ֥חֶק בִּֽי׃ וַיְהִ֕י כַּהֲרִימִ֥י קוֹלִ֖י וָאֶקְרָ֑א וַיַּעֲזֹ֥ב בִּגְד֛וֹ אֶצְלִ֖י וַיָּ֥נָס הַחֽוּצָה׃",
+        "text": "Y ella puso junto a sí la ropa de él, hasta que vino su señor a su casa. Entonces le habló ella las mismas palabras: el siervo hebreo que nos trajiste, vino a mí para deshonrarme; y cuando yo alcé mi voz y grité, él dejó su ropa junto a mí, y huyó fuera."
       },
       {
-        "number": "14",
-        "hebrew": "וַתִּקְרָ֞א לְאַנְשֵׁ֣י בֵיתָ֗הּ וַתֹּ֤אמֶר לָהֶם֙ לֵאמֹ֔ר רְא֗וּ הֵ֥בִיא לָ֛נוּ אִ֥ישׁ עִבְרִ֖י לְצַ֣חֶק בָּ֑נוּ בָּ֤א אֵלַי֙ לִשְׁכַּ֣ב עִמִּ֔י וָאֶקְרָ֖א בְּק֥וֹל גָּדֽוֹל׃",
-        "text": null
+        "number": "19-20",
+        "hebrew": "וַיְהִי֩ כִשְׁמֹ֨עַ אֲדֹנָ֜יו אֶת־ דִּבְרֵ֣י אִשְׁתּ֗וֹ אֲשֶׁ֨ר דִּבְּרָ֤ה אֵלָיו֙ לֵאמֹ֔ר כַּדְּבָרִ֣ים הָאֵ֔לֶּה עָ֥שָׂהּ לִ֖י עַבְדֶּ֑ךָ וַיִּ֖חַר אַפּֽוֹ׃ וַיִּקַּח֩ אֲדֹנֵ֨י יוֹסֵ֜ף אֹת֗וֹ וַֽיִּתְּנֵ֨הוּ֙ אֶל־ בֵּ֣ית הַסֹּ֔הַר מְק֕וֹם אֲשֶׁר־ אסורי הַמֶּ֖לֶךְ אֲסוּרִ֑ים וַֽיְהִי־ שָׁ֖ם בְּבֵ֥ית הַסֹּֽהַר׃",
+        "text": "Y sucedió que cuando oyó su señor las palabras que su ishah le hablaba, diciendo: así me ha tratado tu siervo, se encendió su furor. Y tomó su señor a José, y lo puso en la cárcel, donde estaban los presos del rey, y estuvo allí en la cárcel."
       },
       {
-        "number": "15",
-        "hebrew": "וַיְהִ֣י כְשָׁמְע֔וֹ כִּֽי־ הֲרִימֹ֥תִי קוֹלִ֖י וָאֶקְרָ֑א וַיַּעֲזֹ֤ב בִּגְדוֹ֙ אֶצְלִ֔י וַיָּ֖נָס וַיֵּצֵ֥א הַחֽוּצָה׃",
-        "text": null
-      },
-      {
-        "number": "16",
-        "hebrew": "וַתַּנַּ֥ח בִּגְד֖וֹ אֶצְלָ֑הּ עַד־ בּ֥וֹא אֲדֹנָ֖יו אֶל־ בֵּיתֽוֹ׃",
-        "text": null
-      },
-      {
-        "number": "17",
-        "hebrew": "וַתְּדַבֵּ֣ר אֵלָ֔יו כַּדְּבָרִ֥ים הָאֵ֖לֶּה לֵאמֹ֑ר בָּֽא־ אֵלַ֞י הָעֶ֧בֶד הָֽעִבְרִ֛י אֲשֶׁר־ הֵבֵ֥אתָ לָּ֖נוּ לְצַ֥חֶק בִּֽי׃",
-        "text": null
-      },
-      {
-        "number": "18",
-        "hebrew": "וַיְהִ֕י כַּהֲרִימִ֥י קוֹלִ֖י וָאֶקְרָ֑א וַיַּעֲזֹ֥ב בִּגְד֛וֹ אֶצְלִ֖י וַיָּ֥נָס הַחֽוּצָה׃",
-        "text": null
-      },
-      {
-        "number": "19",
-        "hebrew": "וַיְהִי֩ כִשְׁמֹ֨עַ אֲדֹנָ֜יו אֶת־ דִּבְרֵ֣י אִשְׁתּ֗וֹ אֲשֶׁ֨ר דִּבְּרָ֤ה אֵלָיו֙ לֵאמֹ֔ר כַּדְּבָרִ֣ים הָאֵ֔לֶּה עָ֥שָׂהּ לִ֖י עַבְדֶּ֑ךָ וַיִּ֖חַר אַפּֽוֹ׃",
-        "text": null
-      },
-      {
-        "number": "20",
-        "hebrew": "וַיִּקַּח֩ אֲדֹנֵ֨י יוֹסֵ֜ף אֹת֗וֹ וַֽיִּתְּנֵ֨הוּ֙ אֶל־ בֵּ֣ית הַסֹּ֔הַר מְק֕וֹם אֲשֶׁר־ אסורי הַמֶּ֖לֶךְ אֲסוּרִ֑ים וַֽיְהִי־ שָׁ֖ם בְּבֵ֥ית הַסֹּֽהַר׃",
-        "text": null
-      },
-      {
-        "number": "21",
-        "hebrew": "וַיְהִ֤י יְהוָה֙ אֶת־ יוֹסֵ֔ף וַיֵּ֥ט אֵלָ֖יו חָ֑סֶד וַיִּתֵּ֣ן חִנּ֔וֹ בְּעֵינֵ֖י שַׂ֥ר בֵּית־ הַסֹּֽהַר׃",
-        "text": null
-      },
-      {
-        "number": "22",
-        "hebrew": "וַיִּתֵּ֞ן שַׂ֤ר בֵּית־ הַסֹּ֨הַר֙ בְּיַד־ יוֹסֵ֔ף אֵ֚ת כָּל־ הָ֣אֲסִירִ֔ם אֲשֶׁ֖ר בְּבֵ֣ית הַסֹּ֑הַר וְאֵ֨ת כָּל־ אֲשֶׁ֤ר עֹשִׂים֙ שָׁ֔ם ה֖וּא הָיָ֥ה עֹשֶֽׂה׃",
-        "text": null
-      },
-      {
-        "number": "23",
-        "hebrew": "אֵ֣ין ׀ שַׂ֣ר בֵּית־ הַסֹּ֗הַר רֹאֶ֤ה אֶֽת־ כָּל־ מְא֨וּמָה֙ בְּיָד֔וֹ בַּאֲשֶׁ֥ר יְהוָ֖ה אִתּ֑וֹ וַֽאֲשֶׁר־ ה֥וּא עֹשֶׂ֖ה יְהוָ֥ה מַצְלִֽיחַ׃ ס",
-        "text": null
+        "number": "21-23",
+        "hebrew": "וַיְהִ֤י יְהוָה֙ אֶת־ יוֹסֵ֔ף וַיֵּ֥ט אֵלָ֖יו חָ֑סֶד וַיִּתֵּ֣ן חִנּ֔וֹ בְּעֵינֵ֖י שַׂ֥ר בֵּית־ הַסֹּֽהַר׃ וַיִּתֵּ֞ן שַׂ֤ר בֵּית־ הַסֹּ֨הַר֙ בְּיַד־ יוֹסֵ֔ף אֵ֚ת כָּל־ הָ֣אֲסִירִ֔ם אֲשֶׁ֖ר בְּבֵ֣ית הַסֹּ֑הַר וְאֵ֨ת כָּל־ אֲשֶׁ֤ר עֹשִׂים֙ שָׁ֔ם ה֖וּא הָיָ֥ה עֹשֶֽׂה׃ אֵ֣ין ׀ שַׂ֣ר בֵּית־ הַסֹּ֗הַר רֹאֶ֤ה אֶֽת־ כָּל־ מְא֨וּמָה֙ בְּיָד֔וֹ בַּאֲשֶׁ֥ר יְהוָ֖ה אִתּ֑וֹ וַֽאֲשֶׁר־ ה֥וּא עֹשֶׂ֖ה יְהוָ֥ה מַצְלִֽיחַ׃ ס",
+        "text": "Pero YHWH estaba con José, y extendió hacia él su misericordia, y le dio gracia en ojos del jefe de la cárcel. Y el jefe de la cárcel entregó en mano de José todos los presos que había en aquella prisión; todo lo que hacían allí, él lo hacía. No necesitaba el jefe de la cárcel cuidarse de cosa alguna que estaba en mano de José, porque YHWH estaba con él, y lo que él hacía, YHWH lo prosperaba."
       }
     ],
     "40": [
       {
-        "number": "1",
-        "hebrew": "וַיְהִ֗י אַחַר֙ הַדְּבָרִ֣ים הָאֵ֔לֶּה חָֽטְא֛וּ מַשְׁקֵ֥ה מֶֽלֶךְ־ מִצְרַ֖יִם וְהָאֹפֶ֑ה לַאֲדֹנֵיהֶ֖ם לְמֶ֥לֶךְ מִצְרָֽיִם׃",
-        "text": null
+        "number": "1-3",
+        "hebrew": "וַיְהִ֗י אַחַר֙ הַדְּבָרִ֣ים הָאֵ֔לֶּה חָֽטְא֛וּ מַשְׁקֵ֥ה מֶֽלֶךְ־ מִצְרַ֖יִם וְהָאֹפֶ֑ה לַאֲדֹנֵיהֶ֖ם לְמֶ֥לֶךְ מִצְרָֽיִם׃ וַיִּקְצֹ֣ף פַּרְעֹ֔ה עַ֖ל שְׁנֵ֣י סָרִיסָ֑יו עַ֚ל שַׂ֣ר הַמַּשְׁקִ֔ים וְעַ֖ל שַׂ֥ר הָאוֹפִֽים׃ וַיִּתֵּ֨ן אֹתָ֜ם בְּמִשְׁמַ֗ר בֵּ֛ית שַׂ֥ר הַטַבָּחִ֖ים אֶל־ בֵּ֣ית הַסֹּ֑הַר מְק֕וֹם אֲשֶׁ֥ר יוֹסֵ֖ף אָס֥וּר שָֽׁם׃",
+        "text": "Después de estas cosas aconteció que el copero y el panadero del rey de Egipto delinquieron contra su señor el rey de Egipto. Y se enojó faraón contra sus dos oficiales, contra el jefe de los coperos y contra el jefe de los panaderos, y los puso en prisión en la casa del capitán de la guardia, en la cárcel donde José estaba preso."
       },
       {
-        "number": "2",
-        "hebrew": "וַיִּקְצֹ֣ף פַּרְעֹ֔ה עַ֖ל שְׁנֵ֣י סָרִיסָ֑יו עַ֚ל שַׂ֣ר הַמַּשְׁקִ֔ים וְעַ֖ל שַׂ֥ר הָאוֹפִֽים׃",
-        "text": null
+        "number": "4-5",
+        "hebrew": "וַ֠יִּפְקֹד שַׂ֣ר הַטַּבָּחִ֧ים אֶת־ יוֹסֵ֛ף אִתָּ֖ם וַיְשָׁ֣רֶת אֹתָ֑ם וַיִּהְי֥וּ יָמִ֖ים בְּמִשְׁמָֽר׃ וַיַּֽחַלְמוּ֩ חֲל֨וֹם שְׁנֵיהֶ֜ם אִ֤ישׁ חֲלֹמוֹ֙ בְּלַ֣יְלָה אֶחָ֔ד אִ֖ישׁ כְּפִתְר֣וֹן חֲלֹמ֑וֹ הַמַּשְׁקֶ֣ה וְהָאֹפֶ֗ה אֲשֶׁר֙ לְמֶ֣לֶךְ מִצְרַ֔יִם אֲשֶׁ֥ר אֲסוּרִ֖ים בְּבֵ֥ית הַסֹּֽהַר׃",
+        "text": "Y el capitán de la guardia dio cargo de ellos a José, y él les servía; y estuvieron días en la prisión. Y ambos, el copero y el panadero del rey de Egipto, presos en la cárcel, tuvieron un sueño, cada uno su propio sueño en una misma noche, cada uno conforme a la interpretación de su sueño."
       },
       {
-        "number": "3",
-        "hebrew": "וַיִּתֵּ֨ן אֹתָ֜ם בְּמִשְׁמַ֗ר בֵּ֛ית שַׂ֥ר הַטַבָּחִ֖ים אֶל־ בֵּ֣ית הַסֹּ֑הַר מְק֕וֹם אֲשֶׁ֥ר יוֹסֵ֖ף אָס֥וּר שָֽׁם׃",
-        "text": null
+        "number": "6-8",
+        "hebrew": "וַיָּבֹ֧א אֲלֵיהֶ֛ם יוֹסֵ֖ף בַּבֹּ֑קֶר וַיַּ֣רְא אֹתָ֔ם וְהִנָּ֖ם זֹעֲפִֽים׃ וַיִּשְׁאַ֞ל אֶת־ סְרִיסֵ֣י פַרְעֹ֗ה אֲשֶׁ֨ר אִתּ֧וֹ בְמִשְׁמַ֛ר בֵּ֥ית אֲדֹנָ֖יו לֵאמֹ֑ר מַדּ֛וּעַ פְּנֵיכֶ֥ם רָעִ֖ים הַיּֽוֹם׃ וַיֹּאמְר֣וּ אֵלָ֔יו חֲל֣וֹם חָלַ֔מְנוּ וּפֹתֵ֖ר אֵ֣ין אֹת֑וֹ וַיֹּ֨אמֶר אֲלֵהֶ֜ם יוֹסֵ֗ף הֲל֤וֹא לֵֽאלֹהִים֙ פִּתְרֹנִ֔ים סַפְּרוּ־ נָ֖א לִֽי׃",
+        "text": "Y vino a ellos José por la mañana, y los miró, y he aquí que estaban tristes. Y preguntó a los oficiales de faraón que estaban con él en la prisión de la casa de su señor: ¿por qué parecen hoy mal vuestros semblantes? Y ellos le dijeron: hemos tenido un sueño, y no hay quien lo interprete. Y les dijo José: ¿no son de Elohim las interpretaciones¹⁹⁰? Contádmelo ahora."
       },
       {
-        "number": "4",
-        "hebrew": "וַ֠יִּפְקֹד שַׂ֣ר הַטַּבָּחִ֧ים אֶת־ יוֹסֵ֛ף אִתָּ֖ם וַיְשָׁ֣רֶת אֹתָ֑ם וַיִּהְי֥וּ יָמִ֖ים בְּמִשְׁמָֽר׃",
-        "text": null
+        "number": "9-11",
+        "hebrew": "וַיְסַפֵּ֧ר שַֽׂר־ הַמַּשְׁקִ֛ים אֶת־ חֲלֹמ֖וֹ לְיוֹסֵ֑ף וַיֹּ֣אמֶר ל֔וֹ בַּחֲלוֹמִ֕י וְהִנֵּה־ גֶ֖פֶן לְפָנָֽי׃ וּבַגֶּ֖פֶן שְׁלֹשָׁ֣ה שָׂרִיגִ֑ם וְהִ֤יא כְפֹרַ֨חַת֙ עָלְתָ֣ה נִצָּ֔הּ הִבְשִׁ֥ילוּ אַשְׁכְּלֹתֶ֖יהָ עֲנָבִֽים׃ וְכ֥וֹס פַּרְעֹ֖ה בְּיָדִ֑י וָאֶקַּ֣ח אֶת־ הָֽעֲנָבִ֗ים וָֽאֶשְׂחַ֤ט אֹתָם֙ אֶל־ כּ֣וֹס פַּרְעֹ֔ה וָאֶתֵּ֥ן אֶת־ הַכּ֖וֹס עַל־ כַּ֥ף פַּרְעֹֽה׃",
+        "text": "Entonces el jefe de los coperos contó su sueño a José: en mi sueño había una vid delante de mí, y en la vid tres sarmientos; y ella como que brotaba, subía su flor, y sus racimos daban uvas maduras. Y la copa de faraón estaba en mi mano, y tomé las uvas, y las exprimí en la copa de faraón, y di la copa en mano de faraón."
       },
       {
-        "number": "5",
-        "hebrew": "וַיַּֽחַלְמוּ֩ חֲל֨וֹם שְׁנֵיהֶ֜ם אִ֤ישׁ חֲלֹמוֹ֙ בְּלַ֣יְלָה אֶחָ֔ד אִ֖ישׁ כְּפִתְר֣וֹן חֲלֹמ֑וֹ הַמַּשְׁקֶ֣ה וְהָאֹפֶ֗ה אֲשֶׁר֙ לְמֶ֣לֶךְ מִצְרַ֔יִם אֲשֶׁ֥ר אֲסוּרִ֖ים בְּבֵ֥ית הַסֹּֽהַר׃",
-        "text": null
+        "number": "12-13",
+        "hebrew": "וַיֹּ֤אמֶר לוֹ֙ יוֹסֵ֔ף זֶ֖ה פִּתְרֹנ֑וֹ שְׁלֹ֨שֶׁת֙ הַשָּׂ֣רִגִ֔ים שְׁלֹ֥שֶׁת יָמִ֖ים הֵֽם׃ בְּע֣וֹד ׀ שְׁלֹ֣שֶׁת יָמִ֗ים יִשָּׂ֤א פַרְעֹה֙ אֶת־ רֹאשֶׁ֔ךָ וַהֲשִֽׁיבְךָ֖ עַל־ כַּנֶּ֑ךָ וְנָתַתָּ֤ כוֹס־ פַּרְעֹה֙ בְּיָד֔וֹ כַּמִּשְׁפָּט֙ הָֽרִאשׁ֔וֹן אֲשֶׁ֥ר הָיִ֖יתָ מַשְׁקֵֽהוּ׃",
+        "text": "Y le dijo José: esta es su interpretación: los tres sarmientos son tres días. Al cabo de tres días levantará faraón tu cabeza, y te restituirá a tu puesto; y darás la copa a faraón en su mano, como solías hacerlo cuando eras su copero."
       },
       {
-        "number": "6",
-        "hebrew": "וַיָּבֹ֧א אֲלֵיהֶ֛ם יוֹסֵ֖ף בַּבֹּ֑קֶר וַיַּ֣רְא אֹתָ֔ם וְהִנָּ֖ם זֹעֲפִֽים׃",
-        "text": null
+        "number": "14-15",
+        "hebrew": "כִּ֧י אִם־ זְכַרְתַּ֣נִי אִתְּךָ֗ כַּאֲשֶׁר֙ יִ֣יטַב לָ֔ךְ וְעָשִֽׂיתָ־ נָּ֥א עִמָּדִ֖י חָ֑סֶד וְהִזְכַּרְתַּ֨נִי֙ אֶל־ פַּרְעֹ֔ה וְהוֹצֵאתַ֖נִי מִן־ הַבַּ֥יִת הַזֶּֽה׃ כִּֽי־ גֻנֹּ֣ב גֻּנַּ֔בְתִּי מֵאֶ֖רֶץ הָעִבְרִ֑ים וְגַם־ פֹּה֙ לֹא־ עָשִׂ֣יתִֽי מְא֔וּמָה כִּֽי־ שָׂמ֥וּ אֹתִ֖י בַּבּֽוֹר׃",
+        "text": "Acuérdate, pues, de mí cuando tengas ese bien, y te ruego que uses conmigo de misericordia, y hagas mención de mí a faraón, y me saques de esta casa. Porque fui hurtado de la tierra de los hebreos¹⁹¹; y tampoco he hecho aquí por qué me pusiesen en la cárcel."
       },
       {
-        "number": "7",
-        "hebrew": "וַיִּשְׁאַ֞ל אֶת־ סְרִיסֵ֣י פַרְעֹ֗ה אֲשֶׁ֨ר אִתּ֧וֹ בְמִשְׁמַ֛ר בֵּ֥ית אֲדֹנָ֖יו לֵאמֹ֑ר מַדּ֛וּעַ פְּנֵיכֶ֥ם רָעִ֖ים הַיּֽוֹם׃",
-        "text": null
+        "number": "16-17",
+        "hebrew": "וַיַּ֥רְא שַׂר־ הָאֹפִ֖ים כִּ֣י ט֣וֹב פָּתָ֑ר וַיֹּ֨אמֶר֙ אֶל־ יוֹסֵ֔ף אַף־ אֲנִי֙ בַּחֲלוֹמִ֔י וְהִנֵּ֗ה שְׁלֹשָׁ֛ה סַלֵּ֥י חֹרִ֖י עַל־ רֹאשִֽׁי׃ וּבַסַּ֣ל הָֽעֶלְי֔וֹן מִכֹּ֛ל מַאֲכַ֥ל פַּרְעֹ֖ה מַעֲשֵׂ֣ה אֹפֶ֑ה וְהָע֗וֹף אֹכֵ֥ל אֹתָ֛ם מִן־ הַסַּ֖ל מֵעַ֥ל רֹאשִֽׁי׃",
+        "text": "Viendo el jefe de los panaderos que la interpretación había sido buena, dijo a José: también yo soñé que veía tres canastillos blancos sobre mi cabeza; y en el canastillo más alto había de toda clase de manjares de pastelería para faraón, y las aves las comían del canastillo de sobre mi cabeza."
       },
       {
-        "number": "8",
-        "hebrew": "וַיֹּאמְר֣וּ אֵלָ֔יו חֲל֣וֹם חָלַ֔מְנוּ וּפֹתֵ֖ר אֵ֣ין אֹת֑וֹ וַיֹּ֨אמֶר אֲלֵהֶ֜ם יוֹסֵ֗ף הֲל֤וֹא לֵֽאלֹהִים֙ פִּתְרֹנִ֔ים סַפְּרוּ־ נָ֖א לִֽי׃",
-        "text": null
+        "number": "18-19",
+        "hebrew": "וַיַּ֤עַן יוֹסֵף֙ וַיֹּ֔אמֶר זֶ֖ה פִּתְרֹנ֑וֹ שְׁלֹ֨שֶׁת֙ הַסַּלִּ֔ים שְׁלֹ֥שֶׁת יָמִ֖ים הֵֽם׃ בְּע֣וֹד ׀ שְׁלֹ֣שֶׁת יָמִ֗ים יִשָּׂ֨א פַרְעֹ֤ה אֶת־ רֹֽאשְׁךָ֙ מֵֽעָלֶ֔יךָ וְתָלָ֥ה אוֹתְךָ֖ עַל־ עֵ֑ץ וְאָכַ֥ל הָע֛וֹף אֶת־ בְּשָׂרְךָ֖ מֵעָלֶֽיךָ׃",
+        "text": "Entonces respondió José: esta es su interpretación: los tres canastillos son tres días. Al cabo de tres días quitará faraón tu cabeza de sobre ti¹⁹², y te hará colgar en la horca, y las aves comerán tu carne de sobre ti."
       },
       {
-        "number": "9",
-        "hebrew": "וַיְסַפֵּ֧ר שַֽׂר־ הַמַּשְׁקִ֛ים אֶת־ חֲלֹמ֖וֹ לְיוֹסֵ֑ף וַיֹּ֣אמֶר ל֔וֹ בַּחֲלוֹמִ֕י וְהִנֵּה־ גֶ֖פֶן לְפָנָֽי׃",
-        "text": null
-      },
-      {
-        "number": "10",
-        "hebrew": "וּבַגֶּ֖פֶן שְׁלֹשָׁ֣ה שָׂרִיגִ֑ם וְהִ֤יא כְפֹרַ֨חַת֙ עָלְתָ֣ה נִצָּ֔הּ הִבְשִׁ֥ילוּ אַשְׁכְּלֹתֶ֖יהָ עֲנָבִֽים׃",
-        "text": null
-      },
-      {
-        "number": "11",
-        "hebrew": "וְכ֥וֹס פַּרְעֹ֖ה בְּיָדִ֑י וָאֶקַּ֣ח אֶת־ הָֽעֲנָבִ֗ים וָֽאֶשְׂחַ֤ט אֹתָם֙ אֶל־ כּ֣וֹס פַּרְעֹ֔ה וָאֶתֵּ֥ן אֶת־ הַכּ֖וֹס עַל־ כַּ֥ף פַּרְעֹֽה׃",
-        "text": null
-      },
-      {
-        "number": "12",
-        "hebrew": "וַיֹּ֤אמֶר לוֹ֙ יוֹסֵ֔ף זֶ֖ה פִּתְרֹנ֑וֹ שְׁלֹ֨שֶׁת֙ הַשָּׂ֣רִגִ֔ים שְׁלֹ֥שֶׁת יָמִ֖ים הֵֽם׃",
-        "text": null
-      },
-      {
-        "number": "13",
-        "hebrew": "בְּע֣וֹד ׀ שְׁלֹ֣שֶׁת יָמִ֗ים יִשָּׂ֤א פַרְעֹה֙ אֶת־ רֹאשֶׁ֔ךָ וַהֲשִֽׁיבְךָ֖ עַל־ כַּנֶּ֑ךָ וְנָתַתָּ֤ כוֹס־ פַּרְעֹה֙ בְּיָד֔וֹ כַּמִּשְׁפָּט֙ הָֽרִאשׁ֔וֹן אֲשֶׁ֥ר הָיִ֖יתָ מַשְׁקֵֽהוּ׃",
-        "text": null
-      },
-      {
-        "number": "14",
-        "hebrew": "כִּ֧י אִם־ זְכַרְתַּ֣נִי אִתְּךָ֗ כַּאֲשֶׁר֙ יִ֣יטַב לָ֔ךְ וְעָשִֽׂיתָ־ נָּ֥א עִמָּדִ֖י חָ֑סֶד וְהִזְכַּרְתַּ֨נִי֙ אֶל־ פַּרְעֹ֔ה וְהוֹצֵאתַ֖נִי מִן־ הַבַּ֥יִת הַזֶּֽה׃",
-        "text": null
-      },
-      {
-        "number": "15",
-        "hebrew": "כִּֽי־ גֻנֹּ֣ב גֻּנַּ֔בְתִּי מֵאֶ֖רֶץ הָעִבְרִ֑ים וְגַם־ פֹּה֙ לֹא־ עָשִׂ֣יתִֽי מְא֔וּמָה כִּֽי־ שָׂמ֥וּ אֹתִ֖י בַּבּֽוֹר׃",
-        "text": null
-      },
-      {
-        "number": "16",
-        "hebrew": "וַיַּ֥רְא שַׂר־ הָאֹפִ֖ים כִּ֣י ט֣וֹב פָּתָ֑ר וַיֹּ֨אמֶר֙ אֶל־ יוֹסֵ֔ף אַף־ אֲנִי֙ בַּחֲלוֹמִ֔י וְהִנֵּ֗ה שְׁלֹשָׁ֛ה סַלֵּ֥י חֹרִ֖י עַל־ רֹאשִֽׁי׃",
-        "text": null
-      },
-      {
-        "number": "17",
-        "hebrew": "וּבַסַּ֣ל הָֽעֶלְי֔וֹן מִכֹּ֛ל מַאֲכַ֥ל פַּרְעֹ֖ה מַעֲשֵׂ֣ה אֹפֶ֑ה וְהָע֗וֹף אֹכֵ֥ל אֹתָ֛ם מִן־ הַסַּ֖ל מֵעַ֥ל רֹאשִֽׁי׃",
-        "text": null
-      },
-      {
-        "number": "18",
-        "hebrew": "וַיַּ֤עַן יוֹסֵף֙ וַיֹּ֔אמֶר זֶ֖ה פִּתְרֹנ֑וֹ שְׁלֹ֨שֶׁת֙ הַסַּלִּ֔ים שְׁלֹ֥שֶׁת יָמִ֖ים הֵֽם׃",
-        "text": null
-      },
-      {
-        "number": "19",
-        "hebrew": "בְּע֣וֹד ׀ שְׁלֹ֣שֶׁת יָמִ֗ים יִשָּׂ֨א פַרְעֹ֤ה אֶת־ רֹֽאשְׁךָ֙ מֵֽעָלֶ֔יךָ וְתָלָ֥ה אוֹתְךָ֖ עַל־ עֵ֑ץ וְאָכַ֥ל הָע֛וֹף אֶת־ בְּשָׂרְךָ֖ מֵעָלֶֽיךָ׃",
-        "text": null
-      },
-      {
-        "number": "20",
-        "hebrew": "וַיְהִ֣י ׀ בַּיּ֣וֹם הַשְּׁלִישִׁ֗י י֚וֹם הֻלֶּ֣דֶת אֶת־ פַּרְעֹ֔ה וַיַּ֥עַשׂ מִשְׁתֶּ֖ה לְכָל־ עֲבָדָ֑יו וַיִּשָּׂ֞א אֶת־ רֹ֣אשׁ ׀ שַׂ֣ר הַמַּשְׁקִ֗ים וְאֶת־ רֹ֛אשׁ שַׂ֥ר הָאֹפִ֖ים בְּת֥וֹךְ עֲבָדָֽיו׃",
-        "text": null
-      },
-      {
-        "number": "21",
-        "hebrew": "וַיָּ֛שֶׁב אֶת־ שַׂ֥ר הַמַּשְׁקִ֖ים עַל־ מַשְׁקֵ֑הוּ וַיִּתֵּ֥ן הַכּ֖וֹס עַל־ כַּ֥ף פַּרְעֹֽה׃",
-        "text": null
-      },
-      {
-        "number": "22",
-        "hebrew": "וְאֵ֛ת שַׂ֥ר הָאֹפִ֖ים תָּלָ֑ה כַּאֲשֶׁ֥ר פָּתַ֛ר לָהֶ֖ם יוֹסֵֽף׃",
-        "text": null
+        "number": "20-22",
+        "hebrew": "וַיְהִ֣י ׀ בַּיּ֣וֹם הַשְּׁלִישִׁ֗י י֚וֹם הֻלֶּ֣דֶת אֶת־ פַּרְעֹ֔ה וַיַּ֥עַשׂ מִשְׁתֶּ֖ה לְכָל־ עֲבָדָ֑יו וַיִּשָּׂ֞א אֶת־ רֹ֣אשׁ ׀ שַׂ֣ר הַמַּשְׁקִ֗ים וְאֶת־ רֹ֛אשׁ שַׂ֥ר הָאֹפִ֖ים בְּת֥וֹךְ עֲבָדָֽיו׃ וַיָּ֛שֶׁב אֶת־ שַׂ֥ר הַמַּשְׁקִ֖ים עַל־ מַשְׁקֵ֑הוּ וַיִּתֵּ֥ן הַכּ֖וֹס עַל־ כַּ֥ף פַּרְעֹֽה׃ וְאֵ֛ת שַׂ֥ר הָאֹפִ֖ים תָּלָ֑ה כַּאֲשֶׁ֥ר פָּתַ֛ר לָהֶ֖ם יוֹסֵֽף׃",
+        "text": "Y aconteció al tercer día, que era el día del cumpleaños de faraón, que hizo banquete a todos sus sirvientes; y alzó la cabeza del jefe de los coperos, y la cabeza del jefe de los panaderos, entre sus servidores. E hizo volver a su oficio al jefe de los coperos, y dio este la copa en mano de faraón; mas hizo ahorcar al jefe de los panaderos, como lo había interpretado José."
       },
       {
         "number": "23",
         "hebrew": "וְלֹֽא־ זָכַ֧ר שַֽׂר־ הַמַּשְׁקִ֛ים אֶת־ יוֹסֵ֖ף וַיִּשְׁכָּחֵֽהוּ׃ פ",
-        "text": null
+        "text": "Y el jefe de los coperos no se acordó de José, sino que le olvidó."
       }
     ],
     "41": [
       {
-        "number": "1",
-        "hebrew": "וַיְהִ֕י מִקֵּ֖ץ שְׁנָתַ֣יִם יָמִ֑ים וּפַרְעֹ֣ה חֹלֵ֔ם וְהִנֵּ֖ה עֹמֵ֥ד עַל־ הַיְאֹֽר׃",
-        "text": null
+        "number": "1-4",
+        "hebrew": "וַיְהִ֕י מִקֵּ֖ץ שְׁנָתַ֣יִם יָמִ֑ים וּפַרְעֹ֣ה חֹלֵ֔ם וְהִנֵּ֖ה עֹמֵ֥ד עַל־ הַיְאֹֽר׃ וְהִנֵּ֣ה מִן־ הַיְאֹ֗ר עֹלֹת֙ שֶׁ֣בַע פָּר֔וֹת יְפ֥וֹת מַרְאֶ֖ה וּבְרִיאֹ֣ת בָּשָׂ֑ר וַתִּרְעֶ֖ינָה בָּאָֽחוּ׃ וְהִנֵּ֞ה שֶׁ֧בַע פָּר֣וֹת אֲחֵר֗וֹת עֹל֤וֹת אַחֲרֵיהֶן֙ מִן־ הַיְאֹ֔ר רָע֥וֹת מַרְאֶ֖ה וְדַקּ֣וֹת בָּשָׂ֑ר וַֽתַּעֲמֹ֛דְנָה אֵ֥צֶל הַפָּר֖וֹת עַל־ שְׂפַ֥ת הַיְאֹֽר׃ וַתֹּאכַ֣לְנָה הַפָּר֗וֹת רָע֤וֹת הַמַּרְאֶה֙ וְדַקֹּ֣ת הַבָּשָׂ֔ר אֵ֚ת שֶׁ֣בַע הַפָּר֔וֹת יְפֹ֥ת הַמַּרְאֶ֖ה וְהַבְּרִיאֹ֑ת וַיִּיקַ֖ץ פַּרְעֹֽה׃",
+        "text": "Aconteció que pasados dos años, faraón tuvo un sueño: he aquí que estaba de pie junto al río; y del río subían siete vacas de hermoso aspecto y muy gordas, y pacían en el prado. Y he aquí otras siete vacas subían tras ellas del río, de mal aspecto y enjutas de carne, y se pararon cerca de las vacas hermosas a la orilla del río. Y las vacas de mal aspecto y enjutas de carne devoraron a las siete vacas hermosas y gordas. Y despertó faraón."
       },
       {
-        "number": "2",
-        "hebrew": "וְהִנֵּ֣ה מִן־ הַיְאֹ֗ר עֹלֹת֙ שֶׁ֣בַע פָּר֔וֹת יְפ֥וֹת מַרְאֶ֖ה וּבְרִיאֹ֣ת בָּשָׂ֑ר וַתִּרְעֶ֖ינָה בָּאָֽחוּ׃",
-        "text": null
-      },
-      {
-        "number": "3",
-        "hebrew": "וְהִנֵּ֞ה שֶׁ֧בַע פָּר֣וֹת אֲחֵר֗וֹת עֹל֤וֹת אַחֲרֵיהֶן֙ מִן־ הַיְאֹ֔ר רָע֥וֹת מַרְאֶ֖ה וְדַקּ֣וֹת בָּשָׂ֑ר וַֽתַּעֲמֹ֛דְנָה אֵ֥צֶל הַפָּר֖וֹת עַל־ שְׂפַ֥ת הַיְאֹֽר׃",
-        "text": null
-      },
-      {
-        "number": "4",
-        "hebrew": "וַתֹּאכַ֣לְנָה הַפָּר֗וֹת רָע֤וֹת הַמַּרְאֶה֙ וְדַקֹּ֣ת הַבָּשָׂ֔ר אֵ֚ת שֶׁ֣בַע הַפָּר֔וֹת יְפֹ֥ת הַמַּרְאֶ֖ה וְהַבְּרִיאֹ֑ת וַיִּיקַ֖ץ פַּרְעֹֽה׃",
-        "text": null
-      },
-      {
-        "number": "5",
-        "hebrew": "וַיִּישָׁ֕ן וַֽיַּחֲלֹ֖ם שֵׁנִ֑ית וְהִנֵּ֣ה ׀ שֶׁ֣בַע שִׁבֳּלִ֗ים עֹל֛וֹת בְּקָנֶ֥ה אֶחָ֖ד בְּרִיא֥וֹת וְטֹבֽוֹת׃",
-        "text": null
-      },
-      {
-        "number": "6",
-        "hebrew": "וְהִנֵּה֙ שֶׁ֣בַע שִׁבֳּלִ֔ים דַּקּ֖וֹת וּשְׁדוּפֹ֣ת קָדִ֑ים צֹמְח֖וֹת אַחֲרֵיהֶֽן׃",
-        "text": null
-      },
-      {
-        "number": "7",
-        "hebrew": "וַתִּבְלַ֨עְנָה֙ הַשִּׁבֳּלִ֣ים הַדַּקּ֔וֹת אֵ֚ת שֶׁ֣בַע הַֽשִּׁבֳּלִ֔ים הַבְּרִיא֖וֹת וְהַמְּלֵא֑וֹת וַיִּיקַ֥ץ פַּרְעֹ֖ה וְהִנֵּ֥ה חֲלֽוֹם׃",
-        "text": null
+        "number": "5-7",
+        "hebrew": "וַיִּישָׁ֕ן וַֽיַּחֲלֹ֖ם שֵׁנִ֑ית וְהִנֵּ֣ה ׀ שֶׁ֣בַע שִׁבֳּלִ֗ים עֹל֛וֹת בְּקָנֶ֥ה אֶחָ֖ד בְּרִיא֥וֹת וְטֹבֽוֹת׃ וְהִנֵּה֙ שֶׁ֣בַע שִׁבֳּלִ֔ים דַּקּ֖וֹת וּשְׁדוּפֹ֣ת קָדִ֑ים צֹמְח֖וֹת אַחֲרֵיהֶֽן׃ וַתִּבְלַ֨עְנָה֙ הַשִּׁבֳּלִ֣ים הַדַּקּ֔וֹת אֵ֚ת שֶׁ֣בַע הַֽשִּׁבֳּלִ֔ים הַבְּרִיא֖וֹת וְהַמְּלֵא֑וֹת וַיִּיקַ֥ץ פַּרְעֹ֖ה וְהִנֵּ֥ה חֲלֽוֹם׃",
+        "text": "Se durmió de nuevo, y soñó la segunda vez: he aquí siete espigas llenas y hermosas subían de una sola caña. Y he aquí otras siete espigas menudas y abatidas por el viento solano salían después de ellas. Y las siete espigas menudas devoraron a las siete espigas gruesas y llenas. Y despertó faraón, y he aquí que era un sueño."
       },
       {
         "number": "8",
         "hebrew": "וַיְהִ֤י בַבֹּ֨קֶר֙ וַתִּפָּ֣עֶם רוּח֔וֹ וַיִּשְׁלַ֗ח וַיִּקְרָ֛א אֶת־ כָּל־ חַרְטֻמֵּ֥י מִצְרַ֖יִם וְאֶת־ כָּל־ חֲכָמֶ֑יהָ וַיְסַפֵּ֨ר פַּרְעֹ֤ה לָהֶם֙ אֶת־ חֲלֹמ֔וֹ וְאֵין־ פּוֹתֵ֥ר אוֹתָ֖ם לְפַרְעֹֽה׃",
-        "text": null
+        "text": "Y aconteció que a la mañana estaba agitado su espíritu¹⁹³, y envió e hizo llamar a todos los magos de Egipto, y a todos sus sabios; y les contó faraón su sueño, y no había quien lo interpretase a faraón."
       },
       {
-        "number": "9",
-        "hebrew": "וַיְדַבֵּר֙ שַׂ֣ר הַמַּשְׁקִ֔ים אֶת־ פַּרְעֹ֖ה לֵאמֹ֑ר אֶת־ חֲטָאַ֕י אֲנִ֖י מַזְכִּ֥יר הַיּֽוֹם׃",
-        "text": null
+        "number": "9-11",
+        "hebrew": "וַיְדַבֵּר֙ שַׂ֣ר הַמַּשְׁקִ֔ים אֶת־ פַּרְעֹ֖ה לֵאמֹ֑ר אֶת־ חֲטָאַ֕י אֲנִ֖י מַזְכִּ֥יר הַיּֽוֹם׃ פַּרְעֹ֖ה קָצַ֣ף עַל־ עֲבָדָ֑יו וַיִּתֵּ֨ן אֹתִ֜י בְּמִשְׁמַ֗ר בֵּ֚ית שַׂ֣ר הַטַּבָּחִ֔ים אֹתִ֕י וְאֵ֖ת שַׂ֥ר הָאֹפִֽים׃ וַנַּֽחַלְמָ֥ה חֲל֛וֹם בְּלַ֥יְלָה אֶחָ֖ד אֲנִ֣י וָה֑וּא אִ֛ישׁ כְּפִתְר֥וֹן חֲלֹמ֖וֹ חָלָֽמְנוּ׃",
+        "text": "Entonces el jefe de los coperos habló a faraón: de mis pecados me acuerdo hoy: faraón se enojó contra sus siervos, y a mí me puso en prisión en casa del capitán de la guardia, a mí y al jefe de los panaderos. Y soñamos un sueño la misma noche, yo y él; cada uno soñó conforme a la interpretación de su sueño."
       },
       {
-        "number": "10",
-        "hebrew": "פַּרְעֹ֖ה קָצַ֣ף עַל־ עֲבָדָ֑יו וַיִּתֵּ֨ן אֹתִ֜י בְּמִשְׁמַ֗ר בֵּ֚ית שַׂ֣ר הַטַּבָּחִ֔ים אֹתִ֕י וְאֵ֖ת שַׂ֥ר הָאֹפִֽים׃",
-        "text": null
-      },
-      {
-        "number": "11",
-        "hebrew": "וַנַּֽחַלְמָ֥ה חֲל֛וֹם בְּלַ֥יְלָה אֶחָ֖ד אֲנִ֣י וָה֑וּא אִ֛ישׁ כְּפִתְר֥וֹן חֲלֹמ֖וֹ חָלָֽמְנוּ׃",
-        "text": null
-      },
-      {
-        "number": "12",
-        "hebrew": "וְשָׁ֨ם אִתָּ֜נוּ נַ֣עַר עִבְרִ֗י עֶ֚בֶד לְשַׂ֣ר הַטַּבָּחִ֔ים וַנְּ֨סַפֶּר־ ל֔וֹ וַיִּפְתָּר־ לָ֖נוּ אֶת־ חֲלֹמֹתֵ֑ינוּ אִ֥ישׁ כַּחֲלֹמ֖וֹ פָּתָֽר׃",
-        "text": null
-      },
-      {
-        "number": "13",
-        "hebrew": "וַיְהִ֛י כַּאֲשֶׁ֥ר פָּֽתַר־ לָ֖נוּ כֵּ֣ן הָיָ֑ה אֹתִ֛י הֵשִׁ֥יב עַל־ כַּנִּ֖י וְאֹת֥וֹ תָלָֽה׃",
-        "text": null
+        "number": "12-13",
+        "hebrew": "וְשָׁ֨ם אִתָּ֜נוּ נַ֣עַר עִבְרִ֗י עֶ֚בֶד לְשַׂ֣ר הַטַּבָּחִ֔ים וַנְּ֨סַפֶּר־ ל֔וֹ וַיִּפְתָּר־ לָ֖נוּ אֶת־ חֲלֹמֹתֵ֑ינוּ אִ֥ישׁ כַּחֲלֹמ֖וֹ פָּתָֽר׃ וַיְהִ֛י כַּאֲשֶׁ֥ר פָּֽתַר־ לָ֖נוּ כֵּ֣ן הָיָ֑ה אֹתִ֛י הֵשִׁ֥יב עַל־ כַּנִּ֖י וְאֹת֥וֹ תָלָֽה׃",
+        "text": "Y estaba allí con nosotros un joven hebreo, siervo del capitán de la guardia; y se lo contamos, y él nos interpretó nuestros sueños, a cada uno conforme a su sueño. Y aconteció que como él nos lo interpretó, así fue: a mí me hizo volver a mi puesto, e hizo colgar al otro."
       },
       {
         "number": "14",
         "hebrew": "וַיִּשְׁלַ֤ח פַּרְעֹה֙ וַיִּקְרָ֣א אֶת־ יוֹסֵ֔ף וַיְרִיצֻ֖הוּ מִן־ הַבּ֑וֹר וַיְגַלַּח֙ וַיְחַלֵּ֣ף שִׂמְלֹתָ֔יו וַיָּבֹ֖א אֶל־ פַּרְעֹֽה׃",
-        "text": null
+        "text": "Entonces faraón envió y llamó a José, y lo sacaron a toda prisa de la cárcel; y se afeitó, y se cambió de vestidos, y vino a faraón."
       },
       {
-        "number": "15",
-        "hebrew": "וַיֹּ֤אמֶר פַּרְעֹה֙ אֶל־ יוֹסֵ֔ף חֲל֣וֹם חָלַ֔מְתִּי וּפֹתֵ֖ר אֵ֣ין אֹת֑וֹ וַאֲנִ֗י שָׁמַ֤עְתִּי עָלֶ֨יךָ֙ לֵאמֹ֔ר תִּשְׁמַ֥ע חֲל֖וֹם לִפְתֹּ֥ר אֹתֽוֹ׃",
-        "text": null
+        "number": "15-16",
+        "hebrew": "וַיֹּ֤אמֶר פַּרְעֹה֙ אֶל־ יוֹסֵ֔ף חֲל֣וֹם חָלַ֔מְתִּי וּפֹתֵ֖ר אֵ֣ין אֹת֑וֹ וַאֲנִ֗י שָׁמַ֤עְתִּי עָלֶ֨יךָ֙ לֵאמֹ֔ר תִּשְׁמַ֥ע חֲל֖וֹם לִפְתֹּ֥ר אֹתֽוֹ׃ וַיַּ֨עַן יוֹסֵ֧ף אֶת־ פַּרְעֹ֛ה לֵאמֹ֖ר בִּלְעָדָ֑י אֱלֹהִ֕ים יַעֲנֶ֖ה אֶת־ שְׁל֥וֹם פַּרְעֹֽה׃",
+        "text": "Y dijo faraón a José: yo he tenido un sueño, y no hay quien lo interprete; mas he oído decir de ti, que sabes interpretar sueños. Y respondió José a faraón: no está en mí; Elohim será quien dé respuesta propicia a faraón."
       },
       {
-        "number": "16",
-        "hebrew": "וַיַּ֨עַן יוֹסֵ֧ף אֶת־ פַּרְעֹ֛ה לֵאמֹ֖ר בִּלְעָדָ֑י אֱלֹהִ֕ים יַעֲנֶ֖ה אֶת־ שְׁל֥וֹם פַּרְעֹֽה׃",
-        "text": null
+        "number": "17-21",
+        "hebrew": "וַיְדַבֵּ֥ר פַּרְעֹ֖ה אֶל־ יוֹסֵ֑ף בַּחֲלֹמִ֕י הִנְנִ֥י עֹמֵ֖ד עַל־ שְׂפַ֥ת הַיְאֹֽר׃ וְהִנֵּ֣ה מִן־ הַיְאֹ֗ר עֹלֹת֙ שֶׁ֣בַע פָּר֔וֹת בְּרִיא֥וֹת בָּשָׂ֖ר וִיפֹ֣ת תֹּ֑אַר וַתִּרְעֶ֖ינָה בָּאָֽחוּ׃ וְהִנֵּ֞ה שֶֽׁבַע־ פָּר֤וֹת אֲחֵרוֹת֙ עֹל֣וֹת אַחֲרֵיהֶ֔ן דַּלּ֨וֹת וְרָע֥וֹת תֹּ֛אַר מְאֹ֖ד וְרַקּ֣וֹת בָּשָׂ֑ר לֹֽא־ רָאִ֧יתִי כָהֵ֛נָּה בְּכָל־ אֶ֥רֶץ מִצְרַ֖יִם לָרֹֽעַ׃ וַתֹּאכַ֨לְנָה֙ הַפָּר֔וֹת הָרַקּ֖וֹת וְהָרָע֑וֹת אֵ֣ת שֶׁ֧בַע הַפָּר֛וֹת הָרִאשֹׁנ֖וֹת הַבְּרִיאֹֽת׃ וַתָּבֹ֣אנָה אֶל־ קִרְבֶּ֗נָה וְלֹ֤א נוֹדַע֙ כִּי־ בָ֣אוּ אֶל־ קִרְבֶּ֔נָה וּמַרְאֵיהֶ֣ן רַ֔ע כַּאֲשֶׁ֖ר בַּתְּחִלָּ֑ה וָאִיקָֽץ׃",
+        "text": "Entonces faraón dijo a José: en mi sueño estaba yo a la orilla del río; y del río subían siete vacas de gordo cuerpo y hermosa apariencia, y pacían en el prado. Y otras siete vacas subían después de ellas, flacas y de muy fea apariencia y enjutas de carne; no he visto otras semejantes en fealdad, en toda la tierra de Egipto. Y las vacas flacas y feas devoraban a las siete primeras vacas gordas; y entraban en sus entrañas, mas no se conocía que hubieran entrado, porque su apariencia era tan mala como al principio. Y desperté."
       },
       {
-        "number": "17",
-        "hebrew": "וַיְדַבֵּ֥ר פַּרְעֹ֖ה אֶל־ יוֹסֵ֑ף בַּחֲלֹמִ֕י הִנְנִ֥י עֹמֵ֖ד עַל־ שְׂפַ֥ת הַיְאֹֽר׃",
-        "text": null
+        "number": "22-24",
+        "hebrew": "וָאֵ֖רֶא בַּחֲלֹמִ֑י וְהִנֵּ֣ה ׀ שֶׁ֣בַע שִׁבֳּלִ֗ים עֹלֹ֛ת בְּקָנֶ֥ה אֶחָ֖ד מְלֵאֹ֥ת וְטֹבֽוֹת׃ וְהִנֵּה֙ שֶׁ֣בַע שִׁבֳּלִ֔ים צְנֻמ֥וֹת דַּקּ֖וֹת שְׁדֻפ֣וֹת קָדִ֑ים צֹמְח֖וֹת אַחֲרֵיהֶֽם׃ וַתִּבְלַ֨עְןָ֙ הָשִׁבֳּלִ֣ים הַדַּקֹּ֔ת אֵ֛ת שֶׁ֥בַע הַֽשִׁבֳּלִ֖ים הַטֹּב֑וֹת וָֽאֹמַר֙ אֶל־ הַֽחַרְטֻמִּ֔ים וְאֵ֥ין מַגִּ֖יד לִֽי׃",
+        "text": "Vi también soñando, y he aquí siete espigas subían en una sola caña, llenas y hermosas; y he aquí otras siete espigas secas, menudas y abatidas del viento solano, subían después de ellas; y las espigas menudas devoraban a las siete espigas hermosas. Y lo he dicho a los magos, mas no hay quien me lo interprete."
       },
       {
-        "number": "18",
-        "hebrew": "וְהִנֵּ֣ה מִן־ הַיְאֹ֗ר עֹלֹת֙ שֶׁ֣בַע פָּר֔וֹת בְּרִיא֥וֹת בָּשָׂ֖ר וִיפֹ֣ת תֹּ֑אַר וַתִּרְעֶ֖ינָה בָּאָֽחוּ׃",
-        "text": null
+        "number": "25-27",
+        "hebrew": "וַיֹּ֤אמֶר יוֹסֵף֙ אֶל־ פַּרְעֹ֔ה חֲל֥וֹם פַּרְעֹ֖ה אֶחָ֣ד ה֑וּא אֵ֣ת אֲשֶׁ֧ר הָאֱלֹהִ֛ים עֹשֶׂ֖ה הִגִּ֥יד לְפַרְעֹֽה׃ שֶׁ֧בַע פָּרֹ֣ת הַטֹּבֹ֗ת שֶׁ֤בַע שָׁנִים֙ הֵ֔נָּה וְשֶׁ֤בַע הַֽשִּׁבֳּלִים֙ הַטֹּבֹ֔ת שֶׁ֥בַע שָׁנִ֖ים הֵ֑נָּה חֲל֖וֹם אֶחָ֥ד הֽוּא׃ וְשֶׁ֣בַע הַ֠פָּרוֹת הָֽרַקּ֨וֹת וְהָרָעֹ֜ת הָעֹלֹ֣ת אַחֲרֵיהֶ֗ן שֶׁ֤בַע שָׁנִים֙ הֵ֔נָּה וְשֶׁ֤בַע הַֽשִׁבֳּלִים֙ הָרֵק֔וֹת שְׁדֻפ֖וֹת הַקָּדִ֑ים יִהְי֕וּ שֶׁ֖בַע שְׁנֵ֥י רָעָֽב׃",
+        "text": "Entonces respondió José a faraón: el sueño de faraón es uno mismo; Elohim ha mostrado a faraón lo que va a hacer. Las siete vacas hermosas son siete años, y las espigas hermosas son siete años: el sueño es uno mismo. También las siete vacas flacas y feas que subían tras ellas, son siete años; y las siete espigas menudas y abatidas del viento solano, siete años serán de hambre."
       },
       {
-        "number": "19",
-        "hebrew": "וְהִנֵּ֞ה שֶֽׁבַע־ פָּר֤וֹת אֲחֵרוֹת֙ עֹל֣וֹת אַחֲרֵיהֶ֔ן דַּלּ֨וֹת וְרָע֥וֹת תֹּ֛אַר מְאֹ֖ד וְרַקּ֣וֹת בָּשָׂ֑ר לֹֽא־ רָאִ֧יתִי כָהֵ֛נָּה בְּכָל־ אֶ֥רֶץ מִצְרַ֖יִם לָרֹֽעַ׃",
-        "text": null
+        "number": "28-32",
+        "hebrew": "ה֣וּא הַדָּבָ֔ר אֲשֶׁ֥ר דִּבַּ֖רְתִּי אֶל־ פַּרְעֹ֑ה אֲשֶׁ֧ר הָאֱלֹהִ֛ים עֹשֶׂ֖ה הֶרְאָ֥ה אֶת־ פַּרְעֹֽה׃ הִנֵּ֛ה שֶׁ֥בַע שָׁנִ֖ים בָּא֑וֹת שָׂבָ֥ע גָּד֖וֹל בְּכָל־ אֶ֥רֶץ מִצְרָֽיִם׃ וְ֠קָמוּ שֶׁ֜בַע שְׁנֵ֤י רָעָב֙ אַחֲרֵיהֶ֔ן וְנִשְׁכַּ֥ח כָּל־ הַשָּׂבָ֖ע בְּאֶ֣רֶץ מִצְרָ֑יִם וְכִלָּ֥ה הָרָעָ֖ב אֶת־ הָאָֽרֶץ׃ וְלֹֽא־ יִוָּדַ֤ע הַשָּׂבָע֙ בָּאָ֔רֶץ מִפְּנֵ֛י הָרָעָ֥ב הַה֖וּא אַחֲרֵי־ כֵ֑ן כִּֽי־ כָבֵ֥ד ה֖וּא מְאֹֽד׃ וְעַ֨ל הִשָּׁנ֧וֹת הַחֲל֛וֹם אֶל־ פַּרְעֹ֖ה פַּעֲמָ֑יִם כִּֽי־ נָכ֤וֹן הַדָּבָר֙ מֵעִ֣ם הָאֱלֹהִ֔ים וּמְמַהֵ֥ר הָאֱלֹהִ֖ים לַעֲשֹׂתֽוֹ׃",
+        "text": "Esto es lo que respondo a faraón: lo que Elohim va a hacer, lo ha mostrado a faraón. He aquí vienen siete años de gran abundancia en toda la tierra de Egipto. Y tras ellos vendrán siete años de hambre, y toda la abundancia será olvidada en la tierra de Egipto; y el hambre consumirá la tierra. Y aquella abundancia no se echará de ver, a causa del hambre siguiente, la cual será gravísima. Y el suceder el sueño dos veces a faraón, significa que la cosa es firme de parte de Elohim, y que Elohim se apresura a hacerla."
       },
       {
-        "number": "20",
-        "hebrew": "וַתֹּאכַ֨לְנָה֙ הַפָּר֔וֹת הָרַקּ֖וֹת וְהָרָע֑וֹת אֵ֣ת שֶׁ֧בַע הַפָּר֛וֹת הָרִאשֹׁנ֖וֹת הַבְּרִיאֹֽת׃",
-        "text": null
+        "number": "33-36",
+        "hebrew": "וְעַתָּה֙ יֵרֶ֣א פַרְעֹ֔ה אִ֖ישׁ נָב֣וֹן וְחָכָ֑ם וִישִׁיתֵ֖הוּ עַל־ אֶ֥רֶץ מִצְרָֽיִם׃ יַעֲשֶׂ֣ה פַרְעֹ֔ה וְיַפְקֵ֥ד פְּקִדִ֖ים עַל־ הָאָ֑רֶץ וְחִמֵּשׁ֙ אֶת־ אֶ֣רֶץ מִצְרַ֔יִם בְּשֶׁ֖בַע שְׁנֵ֥י הַשָּׂבָֽע׃ וְיִקְבְּצ֗וּ אֶת־ כָּל־ אֹ֨כֶל֙ הַשָּׁנִ֣ים הַטֹּבֹ֔ת הַבָּאֹ֖ת הָאֵ֑לֶּה וְיִצְבְּרוּ־ בָ֞ר תַּ֧חַת יַד־ פַּרְעֹ֛ה אֹ֥כֶל בֶּעָרִ֖ים וְשָׁמָֽרוּ׃ וְהָיָ֨ה הָאֹ֤כֶל לְפִקָּדוֹן֙ לָאָ֔רֶץ לְשֶׁ֨בַע֙ שְׁנֵ֣י הָרָעָ֔ב אֲשֶׁ֥ר תִּהְיֶ֖יןָ בְּאֶ֣רֶץ מִצְרָ֑יִם וְלֹֽא־ תִכָּרֵ֥ת הָאָ֖רֶץ בָּרָעָֽב׃",
+        "text": "Por tanto, provéase ahora faraón de un varón prudente y sabio, y póngalo sobre la tierra de Egipto. Haga esto faraón, y ponga gobernadores sobre el país, y quinte la tierra de Egipto en los siete años de abundancia. Y junten toda la provisión de estos buenos años que vienen, y almacenen el trigo bajo la mano de faraón para mantenimiento de las ciudades; y guárdenlo. Y esté aquella provisión en depósito para el país, para los siete años de hambre que habrá en la tierra de Egipto, y el país no perecerá de hambre."
       },
       {
-        "number": "21",
-        "hebrew": "וַתָּבֹ֣אנָה אֶל־ קִרְבֶּ֗נָה וְלֹ֤א נוֹדַע֙ כִּי־ בָ֣אוּ אֶל־ קִרְבֶּ֔נָה וּמַרְאֵיהֶ֣ן רַ֔ע כַּאֲשֶׁ֖ר בַּתְּחִלָּ֑ה וָאִיקָֽץ׃",
-        "text": null
+        "number": "37-38",
+        "hebrew": "וַיִּיטַ֥ב הַדָּבָ֖ר בְּעֵינֵ֣י פַרְעֹ֑ה וּבְעֵינֵ֖י כָּל־ עֲבָדָֽיו׃ וַיֹּ֥אמֶר פַּרְעֹ֖ה אֶל־ עֲבָדָ֑יו הֲנִמְצָ֣א כָזֶ֔ה אִ֕ישׁ אֲשֶׁ֛ר ר֥וּחַ אֱלֹהִ֖ים בּֽוֹ׃",
+        "text": "Y pareció bien el asunto a faraón, y a todos sus siervos. Y dijo faraón a sus siervos: ¿acaso hallaremos otro varón como este, en quien esté el aliento de Elohim¹⁹⁴?"
       },
       {
-        "number": "22",
-        "hebrew": "וָאֵ֖רֶא בַּחֲלֹמִ֑י וְהִנֵּ֣ה ׀ שֶׁ֣בַע שִׁבֳּלִ֗ים עֹלֹ֛ת בְּקָנֶ֥ה אֶחָ֖ד מְלֵאֹ֥ת וְטֹבֽוֹת׃",
-        "text": null
+        "number": "39-41",
+        "hebrew": "וַיֹּ֤אמֶר פַּרְעֹה֙ אֶל־ יוֹסֵ֔ף אַחֲרֵ֨י הוֹדִ֧יעַ אֱלֹהִ֛ים אוֹתְךָ֖ אֶת־ כָּל־ זֹ֑את אֵין־ נָב֥וֹן וְחָכָ֖ם כָּמֽוֹךָ׃ אַתָּה֙ תִּהְיֶ֣ה עַל־ בֵּיתִ֔י וְעַל־ פִּ֖יךָ יִשַּׁ֣ק כָּל־ עַמִּ֑י רַ֥ק הַכִּסֵּ֖א אֶגְדַּ֥ל מִמֶּֽךָּ׃ וַיֹּ֥אמֶר פַּרְעֹ֖ה אֶל־ יוֹסֵ֑ף רְאֵה֙ נָתַ֣תִּי אֹֽתְךָ֔ עַ֖ל כָּל־ אֶ֥רֶץ מִצְרָֽיִם׃",
+        "text": "Y dijo faraón a José: pues que Elohim te ha hecho saber todo esto, no hay entendido ni sabio como tú. Tú estarás sobre mi casa, y por tu palabra se gobernará todo mi pueblo; solamente en el trono seré yo mayor que tú. Dijo más faraón a José: he aquí yo te he puesto sobre toda la tierra de Egipto."
       },
       {
-        "number": "23",
-        "hebrew": "וְהִנֵּה֙ שֶׁ֣בַע שִׁבֳּלִ֔ים צְנֻמ֥וֹת דַּקּ֖וֹת שְׁדֻפ֣וֹת קָדִ֑ים צֹמְח֖וֹת אַחֲרֵיהֶֽם׃",
-        "text": null
-      },
-      {
-        "number": "24",
-        "hebrew": "וַתִּבְלַ֨עְןָ֙ הָשִׁבֳּלִ֣ים הַדַּקֹּ֔ת אֵ֛ת שֶׁ֥בַע הַֽשִׁבֳּלִ֖ים הַטֹּב֑וֹת וָֽאֹמַר֙ אֶל־ הַֽחַרְטֻמִּ֔ים וְאֵ֥ין מַגִּ֖יד לִֽי׃",
-        "text": null
-      },
-      {
-        "number": "25",
-        "hebrew": "וַיֹּ֤אמֶר יוֹסֵף֙ אֶל־ פַּרְעֹ֔ה חֲל֥וֹם פַּרְעֹ֖ה אֶחָ֣ד ה֑וּא אֵ֣ת אֲשֶׁ֧ר הָאֱלֹהִ֛ים עֹשֶׂ֖ה הִגִּ֥יד לְפַרְעֹֽה׃",
-        "text": null
-      },
-      {
-        "number": "26",
-        "hebrew": "שֶׁ֧בַע פָּרֹ֣ת הַטֹּבֹ֗ת שֶׁ֤בַע שָׁנִים֙ הֵ֔נָּה וְשֶׁ֤בַע הַֽשִּׁבֳּלִים֙ הַטֹּבֹ֔ת שֶׁ֥בַע שָׁנִ֖ים הֵ֑נָּה חֲל֖וֹם אֶחָ֥ד הֽוּא׃",
-        "text": null
-      },
-      {
-        "number": "27",
-        "hebrew": "וְשֶׁ֣בַע הַ֠פָּרוֹת הָֽרַקּ֨וֹת וְהָרָעֹ֜ת הָעֹלֹ֣ת אַחֲרֵיהֶ֗ן שֶׁ֤בַע שָׁנִים֙ הֵ֔נָּה וְשֶׁ֤בַע הַֽשִׁבֳּלִים֙ הָרֵק֔וֹת שְׁדֻפ֖וֹת הַקָּדִ֑ים יִהְי֕וּ שֶׁ֖בַע שְׁנֵ֥י רָעָֽב׃",
-        "text": null
-      },
-      {
-        "number": "28",
-        "hebrew": "ה֣וּא הַדָּבָ֔ר אֲשֶׁ֥ר דִּבַּ֖רְתִּי אֶל־ פַּרְעֹ֑ה אֲשֶׁ֧ר הָאֱלֹהִ֛ים עֹשֶׂ֖ה הֶרְאָ֥ה אֶת־ פַּרְעֹֽה׃",
-        "text": null
-      },
-      {
-        "number": "29",
-        "hebrew": "הִנֵּ֛ה שֶׁ֥בַע שָׁנִ֖ים בָּא֑וֹת שָׂבָ֥ע גָּד֖וֹל בְּכָל־ אֶ֥רֶץ מִצְרָֽיִם׃",
-        "text": null
-      },
-      {
-        "number": "30",
-        "hebrew": "וְ֠קָמוּ שֶׁ֜בַע שְׁנֵ֤י רָעָב֙ אַחֲרֵיהֶ֔ן וְנִשְׁכַּ֥ח כָּל־ הַשָּׂבָ֖ע בְּאֶ֣רֶץ מִצְרָ֑יִם וְכִלָּ֥ה הָרָעָ֖ב אֶת־ הָאָֽרֶץ׃",
-        "text": null
-      },
-      {
-        "number": "31",
-        "hebrew": "וְלֹֽא־ יִוָּדַ֤ע הַשָּׂבָע֙ בָּאָ֔רֶץ מִפְּנֵ֛י הָרָעָ֥ב הַה֖וּא אַחֲרֵי־ כֵ֑ן כִּֽי־ כָבֵ֥ד ה֖וּא מְאֹֽד׃",
-        "text": null
-      },
-      {
-        "number": "32",
-        "hebrew": "וְעַ֨ל הִשָּׁנ֧וֹת הַחֲל֛וֹם אֶל־ פַּרְעֹ֖ה פַּעֲמָ֑יִם כִּֽי־ נָכ֤וֹן הַדָּבָר֙ מֵעִ֣ם הָאֱלֹהִ֔ים וּמְמַהֵ֥ר הָאֱלֹהִ֖ים לַעֲשֹׂתֽוֹ׃",
-        "text": null
-      },
-      {
-        "number": "33",
-        "hebrew": "וְעַתָּה֙ יֵרֶ֣א פַרְעֹ֔ה אִ֖ישׁ נָב֣וֹן וְחָכָ֑ם וִישִׁיתֵ֖הוּ עַל־ אֶ֥רֶץ מִצְרָֽיִם׃",
-        "text": null
-      },
-      {
-        "number": "34",
-        "hebrew": "יַעֲשֶׂ֣ה פַרְעֹ֔ה וְיַפְקֵ֥ד פְּקִדִ֖ים עַל־ הָאָ֑רֶץ וְחִמֵּשׁ֙ אֶת־ אֶ֣רֶץ מִצְרַ֔יִם בְּשֶׁ֖בַע שְׁנֵ֥י הַשָּׂבָֽע׃",
-        "text": null
-      },
-      {
-        "number": "35",
-        "hebrew": "וְיִקְבְּצ֗וּ אֶת־ כָּל־ אֹ֨כֶל֙ הַשָּׁנִ֣ים הַטֹּבֹ֔ת הַבָּאֹ֖ת הָאֵ֑לֶּה וְיִצְבְּרוּ־ בָ֞ר תַּ֧חַת יַד־ פַּרְעֹ֛ה אֹ֥כֶל בֶּעָרִ֖ים וְשָׁמָֽרוּ׃",
-        "text": null
-      },
-      {
-        "number": "36",
-        "hebrew": "וְהָיָ֨ה הָאֹ֤כֶל לְפִקָּדוֹן֙ לָאָ֔רֶץ לְשֶׁ֨בַע֙ שְׁנֵ֣י הָרָעָ֔ב אֲשֶׁ֥ר תִּהְיֶ֖יןָ בְּאֶ֣רֶץ מִצְרָ֑יִם וְלֹֽא־ תִכָּרֵ֥ת הָאָ֖רֶץ בָּרָעָֽב׃",
-        "text": null
-      },
-      {
-        "number": "37",
-        "hebrew": "וַיִּיטַ֥ב הַדָּבָ֖ר בְּעֵינֵ֣י פַרְעֹ֑ה וּבְעֵינֵ֖י כָּל־ עֲבָדָֽיו׃",
-        "text": null
-      },
-      {
-        "number": "38",
-        "hebrew": "וַיֹּ֥אמֶר פַּרְעֹ֖ה אֶל־ עֲבָדָ֑יו הֲנִמְצָ֣א כָזֶ֔ה אִ֕ישׁ אֲשֶׁ֛ר ר֥וּחַ אֱלֹהִ֖ים בּֽוֹ׃",
-        "text": null
-      },
-      {
-        "number": "39",
-        "hebrew": "וַיֹּ֤אמֶר פַּרְעֹה֙ אֶל־ יוֹסֵ֔ף אַחֲרֵ֨י הוֹדִ֧יעַ אֱלֹהִ֛ים אוֹתְךָ֖ אֶת־ כָּל־ זֹ֑את אֵין־ נָב֥וֹן וְחָכָ֖ם כָּמֽוֹךָ׃",
-        "text": null
-      },
-      {
-        "number": "40",
-        "hebrew": "אַתָּה֙ תִּהְיֶ֣ה עַל־ בֵּיתִ֔י וְעַל־ פִּ֖יךָ יִשַּׁ֣ק כָּל־ עַמִּ֑י רַ֥ק הַכִּסֵּ֖א אֶגְדַּ֥ל מִמֶּֽךָּ׃",
-        "text": null
-      },
-      {
-        "number": "41",
-        "hebrew": "וַיֹּ֥אמֶר פַּרְעֹ֖ה אֶל־ יוֹסֵ֑ף רְאֵה֙ נָתַ֣תִּי אֹֽתְךָ֔ עַ֖ל כָּל־ אֶ֥רֶץ מִצְרָֽיִם׃",
-        "text": null
-      },
-      {
-        "number": "42",
-        "hebrew": "וַיָּ֨סַר פַּרְעֹ֤ה אֶת־ טַבַּעְתּוֹ֙ מֵעַ֣ל יָד֔וֹ וַיִּתֵּ֥ן אֹתָ֖הּ עַל־ יַ֣ד יוֹסֵ֑ף וַיַּלְבֵּ֤שׁ אֹתוֹ֙ בִּגְדֵי־ שֵׁ֔שׁ וַיָּ֛שֶׂם רְבִ֥ד הַזָּהָ֖ב עַל־ צַוָּארֽוֹ׃",
-        "text": null
-      },
-      {
-        "number": "43",
-        "hebrew": "וַיַּרְכֵּ֣ב אֹת֗וֹ בְּמִרְכֶּ֤בֶת הַמִּשְׁנֶה֙ אֲשֶׁר־ ל֔וֹ וַיִּקְרְא֥וּ לְפָנָ֖יו אַבְרֵ֑ךְ וְנָת֣וֹן אֹת֔וֹ עַ֖ל כָּל־ אֶ֥רֶץ מִצְרָֽיִם׃",
-        "text": null
+        "number": "42-43",
+        "hebrew": "וַיָּ֨סַר פַּרְעֹ֤ה אֶת־ טַבַּעְתּוֹ֙ מֵעַ֣ל יָד֔וֹ וַיִּתֵּ֥ן אֹתָ֖הּ עַל־ יַ֣ד יוֹסֵ֑ף וַיַּלְבֵּ֤שׁ אֹתוֹ֙ בִּגְדֵי־ שֵׁ֔שׁ וַיָּ֛שֶׂם רְבִ֥ד הַזָּהָ֖ב עַל־ צַוָּארֽוֹ׃ וַיַּרְכֵּ֣ב אֹת֗וֹ בְּמִרְכֶּ֤בֶת הַמִּשְׁנֶה֙ אֲשֶׁר־ ל֔וֹ וַיִּקְרְא֥וּ לְפָנָ֖יו אַבְרֵ֑ךְ וְנָת֣וֹן אֹת֔וֹ עַ֖ל כָּל־ אֶ֥רֶץ מִצְרָֽיִם׃",
+        "text": "Entonces faraón se quitó su anillo de su mano, y lo puso en la mano de José, y lo vistió de vestiduras de lino finísimo, y puso un collar de oro en su cuello; y lo hizo subir en su segundo carro, y pregonaban delante de él: ¡Abrej¹⁹⁵! Y lo puso sobre toda la tierra de Egipto."
       },
       {
         "number": "44",
         "hebrew": "וַיֹּ֧אמֶר פַּרְעֹ֛ה אֶל־ יוֹסֵ֖ף אֲנִ֣י פַרְעֹ֑ה וּבִלְעָדֶ֗יךָ לֹֽא־ יָרִ֨ים אִ֧ישׁ אֶת־ יָד֛וֹ וְאֶת־ רַגְל֖וֹ בְּכָל־ אֶ֥רֶץ מִצְרָֽיִם׃",
-        "text": null
+        "text": "Y dijo faraón a José: yo soy faraón; y sin ti ninguno alzará su mano ni su pie en toda la tierra de Egipto."
       },
       {
-        "number": "45",
-        "hebrew": "וַיִּקְרָ֨א פַרְעֹ֣ה שֵׁם־ יוֹסֵף֮ צָֽפְנַ֣ת פַּעְנֵחַ֒ וַיִּתֶּן־ ל֣וֹ אֶת־ אָֽסְנַ֗ת בַּת־ פּ֥וֹטִי פֶ֛רַע כֹּהֵ֥ן אֹ֖ן לְאִשָּׁ֑ה וַיֵּצֵ֥א יוֹסֵ֖ף עַל־ אֶ֥רֶץ מִצְרָֽיִם׃",
-        "text": null
+        "number": "45-46",
+        "hebrew": "וַיִּקְרָ֨א פַרְעֹ֣ה שֵׁם־ יוֹסֵף֮ צָֽפְנַ֣ת פַּעְנֵחַ֒ וַיִּתֶּן־ ל֣וֹ אֶת־ אָֽסְנַ֗ת בַּת־ פּ֥וֹטִי פֶ֛רַע כֹּהֵ֥ן אֹ֖ן לְאִשָּׁ֑ה וַיֵּצֵ֥א יוֹסֵ֖ף עַל־ אֶ֥רֶץ מִצְרָֽיִם׃ וְיוֹסֵף֙ בֶּן־ שְׁלֹשִׁ֣ים שָׁנָ֔ה בְּעָמְד֕וֹ לִפְנֵ֖י פַּרְעֹ֣ה מֶֽלֶךְ־ מִצְרָ֑יִם וַיֵּצֵ֤א יוֹסֵף֙ מִלִּפְנֵ֣י פַרְעֹ֔ה וַֽיַּעְבֹ֖ר בְּכָל־ אֶ֥רֶץ מִצְרָֽיִם׃",
+        "text": "Y llamó faraón el nombre de José, Tzafnat-Panéaj¹⁹⁶; y le dio por ishah a Asenat, hija de Poti-Fera sacerdote de On. Y salió José por toda la tierra de Egipto. Era José de edad de treinta años cuando fue presentado delante de faraón rey de Egipto. Y salió José de delante de faraón, y recorrió toda la tierra de Egipto."
       },
       {
-        "number": "46",
-        "hebrew": "וְיוֹסֵף֙ בֶּן־ שְׁלֹשִׁ֣ים שָׁנָ֔ה בְּעָמְד֕וֹ לִפְנֵ֖י פַּרְעֹ֣ה מֶֽלֶךְ־ מִצְרָ֑יִם וַיֵּצֵ֤א יוֹסֵף֙ מִלִּפְנֵ֣י פַרְעֹ֔ה וַֽיַּעְבֹ֖ר בְּכָל־ אֶ֥רֶץ מִצְרָֽיִם׃",
-        "text": null
+        "number": "47-49",
+        "hebrew": "וַתַּ֣עַשׂ הָאָ֔רֶץ בְּשֶׁ֖בַע שְׁנֵ֣י הַשָּׂבָ֑ע לִקְמָצִֽים׃ וַיִּקְבֹּ֞ץ אֶת־ כָּל־ אֹ֣כֶל ׀ שֶׁ֣בַע שָׁנִ֗ים אֲשֶׁ֤ר הָיוּ֙ בְּאֶ֣רֶץ מִצְרַ֔יִם וַיִּתֶּן־ אֹ֖כֶל בֶּעָרִ֑ים אֹ֧כֶל שְׂדֵה־ הָעִ֛יר אֲשֶׁ֥ר סְבִיבֹתֶ֖יהָ נָתַ֥ן בְּתוֹכָֽהּ׃ וַיִּצְבֹּ֨ר יוֹסֵ֥ף בָּ֛ר כְּח֥וֹל הַיָּ֖ם הַרְבֵּ֣ה מְאֹ֑ד עַ֛ד כִּי־ חָדַ֥ל לִסְפֹּ֖ר כִּי־ אֵ֥ין מִסְפָּֽר׃",
+        "text": "E hizo la tierra en aquellos siete años de abundancia a montones. Y él reunió todo el alimento de los siete años que hubo en la tierra de Egipto, y guardó alimento en las ciudades, poniendo en cada ciudad el alimento del campo de sus alrededores. Y amontonó José trigo como arena del mar, mucho en extremo, hasta dejar de contar, porque no tenía número."
       },
       {
-        "number": "47",
-        "hebrew": "וַתַּ֣עַשׂ הָאָ֔רֶץ בְּשֶׁ֖בַע שְׁנֵ֣י הַשָּׂבָ֑ע לִקְמָצִֽים׃",
-        "text": null
+        "number": "50-52",
+        "hebrew": "וּלְיוֹסֵ֤ף יֻלַּד֙ שְׁנֵ֣י בָנִ֔ים בְּטֶ֥רֶם תָּב֖וֹא שְׁנַ֣ת הָרָעָ֑ב אֲשֶׁ֤ר יָֽלְדָה־ לּוֹ֙ אָֽסְנַ֔ת בַּת־ פּ֥וֹטִי פֶ֖רַע כֹּהֵ֥ן אֽוֹן׃ וַיִּקְרָ֥א יוֹסֵ֛ף אֶת־ שֵׁ֥ם הַבְּכ֖וֹר מְנַשֶּׁ֑ה כִּֽי־ נַשַּׁ֤נִי אֱלֹהִים֙ אֶת־ כָּל־ עֲמָלִ֔י וְאֵ֖ת כָּל־ בֵּ֥ית אָבִֽי׃ וְאֵ֛ת שֵׁ֥ם הַשֵּׁנִ֖י קָרָ֣א אֶפְרָ֑יִם כִּֽי־ הִפְרַ֥נִי אֱלֹהִ֖ים בְּאֶ֥רֶץ עָנְיִֽי׃",
+        "text": "Y antes que viniese el primer año del hambre, le nacieron a José dos hijos, que le dio a luz Asenat hija de Poti-Fera sacerdote de On. Y llamó José el nombre del primogénito Menashé¹⁹⁷, porque dijo: Elohim me hizo olvidar todo mi trabajo, y toda la casa de mi padre. Y el nombre del segundo lo llamó Efráyim, porque dijo: Elohim me hizo fructificar en la tierra de mi aflicción."
       },
       {
-        "number": "48",
-        "hebrew": "וַיִּקְבֹּ֞ץ אֶת־ כָּל־ אֹ֣כֶל ׀ שֶׁ֣בַע שָׁנִ֗ים אֲשֶׁ֤ר הָיוּ֙ בְּאֶ֣רֶץ מִצְרַ֔יִם וַיִּתֶּן־ אֹ֖כֶל בֶּעָרִ֑ים אֹ֧כֶל שְׂדֵה־ הָעִ֛יר אֲשֶׁ֥ר סְבִיבֹתֶ֖יהָ נָתַ֥ן בְּתוֹכָֽהּ׃",
-        "text": null
+        "number": "53-55",
+        "hebrew": "וַתִּכְלֶ֕ינָה שֶׁ֖בַע שְׁנֵ֣י הַשָּׂבָ֑ע אֲשֶׁ֥ר הָיָ֖ה בְּאֶ֥רֶץ מִצְרָֽיִם׃ וַתְּחִלֶּ֜ינָה שֶׁ֣בַע שְׁנֵ֤י הָרָעָב֙ לָב֔וֹא כַּאֲשֶׁ֖ר אָמַ֣ר יוֹסֵ֑ף וַיְהִ֤י רָעָב֙ בְּכָל־ הָ֣אֲרָצ֔וֹת וּבְכָל־ אֶ֥רֶץ מִצְרַ֖יִם הָ֥יָה לָֽחֶם׃ וַתִּרְעַב֙ כָּל־ אֶ֣רֶץ מִצְרַ֔יִם וַיִּצְעַ֥ק הָעָ֛ם אֶל־ פַּרְעֹ֖ה לַלָּ֑חֶם וַיֹּ֨אמֶר פַּרְעֹ֤ה לְכָל־ מִצְרַ֨יִם֙ לְכ֣וּ אֶל־ יוֹסֵ֔ף אֲשֶׁר־ יֹאמַ֥ר לָכֶ֖ם תַּעֲשֽׂוּ׃",
+        "text": "Y se cumplieron los siete años de abundancia que hubo en la tierra de Egipto; y comenzaron a venir los siete años de hambre, como José había dicho; y hubo hambre en todos los países, mas en toda la tierra de Egipto había pan. Y cuando se sintió el hambre en toda la tierra de Egipto, el pueblo clamó a faraón por pan; y dijo faraón a todos los egipcios: id a José, y haced lo que él os dijere."
       },
       {
-        "number": "49",
-        "hebrew": "וַיִּצְבֹּ֨ר יוֹסֵ֥ף בָּ֛ר כְּח֥וֹל הַיָּ֖ם הַרְבֵּ֣ה מְאֹ֑ד עַ֛ד כִּי־ חָדַ֥ל לִסְפֹּ֖ר כִּי־ אֵ֥ין מִסְפָּֽר׃",
-        "text": null
-      },
-      {
-        "number": "50",
-        "hebrew": "וּלְיוֹסֵ֤ף יֻלַּד֙ שְׁנֵ֣י בָנִ֔ים בְּטֶ֥רֶם תָּב֖וֹא שְׁנַ֣ת הָרָעָ֑ב אֲשֶׁ֤ר יָֽלְדָה־ לּוֹ֙ אָֽסְנַ֔ת בַּת־ פּ֥וֹטִי פֶ֖רַע כֹּהֵ֥ן אֽוֹן׃",
-        "text": null
-      },
-      {
-        "number": "51",
-        "hebrew": "וַיִּקְרָ֥א יוֹסֵ֛ף אֶת־ שֵׁ֥ם הַבְּכ֖וֹר מְנַשֶּׁ֑ה כִּֽי־ נַשַּׁ֤נִי אֱלֹהִים֙ אֶת־ כָּל־ עֲמָלִ֔י וְאֵ֖ת כָּל־ בֵּ֥ית אָבִֽי׃",
-        "text": null
-      },
-      {
-        "number": "52",
-        "hebrew": "וְאֵ֛ת שֵׁ֥ם הַשֵּׁנִ֖י קָרָ֣א אֶפְרָ֑יִם כִּֽי־ הִפְרַ֥נִי אֱלֹהִ֖ים בְּאֶ֥רֶץ עָנְיִֽי׃",
-        "text": null
-      },
-      {
-        "number": "53",
-        "hebrew": "וַתִּכְלֶ֕ינָה שֶׁ֖בַע שְׁנֵ֣י הַשָּׂבָ֑ע אֲשֶׁ֥ר הָיָ֖ה בְּאֶ֥רֶץ מִצְרָֽיִם׃",
-        "text": null
-      },
-      {
-        "number": "54",
-        "hebrew": "וַתְּחִלֶּ֜ינָה שֶׁ֣בַע שְׁנֵ֤י הָרָעָב֙ לָב֔וֹא כַּאֲשֶׁ֖ר אָמַ֣ר יוֹסֵ֑ף וַיְהִ֤י רָעָב֙ בְּכָל־ הָ֣אֲרָצ֔וֹת וּבְכָל־ אֶ֥רֶץ מִצְרַ֖יִם הָ֥יָה לָֽחֶם׃",
-        "text": null
-      },
-      {
-        "number": "55",
-        "hebrew": "וַתִּרְעַב֙ כָּל־ אֶ֣רֶץ מִצְרַ֔יִם וַיִּצְעַ֥ק הָעָ֛ם אֶל־ פַּרְעֹ֖ה לַלָּ֑חֶם וַיֹּ֨אמֶר פַּרְעֹ֤ה לְכָל־ מִצְרַ֨יִם֙ לְכ֣וּ אֶל־ יוֹסֵ֔ף אֲשֶׁר־ יֹאמַ֥ר לָכֶ֖ם תַּעֲשֽׂוּ׃",
-        "text": null
-      },
-      {
-        "number": "56",
-        "hebrew": "וְהָרָעָ֣ב הָיָ֔ה עַ֖ל כָּל־ פְּנֵ֣י הָאָ֑רֶץ וַיִּפְתַּ֨ח יוֹסֵ֜ף אֶֽת־ כָּל־ אֲשֶׁ֤ר בָּהֶם֙ וַיִּשְׁבֹּ֣ר לְמִצְרַ֔יִם וַיֶּחֱזַ֥ק הָֽרָעָ֖ב בְּאֶ֥רֶץ מִצְרָֽיִם׃",
-        "text": null
-      },
-      {
-        "number": "57",
-        "hebrew": "וְכָל־ הָאָ֨רֶץ֙ בָּ֣אוּ מִצְרַ֔יְמָה לִשְׁבֹּ֖ר אֶל־ יוֹסֵ֑ף כִּֽי־ חָזַ֥ק הָרָעָ֖ב בְּכָל־ הָאָֽרֶץ׃",
-        "text": null
+        "number": "56-57",
+        "hebrew": "וְהָרָעָ֣ב הָיָ֔ה עַ֖ל כָּל־ פְּנֵ֣י הָאָ֑רֶץ וַיִּפְתַּ֨ח יוֹסֵ֜ף אֶֽת־ כָּל־ אֲשֶׁ֤ר בָּהֶם֙ וַיִּשְׁבֹּ֣ר לְמִצְרַ֔יִם וַיֶּחֱזַ֥ק הָֽרָעָ֖ב בְּאֶ֥רֶץ מִצְרָֽיִם׃ וְכָל־ הָאָ֨רֶץ֙ בָּ֣אוּ מִצְרַ֔יְמָה לִשְׁבֹּ֖ר אֶל־ יוֹסֵ֑ף כִּֽי־ חָזַ֥ק הָרָעָ֖ב בְּכָל־ הָאָֽרֶץ׃",
+        "text": "Y el hambre estaba por toda la faz de la tierra; entonces abrió José todos los almacenes donde había alimento, y vendía a los egipcios; porque el hambre había prevalecido en la tierra de Egipto. Y toda la tierra venía a Egipto para comprar de José, porque por toda la tierra había prevalecido el hambre."
       }
     ],
     "42": [
       {
-        "number": "1",
-        "hebrew": "וַיַּ֣רְא יַעֲקֹ֔ב כִּ֥י יֶשׁ־ שֶׁ֖בֶר בְּמִצְרָ֑יִם וַיֹּ֤אמֶר יַעֲקֹב֙ לְבָנָ֔יו לָ֖מָּה תִּתְרָאֽוּ׃",
-        "text": null
+        "number": "1-2",
+        "hebrew": "וַיַּ֣רְא יַעֲקֹ֔ב כִּ֥י יֶשׁ־ שֶׁ֖בֶר בְּמִצְרָ֑יִם וַיֹּ֤אמֶר יַעֲקֹב֙ לְבָנָ֔יו לָ֖מָּה תִּתְרָאֽוּ׃ וַיֹּ֕אמֶר הִנֵּ֣ה שָׁמַ֔עְתִּי כִּ֥י יֶשׁ־ שֶׁ֖בֶר בְּמִצְרָ֑יִם רְדוּ־ שָׁ֨מָּה֙ וְשִׁבְרוּ־ לָ֣נוּ מִשָּׁ֔ם וְנִחְיֶ֖ה וְלֹ֥א נָמֽוּת׃",
+        "text": "Viendo Jacob que había alimentos en Egipto, dijo a sus hijos: ¿por qué os miráis unos a otros? Y dijo: he aquí he oído que hay alimentos en Egipto; descended allá, y comprad de allí para nosotros, para que vivamos y no muramos."
       },
       {
-        "number": "2",
-        "hebrew": "וַיֹּ֕אמֶר הִנֵּ֣ה שָׁמַ֔עְתִּי כִּ֥י יֶשׁ־ שֶׁ֖בֶר בְּמִצְרָ֑יִם רְדוּ־ שָׁ֨מָּה֙ וְשִׁבְרוּ־ לָ֣נוּ מִשָּׁ֔ם וְנִחְיֶ֖ה וְלֹ֥א נָמֽוּת׃",
-        "text": null
+        "number": "3-4",
+        "hebrew": "וַיֵּרְד֥וּ אֲחֵֽי־ יוֹסֵ֖ף עֲשָׂרָ֑ה לִשְׁבֹּ֥ר בָּ֖ר מִמִּצְרָֽיִם׃ וְאֶת־ בִּנְיָמִין֙ אֲחִ֣י יוֹסֵ֔ף לֹא־ שָׁלַ֥ח יַעֲקֹ֖ב אֶת־ אֶחָ֑יו כִּ֣י אָמַ֔ר פֶּן־ יִקְרָאֶ֖נּוּ אָסֽוֹן׃",
+        "text": "Y descendieron diez hermanos de José a comprar trigo en Egipto. Mas a Binyamín, hermano de José, no lo envió Jacob con sus hermanos, porque dijo: no sea que le acontezca algún desastre."
       },
       {
-        "number": "3",
-        "hebrew": "וַיֵּרְד֥וּ אֲחֵֽי־ יוֹסֵ֖ף עֲשָׂרָ֑ה לִשְׁבֹּ֥ר בָּ֖ר מִמִּצְרָֽיִם׃",
-        "text": null
+        "number": "5-6",
+        "hebrew": "וַיָּבֹ֨אוּ֙ בְּנֵ֣י יִשְׂרָאֵ֔ל לִשְׁבֹּ֖ר בְּת֣וֹךְ הַבָּאִ֑ים כִּֽי־ הָיָ֥ה הָרָעָ֖ב בְּאֶ֥רֶץ כְּנָֽעַן׃ וְיוֹסֵ֗ף ה֚וּא הַשַּׁלִּ֣יט עַל־ הָאָ֔רֶץ ה֥וּא הַמַּשְׁבִּ֖יר לְכָל־ עַ֣ם הָאָ֑רֶץ וַיָּבֹ֨אוּ֙ אֲחֵ֣י יוֹסֵ֔ף וַיִּשְׁתַּֽחֲווּ־ ל֥וֹ אַפַּ֖יִם אָֽרְצָה׃",
+        "text": "Y vinieron los hijos de Israel a comprar entre los que venían, porque había hambre en la tierra de Canaán. Y José era el señor de la tierra, y él vendía a todo el pueblo de la tierra; y llegaron los hermanos de José, y se inclinaron a él con el rostro a tierra."
       },
       {
-        "number": "4",
-        "hebrew": "וְאֶת־ בִּנְיָמִין֙ אֲחִ֣י יוֹסֵ֔ף לֹא־ שָׁלַ֥ח יַעֲקֹ֖ב אֶת־ אֶחָ֑יו כִּ֣י אָמַ֔ר פֶּן־ יִקְרָאֶ֖נּוּ אָסֽוֹן׃",
-        "text": null
+        "number": "7-8",
+        "hebrew": "וַיַּ֥רְא יוֹסֵ֛ף אֶת־ אֶחָ֖יו וַיַּכִּרֵ֑ם וַיִּתְנַכֵּ֨ר אֲלֵיהֶ֜ם וַיְדַבֵּ֧ר אִתָּ֣ם קָשׁ֗וֹת וַיֹּ֤אמֶר אֲלֵהֶם֙ מֵאַ֣יִן בָּאתֶ֔ם וַיֹּ֣אמְר֔וּ מֵאֶ֥רֶץ כְּנַ֖עַן לִשְׁבָּר־ אֹֽכֶל׃ וַיַּכֵּ֥ר יוֹסֵ֖ף אֶת־ אֶחָ֑יו וְהֵ֖ם לֹ֥א הִכִּרֻֽהוּ׃",
+        "text": "Y José, al ver a sus hermanos, los reconoció; mas hizo como que no los conocía, y les habló ásperamente: ¿de dónde habéis venido? Ellos respondieron: de la tierra de Canaán, para comprar alimentos. José, pues, reconoció a sus hermanos, pero ellos no lo reconocieron a él."
       },
       {
-        "number": "5",
-        "hebrew": "וַיָּבֹ֨אוּ֙ בְּנֵ֣י יִשְׂרָאֵ֔ל לִשְׁבֹּ֖ר בְּת֣וֹךְ הַבָּאִ֑ים כִּֽי־ הָיָ֥ה הָרָעָ֖ב בְּאֶ֥רֶץ כְּנָֽעַן׃",
-        "text": null
+        "number": "9-11",
+        "hebrew": "וַיִּזְכֹּ֣ר יוֹסֵ֔ף אֵ֚ת הַחֲלֹמ֔וֹת אֲשֶׁ֥ר חָלַ֖ם לָהֶ֑ם וַיֹּ֤אמֶר אֲלֵהֶם֙ מְרַגְּלִ֣ים אַתֶּ֔ם לִרְא֛וֹת אֶת־ עֶרְוַ֥ת הָאָ֖רֶץ בָּאתֶֽם׃ וַיֹּאמְר֥וּ אֵלָ֖יו לֹ֣א אֲדֹנִ֑י וַעֲבָדֶ֥יךָ בָּ֖אוּ לִשְׁבָּר־ אֹֽכֶל׃ כֻּלָּ֕נוּ בְּנֵ֥י אִישׁ־ אֶחָ֖ד נָ֑חְנוּ כֵּנִ֣ים אֲנַ֔חְנוּ לֹא־ הָי֥וּ עֲבָדֶ֖יךָ מְרַגְּלִֽים׃",
+        "text": "Entonces se acordó José de los sueños que había tenido acerca de ellos, y les dijo: espías sois; para ver lo desprotegido de la tierra¹⁹⁸ habéis venido. Y ellos le respondieron: no, señor mío; tus siervos han venido a comprar alimentos. Todos nosotros somos hijos de un mismo varón; somos hombres honrados; tus siervos nunca fueron espías."
       },
       {
-        "number": "6",
-        "hebrew": "וְיוֹסֵ֗ף ה֚וּא הַשַּׁלִּ֣יט עַל־ הָאָ֔רֶץ ה֥וּא הַמַּשְׁבִּ֖יר לְכָל־ עַ֣ם הָאָ֑רֶץ וַיָּבֹ֨אוּ֙ אֲחֵ֣י יוֹסֵ֔ף וַיִּשְׁתַּֽחֲווּ־ ל֥וֹ אַפַּ֖יִם אָֽרְצָה׃",
-        "text": null
+        "number": "12-13",
+        "hebrew": "וַיֹּ֖אמֶר אֲלֵהֶ֑ם לֹ֕א כִּֽי־ עֶרְוַ֥ת הָאָ֖רֶץ בָּאתֶ֥ם לִרְאֽוֹת׃ וַיֹּאמְר֗וּ שְׁנֵ֣ים עָשָׂר֩ עֲבָדֶ֨יךָ אַחִ֧ים ׀ אֲנַ֛חְנוּ בְּנֵ֥י אִישׁ־ אֶחָ֖ד בְּאֶ֣רֶץ כְּנָ֑עַן וְהִנֵּ֨ה הַקָּטֹ֤ן אֶת־ אָבִ֨ינוּ֙ הַיּ֔וֹם וְהָאֶחָ֖ד אֵינֶֽנּוּ׃",
+        "text": "Y él les dijo: no, para ver lo desprotegido de la tierra habéis venido. Y ellos respondieron: tus siervos somos doce hermanos, hijos de un varón en la tierra de Canaán; y he aquí el menor está hoy con nuestro padre, y otro ya no existe."
       },
       {
-        "number": "7",
-        "hebrew": "וַיַּ֥רְא יוֹסֵ֛ף אֶת־ אֶחָ֖יו וַיַּכִּרֵ֑ם וַיִּתְנַכֵּ֨ר אֲלֵיהֶ֜ם וַיְדַבֵּ֧ר אִתָּ֣ם קָשׁ֗וֹת וַיֹּ֤אמֶר אֲלֵהֶם֙ מֵאַ֣יִן בָּאתֶ֔ם וַיֹּ֣אמְר֔וּ מֵאֶ֥רֶץ כְּנַ֖עַן לִשְׁבָּר־ אֹֽכֶל׃",
-        "text": null
+        "number": "14-17",
+        "hebrew": "וַיֹּ֥אמֶר אֲלֵהֶ֖ם יוֹסֵ֑ף ה֗וּא אֲשֶׁ֨ר דִּבַּ֧רְתִּי אֲלֵכֶ֛ם לֵאמֹ֖ר מְרַגְּלִ֥ים אַתֶּֽם׃ בְּזֹ֖את תִּבָּחֵ֑נוּ חֵ֤י פַרְעֹה֙ אִם־ תֵּצְא֣וּ מִזֶּ֔ה כִּ֧י אִם־ בְּב֛וֹא אֲחִיכֶ֥ם הַקָּטֹ֖ן הֵֽנָּה׃ שִׁלְח֨וּ מִכֶּ֣ם אֶחָד֮ וְיִקַּ֣ח אֶת־ אֲחִיכֶם֒ וְאַתֶּם֙ הֵאָ֣סְר֔וּ וְיִבָּֽחֲנוּ֙ דִּבְרֵיכֶ֔ם הַֽאֱמֶ֖ת אִתְּכֶ֑ם וְאִם־ לֹ֕א חֵ֣י פַרְעֹ֔ה כִּ֥י מְרַגְּלִ֖ים אַתֶּֽם׃ וַיֶּאֱסֹ֥ף אֹתָ֛ם אֶל־ מִשְׁמָ֖ר שְׁלֹ֥שֶׁת יָמִֽים׃",
+        "text": "Y José les dijo: eso es lo que os he dicho, afirmando que sois espías. En esto seréis probados: vive faraón, que no saldréis de aquí, a menos que venga acá vuestro hermano menor. Enviad a uno de vosotros, y traiga a vuestro hermano; y vosotros quedad presos, y vuestras palabras serán probadas, si hay verdad en vosotros; y si no, vive faraón, que sois espías. Y los puso juntos en la cárcel por tres días."
       },
       {
-        "number": "8",
-        "hebrew": "וַיַּכֵּ֥ר יוֹסֵ֖ף אֶת־ אֶחָ֑יו וְהֵ֖ם לֹ֥א הִכִּרֻֽהוּ׃",
-        "text": null
+        "number": "18-20",
+        "hebrew": "וַיֹּ֨אמֶר אֲלֵהֶ֤ם יוֹסֵף֙ בַּיּ֣וֹם הַשְּׁלִישִׁ֔י זֹ֥את עֲשׂ֖וּ וִֽחְי֑וּ אֶת־ הָאֱלֹהִ֖ים אֲנִ֥י יָרֵֽא׃ אִם־ כֵּנִ֣ים אַתֶּ֔ם אֲחִיכֶ֣ם אֶחָ֔ד יֵאָסֵ֖ר בְּבֵ֣ית מִשְׁמַרְכֶ֑ם וְאַתֶּם֙ לְכ֣וּ הָבִ֔יאוּ שֶׁ֖בֶר רַעֲב֥וֹן בָּתֵּיכֶֽם׃ וְאֶת־ אֲחִיכֶ֤ם הַקָּטֹן֙ תָּבִ֣יאוּ אֵלַ֔י וְיֵאָמְנ֥וּ דִבְרֵיכֶ֖ם וְלֹ֣א תָמ֑וּתוּ וַיַּעֲשׂוּ־ כֵֽן׃",
+        "text": "Al tercer día les dijo José: haced esto, y vivid; yo temo a Elohim. Si sois hombres honrados, quede preso en la casa de vuestra cárcel uno de vuestros hermanos; y vosotros id, llevad el alimento para el hambre de vuestra casa; y traedme a vuestro hermano menor, y serán verificadas vuestras palabras, y no moriréis. Y lo hicieron así."
       },
       {
-        "number": "9",
-        "hebrew": "וַיִּזְכֹּ֣ר יוֹסֵ֔ף אֵ֚ת הַחֲלֹמ֔וֹת אֲשֶׁ֥ר חָלַ֖ם לָהֶ֑ם וַיֹּ֤אמֶר אֲלֵהֶם֙ מְרַגְּלִ֣ים אַתֶּ֔ם לִרְא֛וֹת אֶת־ עֶרְוַ֥ת הָאָ֖רֶץ בָּאתֶֽם׃",
-        "text": null
+        "number": "21-22",
+        "hebrew": "וַיֹּאמְר֞וּ אִ֣ישׁ אֶל־ אָחִ֗יו אֲבָל֮ אֲשֵׁמִ֣ים ׀ אֲנַחְנוּ֮ עַל־ אָחִינוּ֒ אֲשֶׁ֨ר רָאִ֜ינוּ צָרַ֥ת נַפְשׁ֛וֹ בְּהִתְחַֽנְנ֥וֹ אֵלֵ֖ינוּ וְלֹ֣א שָׁמָ֑עְנוּ עַל־ כֵּן֙ בָּ֣אָה אֵלֵ֔ינוּ הַצָּרָ֖ה הַזֹּֽאת׃ וַיַּעַן֩ רְאוּבֵ֨ן אֹתָ֜ם לֵאמֹ֗ר הֲלוֹא֩ אָמַ֨רְתִּי אֲלֵיכֶ֧ם ׀ לֵאמֹ֛ר אַל־ תֶּחֶטְא֥וּ בַיֶּ֖לֶד וְלֹ֣א שְׁמַעְתֶּ֑ם וְגַם־ דָּמ֖וֹ הִנֵּ֥ה נִדְרָֽשׁ׃",
+        "text": "Y decían el uno al otro: verdaderamente somos culpables respecto a nuestro hermano, pues vimos la angustia de su alma¹⁹⁹ cuando nos rogaba, y no lo escuchamos; por eso ha venido sobre nosotros esta angustia. Entonces Rubén les respondió: ¿no os hablé yo y dije: no pequéis contra el joven, y no escuchasteis? He aquí también su sangre es requerida."
       },
       {
-        "number": "10",
-        "hebrew": "וַיֹּאמְר֥וּ אֵלָ֖יו לֹ֣א אֲדֹנִ֑י וַעֲבָדֶ֥יךָ בָּ֖אוּ לִשְׁבָּר־ אֹֽכֶל׃",
-        "text": null
+        "number": "23-24",
+        "hebrew": "וְהֵם֙ לֹ֣א יָֽדְע֔וּ כִּ֥י שֹׁמֵ֖עַ יוֹסֵ֑ף כִּ֥י הַמֵּלִ֖יץ בֵּינֹתָֽם׃ וַיִּסֹּ֥ב מֵֽעֲלֵיהֶ֖ם וַיֵּ֑בְךְּ וַיָּ֤שָׁב אֲלֵהֶם֙ וַיְדַבֵּ֣ר אֲלֵהֶ֔ם וַיִּקַּ֤ח מֵֽאִתָּם֙ אֶת־ שִׁמְע֔וֹן וַיֶּאֱסֹ֥ר אֹת֖וֹ לְעֵינֵיהֶֽם׃",
+        "text": "Ellos no sabían que los entendía José, porque había intérprete entre ellos. Y se apartó José de ellos, y lloró; después volvió a ellos, y les habló, y tomó de entre ellos a Simeón, y lo aprisionó a vista de ellos."
       },
       {
-        "number": "11",
-        "hebrew": "כֻּלָּ֕נוּ בְּנֵ֥י אִישׁ־ אֶחָ֖ד נָ֑חְנוּ כֵּנִ֣ים אֲנַ֔חְנוּ לֹא־ הָי֥וּ עֲבָדֶ֖יךָ מְרַגְּלִֽים׃",
-        "text": null
+        "number": "25-26",
+        "hebrew": "וַיְצַ֣ו יוֹסֵ֗ף וַיְמַלְא֣וּ אֶת־ כְּלֵיהֶם֮ בָּר֒ וּלְהָשִׁ֤יב כַּסְפֵּיהֶם֙ אִ֣ישׁ אֶל־ שַׂקּ֔וֹ וְלָתֵ֥ת לָהֶ֛ם צֵדָ֖ה לַדָּ֑רֶךְ וַיַּ֥עַשׂ לָהֶ֖ם כֵּֽן׃ וַיִּשְׂא֥וּ אֶת־ שִׁבְרָ֖ם עַל־ חֲמֹרֵיהֶ֑ם וַיֵּלְכ֖וּ מִשָּֽׁם׃",
+        "text": "Y mandó José que llenaran sus sacos de trigo, y devolvieran el dinero de cada uno de ellos poniéndolo en su saco, y les diesen provisiones para el camino; y así lo hizo con ellos. Y ellos pusieron su trigo sobre sus asnos, y se fueron de allí."
       },
       {
-        "number": "12",
-        "hebrew": "וַיֹּ֖אמֶר אֲלֵהֶ֑ם לֹ֕א כִּֽי־ עֶרְוַ֥ת הָאָ֖רֶץ בָּאתֶ֥ם לִרְאֽוֹת׃",
-        "text": null
+        "number": "27-28",
+        "hebrew": "וַיִּפְתַּ֨ח הָאֶחָ֜ד אֶת־ שַׂקּ֗וֹ לָתֵ֥ת מִסְפּ֛וֹא לַחֲמֹר֖וֹ בַּמָּל֑וֹן וַיַּרְא֙ אֶת־ כַּסְפּ֔וֹ וְהִנֵּה־ ה֖וּא בְּפִ֥י אַמְתַּחְתּֽוֹ׃ וַיֹּ֤אמֶר אֶל־ אֶחָיו֙ הוּשַׁ֣ב כַּסְפִּ֔י וְגַ֖ם הִנֵּ֣ה בְאַמְתַּחְתִּ֑י וַיֵּצֵ֣א לִבָּ֗ם וַיֶּֽחֶרְד֞וּ אִ֤ישׁ אֶל־ אָחִיו֙ לֵאמֹ֔ר מַה־ זֹּ֛את עָשָׂ֥ה אֱלֹהִ֖ים לָֽנוּ׃",
+        "text": "Y abriendo uno su saco para dar de comer a su asno en el mesón, vio su dinero que estaba en la boca de su costal. Y dijo a sus hermanos: mi dinero se me ha devuelto, y aun heme aquí en mi saco. Y se sobresaltó su corazón, y espantados se decían el uno al otro: ¿qué es esto que nos ha hecho Elohim?"
       },
       {
-        "number": "13",
-        "hebrew": "וַיֹּאמְר֗וּ שְׁנֵ֣ים עָשָׂר֩ עֲבָדֶ֨יךָ אַחִ֧ים ׀ אֲנַ֛חְנוּ בְּנֵ֥י אִישׁ־ אֶחָ֖ד בְּאֶ֣רֶץ כְּנָ֑עַן וְהִנֵּ֨ה הַקָּטֹ֤ן אֶת־ אָבִ֨ינוּ֙ הַיּ֔וֹם וְהָאֶחָ֖ד אֵינֶֽנּוּ׃",
-        "text": null
+        "number": "29-32",
+        "hebrew": "וַיָּבֹ֛אוּ אֶל־ יַעֲקֹ֥ב אֲבִיהֶ֖ם אַ֣רְצָה כְּנָ֑עַן וַיַּגִּ֣ידוּ ל֔וֹ אֵ֛ת כָּל־ הַקֹּרֹ֥ת אֹתָ֖ם לֵאמֹֽר׃ דִּ֠בֶּר הָאִ֨ישׁ אֲדֹנֵ֥י הָאָ֛רֶץ אִתָּ֖נוּ קָשׁ֑וֹת וַיִּתֵּ֣ן אֹתָ֔נוּ כִּֽמְרַגְּלִ֖ים אֶת־ הָאָֽרֶץ׃ וַנֹּ֥אמֶר אֵלָ֖יו כֵּנִ֣ים אֲנָ֑חְנוּ לֹ֥א הָיִ֖ינוּ מְרַגְּלִֽים׃ שְׁנֵים־ עָשָׂ֥ר אֲנַ֛חְנוּ אַחִ֖ים בְּנֵ֣י אָבִ֑ינוּ הָאֶחָ֣ד אֵינֶ֔נּוּ וְהַקָּטֹ֥ן הַיּ֛וֹם אֶת־ אָבִ֖ינוּ בְּאֶ֥רֶץ כְּנָֽעַן׃",
+        "text": "Y venidos a Jacob su padre en tierra de Canaán, le contaron todo lo que les había acontecido: aquel varón, señor de la tierra, nos habló ásperamente, y nos trató como espías de la tierra; y le dijimos: somos hombres honrados, nunca fuimos espías; somos doce hermanos, hijos de nuestro padre; uno no existe, y el menor está hoy con nuestro padre en la tierra de Canaán."
       },
       {
-        "number": "14",
-        "hebrew": "וַיֹּ֥אמֶר אֲלֵהֶ֖ם יוֹסֵ֑ף ה֗וּא אֲשֶׁ֨ר דִּבַּ֧רְתִּי אֲלֵכֶ֛ם לֵאמֹ֖ר מְרַגְּלִ֥ים אַתֶּֽם׃",
-        "text": null
-      },
-      {
-        "number": "15",
-        "hebrew": "בְּזֹ֖את תִּבָּחֵ֑נוּ חֵ֤י פַרְעֹה֙ אִם־ תֵּצְא֣וּ מִזֶּ֔ה כִּ֧י אִם־ בְּב֛וֹא אֲחִיכֶ֥ם הַקָּטֹ֖ן הֵֽנָּה׃",
-        "text": null
-      },
-      {
-        "number": "16",
-        "hebrew": "שִׁלְח֨וּ מִכֶּ֣ם אֶחָד֮ וְיִקַּ֣ח אֶת־ אֲחִיכֶם֒ וְאַתֶּם֙ הֵאָ֣סְר֔וּ וְיִבָּֽחֲנוּ֙ דִּבְרֵיכֶ֔ם הַֽאֱמֶ֖ת אִתְּכֶ֑ם וְאִם־ לֹ֕א חֵ֣י פַרְעֹ֔ה כִּ֥י מְרַגְּלִ֖ים אַתֶּֽם׃",
-        "text": null
-      },
-      {
-        "number": "17",
-        "hebrew": "וַיֶּאֱסֹ֥ף אֹתָ֛ם אֶל־ מִשְׁמָ֖ר שְׁלֹ֥שֶׁת יָמִֽים׃",
-        "text": null
-      },
-      {
-        "number": "18",
-        "hebrew": "וַיֹּ֨אמֶר אֲלֵהֶ֤ם יוֹסֵף֙ בַּיּ֣וֹם הַשְּׁלִישִׁ֔י זֹ֥את עֲשׂ֖וּ וִֽחְי֑וּ אֶת־ הָאֱלֹהִ֖ים אֲנִ֥י יָרֵֽא׃",
-        "text": null
-      },
-      {
-        "number": "19",
-        "hebrew": "אִם־ כֵּנִ֣ים אַתֶּ֔ם אֲחִיכֶ֣ם אֶחָ֔ד יֵאָסֵ֖ר בְּבֵ֣ית מִשְׁמַרְכֶ֑ם וְאַתֶּם֙ לְכ֣וּ הָבִ֔יאוּ שֶׁ֖בֶר רַעֲב֥וֹן בָּתֵּיכֶֽם׃",
-        "text": null
-      },
-      {
-        "number": "20",
-        "hebrew": "וְאֶת־ אֲחִיכֶ֤ם הַקָּטֹן֙ תָּבִ֣יאוּ אֵלַ֔י וְיֵאָמְנ֥וּ דִבְרֵיכֶ֖ם וְלֹ֣א תָמ֑וּתוּ וַיַּעֲשׂוּ־ כֵֽן׃",
-        "text": null
-      },
-      {
-        "number": "21",
-        "hebrew": "וַיֹּאמְר֞וּ אִ֣ישׁ אֶל־ אָחִ֗יו אֲבָל֮ אֲשֵׁמִ֣ים ׀ אֲנַחְנוּ֮ עַל־ אָחִינוּ֒ אֲשֶׁ֨ר רָאִ֜ינוּ צָרַ֥ת נַפְשׁ֛וֹ בְּהִתְחַֽנְנ֥וֹ אֵלֵ֖ינוּ וְלֹ֣א שָׁמָ֑עְנוּ עַל־ כֵּן֙ בָּ֣אָה אֵלֵ֔ינוּ הַצָּרָ֖ה הַזֹּֽאת׃",
-        "text": null
-      },
-      {
-        "number": "22",
-        "hebrew": "וַיַּעַן֩ רְאוּבֵ֨ן אֹתָ֜ם לֵאמֹ֗ר הֲלוֹא֩ אָמַ֨רְתִּי אֲלֵיכֶ֧ם ׀ לֵאמֹ֛ר אַל־ תֶּחֶטְא֥וּ בַיֶּ֖לֶד וְלֹ֣א שְׁמַעְתֶּ֑ם וְגַם־ דָּמ֖וֹ הִנֵּ֥ה נִדְרָֽשׁ׃",
-        "text": null
-      },
-      {
-        "number": "23",
-        "hebrew": "וְהֵם֙ לֹ֣א יָֽדְע֔וּ כִּ֥י שֹׁמֵ֖עַ יוֹסֵ֑ף כִּ֥י הַמֵּלִ֖יץ בֵּינֹתָֽם׃",
-        "text": null
-      },
-      {
-        "number": "24",
-        "hebrew": "וַיִּסֹּ֥ב מֵֽעֲלֵיהֶ֖ם וַיֵּ֑בְךְּ וַיָּ֤שָׁב אֲלֵהֶם֙ וַיְדַבֵּ֣ר אֲלֵהֶ֔ם וַיִּקַּ֤ח מֵֽאִתָּם֙ אֶת־ שִׁמְע֔וֹן וַיֶּאֱסֹ֥ר אֹת֖וֹ לְעֵינֵיהֶֽם׃",
-        "text": null
-      },
-      {
-        "number": "25",
-        "hebrew": "וַיְצַ֣ו יוֹסֵ֗ף וַיְמַלְא֣וּ אֶת־ כְּלֵיהֶם֮ בָּר֒ וּלְהָשִׁ֤יב כַּסְפֵּיהֶם֙ אִ֣ישׁ אֶל־ שַׂקּ֔וֹ וְלָתֵ֥ת לָהֶ֛ם צֵדָ֖ה לַדָּ֑רֶךְ וַיַּ֥עַשׂ לָהֶ֖ם כֵּֽן׃",
-        "text": null
-      },
-      {
-        "number": "26",
-        "hebrew": "וַיִּשְׂא֥וּ אֶת־ שִׁבְרָ֖ם עַל־ חֲמֹרֵיהֶ֑ם וַיֵּלְכ֖וּ מִשָּֽׁם׃",
-        "text": null
-      },
-      {
-        "number": "27",
-        "hebrew": "וַיִּפְתַּ֨ח הָאֶחָ֜ד אֶת־ שַׂקּ֗וֹ לָתֵ֥ת מִסְפּ֛וֹא לַחֲמֹר֖וֹ בַּמָּל֑וֹן וַיַּרְא֙ אֶת־ כַּסְפּ֔וֹ וְהִנֵּה־ ה֖וּא בְּפִ֥י אַמְתַּחְתּֽוֹ׃",
-        "text": null
-      },
-      {
-        "number": "28",
-        "hebrew": "וַיֹּ֤אמֶר אֶל־ אֶחָיו֙ הוּשַׁ֣ב כַּסְפִּ֔י וְגַ֖ם הִנֵּ֣ה בְאַמְתַּחְתִּ֑י וַיֵּצֵ֣א לִבָּ֗ם וַיֶּֽחֶרְד֞וּ אִ֤ישׁ אֶל־ אָחִיו֙ לֵאמֹ֔ר מַה־ זֹּ֛את עָשָׂ֥ה אֱלֹהִ֖ים לָֽנוּ׃",
-        "text": null
-      },
-      {
-        "number": "29",
-        "hebrew": "וַיָּבֹ֛אוּ אֶל־ יַעֲקֹ֥ב אֲבִיהֶ֖ם אַ֣רְצָה כְּנָ֑עַן וַיַּגִּ֣ידוּ ל֔וֹ אֵ֛ת כָּל־ הַקֹּרֹ֥ת אֹתָ֖ם לֵאמֹֽר׃",
-        "text": null
-      },
-      {
-        "number": "30",
-        "hebrew": "דִּ֠בֶּר הָאִ֨ישׁ אֲדֹנֵ֥י הָאָ֛רֶץ אִתָּ֖נוּ קָשׁ֑וֹת וַיִּתֵּ֣ן אֹתָ֔נוּ כִּֽמְרַגְּלִ֖ים אֶת־ הָאָֽרֶץ׃",
-        "text": null
-      },
-      {
-        "number": "31",
-        "hebrew": "וַנֹּ֥אמֶר אֵלָ֖יו כֵּנִ֣ים אֲנָ֑חְנוּ לֹ֥א הָיִ֖ינוּ מְרַגְּלִֽים׃",
-        "text": null
-      },
-      {
-        "number": "32",
-        "hebrew": "שְׁנֵים־ עָשָׂ֥ר אֲנַ֛חְנוּ אַחִ֖ים בְּנֵ֣י אָבִ֑ינוּ הָאֶחָ֣ד אֵינֶ֔נּוּ וְהַקָּטֹ֥ן הַיּ֛וֹם אֶת־ אָבִ֖ינוּ בְּאֶ֥רֶץ כְּנָֽעַן׃",
-        "text": null
-      },
-      {
-        "number": "33",
-        "hebrew": "וַיֹּ֣אמֶר אֵלֵ֗ינוּ הָאִישׁ֙ אֲדֹנֵ֣י הָאָ֔רֶץ בְּזֹ֣את אֵדַ֔ע כִּ֥י כֵנִ֖ים אַתֶּ֑ם אֲחִיכֶ֤ם הָֽאֶחָד֙ הַנִּ֣יחוּ אִתִּ֔י וְאֶת־ רַעֲב֥וֹן בָּתֵּיכֶ֖ם קְח֥וּ וָלֵֽכוּ׃",
-        "text": null
-      },
-      {
-        "number": "34",
-        "hebrew": "וְ֠הָבִיאוּ אֶת־ אֲחִיכֶ֣ם הַקָּטֹן֮ אֵלַי֒ וְאֵֽדְעָ֗ה כִּ֣י לֹ֤א מְרַגְּלִים֙ אַתֶּ֔ם כִּ֥י כֵנִ֖ים אַתֶּ֑ם אֶת־ אֲחִיכֶם֙ אֶתֵּ֣ן לָכֶ֔ם וְאֶת־ הָאָ֖רֶץ תִּסְחָֽרוּ׃",
-        "text": null
+        "number": "33-34",
+        "hebrew": "וַיֹּ֣אמֶר אֵלֵ֗ינוּ הָאִישׁ֙ אֲדֹנֵ֣י הָאָ֔רֶץ בְּזֹ֣את אֵדַ֔ע כִּ֥י כֵנִ֖ים אַתֶּ֑ם אֲחִיכֶ֤ם הָֽאֶחָד֙ הַנִּ֣יחוּ אִתִּ֔י וְאֶת־ רַעֲב֥וֹן בָּתֵּיכֶ֖ם קְח֥וּ וָלֵֽכוּ׃ וְ֠הָבִיאוּ אֶת־ אֲחִיכֶ֣ם הַקָּטֹן֮ אֵלַי֒ וְאֵֽדְעָ֗ה כִּ֣י לֹ֤א מְרַגְּלִים֙ אַתֶּ֔ם כִּ֥י כֵנִ֖ים אַתֶּ֑ם אֶת־ אֲחִיכֶם֙ אֶתֵּ֣ן לָכֶ֔ם וְאֶת־ הָאָ֖רֶץ תִּסְחָֽרוּ׃",
+        "text": "Y aquel varón, señor de la tierra, nos dijo: en esto conoceré que sois hombres honrados: dejad conmigo uno de vuestros hermanos, y tomad para el hambre de vuestras casas, y andad; y traedme a vuestro hermano menor, para que yo sepa que no sois espías, sino hombres honrados; y os daré a vuestro hermano, y negociaréis en la tierra."
       },
       {
         "number": "35",
         "hebrew": "וַיְהִ֗י הֵ֚ם מְרִיקִ֣ים שַׂקֵּיהֶ֔ם וְהִנֵּה־ אִ֥ישׁ צְרוֹר־ כַּסְפּ֖וֹ בְּשַׂקּ֑וֹ וַיִּרְא֞וּ אֶת־ צְרֹר֧וֹת כַּסְפֵּיהֶ֛ם הֵ֥מָּה וַאֲבִיהֶ֖ם וַיִּירָֽאוּ׃",
-        "text": null
+        "text": "Y aconteció que vaciando ellos sus sacos, he aquí que en el saco de cada uno estaba el atado de su dinero; y viendo ellos y su padre los atados de su dinero, tuvieron temor."
       },
       {
         "number": "36",
         "hebrew": "וַיֹּ֤אמֶר אֲלֵהֶם֙ יַעֲקֹ֣ב אֲבִיהֶ֔ם אֹתִ֖י שִׁכַּלְתֶּ֑ם יוֹסֵ֤ף אֵינֶ֨נּוּ֙ וְשִׁמְע֣וֹן אֵינֶ֔נּוּ וְאֶת־ בִּנְיָמִ֣ן תִּקָּ֔חוּ עָלַ֖י הָי֥וּ כֻלָּֽנָה׃",
-        "text": null
+        "text": "Entonces su padre Jacob les dijo: me habéis privado de mis hijos; José no existe, ni Simeón tampoco, y a Binyamín le llevaréis; contra mí son todas estas cosas."
       },
       {
-        "number": "37",
-        "hebrew": "וַיֹּ֤אמֶר רְאוּבֵן֙ אֶל־ אָבִ֣יו לֵאמֹ֔ר אֶת־ שְׁנֵ֤י בָנַי֙ תָּמִ֔ית אִם־ לֹ֥א אֲבִיאֶ֖נּוּ אֵלֶ֑יךָ תְּנָ֤ה אֹתוֹ֙ עַל־ יָדִ֔י וַאֲנִ֖י אֲשִׁיבֶ֥נּוּ אֵלֶֽיךָ׃",
-        "text": null
-      },
-      {
-        "number": "38",
-        "hebrew": "וַיֹּ֕אמֶר לֹֽא־ יֵרֵ֥ד בְּנִ֖י עִמָּכֶ֑ם כִּֽי־ אָחִ֨יו מֵ֜ת וְה֧וּא לְבַדּ֣וֹ נִשְׁאָ֗ר וּקְרָאָ֤הוּ אָסוֹן֙ בַּדֶּ֨רֶךְ֙ אֲשֶׁ֣ר תֵּֽלְכוּ־ בָ֔הּ וְהוֹרַדְתֶּ֧ם אֶת־ שֵׂיבָתִ֛י בְּיָג֖וֹן שְׁאֽוֹלָה׃",
-        "text": null
+        "number": "37-38",
+        "hebrew": "וַיֹּ֤אמֶר רְאוּבֵן֙ אֶל־ אָבִ֣יו לֵאמֹ֔ר אֶת־ שְׁנֵ֤י בָנַי֙ תָּמִ֔ית אִם־ לֹ֥א אֲבִיאֶ֖נּוּ אֵלֶ֑יךָ תְּנָ֤ה אֹתוֹ֙ עַל־ יָדִ֔י וַאֲנִ֖י אֲשִׁיבֶ֥נּוּ אֵלֶֽיךָ׃ וַיֹּ֕אמֶר לֹֽא־ יֵרֵ֥ד בְּנִ֖י עִמָּכֶ֑ם כִּֽי־ אָחִ֨יו מֵ֜ת וְה֧וּא לְבַדּ֣וֹ נִשְׁאָ֗ר וּקְרָאָ֤הוּ אָסוֹן֙ בַּדֶּ֨רֶךְ֙ אֲשֶׁ֣ר תֵּֽלְכוּ־ בָ֔הּ וְהוֹרַדְתֶּ֧ם אֶת־ שֵׂיבָתִ֛י בְּיָג֖וֹן שְׁאֽוֹלָה׃",
+        "text": "Y Rubén habló a su padre: harás morir a mis dos hijos, si no te lo devuelvo; entrégalo en mi mano, y yo lo volveré a ti. Y él dijo: no descenderá mi hijo con vosotros, pues su hermano ha muerto, y él solo ha quedado; y si le aconteciere algún desastre en el camino en que vais, haréis descender mis canas con dolor al Sheol¹⁸⁰."
       }
     ],
     "43": [
       {
-        "number": "1",
-        "hebrew": "וְהָרָעָ֖ב כָּבֵ֥ד בָּאָֽרֶץ׃",
-        "text": null
+        "number": "1-2",
+        "hebrew": "וְהָרָעָ֖ב כָּבֵ֥ד בָּאָֽרֶץ׃ וַיְהִ֗י כַּאֲשֶׁ֤ר כִּלּוּ֙ לֶאֱכֹ֣ל אֶת־ הַשֶּׁ֔בֶר אֲשֶׁ֥ר הֵבִ֖יאוּ מִמִּצְרָ֑יִם וַיֹּ֤אמֶר אֲלֵיהֶם֙ אֲבִיהֶ֔ם שֻׁ֖בוּ שִׁבְרוּ־ לָ֥נוּ מְעַט־ אֹֽכֶל׃",
+        "text": "Y el hambre era grande en la tierra. Y aconteció que cuando terminaron de comer el alimento que trajeron de Egipto, les dijo su padre: volved, comprad para nosotros un poco de alimento."
       },
       {
-        "number": "2",
-        "hebrew": "וַיְהִ֗י כַּאֲשֶׁ֤ר כִּלּוּ֙ לֶאֱכֹ֣ל אֶת־ הַשֶּׁ֔בֶר אֲשֶׁ֥ר הֵבִ֖יאוּ מִמִּצְרָ֑יִם וַיֹּ֤אמֶר אֲלֵיהֶם֙ אֲבִיהֶ֔ם שֻׁ֖בוּ שִׁבְרוּ־ לָ֥נוּ מְעַט־ אֹֽכֶל׃",
-        "text": null
+        "number": "3-5",
+        "hebrew": "וַיֹּ֧אמֶר אֵלָ֛יו יְהוּדָ֖ה לֵאמֹ֑ר הָעֵ֣ד הֵעִד֩ בָּ֨נוּ הָאִ֤ישׁ לֵאמֹר֙ לֹֽא־ תִרְא֣וּ פָנַ֔י בִּלְתִּ֖י אֲחִיכֶ֥ם אִתְּכֶֽם׃ אִם־ יֶשְׁךָ֛ מְשַׁלֵּ֥חַ אֶת־ אָחִ֖ינוּ אִתָּ֑נוּ נֵרְדָ֕ה וְנִשְׁבְּרָ֥ה לְךָ֖ אֹֽכֶל׃ וְאִם־ אֵינְךָ֥ מְשַׁלֵּ֖חַ לֹ֣א נֵרֵ֑ד כִּֽי־ הָאִ֞ישׁ אָמַ֤ר אֵלֵ֨ינוּ֙ לֹֽא־ תִרְא֣וּ פָנַ֔י בִּלְתִּ֖י אֲחִיכֶ֥ם אִתְּכֶֽם׃",
+        "text": "Y respondió Judá: aquel varón nos amonestó con firmeza: no veréis mi rostro sin que vuestro hermano esté con vosotros. Si has de enviar a nuestro hermano con nosotros, descenderemos, y te compraremos alimento; pero si no lo envías, no descenderemos, porque aquel varón nos dijo: no veréis mi rostro sin que vuestro hermano esté con vosotros."
       },
       {
-        "number": "3",
-        "hebrew": "וַיֹּ֧אמֶר אֵלָ֛יו יְהוּדָ֖ה לֵאמֹ֑ר הָעֵ֣ד הֵעִד֩ בָּ֨נוּ הָאִ֤ישׁ לֵאמֹר֙ לֹֽא־ תִרְא֣וּ פָנַ֔י בִּלְתִּ֖י אֲחִיכֶ֥ם אִתְּכֶֽם׃",
-        "text": null
+        "number": "6-7",
+        "hebrew": "וַיֹּ֨אמֶר֙ יִשְׂרָאֵ֔ל לָמָ֥ה הֲרֵעֹתֶ֖ם לִ֑י לְהַגִּ֣יד לָאִ֔ישׁ הַע֥וֹד לָכֶ֖ם אָֽח׃ וַיֹּאמְר֡וּ שָׁא֣וֹל שָֽׁאַל־ הָ֠אִישׁ לָ֣נוּ וּלְמֽוֹלַדְתֵּ֜נוּ לֵאמֹ֗ר הַע֨וֹד אֲבִיכֶ֥ם חַי֙ הֲיֵ֣שׁ לָכֶ֣ם אָ֔ח וַנַ֨גֶּד־ ל֔וֹ עַל־ פִּ֖י הַדְּבָרִ֣ים הָאֵ֑לֶּה הֲיָד֣וֹעַ נֵדַ֔ע כִּ֣י יֹאמַ֔ר הוֹרִ֖ידוּ אֶת־ אֲחִיכֶֽם׃",
+        "text": "Dijo entonces Israel: ¿por qué me hicisteis tanto mal, declarando al varón que teníais otro hermano? Y ellos respondieron: aquel varón nos preguntó expresamente por nosotros y por nuestra familia: ¿vive aún vuestro padre? ¿tenéis otro hermano? Y le declaramos conforme a estas palabras. ¿Acaso podíamos saber que había de decir: traed a vuestro hermano?"
       },
       {
-        "number": "4",
-        "hebrew": "אִם־ יֶשְׁךָ֛ מְשַׁלֵּ֥חַ אֶת־ אָחִ֖ינוּ אִתָּ֑נוּ נֵרְדָ֕ה וְנִשְׁבְּרָ֥ה לְךָ֖ אֹֽכֶל׃",
-        "text": null
+        "number": "8-10",
+        "hebrew": "וַיֹּ֨אמֶר יְהוּדָ֜ה אֶל־ יִשְׂרָאֵ֣ל אָבִ֗יו שִׁלְחָ֥ה הַנַּ֛עַר אִתִּ֖י וְנָק֣וּמָה וְנֵלֵ֑כָה וְנִֽחְיֶה֙ וְלֹ֣א נָמ֔וּת גַּם־ אֲנַ֥חְנוּ גַם־ אַתָּ֖ה גַּם־ טַפֵּֽנוּ׃ אָֽנֹכִי֙ אֶֽעֶרְבֶ֔נּוּ מִיָּדִ֖י תְּבַקְשֶׁ֑נּוּ אִם־ לֹ֨א הֲבִיאֹתִ֤יו אֵלֶ֨יךָ֙ וְהִצַּגְתִּ֣יו לְפָנֶ֔יךָ וְחָטָ֥אתִֽי לְךָ֖ כָּל־ הַיָּמִֽים׃ כִּ֖י לוּלֵ֣א הִתְמַהְמָ֑הְנוּ כִּֽי־ עַתָּ֥ה שַׁ֖בְנוּ זֶ֥ה פַעֲמָֽיִם׃",
+        "text": "Entonces Judá dijo a Israel su padre: envía al joven conmigo, y nos levantaremos e iremos, para que vivamos y no muramos nosotros, y tú, y nuestros niños. Yo te respondo por él; a mí me pedirás cuenta; si no te lo traigo, y lo pongo delante de ti, seré culpable ante ti para siempre. Pues si no nos hubiéramos detenido, ya habríamos vuelto dos veces."
       },
       {
-        "number": "5",
-        "hebrew": "וְאִם־ אֵינְךָ֥ מְשַׁלֵּ֖חַ לֹ֣א נֵרֵ֑ד כִּֽי־ הָאִ֞ישׁ אָמַ֤ר אֵלֵ֨ינוּ֙ לֹֽא־ תִרְא֣וּ פָנַ֔י בִּלְתִּ֖י אֲחִיכֶ֥ם אִתְּכֶֽם׃",
-        "text": null
+        "number": "11-12",
+        "hebrew": "וַיֹּ֨אמֶר אֲלֵהֶ֜ם יִשְׂרָאֵ֣ל אֲבִיהֶ֗ם אִם־ כֵּ֣ן ׀ אֵפוֹא֮ זֹ֣את עֲשׂוּ֒ קְח֞וּ מִזִּמְרַ֤ת הָאָ֨רֶץ֙ בִּכְלֵיכֶ֔ם וְהוֹרִ֥ידוּ לָאִ֖ישׁ מִנְחָ֑ה מְעַ֤ט צֳרִי֙ וּמְעַ֣ט דְּבַ֔שׁ נְכֹ֣את וָלֹ֔ט בָּטְנִ֖ים וּשְׁקֵדִֽים׃ וְכֶ֥סֶף מִשְׁנֶ֖ה קְח֣וּ בְיֶדְכֶ֑ם וְאֶת־ הַכֶּ֜סֶף הַמּוּשָׁ֨ב בְּפִ֤י אַמְתְּחֹֽתֵיכֶם֙ תָּשִׁ֣יבוּ בְיֶדְכֶ֔ם אוּלַ֥י מִשְׁגֶּ֖ה הֽוּא׃",
+        "text": "Entonces Israel su padre les respondió: pues que así es, hacedlo; tomad de lo mejor de la tierra en vuestros vasos, y llevad a aquel varón un presente, un poco de bálsamo, un poco de miel, aromas y mirra, nueces y almendras. Y tomad en vuestras manos doble cantidad de dinero, y llevad en vuestra mano el dinero devuelto en la boca de vuestros costales; quizás fue equivocación."
       },
       {
-        "number": "6",
-        "hebrew": "וַיֹּ֨אמֶר֙ יִשְׂרָאֵ֔ל לָמָ֥ה הֲרֵעֹתֶ֖ם לִ֑י לְהַגִּ֣יד לָאִ֔ישׁ הַע֥וֹד לָכֶ֖ם אָֽח׃",
-        "text": null
+        "number": "13-14",
+        "hebrew": "וְאֶת־ אֲחִיכֶ֖ם קָ֑חוּ וְק֖וּמוּ שׁ֥וּבוּ אֶל־ הָאִֽישׁ׃ וְאֵ֣ל שַׁדַּ֗י יִתֵּ֨ן לָכֶ֤ם רַחֲמִים֙ לִפְנֵ֣י הָאִ֔ישׁ וְשִׁלַּ֥ח לָכֶ֛ם אֶת־ אֲחִיכֶ֥ם אַחֵ֖ר וְאֶת־ בִּנְיָמִ֑ין וַאֲנִ֕י כַּאֲשֶׁ֥ר שָׁכֹ֖לְתִּי שָׁכָֽלְתִּי׃",
+        "text": "Tomad también a vuestro hermano, y levantaos, y volved a aquel varón. Y el El Shaday¹⁷² os dé misericordia delante de aquel varón, y os suelte al otro hermano vuestro, y a este Binyamín. Y si he de ser privado de mis hijos, séalo."
       },
       {
-        "number": "7",
-        "hebrew": "וַיֹּאמְר֡וּ שָׁא֣וֹל שָֽׁאַל־ הָ֠אִישׁ לָ֣נוּ וּלְמֽוֹלַדְתֵּ֜נוּ לֵאמֹ֗ר הַע֨וֹד אֲבִיכֶ֥ם חַי֙ הֲיֵ֣שׁ לָכֶ֣ם אָ֔ח וַנַ֨גֶּד־ ל֔וֹ עַל־ פִּ֖י הַדְּבָרִ֣ים הָאֵ֑לֶּה הֲיָד֣וֹעַ נֵדַ֔ע כִּ֣י יֹאמַ֔ר הוֹרִ֖ידוּ אֶת־ אֲחִיכֶֽם׃",
-        "text": null
-      },
-      {
-        "number": "8",
-        "hebrew": "וַיֹּ֨אמֶר יְהוּדָ֜ה אֶל־ יִשְׂרָאֵ֣ל אָבִ֗יו שִׁלְחָ֥ה הַנַּ֛עַר אִתִּ֖י וְנָק֣וּמָה וְנֵלֵ֑כָה וְנִֽחְיֶה֙ וְלֹ֣א נָמ֔וּת גַּם־ אֲנַ֥חְנוּ גַם־ אַתָּ֖ה גַּם־ טַפֵּֽנוּ׃",
-        "text": null
-      },
-      {
-        "number": "9",
-        "hebrew": "אָֽנֹכִי֙ אֶֽעֶרְבֶ֔נּוּ מִיָּדִ֖י תְּבַקְשֶׁ֑נּוּ אִם־ לֹ֨א הֲבִיאֹתִ֤יו אֵלֶ֨יךָ֙ וְהִצַּגְתִּ֣יו לְפָנֶ֔יךָ וְחָטָ֥אתִֽי לְךָ֖ כָּל־ הַיָּמִֽים׃",
-        "text": null
-      },
-      {
-        "number": "10",
-        "hebrew": "כִּ֖י לוּלֵ֣א הִתְמַהְמָ֑הְנוּ כִּֽי־ עַתָּ֥ה שַׁ֖בְנוּ זֶ֥ה פַעֲמָֽיִם׃",
-        "text": null
-      },
-      {
-        "number": "11",
-        "hebrew": "וַיֹּ֨אמֶר אֲלֵהֶ֜ם יִשְׂרָאֵ֣ל אֲבִיהֶ֗ם אִם־ כֵּ֣ן ׀ אֵפוֹא֮ זֹ֣את עֲשׂוּ֒ קְח֞וּ מִזִּמְרַ֤ת הָאָ֨רֶץ֙ בִּכְלֵיכֶ֔ם וְהוֹרִ֥ידוּ לָאִ֖ישׁ מִנְחָ֑ה מְעַ֤ט צֳרִי֙ וּמְעַ֣ט דְּבַ֔שׁ נְכֹ֣את וָלֹ֔ט בָּטְנִ֖ים וּשְׁקֵדִֽים׃",
-        "text": null
-      },
-      {
-        "number": "12",
-        "hebrew": "וְכֶ֥סֶף מִשְׁנֶ֖ה קְח֣וּ בְיֶדְכֶ֑ם וְאֶת־ הַכֶּ֜סֶף הַמּוּשָׁ֨ב בְּפִ֤י אַמְתְּחֹֽתֵיכֶם֙ תָּשִׁ֣יבוּ בְיֶדְכֶ֔ם אוּלַ֥י מִשְׁגֶּ֖ה הֽוּא׃",
-        "text": null
-      },
-      {
-        "number": "13",
-        "hebrew": "וְאֶת־ אֲחִיכֶ֖ם קָ֑חוּ וְק֖וּמוּ שׁ֥וּבוּ אֶל־ הָאִֽישׁ׃",
-        "text": null
-      },
-      {
-        "number": "14",
-        "hebrew": "וְאֵ֣ל שַׁדַּ֗י יִתֵּ֨ן לָכֶ֤ם רַחֲמִים֙ לִפְנֵ֣י הָאִ֔ישׁ וְשִׁלַּ֥ח לָכֶ֛ם אֶת־ אֲחִיכֶ֥ם אַחֵ֖ר וְאֶת־ בִּנְיָמִ֑ין וַאֲנִ֕י כַּאֲשֶׁ֥ר שָׁכֹ֖לְתִּי שָׁכָֽלְתִּי׃",
-        "text": null
-      },
-      {
-        "number": "15",
-        "hebrew": "וַיִּקְח֤וּ הָֽאֲנָשִׁים֙ אֶת־ הַמִּנְחָ֣ה הַזֹּ֔את וּמִשְׁנֶה־ כֶּ֛סֶף לָקְח֥וּ בְיָדָ֖ם וְאֶת־ בִּנְיָמִ֑ן וַיָּקֻ֨מוּ֙ וַיֵּרְד֣וּ מִצְרַ֔יִם וַיַּֽעַמְד֖וּ לִפְנֵ֥י יוֹסֵֽף׃",
-        "text": null
-      },
-      {
-        "number": "16",
-        "hebrew": "וַיַּ֨רְא יוֹסֵ֣ף אִתָּם֮ אֶת־ בִּנְיָמִין֒ וַיֹּ֨אמֶר֙ לַֽאֲשֶׁ֣ר עַל־ בֵּית֔וֹ הָבֵ֥א אֶת־ הָאֲנָשִׁ֖ים הַבָּ֑יְתָה וּטְבֹ֤חַ טֶ֨בַח֙ וְהָכֵ֔ן כִּ֥י אִתִּ֛י יֹאכְל֥וּ הָאֲנָשִׁ֖ים בַּֽצָּהֳרָֽיִם׃",
-        "text": null
-      },
-      {
-        "number": "17",
-        "hebrew": "וַיַּ֣עַשׂ הָאִ֔ישׁ כַּֽאֲשֶׁ֖ר אָמַ֣ר יוֹסֵ֑ף וַיָּבֵ֥א הָאִ֛ישׁ אֶת־ הָאֲנָשִׁ֖ים בֵּ֥יתָה יוֹסֵֽף׃",
-        "text": null
+        "number": "15-17",
+        "hebrew": "וַיִּקְח֤וּ הָֽאֲנָשִׁים֙ אֶת־ הַמִּנְחָ֣ה הַזֹּ֔את וּמִשְׁנֶה־ כֶּ֛סֶף לָקְח֥וּ בְיָדָ֖ם וְאֶת־ בִּנְיָמִ֑ן וַיָּקֻ֨מוּ֙ וַיֵּרְד֣וּ מִצְרַ֔יִם וַיַּֽעַמְד֖וּ לִפְנֵ֥י יוֹסֵֽף׃ וַיַּ֨רְא יוֹסֵ֣ף אִתָּם֮ אֶת־ בִּנְיָמִין֒ וַיֹּ֨אמֶר֙ לַֽאֲשֶׁ֣ר עַל־ בֵּית֔וֹ הָבֵ֥א אֶת־ הָאֲנָשִׁ֖ים הַבָּ֑יְתָה וּטְבֹ֤חַ טֶ֨בַח֙ וְהָכֵ֔ן כִּ֥י אִתִּ֛י יֹאכְל֥וּ הָאֲנָשִׁ֖ים בַּֽצָּהֳרָֽיִם׃ וַיַּ֣עַשׂ הָאִ֔ישׁ כַּֽאֲשֶׁ֖ר אָמַ֣ר יוֹסֵ֑ף וַיָּבֵ֥א הָאִ֛ישׁ אֶת־ הָאֲנָשִׁ֖ים בֵּ֥יתָה יוֹסֵֽף׃",
+        "text": "Entonces tomaron aquellos varones el presente, y tomaron en su mano doble cantidad de dinero, y a Binyamín; y se levantaron y descendieron a Egipto, y se presentaron delante de José. Y vio José a Binyamín con ellos, y dijo al mayordomo de su casa: lleva a estos varones a casa, y degüella una res y prepárala, pues estos varones comerán conmigo al mediodía. E hizo el varón como José dijo, y llevó a los varones a casa de José."
       },
       {
         "number": "18",
         "hebrew": "וַיִּֽירְא֣וּ הָֽאֲנָשִׁ֗ים כִּ֣י הֽוּבְאוּ֮ בֵּ֣ית יוֹסֵף֒ וַיֹּאמְר֗וּ עַל־ דְּבַ֤ר הַכֶּ֨סֶף֙ הַשָּׁ֤ב בְּאַמְתְּחֹתֵ֨ינוּ֙ בַּתְּחִלָּ֔ה אֲנַ֖חְנוּ מֽוּבָאִ֑ים לְהִתְגֹּלֵ֤ל עָלֵ֨ינוּ֙ וּלְהִתְנַפֵּ֣ל עָלֵ֔ינוּ וְלָקַ֧חַת אֹתָ֛נוּ לַעֲבָדִ֖ים וְאֶת־ חֲמֹרֵֽינוּ׃",
-        "text": null
+        "text": "Y aquellos varones tuvieron temor, porque fueron llevados a la casa de José, y decían: por el dinero que fue devuelto en nuestros costales la primera vez, nos han traído aquí, para tendernos lazo, y caer sobre nosotros, y tomarnos por siervos a nosotros y a nuestros asnos."
       },
       {
-        "number": "19",
-        "hebrew": "וַֽיִּגְּשׁוּ֙ אֶל־ הָאִ֔ישׁ אֲשֶׁ֖ר עַל־ בֵּ֣ית יוֹסֵ֑ף וַיְדַבְּר֥וּ אֵלָ֖יו פֶּ֥תַח הַבָּֽיִת׃",
-        "text": null
-      },
-      {
-        "number": "20",
-        "hebrew": "וַיֹּאמְר֖וּ בִּ֣י אֲדֹנִ֑י יָרֹ֥ד יָרַ֛דְנוּ בַּתְּחִלָּ֖ה לִשְׁבָּר־ אֹֽכֶל׃",
-        "text": null
-      },
-      {
-        "number": "21",
-        "hebrew": "וַֽיְהִ֞י כִּי־ בָ֣אנוּ אֶל־ הַמָּל֗וֹן וַֽנִּפְתְּחָה֙ אֶת־ אַמְתְּחֹתֵ֔ינוּ וְהִנֵּ֤ה כֶֽסֶף־ אִישׁ֙ בְּפִ֣י אַמְתַּחְתּ֔וֹ כַּסְפֵּ֖נוּ בְּמִשְׁקָל֑וֹ וַנָּ֥שֶׁב אֹת֖וֹ בְּיָדֵֽנוּ׃",
-        "text": null
-      },
-      {
-        "number": "22",
-        "hebrew": "וְכֶ֧סֶף אַחֵ֛ר הוֹרַ֥דְנוּ בְיָדֵ֖נוּ לִשְׁבָּר־ אֹ֑כֶל לֹ֣א יָדַ֔עְנוּ מִי־ שָׂ֥ם כַּסְפֵּ֖נוּ בְּאַמְתְּחֹתֵֽינוּ׃",
-        "text": null
+        "number": "19-22",
+        "hebrew": "וַֽיִּגְּשׁוּ֙ אֶל־ הָאִ֔ישׁ אֲשֶׁ֖ר עַל־ בֵּ֣ית יוֹסֵ֑ף וַיְדַבְּר֥וּ אֵלָ֖יו פֶּ֥תַח הַבָּֽיִת׃ וַיֹּאמְר֖וּ בִּ֣י אֲדֹנִ֑י יָרֹ֥ד יָרַ֛דְנוּ בַּתְּחִלָּ֖ה לִשְׁבָּר־ אֹֽכֶל׃ וַֽיְהִ֞י כִּי־ בָ֣אנוּ אֶל־ הַמָּל֗וֹן וַֽנִּפְתְּחָה֙ אֶת־ אַמְתְּחֹתֵ֔ינוּ וְהִנֵּ֤ה כֶֽסֶף־ אִישׁ֙ בְּפִ֣י אַמְתַּחְתּ֔וֹ כַּסְפֵּ֖נוּ בְּמִשְׁקָל֑וֹ וַנָּ֥שֶׁב אֹת֖וֹ בְּיָדֵֽנוּ׃ וְכֶ֧סֶף אַחֵ֛ר הוֹרַ֥דְנוּ בְיָדֵ֖נוּ לִשְׁבָּר־ אֹ֑כֶל לֹ֣א יָדַ֔עְנוּ מִי־ שָׂ֥ם כַּסְפֵּ֖נוּ בְּאַמְתְּחֹתֵֽינוּ׃",
+        "text": "Y se acercaron al mayordomo de la casa de José, y le hablaron a la entrada de la casa: ay, señor nuestro, nosotros en realidad de verdad descendimos al principio a comprar alimentos; y aconteció que cuando llegamos al mesón y abrimos nuestros costales, he aquí el dinero de cada uno estaba en la boca de su costal, nuestro dinero en su justo peso; y lo hemos vuelto a traer con nosotros. Hemos traído además otro dinero en nuestras manos para comprar alimentos; no sabemos quién haya puesto nuestro dinero en nuestros costales."
       },
       {
         "number": "23",
         "hebrew": "וַיֹּאמֶר֩ שָׁל֨וֹם לָכֶ֜ם אַל־ תִּירָ֗אוּ אֱלֹ֨הֵיכֶ֜ם וֵֽאלֹהֵ֤י אֲבִיכֶם֙ נָתַ֨ן לָכֶ֤ם מַטְמוֹן֙ בְּאַמְתְּחֹ֣תֵיכֶ֔ם כַּסְפְּכֶ֖ם בָּ֣א אֵלָ֑י וַיּוֹצֵ֥א אֲלֵהֶ֖ם אֶת־ שִׁמְעֽוֹן׃",
-        "text": null
+        "text": "Y él respondió: paz a vosotros, no temáis; vuestro Elohim y el Elohim de vuestro padre os dio tesoro en vuestros costales; vuestro dinero llegó a mí. Y sacó a Simeón, y lo llevó ante ellos."
       },
       {
-        "number": "24",
-        "hebrew": "וַיָּבֵ֥א הָאִ֛ישׁ אֶת־ הָאֲנָשִׁ֖ים בֵּ֣יתָה יוֹסֵ֑ף וַיִּתֶּן־ מַ֨יִם֙ וַיִּרְחֲצ֣וּ רַגְלֵיהֶ֔ם וַיִּתֵּ֥ן מִסְפּ֖וֹא לַחֲמֹֽרֵיהֶֽם׃",
-        "text": null
-      },
-      {
-        "number": "25",
-        "hebrew": "וַיָּכִ֨ינוּ֙ אֶת־ הַמִּנְחָ֔ה עַד־ בּ֥וֹא יוֹסֵ֖ף בַּֽצָּהֳרָ֑יִם כִּ֣י שָֽׁמְע֔וּ כִּי־ שָׁ֖ם יֹ֥אכְלוּ לָֽחֶם׃",
-        "text": null
+        "number": "24-25",
+        "hebrew": "וַיָּבֵ֥א הָאִ֛ישׁ אֶת־ הָאֲנָשִׁ֖ים בֵּ֣יתָה יוֹסֵ֑ף וַיִּתֶּן־ מַ֨יִם֙ וַיִּרְחֲצ֣וּ רַגְלֵיהֶ֔ם וַיִּתֵּ֥ן מִסְפּ֖וֹא לַחֲמֹֽרֵיהֶֽם׃ וַיָּכִ֨ינוּ֙ אֶת־ הַמִּנְחָ֔ה עַד־ בּ֥וֹא יוֹסֵ֖ף בַּֽצָּהֳרָ֑יִם כִּ֣י שָֽׁמְע֔וּ כִּי־ שָׁ֖ם יֹ֥אכְלוּ לָֽחֶם׃",
+        "text": "Y llevó aquel varón a los hombres a casa de José, y les dio agua, y lavaron sus pies, y dio de comer a sus asnos. Y ellos prepararon el presente entretanto que venía José al mediodía, porque habían oído que allí habrían de comer pan."
       },
       {
         "number": "26",
         "hebrew": "וַיָּבֹ֤א יוֹסֵף֙ הַבַּ֔יְתָה וַיָּבִ֥יאּוּ ל֛וֹ אֶת־ הַמִּנְחָ֥ה אֲשֶׁר־ בְּיָדָ֖ם הַבָּ֑יְתָה וַיִּשְׁתַּחֲווּ־ ל֖וֹ אָֽרְצָה׃",
-        "text": null
+        "text": "Y vino José a casa, y ellos le trajeron el presente que tenían en su mano dentro de la casa, y se inclinaron a él hasta tierra."
       },
       {
-        "number": "27",
-        "hebrew": "וַיִּשְׁאַ֤ל לָהֶם֙ לְשָׁל֔וֹם וַיֹּ֗אמֶר הֲשָׁל֛וֹם אֲבִיכֶ֥ם הַזָּקֵ֖ן אֲשֶׁ֣ר אֲמַרְתֶּ֑ם הַעוֹדֶ֖נּוּ חָֽי׃",
-        "text": null
-      },
-      {
-        "number": "28",
-        "hebrew": "וַיֹּאמְר֗וּ שָׁל֛וֹם לְעַבְדְּךָ֥ לְאָבִ֖ינוּ עוֹדֶ֣נּוּ חָ֑י וַֽיִּקְּד֖וּ וישתחו׃",
-        "text": null
+        "number": "27-28",
+        "hebrew": "וַיִּשְׁאַ֤ל לָהֶם֙ לְשָׁל֔וֹם וַיֹּ֗אמֶר הֲשָׁל֛וֹם אֲבִיכֶ֥ם הַזָּקֵ֖ן אֲשֶׁ֣ר אֲמַרְתֶּ֑ם הַעוֹדֶ֖נּוּ חָֽי׃ וַיֹּאמְר֗וּ שָׁל֛וֹם לְעַבְדְּךָ֥ לְאָבִ֖ינוּ עוֹדֶ֣נּוּ חָ֑י וַֽיִּקְּד֖וּ וישתחו׃",
+        "text": "Entonces les preguntó él cómo estaban: ¿vuestro padre, el anciano que dijisteis, vive aún? Y ellos respondieron: bien va a tu siervo nuestro padre; aún vive. Y se inclinaron, e hicieron reverencia."
       },
       {
         "number": "29",
         "hebrew": "וַיִּשָּׂ֣א עֵינָ֗יו וַיַּ֞רְא אֶת־ בִּנְיָמִ֣ין אָחִיו֮ בֶּן־ אִמּוֹ֒ וַיֹּ֗אמֶר הֲזֶה֙ אֲחִיכֶ֣ם הַקָּטֹ֔ן אֲשֶׁ֥ר אֲמַרְתֶּ֖ם אֵלָ֑י וַיֹּאמַ֕ר אֱלֹהִ֥ים יָחְנְךָ֖ בְּנִֽי׃",
-        "text": null
+        "text": "Y alzando José sus ojos vio a Binyamín su hermano, hijo de su madre, y dijo: ¿es este vuestro hermano menor, de quien me hablasteis? Y dijo: Elohim tenga misericordia de ti, hijo mío."
       },
       {
-        "number": "30",
-        "hebrew": "וַיְמַהֵ֣ר יוֹסֵ֗ף כִּֽי־ נִכְמְר֤וּ רַחֲמָיו֙ אֶל־ אָחִ֔יו וַיְבַקֵּ֖שׁ לִבְכּ֑וֹת וַיָּבֹ֥א הַחַ֖דְרָה וַיֵּ֥בְךְּ שָֽׁמָּה׃",
-        "text": null
-      },
-      {
-        "number": "31",
-        "hebrew": "וַיִּרְחַ֥ץ פָּנָ֖יו וַיֵּצֵ֑א וַיִּ֨תְאַפַּ֔ק וַיֹּ֖אמֶר שִׂ֥ימוּ לָֽחֶם׃",
-        "text": null
+        "number": "30-31",
+        "hebrew": "וַיְמַהֵ֣ר יוֹסֵ֗ף כִּֽי־ נִכְמְר֤וּ רַחֲמָיו֙ אֶל־ אָחִ֔יו וַיְבַקֵּ֖שׁ לִבְכּ֑וֹת וַיָּבֹ֥א הַחַ֖דְרָה וַיֵּ֥בְךְּ שָֽׁמָּה׃ וַיִּרְחַ֥ץ פָּנָ֖יו וַיֵּצֵ֑א וַיִּ֨תְאַפַּ֔ק וַיֹּ֖אמֶר שִׂ֥ימוּ לָֽחֶם׃",
+        "text": "Entonces José se apresuró, porque se conmovieron sus entrañas a causa de su hermano, y buscó dónde llorar; y entró en su cámara, y lloró allí. Y lavó su rostro y salió, y se contuvo, y dijo: poned pan."
       },
       {
         "number": "32",
         "hebrew": "וַיָּשִׂ֥ימוּ ל֛וֹ לְבַדּ֖וֹ וְלָהֶ֣ם לְבַדָּ֑ם וְלַמִּצְרִ֞ים הָאֹכְלִ֤ים אִתּוֹ֙ לְבַדָּ֔ם כִּי֩ לֹ֨א יוּכְל֜וּן הַמִּצְרִ֗ים לֶאֱכֹ֤ל אֶת־ הָֽעִבְרִים֙ לֶ֔חֶם כִּי־ תוֹעֵבָ֥ה הִ֖וא לְמִצְרָֽיִם׃",
-        "text": null
+        "text": "Y le pusieron a él aparte, y a ellos aparte, y aparte a los egipcios que con él comían, porque los egipcios no pueden comer pan con los hebreos, lo cual es abominación²⁰⁰ a los egipcios."
       },
       {
         "number": "33",
         "hebrew": "וַיֵּשְׁב֣וּ לְפָנָ֔יו הַבְּכֹר֙ כִּבְכֹ֣רָת֔וֹ וְהַצָּעִ֖יר כִּצְעִרָת֑וֹ וַיִּתְמְה֥וּ הָאֲנָשִׁ֖ים אִ֥ישׁ אֶל־ רֵעֵֽהוּ׃",
-        "text": null
+        "text": "Y se sentaron delante de él, el mayor conforme a su primogenitura, y el menor conforme a su menor edad; y estaban aquellos varones atónitos mirándose el uno al otro."
       },
       {
         "number": "34",
         "hebrew": "וַיִּשָּׂ֨א מַשְׂאֹ֜ת מֵאֵ֣ת פָּנָיו֮ אֲלֵהֶם֒ וַתֵּ֜רֶב מַשְׂאַ֧ת בִּנְיָמִ֛ן מִמַּשְׂאֹ֥ת כֻּלָּ֖ם חָמֵ֣שׁ יָד֑וֹת וַיִּשְׁתּ֥וּ וַֽיִּשְׁכְּר֖וּ עִמּֽוֹ׃",
-        "text": null
+        "text": "Y él les tomó viandas de delante de sí para ellos; mas la porción de Binyamín era cinco veces mayor²⁰¹ que cualquiera de las de ellos. Y bebieron, y se alegraron con él."
       }
     ],
     "44": [
@@ -7712,6 +7142,246 @@ window.GENESIS_DATA={
       ],
       "hebrew": "שְׁאוֹל",
       "teaser": "El primer nombre del lugar de los muertos, sin más."
+    },
+    {
+      "id": 181,
+      "chapter": 38,
+      "title": "yibum / deber de cuñado",
+      "body": "Primera mención explícita en el corpus del deber de un hermano de engendrar descendencia a nombre de su hermano muerto sin hijos (institución conocida después como levirato). El texto no explica la costumbre, la asume ya vigente; Onán la incumple en silencio, derramando su semilla en tierra en vez de completar el acto. E1 el dato narrativo (la costumbre existe y se transgrede); E2 el paralelo con instituciones similares del Cercano Oriente antiguo, documentadas fuera del corpus.",
+      "evidence": [
+        "E1",
+        "E2"
+      ],
+      "hebrew": "יִבֵּם",
+      "teaser": "Un deber matrimonial que el texto asume, sin explicarlo."
+    },
+    {
+      "id": 182,
+      "chapter": 38,
+      "title": "Petaj Enáyim / la entrada de los ojos",
+      "body": "Nombre de lugar que significa literalmente \"la abertura de los ojos\" — Tamar se sienta allí disfrazada, y es precisamente donde Judá \"no ve\" quién es ella. Juego de palabras real entre el nombre del sitio y la ceguera momentánea del personaje. E1 el dato toponímico; D1 la lectura del contraste como deliberado.",
+      "evidence": [
+        "E1",
+        "D1"
+      ],
+      "hebrew": "פֶּתַח עֵינַיִם",
+      "teaser": "Se sienta a “la entrada de los ojos”, y él no la ve."
+    },
+    {
+      "id": 183,
+      "chapter": 38,
+      "title": "zonah / qedeshah, dos palabras para la misma mujer",
+      "body": "El narrador, que sabe quién es Tamar, la llama zonah (\"prostituta\" en sentido llano) cuando describe lo que Judá cree ver. Pero cuando Jirá pregunta por ella en el pueblo, usa qedeshah — de la misma raíz que qadosh, \"consagrado/santo\" —, el término para una prostituta de culto asociada a un santuario. Dos palabras distintas, no intercambiables, aplicadas a la misma escena desde dos puntos de vista distintos. E1.",
+      "evidence": [
+        "E1"
+      ],
+      "hebrew": "זוֹנָה · קְדֵשָׁה",
+      "teaser": "Dos palabras para la misma mujer, según quién mira."
+    },
+    {
+      "id": 184,
+      "chapter": 38,
+      "title": "tzadqah mimeni / más justa que yo",
+      "body": "Misma raíz de tzedaqah (nota 119): Judá reconoce que Tamar actuó con más rectitud que él, no que ella sea inocente y él culpable en abstracto — es la misma palabra de \"justicia\" aplicada a una comparación directa entre dos personas. E1.",
+      "evidence": [
+        "E1"
+      ],
+      "hebrew": "צָדְקָה מִמֶּנִּי",
+      "teaser": "Judá admite: ella tuvo más razón que yo."
+    },
+    {
+      "id": 185,
+      "chapter": 38,
+      "title": "Péretz / brecha",
+      "body": "Etimología explicada por el propio texto: \"¡qué brecha te has abierto!\" (paratzta, de la raíz parats), y llama al niño Péretz con esa misma raíz — etimología real, no paronomasia. Nota fuera de corpus: Péretz reaparece en Rut 4:18-22 como antepasado directo de David, cerrando fuera de Génesis una línea que acá empieza con un nacimiento fuera de lo esperado. E1 la etimología; E2 la genealogía posterior, fuera de este libro.",
+      "evidence": [
+        "E1",
+        "E2"
+      ],
+      "hebrew": "פֶּרֶץ",
+      "teaser": "El nombre nace del grito de la partera."
+    },
+    {
+      "id": 186,
+      "chapter": 39,
+      "title": "YHWH itto / YHWH estaba con él",
+      "body": "Fórmula que enmarca todo el capítulo, repetida al principio y al final: en la casa de Potifar y otra vez en la cárcel. El éxito de José no se narra nunca como mérito propio aislado, sino siempre bajo esta fórmula de acompañamiento divino. E1, dato estructural de repetición.",
+      "evidence": [
+        "E1"
+      ],
+      "hebrew": "וַיְהִי יְהוָה אֶת־יוֹסֵף",
+      "teaser": "La frase que enmarca todo el capítulo."
+    },
+    {
+      "id": 187,
+      "chapter": 39,
+      "title": "yefeh to'ar vifeh mar'eh / hermoso semblante y bella presencia",
+      "body": "Misma fórmula exacta usada para Raquel en 29:17. El texto describe al hijo con el mismo lenguaje que usó para la madre — dato de repetición léxica, no elogio genérico distinto en cada caso. E1.",
+      "evidence": [
+        "E1"
+      ],
+      "hebrew": "יְפֵה־תֹאַר וִיפֵה מַרְאֶה",
+      "teaser": "La misma belleza que se dijo de la madre."
+    },
+    {
+      "id": 188,
+      "chapter": 39,
+      "title": "ve-chatati lelohim / y pecaría contra Elohim",
+      "body": "Misma raíz chattah de la nota 155 (Jacob y Labán) — acá José la usa para nombrar explícitamente el adulterio como pecado contra Elohim, no solo como traición a un varón (su señor) o a una mujer. Primera vez en el corpus que el vocabulario de \"pecado\" se aplica a una tentación sexual evitada, no consumada. E1.",
+      "evidence": [
+        "E1"
+      ],
+      "hebrew": "וְחָטָאתִי לֵאלֹהִים",
+      "teaser": "El primer pecado nombrado antes de cometerse."
+    },
+    {
+      "id": 189,
+      "chapter": 39,
+      "title": "ish ivri / varón hebreo",
+      "body": "\"Hebreo\" (ivri) es, en el corpus, casi siempre una palabra que usan los extranjeros para nombrar a los descendientes de Abraham (cf. \"Abram el hebreo\", 14:13), no como los israelitas se llaman a sí mismos entre ellos. Acá lo confirma otra vez: es la ishah egipcia quien usa el término, con tono despectivo. E1.",
+      "evidence": [
+        "E1"
+      ],
+      "hebrew": "אִישׁ עִבְרִי",
+      "teaser": "Un nombre que los demás usan para él."
+    },
+    {
+      "id": 190,
+      "chapter": 40,
+      "title": "halo lelohim pitronim / ¿no son de Elohim las interpretaciones?",
+      "body": "Primera declaración explícita del principio que sostiene todo el ciclo de sueños de José: interpretar no es una destreza humana que se posea, sino algo que se recibe de Elohim. José lo dice antes de interpretar un solo sueño en la cárcel, y lo repetirá ante faraón (41:16). E1, dato estructural.",
+      "evidence": [
+        "E1"
+      ],
+      "hebrew": "הֲלוֹא לֵאלֹהִים פִּתְרֹנִים",
+      "teaser": "Interpretar no es una destreza propia."
+    },
+    {
+      "id": 191,
+      "chapter": 40,
+      "title": "eretz ha'ivrim / la tierra de los hebreos",
+      "body": "José llama \"tierra de los hebreos\" a Canaán — designación que no corresponde a ninguna entidad política real de la época narrada (los hebreos, en ese momento del relato, son una sola familia extendida, no un pueblo asentado con territorio reconocido). E1 el dato textual; D1/E2 si se lee como anacronismo narrativo o como uso retrospectivo del narrador.",
+      "evidence": [
+        "E1",
+        "D1",
+        "E2"
+      ],
+      "hebrew": "אֶרֶץ הָעִבְרִים",
+      "teaser": "Un territorio que todavía no existe como tal."
+    },
+    {
+      "id": 192,
+      "chapter": 40,
+      "title": "yisa et rosh / alzará tu cabeza",
+      "body": "Mismo modismo hebreo aplicado a los dos oficiales con sentido opuesto: para el copero, \"alzar la cabeza\" significa restituirlo a su puesto; para el panadero, significa literalmente separarle la cabeza del cuerpo antes de colgarlo. El texto no varía el modismo — deja que el lector note la ironía sobre la misma frase. E1.",
+      "evidence": [
+        "E1"
+      ],
+      "hebrew": "יִשָּׂא אֶת־רֹאשְׁךָ",
+      "teaser": "El mismo modismo, con dos finales opuestos."
+    },
+    {
+      "id": 193,
+      "chapter": 41,
+      "title": "vatipa'em rucho / se agitó su espíritu",
+      "body": "Misma raíz ruach de la nota 5 — acá no aliento vital ni viento, sino el estado interior alterado de faraón frente a un sueño que no entiende. El campo semántico único de viento/aliento/espíritu vuelve a cubrir, sin distinción léxica, lo que el español separaría en \"ánimo\" o \"nervios\". E1.",
+      "evidence": [
+        "E1"
+      ],
+      "hebrew": "וַתִּפָּעֶם רוּחוֹ",
+      "teaser": "El mismo campo de palabras del viento y el aliento."
+    },
+    {
+      "id": 194,
+      "chapter": 41,
+      "title": "ruach elohim bo / espíritu de elohim en él",
+      "body": "Faraón, politeísta, describe a José con esta frase — genuinamente ambiguo si elohim funciona acá como el Elohim del propio José o, en boca de un egipcio, como \"un espíritu divino\" en sentido genérico (ver también nota 170, elohim como intensificador). El narrador no aclara desde qué punto de vista habla faraón. E1 el dato léxico; E3 la lectura exacta de la frase en boca de un hablante no israelita.",
+      "evidence": [
+        "E1",
+        "E3"
+      ],
+      "hebrew": "רוּחַ אֱלֹהִים בּוֹ",
+      "teaser": "Lo que un faraón politeísta cree estar viendo."
+    },
+    {
+      "id": 195,
+      "chapter": 41,
+      "title": "avrekh",
+      "body": "Palabra única en el corpus, de origen disputado: puede ser préstamo del egipcio (una exclamación protocolar equivalente a \"¡atención!\"), o derivarse de la raíz hebrea barak (\"arrodillarse/bendecir\"), con sentido de \"arrodíllense\". Ninguna de las dos etimologías está establecida con consenso. E2/E3.",
+      "evidence": [
+        "E2",
+        "E3"
+      ],
+      "hebrew": "אַבְרֵךְ",
+      "teaser": "Un grito de protocolo sin origen seguro."
+    },
+    {
+      "id": 196,
+      "chapter": 41,
+      "title": "Tzafnat-Panéaj / Asenat, hija de Poti-Fera",
+      "body": "Nombre egipcio de etimología disputada (una lectura, \"el dios habla y vive\"; otra, \"sustento de la vida\"), dado a José por faraón. Su ishah, Asenat, es hija de un sacerdote de On (Heliópolis, centro del culto solar egipcio) — matrimonio que lo integra formalmente a la elite religiosa egipcia, dato que el texto no comenta ni cuestiona. E1/E2.",
+      "evidence": [
+        "E1",
+        "E2"
+      ],
+      "hebrew": "צָפְנַת פַּעְנֵחַ",
+      "teaser": "Un nombre egipcio, para un lugar en la corte egipcia."
+    },
+    {
+      "id": 197,
+      "chapter": 41,
+      "title": "Menashé / Efráyim",
+      "body": "A diferencia de los nombres marcados antes como paronomasia (Noé, Babel, Abraham, Edom), estas dos etimologías son reales: Menashé de nashah (\"olvidar\"), Efráyim de parah (\"fructificar\"), ambas explicadas por el propio José con la raíz correcta — mismo caso que Reuvén, Shimón, Leví y Yehudá (nota 147). E1.",
+      "evidence": [
+        "E1"
+      ],
+      "hebrew": "מְנַשֶּׁה · אֶפְרַיִם",
+      "teaser": "Dos etimologías reales, no juegos de sonido."
+    },
+    {
+      "id": 198,
+      "chapter": 42,
+      "title": "ervat ha'aretz / lo desprotegido de la tierra",
+      "body": "Modismo que literalmente dice \"la desnudez de la tierra\" — no sexual, sino el sentido de punto débil, frontera sin defensa, aquello que un espía vendría a mapear. José acusa a sus hermanos exactamente de lo que Jacob temía al negarse a enviar a Binyamín. E1.",
+      "evidence": [
+        "E1"
+      ],
+      "hebrew": "עֶרְוַת הָאָרֶץ",
+      "teaser": "La “desnudez” de un territorio, no de un cuerpo."
+    },
+    {
+      "id": 199,
+      "chapter": 42,
+      "title": "tzarat nafsho / la angustia de su alma",
+      "body": "Misma raíz nefesh de la nota 162 — acá en boca de los hermanos, recordando la súplica de José que ellos ignoraron. Primera vez que el propio relato admite, desde adentro, lo que el lector ya sabía desde el capítulo 37. E1.",
+      "evidence": [
+        "E1"
+      ],
+      "hebrew": "צָרַת נַפְשׁוֹ",
+      "teaser": "La súplica que ellos mismos recuerdan haber ignorado."
+    },
+    {
+      "id": 200,
+      "chapter": 43,
+      "title": "to'evah / abominación",
+      "body": "Primera aparición del término en el corpus — palabra de carga fuerte que en el resto de la Torá se reserva casi siempre para prácticas rituales o sexuales prohibidas. Acá describe algo mucho más llano: que los egipcios no comieran a la misma mesa que los hebreos, una norma de separación étnica, no una falta moral o cúltica. El contraste con sus usos posteriores es dato relevante, no forzado. E1.",
+      "evidence": [
+        "E1"
+      ],
+      "hebrew": "תּוֹעֵבָה",
+      "teaser": "La primera vez que aparece una palabra que pesará mucho después."
+    },
+    {
+      "id": 201,
+      "chapter": 43,
+      "title": "jamesh yadot / cinco veces más",
+      "body": "El propio José, favorecido de niño con una túnica que distinguía, reproduce con Binyamín el mismo patrón de trato desigual que originó el conflicto del capítulo 37 — ahora desde el lugar de quien reparte, no de quien es señalado. E1 el dato textual (la porción es objetivamente mayor); D1 la lectura del eco con el propio pasado de José.",
+      "evidence": [
+        "E1",
+        "D1"
+      ],
+      "hebrew": "חָמֵשׁ יָדוֹת",
+      "teaser": "El favoritismo del padre, repetido por el propio hijo."
     }
   ],
   "meta": {
@@ -7756,8 +7426,14 @@ window.GENESIS_DATA={
       34,
       35,
       36,
-      37
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43
     ],
-    "verseCount": 1115
+    "verseCount": 1001
   }
 };

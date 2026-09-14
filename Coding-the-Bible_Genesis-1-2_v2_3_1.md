@@ -1,4 +1,4 @@
-# Coding the Bible — Génesis 1 a 37
+# Coding the Bible — Génesis 1 a 43
 ### Lectura DIMA. Motor sobre datos reales (OSHB / Códice de Leningrado).
 
 ---
@@ -1493,6 +1493,200 @@
 
 **36** Y los madianitas lo vendieron en Egipto a Potifar, oficial del faraón, capitán de la guardia.
 
+## Génesis 38
+
+**1-2** Aconteció en aquel tiempo que Judá se apartó de sus hermanos, y se fue a un varón adulamita que se llamaba Jirá. Y vio allí Judá a la hija de un varón cananeo que se llamaba Súa, y la tomó, y se llegó a ella.
+
+**3-5** Y ella concibió, y dio a luz un hijo, y llamó su nombre Er. Y concibió otra vez, y dio a luz un hijo, y llamó su nombre Onán. Y volvió a concebir, y dio a luz un hijo, y llamó su nombre Selá; y estaba Judá en Quezib cuando ella lo dio a luz.
+
+**6-7** Y Judá tomó ishah para Er su primogénito, la cual se llamaba Tamar. Y Er, primogénito de Judá, fue malo a los ojos de YHWH, y le quitó la vida YHWH.
+
+**8-10** Entonces Judá dijo a Onán: entra a la ishah de tu hermano, y cumple con ella el deber de cuñado¹⁸¹, y levanta descendencia a tu hermano. Y sabiendo Onán que la descendencia no sería suya, sucedía que cuando entraba a la ishah de su hermano, derramaba en tierra, para no dar descendencia a su hermano. Y desagradó a los ojos de YHWH lo que hacía, y también a él le quitó la vida.
+
+**11-13** Y Judá dijo a Tamar su nuera: quédate viuda en casa de tu padre hasta que crezca Selá mi hijo; porque dijo: no sea que muera él también como sus hermanos. Y se fue Tamar, y estuvo en casa de su padre. Y pasaron muchos días, y murió la hija de Súa, ishah de Judá; y Judá, consolado ya, subió a los trasquiladores de sus ovejas a Timnat, él y su amigo Jirá el adulamita. Y fue dado aviso a Tamar: he aquí tu suegro sube a Timnat a trasquilar sus ovejas.
+
+**14** Entonces ella se quitó los vestidos de su viudez, y se cubrió con un velo, y se arrebozó, y se sentó a la entrada de Enáyim¹⁸², que está junto al camino de Timnat; porque veía que había crecido Selá, y ella no le había sido dada por ishah.
+
+**15-16** Y la vio Judá, y la tuvo por una prostituta¹⁸³, porque había cubierto su rostro. Y se apartó del camino hacia ella, y le dijo: te ruego que me dejes llegar a ti; pues no sabía que era su nuera. Y ella dijo: ¿qué me darás por llegar a mí?
+
+**17-18** Y él respondió: yo te enviaré un cabrito de las cabras. Y ella dijo: ¿me darás prenda hasta que lo envíes? Entonces él dijo: ¿qué prenda te daré? Y ella respondió: tu sello, tu cordón, y tu bastón que tienes en tu mano. Y él se los dio, y se llegó a ella, y ella concibió de él.
+
+**19-20** Y se levantó y se fue, y se quitó el velo, y se vistió las ropas de su viudez. Y Judá envió el cabrito por mano de su amigo el adulamita, para recibir la prenda de mano de la mujer; pero no la halló.
+
+**21-23** Y preguntó a los hombres de aquel lugar: ¿dónde está la ramera consagrada¹⁸³ que estaba en Enáyim junto al camino? Y ellos le dijeron: no ha estado aquí ramera consagrada. Entonces él volvió a Judá, y dijo: no la hallé; y también los hombres del lugar dijeron: no ha estado aquí ramera consagrada. Y Judá dijo: tómeselo para sí, para que no seamos objeto de burla; he aquí yo he enviado este cabrito, y tú no la hallaste.
+
+**24** Y sucedió que al cabo de unos tres meses, fue dado aviso a Judá: Tamar tu nuera ha fornicado, y además está encinta a causa de las fornicaciones. Y Judá dijo: sacadla, y sea quemada.
+
+**25-26** Cuando la sacaban, ella envió a decir a su suegro: del varón cuyas son estas cosas, estoy encinta. Y dijo: reconoce ahora de quién son este sello, este cordón y este bastón. Y Judá los reconoció, y dijo: más justa es ella que yo¹⁸⁴, por cuanto no la di a Selá mi hijo. Y nunca más la conoció.
+
+**27-28** Y aconteció que al tiempo de dar a luz, había gemelos en su vientre. Y sucedió, cuando daba a luz, que uno de ellos sacó la mano, y la partera tomó y ató a su mano un hilo de grana: este salió primero.
+
+**29-30** Pero volviendo él a meter la mano, he aquí salió su hermano; y ella dijo: ¡qué brecha te has abierto! Y llamó su nombre Péretz¹⁸⁵. Después salió su hermano, el que tenía en su mano el hilo de grana, y llamó su nombre Zéraj.
+
+## Génesis 39
+
+**1** Y José fue llevado a Egipto; y lo compró Potifar, oficial del faraón, capitán de la guardia, varón egipcio, de mano de los ismaelitas que lo habían llevado allá.
+
+**2-3** Y YHWH estaba con José¹⁸⁶, y fue varón próspero; y estaba en la casa de su señor el egipcio. Y vio su señor que YHWH estaba con él, y que todo lo que él hacía, YHWH lo hacía prosperar en su mano.
+
+**4-5** Y halló José gracia en sus ojos, y le servía; y lo puso a cargo de su casa, y entregó en su mano todo lo que tenía. Y desde que lo puso a cargo de su casa y de todo lo que tenía, bendijo YHWH la casa del egipcio a causa de José; y la bendición de YHWH estuvo en todo lo que tenía, así en casa como en el campo.
+
+**6** Y dejó todo lo que tenía en mano de José, y con él no se preocupaba de cosa alguna sino del pan que comía. Y era José de hermoso semblante y de bella presencia¹⁸⁷.
+
+**7-9** Y aconteció después de esto que la ishah de su señor puso sus ojos en José, y dijo: acuéstate conmigo. Mas él no quiso, y dijo a la ishah de su señor: he aquí mi señor no se preocupa conmigo de nada en la casa, y ha puesto en mi mano todo lo que tiene; no hay otro mayor que yo en esta casa, y ninguna cosa me ha reservado, sino a ti, por cuanto eres su ishah; ¿cómo, pues, haría yo este gran mal, y pecaría contra Elohim¹⁸⁸?
+
+**10** Y hablándole ella cada día, él no la escuchaba para acostarse al lado de ella, para estar con ella.
+
+**11-12** Aconteció que entró él un día en casa para hacer su oficio, y no había nadie de los de la casa allí; y ella lo asió por su ropa: acuéstate conmigo. Entonces él dejó su ropa en las manos de ella, y huyó y salió fuera.
+
+**13-15** Y cuando vio ella que le había dejado su ropa en sus manos, y había huido fuera, llamó a los de su casa, y les dijo: mirad, nos ha traído un varón hebreo¹⁸⁹ para que hiciera burla de nosotros; vino él a mí para acostarse conmigo, y yo di grandes voces; y viendo que yo alzaba la voz y gritaba, dejó junto a mí su ropa, y huyó y salió fuera.
+
+**16-18** Y ella puso junto a sí la ropa de él, hasta que vino su señor a su casa. Entonces le habló ella las mismas palabras: el siervo hebreo que nos trajiste, vino a mí para deshonrarme; y cuando yo alcé mi voz y grité, él dejó su ropa junto a mí, y huyó fuera.
+
+**19-20** Y sucedió que cuando oyó su señor las palabras que su ishah le hablaba, diciendo: así me ha tratado tu siervo, se encendió su furor. Y tomó su señor a José, y lo puso en la cárcel, donde estaban los presos del rey, y estuvo allí en la cárcel.
+
+**21-23** Pero YHWH estaba con José, y extendió hacia él su misericordia, y le dio gracia en ojos del jefe de la cárcel. Y el jefe de la cárcel entregó en mano de José todos los presos que había en aquella prisión; todo lo que hacían allí, él lo hacía. No necesitaba el jefe de la cárcel cuidarse de cosa alguna que estaba en mano de José, porque YHWH estaba con él, y lo que él hacía, YHWH lo prosperaba.
+
+## Génesis 40
+
+**1-3** Después de estas cosas aconteció que el copero y el panadero del rey de Egipto delinquieron contra su señor el rey de Egipto. Y se enojó faraón contra sus dos oficiales, contra el jefe de los coperos y contra el jefe de los panaderos, y los puso en prisión en la casa del capitán de la guardia, en la cárcel donde José estaba preso.
+
+**4-5** Y el capitán de la guardia dio cargo de ellos a José, y él les servía; y estuvieron días en la prisión. Y ambos, el copero y el panadero del rey de Egipto, presos en la cárcel, tuvieron un sueño, cada uno su propio sueño en una misma noche, cada uno conforme a la interpretación de su sueño.
+
+**6-8** Y vino a ellos José por la mañana, y los miró, y he aquí que estaban tristes. Y preguntó a los oficiales de faraón que estaban con él en la prisión de la casa de su señor: ¿por qué parecen hoy mal vuestros semblantes? Y ellos le dijeron: hemos tenido un sueño, y no hay quien lo interprete. Y les dijo José: ¿no son de Elohim las interpretaciones¹⁹⁰? Contádmelo ahora.
+
+**9-11** Entonces el jefe de los coperos contó su sueño a José: en mi sueño había una vid delante de mí, y en la vid tres sarmientos; y ella como que brotaba, subía su flor, y sus racimos daban uvas maduras. Y la copa de faraón estaba en mi mano, y tomé las uvas, y las exprimí en la copa de faraón, y di la copa en mano de faraón.
+
+**12-13** Y le dijo José: esta es su interpretación: los tres sarmientos son tres días. Al cabo de tres días levantará faraón tu cabeza, y te restituirá a tu puesto; y darás la copa a faraón en su mano, como solías hacerlo cuando eras su copero.
+
+**14-15** Acuérdate, pues, de mí cuando tengas ese bien, y te ruego que uses conmigo de misericordia, y hagas mención de mí a faraón, y me saques de esta casa. Porque fui hurtado de la tierra de los hebreos¹⁹¹; y tampoco he hecho aquí por qué me pusiesen en la cárcel.
+
+**16-17** Viendo el jefe de los panaderos que la interpretación había sido buena, dijo a José: también yo soñé que veía tres canastillos blancos sobre mi cabeza; y en el canastillo más alto había de toda clase de manjares de pastelería para faraón, y las aves las comían del canastillo de sobre mi cabeza.
+
+**18-19** Entonces respondió José: esta es su interpretación: los tres canastillos son tres días. Al cabo de tres días quitará faraón tu cabeza de sobre ti¹⁹², y te hará colgar en la horca, y las aves comerán tu carne de sobre ti.
+
+**20-22** Y aconteció al tercer día, que era el día del cumpleaños de faraón, que hizo banquete a todos sus sirvientes; y alzó la cabeza del jefe de los coperos, y la cabeza del jefe de los panaderos, entre sus servidores. E hizo volver a su oficio al jefe de los coperos, y dio este la copa en mano de faraón; mas hizo ahorcar al jefe de los panaderos, como lo había interpretado José.
+
+**23** Y el jefe de los coperos no se acordó de José, sino que le olvidó.
+
+## Génesis 41
+
+**1-4** Aconteció que pasados dos años, faraón tuvo un sueño: he aquí que estaba de pie junto al río; y del río subían siete vacas de hermoso aspecto y muy gordas, y pacían en el prado. Y he aquí otras siete vacas subían tras ellas del río, de mal aspecto y enjutas de carne, y se pararon cerca de las vacas hermosas a la orilla del río. Y las vacas de mal aspecto y enjutas de carne devoraron a las siete vacas hermosas y gordas. Y despertó faraón.
+
+**5-7** Se durmió de nuevo, y soñó la segunda vez: he aquí siete espigas llenas y hermosas subían de una sola caña. Y he aquí otras siete espigas menudas y abatidas por el viento solano salían después de ellas. Y las siete espigas menudas devoraron a las siete espigas gruesas y llenas. Y despertó faraón, y he aquí que era un sueño.
+
+**8** Y aconteció que a la mañana estaba agitado su espíritu¹⁹³, y envió e hizo llamar a todos los magos de Egipto, y a todos sus sabios; y les contó faraón su sueño, y no había quien lo interpretase a faraón.
+
+**9-11** Entonces el jefe de los coperos habló a faraón: de mis pecados me acuerdo hoy: faraón se enojó contra sus siervos, y a mí me puso en prisión en casa del capitán de la guardia, a mí y al jefe de los panaderos. Y soñamos un sueño la misma noche, yo y él; cada uno soñó conforme a la interpretación de su sueño.
+
+**12-13** Y estaba allí con nosotros un joven hebreo, siervo del capitán de la guardia; y se lo contamos, y él nos interpretó nuestros sueños, a cada uno conforme a su sueño. Y aconteció que como él nos lo interpretó, así fue: a mí me hizo volver a mi puesto, e hizo colgar al otro.
+
+**14** Entonces faraón envió y llamó a José, y lo sacaron a toda prisa de la cárcel; y se afeitó, y se cambió de vestidos, y vino a faraón.
+
+**15-16** Y dijo faraón a José: yo he tenido un sueño, y no hay quien lo interprete; mas he oído decir de ti, que sabes interpretar sueños. Y respondió José a faraón: no está en mí; Elohim será quien dé respuesta propicia a faraón.
+
+**17-21** Entonces faraón dijo a José: en mi sueño estaba yo a la orilla del río; y del río subían siete vacas de gordo cuerpo y hermosa apariencia, y pacían en el prado. Y otras siete vacas subían después de ellas, flacas y de muy fea apariencia y enjutas de carne; no he visto otras semejantes en fealdad, en toda la tierra de Egipto. Y las vacas flacas y feas devoraban a las siete primeras vacas gordas; y entraban en sus entrañas, mas no se conocía que hubieran entrado, porque su apariencia era tan mala como al principio. Y desperté.
+
+**22-24** Vi también soñando, y he aquí siete espigas subían en una sola caña, llenas y hermosas; y he aquí otras siete espigas secas, menudas y abatidas del viento solano, subían después de ellas; y las espigas menudas devoraban a las siete espigas hermosas. Y lo he dicho a los magos, mas no hay quien me lo interprete.
+
+**25-27** Entonces respondió José a faraón: el sueño de faraón es uno mismo; Elohim ha mostrado a faraón lo que va a hacer. Las siete vacas hermosas son siete años, y las espigas hermosas son siete años: el sueño es uno mismo. También las siete vacas flacas y feas que subían tras ellas, son siete años; y las siete espigas menudas y abatidas del viento solano, siete años serán de hambre.
+
+**28-32** Esto es lo que respondo a faraón: lo que Elohim va a hacer, lo ha mostrado a faraón. He aquí vienen siete años de gran abundancia en toda la tierra de Egipto. Y tras ellos vendrán siete años de hambre, y toda la abundancia será olvidada en la tierra de Egipto; y el hambre consumirá la tierra. Y aquella abundancia no se echará de ver, a causa del hambre siguiente, la cual será gravísima. Y el suceder el sueño dos veces a faraón, significa que la cosa es firme de parte de Elohim, y que Elohim se apresura a hacerla.
+
+**33-36** Por tanto, provéase ahora faraón de un varón prudente y sabio, y póngalo sobre la tierra de Egipto. Haga esto faraón, y ponga gobernadores sobre el país, y quinte la tierra de Egipto en los siete años de abundancia. Y junten toda la provisión de estos buenos años que vienen, y almacenen el trigo bajo la mano de faraón para mantenimiento de las ciudades; y guárdenlo. Y esté aquella provisión en depósito para el país, para los siete años de hambre que habrá en la tierra de Egipto, y el país no perecerá de hambre.
+
+**37-38** Y pareció bien el asunto a faraón, y a todos sus siervos. Y dijo faraón a sus siervos: ¿acaso hallaremos otro varón como este, en quien esté el aliento de Elohim¹⁹⁴?
+
+**39-41** Y dijo faraón a José: pues que Elohim te ha hecho saber todo esto, no hay entendido ni sabio como tú. Tú estarás sobre mi casa, y por tu palabra se gobernará todo mi pueblo; solamente en el trono seré yo mayor que tú. Dijo más faraón a José: he aquí yo te he puesto sobre toda la tierra de Egipto.
+
+**42-43** Entonces faraón se quitó su anillo de su mano, y lo puso en la mano de José, y lo vistió de vestiduras de lino finísimo, y puso un collar de oro en su cuello; y lo hizo subir en su segundo carro, y pregonaban delante de él: ¡Abrej¹⁹⁵! Y lo puso sobre toda la tierra de Egipto.
+
+**44** Y dijo faraón a José: yo soy faraón; y sin ti ninguno alzará su mano ni su pie en toda la tierra de Egipto.
+
+**45-46** Y llamó faraón el nombre de José, Tzafnat-Panéaj¹⁹⁶; y le dio por ishah a Asenat, hija de Poti-Fera sacerdote de On. Y salió José por toda la tierra de Egipto. Era José de edad de treinta años cuando fue presentado delante de faraón rey de Egipto. Y salió José de delante de faraón, y recorrió toda la tierra de Egipto.
+
+**47-49** E hizo la tierra en aquellos siete años de abundancia a montones. Y él reunió todo el alimento de los siete años que hubo en la tierra de Egipto, y guardó alimento en las ciudades, poniendo en cada ciudad el alimento del campo de sus alrededores. Y amontonó José trigo como arena del mar, mucho en extremo, hasta dejar de contar, porque no tenía número.
+
+**50-52** Y antes que viniese el primer año del hambre, le nacieron a José dos hijos, que le dio a luz Asenat hija de Poti-Fera sacerdote de On. Y llamó José el nombre del primogénito Menashé¹⁹⁷, porque dijo: Elohim me hizo olvidar todo mi trabajo, y toda la casa de mi padre. Y el nombre del segundo lo llamó Efráyim, porque dijo: Elohim me hizo fructificar en la tierra de mi aflicción.
+
+**53-55** Y se cumplieron los siete años de abundancia que hubo en la tierra de Egipto; y comenzaron a venir los siete años de hambre, como José había dicho; y hubo hambre en todos los países, mas en toda la tierra de Egipto había pan. Y cuando se sintió el hambre en toda la tierra de Egipto, el pueblo clamó a faraón por pan; y dijo faraón a todos los egipcios: id a José, y haced lo que él os dijere.
+
+**56-57** Y el hambre estaba por toda la faz de la tierra; entonces abrió José todos los almacenes donde había alimento, y vendía a los egipcios; porque el hambre había prevalecido en la tierra de Egipto. Y toda la tierra venía a Egipto para comprar de José, porque por toda la tierra había prevalecido el hambre.
+
+## Génesis 42
+
+**1-2** Viendo Jacob que había alimentos en Egipto, dijo a sus hijos: ¿por qué os miráis unos a otros? Y dijo: he aquí he oído que hay alimentos en Egipto; descended allá, y comprad de allí para nosotros, para que vivamos y no muramos.
+
+**3-4** Y descendieron diez hermanos de José a comprar trigo en Egipto. Mas a Binyamín, hermano de José, no lo envió Jacob con sus hermanos, porque dijo: no sea que le acontezca algún desastre.
+
+**5-6** Y vinieron los hijos de Israel a comprar entre los que venían, porque había hambre en la tierra de Canaán. Y José era el señor de la tierra, y él vendía a todo el pueblo de la tierra; y llegaron los hermanos de José, y se inclinaron a él con el rostro a tierra.
+
+**7-8** Y José, al ver a sus hermanos, los reconoció; mas hizo como que no los conocía, y les habló ásperamente: ¿de dónde habéis venido? Ellos respondieron: de la tierra de Canaán, para comprar alimentos. José, pues, reconoció a sus hermanos, pero ellos no lo reconocieron a él.
+
+**9-11** Entonces se acordó José de los sueños que había tenido acerca de ellos, y les dijo: espías sois; para ver lo desprotegido de la tierra¹⁹⁸ habéis venido. Y ellos le respondieron: no, señor mío; tus siervos han venido a comprar alimentos. Todos nosotros somos hijos de un mismo varón; somos hombres honrados; tus siervos nunca fueron espías.
+
+**12-13** Y él les dijo: no, para ver lo desprotegido de la tierra habéis venido. Y ellos respondieron: tus siervos somos doce hermanos, hijos de un varón en la tierra de Canaán; y he aquí el menor está hoy con nuestro padre, y otro ya no existe.
+
+**14-17** Y José les dijo: eso es lo que os he dicho, afirmando que sois espías. En esto seréis probados: vive faraón, que no saldréis de aquí, a menos que venga acá vuestro hermano menor. Enviad a uno de vosotros, y traiga a vuestro hermano; y vosotros quedad presos, y vuestras palabras serán probadas, si hay verdad en vosotros; y si no, vive faraón, que sois espías. Y los puso juntos en la cárcel por tres días.
+
+**18-20** Al tercer día les dijo José: haced esto, y vivid; yo temo a Elohim. Si sois hombres honrados, quede preso en la casa de vuestra cárcel uno de vuestros hermanos; y vosotros id, llevad el alimento para el hambre de vuestra casa; y traedme a vuestro hermano menor, y serán verificadas vuestras palabras, y no moriréis. Y lo hicieron así.
+
+**21-22** Y decían el uno al otro: verdaderamente somos culpables respecto a nuestro hermano, pues vimos la angustia de su alma¹⁹⁹ cuando nos rogaba, y no lo escuchamos; por eso ha venido sobre nosotros esta angustia. Entonces Rubén les respondió: ¿no os hablé yo y dije: no pequéis contra el joven, y no escuchasteis? He aquí también su sangre es requerida.
+
+**23-24** Ellos no sabían que los entendía José, porque había intérprete entre ellos. Y se apartó José de ellos, y lloró; después volvió a ellos, y les habló, y tomó de entre ellos a Simeón, y lo aprisionó a vista de ellos.
+
+**25-26** Y mandó José que llenaran sus sacos de trigo, y devolvieran el dinero de cada uno de ellos poniéndolo en su saco, y les diesen provisiones para el camino; y así lo hizo con ellos. Y ellos pusieron su trigo sobre sus asnos, y se fueron de allí.
+
+**27-28** Y abriendo uno su saco para dar de comer a su asno en el mesón, vio su dinero que estaba en la boca de su costal. Y dijo a sus hermanos: mi dinero se me ha devuelto, y aun heme aquí en mi saco. Y se sobresaltó su corazón, y espantados se decían el uno al otro: ¿qué es esto que nos ha hecho Elohim?
+
+**29-32** Y venidos a Jacob su padre en tierra de Canaán, le contaron todo lo que les había acontecido: aquel varón, señor de la tierra, nos habló ásperamente, y nos trató como espías de la tierra; y le dijimos: somos hombres honrados, nunca fuimos espías; somos doce hermanos, hijos de nuestro padre; uno no existe, y el menor está hoy con nuestro padre en la tierra de Canaán.
+
+**33-34** Y aquel varón, señor de la tierra, nos dijo: en esto conoceré que sois hombres honrados: dejad conmigo uno de vuestros hermanos, y tomad para el hambre de vuestras casas, y andad; y traedme a vuestro hermano menor, para que yo sepa que no sois espías, sino hombres honrados; y os daré a vuestro hermano, y negociaréis en la tierra.
+
+**35** Y aconteció que vaciando ellos sus sacos, he aquí que en el saco de cada uno estaba el atado de su dinero; y viendo ellos y su padre los atados de su dinero, tuvieron temor.
+
+**36** Entonces su padre Jacob les dijo: me habéis privado de mis hijos; José no existe, ni Simeón tampoco, y a Binyamín le llevaréis; contra mí son todas estas cosas.
+
+**37-38** Y Rubén habló a su padre: harás morir a mis dos hijos, si no te lo devuelvo; entrégalo en mi mano, y yo lo volveré a ti. Y él dijo: no descenderá mi hijo con vosotros, pues su hermano ha muerto, y él solo ha quedado; y si le aconteciere algún desastre en el camino en que vais, haréis descender mis canas con dolor al Sheol¹⁸⁰.
+
+## Génesis 43
+
+**1-2** Y el hambre era grande en la tierra. Y aconteció que cuando terminaron de comer el alimento que trajeron de Egipto, les dijo su padre: volved, comprad para nosotros un poco de alimento.
+
+**3-5** Y respondió Judá: aquel varón nos amonestó con firmeza: no veréis mi rostro sin que vuestro hermano esté con vosotros. Si has de enviar a nuestro hermano con nosotros, descenderemos, y te compraremos alimento; pero si no lo envías, no descenderemos, porque aquel varón nos dijo: no veréis mi rostro sin que vuestro hermano esté con vosotros.
+
+**6-7** Dijo entonces Israel: ¿por qué me hicisteis tanto mal, declarando al varón que teníais otro hermano? Y ellos respondieron: aquel varón nos preguntó expresamente por nosotros y por nuestra familia: ¿vive aún vuestro padre? ¿tenéis otro hermano? Y le declaramos conforme a estas palabras. ¿Acaso podíamos saber que había de decir: traed a vuestro hermano?
+
+**8-10** Entonces Judá dijo a Israel su padre: envía al joven conmigo, y nos levantaremos e iremos, para que vivamos y no muramos nosotros, y tú, y nuestros niños. Yo te respondo por él; a mí me pedirás cuenta; si no te lo traigo, y lo pongo delante de ti, seré culpable ante ti para siempre. Pues si no nos hubiéramos detenido, ya habríamos vuelto dos veces.
+
+**11-12** Entonces Israel su padre les respondió: pues que así es, hacedlo; tomad de lo mejor de la tierra en vuestros vasos, y llevad a aquel varón un presente, un poco de bálsamo, un poco de miel, aromas y mirra, nueces y almendras. Y tomad en vuestras manos doble cantidad de dinero, y llevad en vuestra mano el dinero devuelto en la boca de vuestros costales; quizás fue equivocación.
+
+**13-14** Tomad también a vuestro hermano, y levantaos, y volved a aquel varón. Y el El Shaday¹⁷² os dé misericordia delante de aquel varón, y os suelte al otro hermano vuestro, y a este Binyamín. Y si he de ser privado de mis hijos, séalo.
+
+**15-17** Entonces tomaron aquellos varones el presente, y tomaron en su mano doble cantidad de dinero, y a Binyamín; y se levantaron y descendieron a Egipto, y se presentaron delante de José. Y vio José a Binyamín con ellos, y dijo al mayordomo de su casa: lleva a estos varones a casa, y degüella una res y prepárala, pues estos varones comerán conmigo al mediodía. E hizo el varón como José dijo, y llevó a los varones a casa de José.
+
+**18** Y aquellos varones tuvieron temor, porque fueron llevados a la casa de José, y decían: por el dinero que fue devuelto en nuestros costales la primera vez, nos han traído aquí, para tendernos lazo, y caer sobre nosotros, y tomarnos por siervos a nosotros y a nuestros asnos.
+
+**19-22** Y se acercaron al mayordomo de la casa de José, y le hablaron a la entrada de la casa: ay, señor nuestro, nosotros en realidad de verdad descendimos al principio a comprar alimentos; y aconteció que cuando llegamos al mesón y abrimos nuestros costales, he aquí el dinero de cada uno estaba en la boca de su costal, nuestro dinero en su justo peso; y lo hemos vuelto a traer con nosotros. Hemos traído además otro dinero en nuestras manos para comprar alimentos; no sabemos quién haya puesto nuestro dinero en nuestros costales.
+
+**23** Y él respondió: paz a vosotros, no temáis; vuestro Elohim y el Elohim de vuestro padre os dio tesoro en vuestros costales; vuestro dinero llegó a mí. Y sacó a Simeón, y lo llevó ante ellos.
+
+**24-25** Y llevó aquel varón a los hombres a casa de José, y les dio agua, y lavaron sus pies, y dio de comer a sus asnos. Y ellos prepararon el presente entretanto que venía José al mediodía, porque habían oído que allí habrían de comer pan.
+
+**26** Y vino José a casa, y ellos le trajeron el presente que tenían en su mano dentro de la casa, y se inclinaron a él hasta tierra.
+
+**27-28** Entonces les preguntó él cómo estaban: ¿vuestro padre, el anciano que dijisteis, vive aún? Y ellos respondieron: bien va a tu siervo nuestro padre; aún vive. Y se inclinaron, e hicieron reverencia.
+
+**29** Y alzando José sus ojos vio a Binyamín su hermano, hijo de su madre, y dijo: ¿es este vuestro hermano menor, de quien me hablasteis? Y dijo: Elohim tenga misericordia de ti, hijo mío.
+
+**30-31** Entonces José se apresuró, porque se conmovieron sus entrañas a causa de su hermano, y buscó dónde llorar; y entró en su cámara, y lloró allí. Y lavó su rostro y salió, y se contuvo, y dijo: poned pan.
+
+**32** Y le pusieron a él aparte, y a ellos aparte, y aparte a los egipcios que con él comían, porque los egipcios no pueden comer pan con los hebreos, lo cual es abominación²⁰⁰ a los egipcios.
+
+**33** Y se sentaron delante de él, el mayor conforme a su primogenitura, y el menor conforme a su menor edad; y estaban aquellos varones atónitos mirándose el uno al otro.
+
+**34** Y él les tomó viandas de delante de sí para ellos; mas la porción de Binyamín era cinco veces mayor²⁰¹ que cualquiera de las de ellos. Y bebieron, y se alegraron con él.
+
 ---
 ---
 
@@ -1861,3 +2055,45 @@
 **179 — ismaelitas / madianitas / medanitas (37:25, 28, 36).** El propio relato nombra a los mercaderes de tres maneras distintas en pocos versículos: ismaelitas (v.25, 28), madianitas (v.28) y medanitas (v.36) — inconsistencia real del texto, señalada hace mucho por la crítica de fuentes como posible evidencia de dos o más hilos narrativos entretejidos sobre la venta de José. Cambia el sentido de un pasaje central (quién vendió a José, y a quién). E1 el dato de la inconsistencia de nombres, verificable en el propio texto; E3 su explicación (fuentes entretejidas vs. términos intercambiables en el uso antiguo), disputa académica real y no resuelta.
 
 **180 — Sheol (37:35).** Primera aparición del término en el corpus: el lugar genérico de los muertos, sin la elaboración teológica posterior (cielo/infierno) que el término todavía no tiene en este punto del texto. Jacob dice que bajará "a Sheol" junto a su hijo, sin más precisión. E1.
+
+**181 — yibum / deber de cuñado (38:8-9).** Primera mención explícita en el corpus del deber de un hermano de engendrar descendencia a nombre de su hermano muerto sin hijos (institución conocida después como levirato). El texto no explica la costumbre, la asume ya vigente; Onán la incumple en silencio, derramando su semilla en tierra en vez de completar el acto. E1 el dato narrativo (la costumbre existe y se transgrede); E2 el paralelo con instituciones similares del Cercano Oriente antiguo, documentadas fuera del corpus.
+
+**182 — Petaj Enáyim / la entrada de los ojos (38:14).** Nombre de lugar que significa literalmente "la abertura de los ojos" — Tamar se sienta allí disfrazada, y es precisamente donde Judá "no ve" quién es ella. Juego de palabras real entre el nombre del sitio y la ceguera momentánea del personaje. E1 el dato toponímico; D1 la lectura del contraste como deliberado.
+
+**183 — zonah / qedeshah, dos palabras para la misma mujer (38:15, 21).** El narrador, que sabe quién es Tamar, la llama *zonah* ("prostituta" en sentido llano) cuando describe lo que Judá cree ver. Pero cuando Jirá pregunta por ella en el pueblo, usa *qedeshah* — de la misma raíz que *qadosh*, "consagrado/santo" —, el término para una prostituta de culto asociada a un santuario. Dos palabras distintas, no intercambiables, aplicadas a la misma escena desde dos puntos de vista distintos. E1.
+
+**184 — tzadqah mimeni / más justa que yo (38:26).** Misma raíz de *tzedaqah* (nota 119): Judá reconoce que Tamar actuó con más rectitud que él, no que ella sea inocente y él culpable en abstracto — es la misma palabra de "justicia" aplicada a una comparación directa entre dos personas. E1.
+
+**185 — Péretz / brecha (38:29).** Etimología explicada por el propio texto: "¡qué brecha te has abierto!" (*paratzta*, de la raíz *parats*), y llama al niño Péretz con esa misma raíz — etimología real, no paronomasia. Nota fuera de corpus: Péretz reaparece en Rut 4:18-22 como antepasado directo de David, cerrando fuera de Génesis una línea que acá empieza con un nacimiento fuera de lo esperado. E1 la etimología; E2 la genealogía posterior, fuera de este libro.
+
+**186 — YHWH itto / YHWH estaba con él (39:2-3, 21, 23).** Fórmula que enmarca todo el capítulo, repetida al principio y al final: en la casa de Potifar y otra vez en la cárcel. El éxito de José no se narra nunca como mérito propio aislado, sino siempre bajo esta fórmula de acompañamiento divino. E1, dato estructural de repetición.
+
+**187 — yefeh to'ar vifeh mar'eh / hermoso semblante y bella presencia (39:6).** Misma fórmula exacta usada para Raquel en 29:17. El texto describe al hijo con el mismo lenguaje que usó para la madre — dato de repetición léxica, no elogio genérico distinto en cada caso. E1.
+
+**188 — ve-chatati lelohim / y pecaría contra Elohim (39:9).** Misma raíz *chattah* de la nota 155 (Jacob y Labán) — acá José la usa para nombrar explícitamente el adulterio como pecado contra Elohim, no solo como traición a un varón (su señor) o a una mujer. Primera vez en el corpus que el vocabulario de "pecado" se aplica a una tentación sexual evitada, no consumada. E1.
+
+**189 — ish ivri / varón hebreo (39:14).** "Hebreo" (*ivri*) es, en el corpus, casi siempre una palabra que usan los extranjeros para nombrar a los descendientes de Abraham (cf. "Abram el hebreo", 14:13), no como los israelitas se llaman a sí mismos entre ellos. Acá lo confirma otra vez: es la ishah egipcia quien usa el término, con tono despectivo. E1.
+
+**190 — halo lelohim pitronim / ¿no son de Elohim las interpretaciones? (40:8).** Primera declaración explícita del principio que sostiene todo el ciclo de sueños de José: interpretar no es una destreza humana que se posea, sino algo que se recibe de Elohim. José lo dice antes de interpretar un solo sueño en la cárcel, y lo repetirá ante faraón (41:16). E1, dato estructural.
+
+**191 — eretz ha'ivrim / la tierra de los hebreos (40:15).** José llama "tierra de los hebreos" a Canaán — designación que no corresponde a ninguna entidad política real de la época narrada (los hebreos, en ese momento del relato, son una sola familia extendida, no un pueblo asentado con territorio reconocido). E1 el dato textual; D1/E2 si se lee como anacronismo narrativo o como uso retrospectivo del narrador.
+
+**192 — yisa et rosh / alzará tu cabeza (40:13, 19).** Mismo modismo hebreo aplicado a los dos oficiales con sentido opuesto: para el copero, "alzar la cabeza" significa restituirlo a su puesto; para el panadero, significa literalmente separarle la cabeza del cuerpo antes de colgarlo. El texto no varía el modismo — deja que el lector note la ironía sobre la misma frase. E1.
+
+**193 — vatipa'em rucho / se agitó su espíritu (41:8).** Misma raíz *ruach* de la nota 5 — acá no aliento vital ni viento, sino el estado interior alterado de faraón frente a un sueño que no entiende. El campo semántico único de viento/aliento/espíritu vuelve a cubrir, sin distinción léxica, lo que el español separaría en "ánimo" o "nervios". E1.
+
+**194 — ruach elohim bo / espíritu de elohim en él (41:38).** Faraón, politeísta, describe a José con esta frase — genuinamente ambiguo si *elohim* funciona acá como el Elohim del propio José o, en boca de un egipcio, como "un espíritu divino" en sentido genérico (ver también nota 170, *elohim* como intensificador). El narrador no aclara desde qué punto de vista habla faraón. E1 el dato léxico; E3 la lectura exacta de la frase en boca de un hablante no israelita.
+
+**195 — avrekh (41:43).** Palabra única en el corpus, de origen disputado: puede ser préstamo del egipcio (una exclamación protocolar equivalente a "¡atención!"), o derivarse de la raíz hebrea *barak* ("arrodillarse/bendecir"), con sentido de "arrodíllense". Ninguna de las dos etimologías está establecida con consenso. E2/E3.
+
+**196 — Tzafnat-Panéaj / Asenat, hija de Poti-Fera (41:45).** Nombre egipcio de etimología disputada (una lectura, "el dios habla y vive"; otra, "sustento de la vida"), dado a José por faraón. Su ishah, Asenat, es hija de un sacerdote de On (Heliópolis, centro del culto solar egipcio) — matrimonio que lo integra formalmente a la elite religiosa egipcia, dato que el texto no comenta ni cuestiona. E1/E2.
+
+**197 — Menashé / Efráyim (41:51-52).** A diferencia de los nombres marcados antes como paronomasia (Noé, Babel, Abraham, Edom), estas dos etimologías son reales: Menashé de *nashah* ("olvidar"), Efráyim de *parah* ("fructificar"), ambas explicadas por el propio José con la raíz correcta — mismo caso que Reuvén, Shimón, Leví y Yehudá (nota 147). E1.
+
+**198 — ervat ha'aretz / lo desprotegido de la tierra (42:9, 12).** Modismo que literalmente dice "la desnudez de la tierra" — no sexual, sino el sentido de punto débil, frontera sin defensa, aquello que un espía vendría a mapear. José acusa a sus hermanos exactamente de lo que Jacob temía al negarse a enviar a Binyamín. E1.
+
+**199 — tzarat nafsho / la angustia de su alma (42:21).** Misma raíz *nefesh* de la nota 162 — acá en boca de los hermanos, recordando la súplica de José que ellos ignoraron. Primera vez que el propio relato admite, desde adentro, lo que el lector ya sabía desde el capítulo 37. E1.
+
+**200 — to'evah / abominación (43:32).** Primera aparición del término en el corpus — palabra de carga fuerte que en el resto de la Torá se reserva casi siempre para prácticas rituales o sexuales prohibidas. Acá describe algo mucho más llano: que los egipcios no comieran a la misma mesa que los hebreos, una norma de separación étnica, no una falta moral o cúltica. El contraste con sus usos posteriores es dato relevante, no forzado. E1.
+
+**201 — jamesh yadot / cinco veces más (43:34).** El propio José, favorecido de niño con una túnica que distinguía, reproduce con Binyamín el mismo patrón de trato desigual que originó el conflicto del capítulo 37 — ahora desde el lugar de quien reparte, no de quien es señalado. E1 el dato textual (la porción es objetivamente mayor); D1 la lectura del eco con el propio pasado de José.
