@@ -1,4 +1,4 @@
-# Coding the Bible — Éxodo 1 a 12
+# Coding the Bible — Éxodo 1 a 18
 ### Lectura DIMA. Motor sobre datos reales (OSHB / Códice de Leningrado).
 
 ---
@@ -343,6 +343,160 @@
 
 **50-51** Así lo hicieron todos los hijos de Israel; como mandó YHWH a Moshé y a Aarón, así lo hicieron. Y en aquel mismo día sacó YHWH a los hijos de Israel de la tierra de Egipto, agrupados por sus escuadrones.
 
+## Éxodo 13
+
+**1-2** Habló YHWH a Moshé, diciendo: santifícame todo primogénito, todo lo que abre matriz entre los hijos de Israel, así de los hombres como de los animales; mío es⁵⁶.
+
+**3-4** Y Moshé dijo al pueblo: tened memoria de este día, en el cual habéis salido de Egipto, de la casa de servidumbre, pues YHWH os ha sacado de aquí con mano fuerte; por tanto, no se comerá leudado. Vosotros salís hoy en el mes de Abib.
+
+**5-6** Y cuando YHWH te hubiere metido en la tierra del cananeo, del hitita, del amorreo, del hivita y del jebuseo, la cual juró a tus padres que te daría, tierra que fluye leche y miel, harás este servicio en este mes. Siete días comerás pan sin levadura, y el séptimo día será fiesta a YHWH.
+
+**7-8** Por los siete días se comerán panes sin levadura, y no se verá contigo nada leudado, ni levadura, en todo tu territorio. Y contarás en aquel día a tu hijo, diciendo: se hace esto con motivo de lo que YHWH hizo conmigo cuando me sacó de Egipto.
+
+**9** Y te será como una señal sobre tu mano, y como memorial delante de tus ojos⁵⁷, para que la ley de YHWH esté en tu boca; por cuanto con mano fuerte te sacó YHWH de Egipto.
+
+**10-11** Por tanto, tú guardarás este rito en su tiempo, de año en año. Y cuando YHWH te hubiere metido en la tierra del cananeo, como te ha jurado a ti y a tus padres, y cuando te la hubiere dado,
+
+**12-13** harás pasar a YHWH todo lo que abriere la matriz, y asimismo todo primerizo que abriere matriz de tus animales; los machos serán de YHWH. Mas todo primogénito de asno redimirás con un cordero; y si no lo redimieres, le quebrarás la cerviz⁵⁸; asimismo redimirás a todo humano primogénito de tus hijos.
+
+**14** Y cuando mañana te preguntare tu hijo, diciendo: ¿qué es esto?, le dirás: YHWH nos sacó de Egipto, de la casa de servidumbre, con mano fuerte;
+
+**15-16** y endureciéndose faraón para no dejarnos ir, YHWH mató en la tierra de Egipto a todo primogénito, desde el primogénito humano hasta el primogénito de los animales; y por esta causa yo sacrifico a YHWH todo primogénito macho, y redimo a todo primogénito de mis hijos. Y será como una señal sobre tu mano, y por insignias delante de tus ojos; ya que YHWH nos sacó de Egipto con mano fuerte.
+
+**17-18** Y luego que faraón dejó ir al pueblo, Elohim no los llevó por el camino de la tierra de los filisteos, aunque era más cerca; porque dijo Elohim: quizá se arrepentirá el pueblo cuando vea la guerra, y se volverán a Egipto⁵⁹. Mas hizo Elohim al pueblo que rodease por el camino del desierto del Mar Rojo. Y subieron los hijos de Israel de la tierra de Egipto armados.
+
+**19** Tomó también consigo Moshé los huesos de José⁶⁰, el cual había juramentado a los hijos de Israel, diciendo: Elohim ciertamente os visitará, y haréis subir mis huesos de aquí con vosotros.
+
+**20-22** Y partiendo de Sucot, acamparon en Etam, a la entrada del desierto. Y YHWH iba delante de ellos de día en una columna de nube, para guiarlos por el camino; y de noche en una columna de fuego para alumbrarles⁶¹, a fin de que anduviesen de día y de noche. Nunca se apartó de delante del pueblo la columna de nube de día, ni de noche la columna de fuego.
+
+## Éxodo 14
+
+**1-3** Y YHWH habló a Moshé, diciendo: di a los hijos de Israel que den la vuelta, y acampen delante de Pi-hahirot, entre Migdol y el mar, delante de Baal-zefón; delante de él acamparéis, junto al mar. Porque faraón dirá de los hijos de Israel: encerrados están en la tierra, el desierto los ha encerrado.
+
+**4** Y yo endureceré el corazón de faraón para que los siga, y seré glorificado sobre faraón y sobre todo su ejército⁶²; y sabrán los egipcios que yo soy YHWH. Y ellos lo hicieron así.
+
+**5-6** Y fue dado aviso al rey de Egipto, que el pueblo huía; y el corazón de faraón y de sus siervos se volvió contra el pueblo, y dijeron: ¿por qué hemos hecho esto de haber dejado ir a Israel, para que no nos sirva? Y unció su carro, y tomó consigo su pueblo;
+
+**7-9** y tomó seiscientos carros escogidos, y todos los carros de Egipto, y los capitanes sobre ellos. Pues YHWH había endurecido el corazón de faraón rey de Egipto, y este siguió a los hijos de Israel; pero los hijos de Israel habían salido con mano poderosa. Siguiéndolos, pues, los egipcios, con toda la caballería y carros de faraón, su gente de a caballo, y todo su ejército, los alcanzaron acampados junto al mar, al lado de Pi-hahirot, delante de Baal-zefón.
+
+**10-12** Y cuando faraón se hubo acercado, los hijos de Israel alzaron sus ojos, y he aquí que los egipcios venían tras ellos; por lo que temieron en gran manera, y clamaron los hijos de Israel a YHWH. Y dijeron a Moshé: ¿no había sepulcros en Egipto, que nos has sacado para que muramos en el desierto? ¿por qué lo has hecho así con nosotros, que nos has sacado de Egipto? ¿no es esto lo que te hablamos en Egipto, diciendo: déjanos servir a los egipcios? Que mejor nos fuera servir a los egipcios, que morir nosotros en el desierto.
+
+**13-14** Y Moshé dijo al pueblo: no temáis; estad firmes, y ved la salvación que YHWH hará hoy con vosotros⁶³; porque los egipcios que hoy habéis visto, nunca más para siempre los veréis. YHWH peleará por vosotros, y vosotros estaréis quietos.
+
+**15-16** Entonces YHWH dijo a Moshé: ¿por qué clamas a mí? Di a los hijos de Israel que marchen. Y tú alza tu vara, y extiende tu mano sobre el mar, y divídelo, para que los hijos de Israel entren por en medio del mar en seco.
+
+**17-18** Y yo endureceré el corazón de los egipcios para que los sigan; y me glorificaré en faraón y en todo su ejército, en sus carros y en su caballería; y sabrán los egipcios que yo soy YHWH, cuando me glorifique en faraón, en sus carros y en su gente de a caballo.
+
+**19-20** Y el mensajero de Elohim que iba delante del campamento de Israel se apartó, y fue tras ellos; y asimismo la columna de nube que iba delante de ellos se apartó, y se puso a sus espaldas. E iba entre el campamento de los egipcios y el campamento de Israel; y era nube y tinieblas para aquellos, y alumbraba a Israel de noche; y en toda aquella noche no se acercaron los unos a los otros.
+
+**21-22** Y extendió Moshé su mano sobre el mar, e hizo YHWH que el mar se retirase por recio viento oriental⁶⁴ toda aquella noche; y volvió el mar en seco, y las aguas quedaron divididas. Entonces los hijos de Israel entraron por en medio del mar en seco, teniendo las aguas como muro a su derecha y a su izquierda.
+
+**23-25** Y siguiéndolos los egipcios, entraron tras ellos hasta la mitad del mar, toda la caballería de faraón, sus carros y su gente de a caballo. Aconteció a la vigilia de la mañana, que YHWH miró el campamento de los egipcios desde la columna de fuego y nube, y trastornó el campamento de los egipcios. Y quitó las ruedas de sus carros, y los trastornaba gravemente; de modo que los egipcios dijeron: huyamos de delante de Israel, porque YHWH pelea por ellos contra los egipcios.
+
+**26-28** Y YHWH dijo a Moshé: extiende tu mano sobre el mar, para que las aguas vuelvan sobre los egipcios, sobre sus carros y sobre su caballería. Entonces Moshé extendió su mano sobre el mar, y cuando amanecía, el mar se volvió en su fuerza, y los egipcios al huir se encontraban con él; y así derribó YHWH a los egipcios en medio del mar. Y volvieron las aguas, y cubrieron los carros y la caballería, y todo el ejército de faraón que había entrado tras ellos en el mar; no quedó de ellos ni uno.
+
+**29-30** Mas los hijos de Israel caminaron en seco por en medio del mar, teniendo las aguas por muro a su derecha y a su izquierda. Así salvó YHWH aquel día a Israel de mano de los egipcios; e Israel vio a los egipcios muertos a la orilla del mar.
+
+**31** Y vio Israel aquel grande hecho que YHWH ejecutó contra los egipcios; y el pueblo temió a YHWH, y creyeron a YHWH y a Moshé su siervo⁶⁵.
+
+## Éxodo 15
+
+**1-3** Entonces cantó Moshé y los hijos de Israel este cántico⁶⁶ a YHWH, y dijeron: cantaré yo a YHWH, porque se ha magnificado grandemente; ha echado en el mar al caballo y al jinete. Yah⁶⁷ es mi fortaleza y mi cántico, y ha sido mi salvación. Este es mi Elohim, y lo alabaré; Elohim de mi padre, y lo enalteceré. YHWH, varón de guerra⁶⁸; YHWH es su nombre.
+
+**4-6** Los carros de faraón y a su ejército arrojó en el mar; y sus escogidos príncipes fueron hundidos en el Mar Rojo. Los abismos los cubrieron; descendieron a las profundidades como piedra. Tu diestra, YHWH, ha sido magnificada en poder; tu diestra, YHWH, ha quebrantado al enemigo.
+
+**7-9** Y con la grandeza de tu poder has trastornado a los que se levantaron contra ti; enviaste tu ira; los consumió como a hojarasca. Con el soplo de tus narices se amontonaron las aguas; se pararon las corrientes como un muro; los abismos se cuajaron en medio del mar. El enemigo dijo: perseguiré, apresaré, repartiré despojos; mi alma se saciará de ellos; sacaré mi espada, los destruirá mi mano.
+
+**10-12** Soplaste con tu viento, los cubrió el mar; se hundieron como plomo en las impetuosas aguas. ¿Quién como tú, YHWH, entre los elim⁶⁹? ¿quién como tú, magnífico en santidad, terrible en maravillosas hazañas, hacedor de prodigios? Extendiste tu diestra; la tierra los tragó.
+
+**13-15** Condujiste en tu misericordia a este pueblo que redimiste; lo llevaste con tu fuerza a tu santa morada. Lo oirán los pueblos, y temblarán; se apoderará dolor de los moradores de Filistea. Entonces los príncipes de Edom se turbarán; a los valientes de Moab les sobrecogerá temblor; se acobardarán todos los moradores de Canaán.
+
+**16-17** Caiga sobre ellos temblor y espanto; a la grandeza de tu brazo enmudezcan como una piedra; hasta que haya pasado tu pueblo, YHWH, hasta que haya pasado este pueblo que tú rescataste. Tú los introducirás y los plantarás en el monte de tu heredad, en el lugar de tu morada, que tú has preparado, YHWH, en el santuario que tus manos, Adonai, han afirmado.
+
+**18-19** YHWH reinará por los siglos de los siglos. Cuando entraron los caballos de faraón con sus carros y su gente de a caballo en el mar, YHWH hizo volver las aguas del mar sobre ellos; mas los hijos de Israel caminaron en seco por en medio del mar.
+
+**20-21** Y Miriam la profetisa⁷⁰, hermana de Aarón, tomó un pandero en su mano, y todas las mujeres salieron en pos de ella con panderos y danzas. Y Miriam les respondía: cantad a YHWH, porque se ha magnificado grandemente; ha echado en el mar al caballo y al jinete.
+
+**22-23** E hizo Moshé que partiese Israel del Mar Rojo, y salieron al desierto de Shur; y anduvieron tres días por el desierto sin hallar agua. Y llegaron a Mara, y no pudieron beber las aguas de Mara, porque eran amargas; por eso le pusieron el nombre de Mara.
+
+**24-26** Entonces el pueblo murmuró contra Moshé, y dijo: ¿qué hemos de beber? Y Moshé clamó a YHWH; y YHWH le mostró un árbol, y lo echó en las aguas, y las aguas se endulzaron. Allí les dio estatutos y ordenanzas⁷¹, y allí los probó; y dijo: si oyeres atentamente la voz de YHWH tu Elohim, y haces lo recto delante de sus ojos, y das oído a sus mandamientos, y guardas todos sus estatutos, ninguna enfermedad de las que envié a los egipcios te enviaré a ti; porque yo soy YHWH tu sanador⁷².
+
+**27** Y llegaron a Elim, donde había doce fuentes de aguas, y setenta palmeras; y acamparon allí junto a las aguas.
+
+## Éxodo 16
+
+**1-3** Partiendo de Elim toda la congregación de los hijos de Israel, vino al desierto de Sin, que está entre Elim y Sinaí, a los quince días del segundo mes después que salieron de la tierra de Egipto. Y toda la congregación de los hijos de Israel murmuró contra Moshé y Aarón en el desierto; y decían los hijos de Israel: ojalá hubiéramos muerto por mano de YHWH en la tierra de Egipto, cuando nos sentábamos junto a las ollas de carne, cuando comíamos pan en abundancia; pues nos habéis sacado a este desierto para matar de hambre a toda esta multitud.
+
+**4-5** Y YHWH dijo a Moshé: he aquí yo os haré llover pan del cielo⁷³; y el pueblo saldrá, y recogerá diariamente la porción de cada día, para que yo lo pruebe si anda en mi ley o no. Mas al sexto día prepararán lo que han de traer, que será el doble de lo que suelen recoger cada día.
+
+**6-7** Y dijeron Moshé y Aarón a todos los hijos de Israel: al anochecer sabréis que YHWH os ha sacado de la tierra de Egipto; y a la mañana veréis la gloria de YHWH⁷⁴; porque él ha oído vuestras murmuraciones contra YHWH; pues nosotros, ¿qué somos, para que vosotros murmuréis contra nosotros?
+
+**8-9** Dijo también Moshé: YHWH os dará al anochecer carne para comer, y al día siguiente pan hasta saciaros; porque YHWH ha oído vuestras murmuraciones con que murmuráis contra él; porque nosotros, ¿qué somos? Vuestras murmuraciones no son contra nosotros, sino contra YHWH. Y dijo Moshé a Aarón: di a toda la congregación de los hijos de Israel: acercaos a la presencia de YHWH, porque él ha oído vuestras murmuraciones.
+
+**10-12** Y hablando Aarón a toda la congregación de los hijos de Israel, miraron hacia el desierto, y he aquí la gloria de YHWH, que se dejó ver en la nube. Y YHWH habló a Moshé, diciendo: yo he oído las murmuraciones de los hijos de Israel; háblales, diciendo: al caer la tarde comeréis carne, y por la mañana os saciaréis de pan, y sabréis que yo soy YHWH vuestro Elohim.
+
+**13-15** Y venida la tarde, subieron codornices que cubrieron el campamento; y a la mañana descendió rocío en derredor del campamento. Y cuando el rocío cesó de descender, he aquí sobre la faz del desierto una cosa menuda, redonda, menuda como una escarcha sobre la tierra. Y viéndolo los hijos de Israel, se dijeron unos a otros: ¿qué es esto?⁷⁵, porque no sabían qué era. Entonces Moshé les dijo: es el pan que YHWH os da para comer.
+
+**16-18** Esto es lo que YHWH ha mandado: recoged de él cada uno según pudiere comer, un gómer por cabeza, conforme al número de vuestras personas, cada uno según su comer tomará de ello para cuantos están en su tienda. Y los hijos de Israel lo hicieron así; y recogieron unos más, otros menos; y lo medían por gómer, y no sobraba al que había recogido mucho, ni faltaba al que había recogido poco; cada uno recogió conforme a lo que había de comer.
+
+**19-21** Y les dijo Moshé: ninguno deje nada de ello para mañana. Mas ellos no escucharon a Moshé, sino que algunos dejaron de ello para el día siguiente, y crió gusanos, y se pudrió; y se enojó contra ellos Moshé. Y lo recogían cada mañana, cada uno según lo que había de comer; y luego que el sol calentaba, se derretía.
+
+**22-24** En el sexto día recogieron doble comida, dos gómer para cada uno; y todos los principales de la congregación vinieron y se lo hicieron saber a Moshé. Y él les dijo: esto es lo que ha dicho YHWH: mañana es el santo día de reposo, shabbat consagrado a YHWH⁷⁶; lo que hubiereis de cocer, cocedlo hoy, y lo que hubiereis de cocinar, cocinadlo; y todo lo que os sobrare, guardadlo para mañana. Y ellos lo guardaron hasta la mañana, según lo que Moshé había mandado, y no se agusanó, ni hedió.
+
+**25-27** Y dijo Moshé: comedlo hoy, porque hoy es shabbat de YHWH; hoy no lo hallaréis en el campo. Seis días lo recogeréis; mas el séptimo día es shabbat; en él no se hallará. Y aconteció que algunos del pueblo salieron en el séptimo día a recoger, y no hallaron.
+
+**28-31** Y YHWH dijo a Moshé: ¿hasta cuándo no querréis guardar mis mandamientos y mis leyes? Mirad que YHWH os dio el shabbat, y por eso os da en el sexto día pan para dos días; estese, pues, cada uno en su lugar, y nadie salga de su lugar en el séptimo día. Así el pueblo reposó el séptimo día. Y llamó la casa de Israel el nombre de aquel alimento Man; y era como semilla de culantro, blanco, y su sabor como de hojuelas con miel.
+
+**32-34** Y dijo Moshé: esto es lo que YHWH ha mandado: llenad un gómer de él, y guardadlo para vuestros descendientes, a fin de que vean el pan que yo os di a comer en el desierto, cuando os saqué de la tierra de Egipto. Y dijo Moshé a Aarón: toma un vaso y pon en él un gómer lleno de man, y ponlo delante de YHWH, para que sea guardado para vuestros descendientes. Y Aarón lo puso delante del testimonio para guardarlo, como YHWH lo mandó a Moshé.
+
+**35-36** Y comieron los hijos de Israel man cuarenta años, hasta que entraron en tierra habitada; man comieron hasta que llegaron a los límites de la tierra de Canaán. Y un gómer es la décima parte de un efa.
+
+## Éxodo 17
+
+**1-2** Toda la congregación de los hijos de Israel partió del desierto de Sin por sus jornadas, conforme al mandamiento de YHWH, y acamparon en Refidim; y no había agua para que el pueblo bebiese. Y riñó el pueblo con Moshé, y dijeron: danos agua que bebamos. Y Moshé les dijo: ¿por qué riñáis conmigo? ¿por qué tentáis a YHWH?
+
+**3-4** Así que el pueblo tuvo allí sed de agua, y murmuró contra Moshé, y dijo: ¿por qué nos hiciste subir de Egipto, para matarnos de sed a nosotros, a nuestros hijos y a nuestros ganados? Entonces clamó Moshé a YHWH, diciendo: ¿qué haré con este pueblo? de aquí a un poco me apedrearán.
+
+**5-6** Y YHWH dijo a Moshé: pasa delante del pueblo, y toma contigo a algunos de los ancianos de Israel; y toma también en tu mano tu vara con que heriste el río, y ve. He aquí que yo estaré delante de ti allí sobre la peña en Horeb; y herirás la peña, y saldrán de ella aguas, y beberá el pueblo. Y Moshé lo hizo así en presencia de los ancianos de Israel.
+
+**7** Y llamó el nombre de aquel lugar Masá y Meribá, por la rencilla de los hijos de Israel, y porque tentaron a YHWH, diciendo: ¿está, pues, YHWH entre nosotros, o no?⁷⁷
+
+**8-9** Entonces vino Amalec y peleó contra Israel en Refidim. Y dijo Moshé a Yehoshúa⁷⁹: escógenos varones, y sal a pelear contra Amalec; mañana yo estaré sobre la cumbre del collado, y la vara de Elohim en mi mano.
+
+**10-11** E hizo Yehoshúa como le dijo Moshé, peleando contra Amalec; y Moshé y Aarón y Hur subieron a la cumbre del collado. Y sucedía que cuando alzaba Moshé su mano, Israel prevalecía; mas cuando él bajaba su mano, prevalecía Amalec.
+
+**12-13** Y las manos de Moshé estaban pesadas; por lo que tomaron una piedra, y la pusieron debajo de él, y se sentó sobre ella; y Aarón y Hur sostenían sus manos, el uno de un lado y el otro de otro; así hubo en sus manos firmeza⁷⁸ hasta que se puso el sol. Y Yehoshúa deshizo a Amalec y a su pueblo a filo de espada.
+
+**14** Y YHWH dijo a Moshé: escribe esto para memoria en un libro⁸⁰, y di a Yehoshúa que raeré del todo la memoria de Amalec de debajo del cielo.
+
+**15-16** Y Moshé edificó un altar, y llamó su nombre YHWH-Nisí⁸¹; y dijo: por cuanto la mano de Amalec se levantó contra el trono de Yah, YHWH tendrá guerra con Amalec de generación en generación.
+
+## Éxodo 18
+
+**1-2** Y oyó Jetró sacerdote de Madián, suegro de Moshé, todas las cosas que Elohim había hecho con Moshé, y con Israel su pueblo, y cómo YHWH había sacado a Israel de Egipto. Y tomó Jetró suegro de Moshé a Tzipóra la ishah de Moshé, después que él la envió,
+
+**3-4** y a sus dos hijos; el uno se llamaba Guershom, porque dijo: forastero he sido en tierra ajena; y el otro se llamaba Eliezer, porque dijo: el Elohim de mi padre me ayudó⁸², y me libró de la espada de faraón.
+
+**5-6** Y Jetró suegro de Moshé, con los hijos y la ishah de este, vino a Moshé en el desierto, donde tenía el campamento junto al monte de Elohim. Y dijo a Moshé: yo tu suegro Jetró vengo a ti, con tu ishah, y sus dos hijos con ella.
+
+**7-8** Y Moshé salió a recibir a su suegro, y se inclinó, y lo besó; y se preguntaron el uno al otro cómo estaban, y vinieron a la tienda. Y Moshé contó a su suegro todas las cosas que YHWH había hecho a faraón y a los egipcios por amor de Israel, y todo el trabajo que habían pasado en el camino, y cómo los había librado YHWH.
+
+**9-11** Y se alegró Jetró de todo el bien que YHWH había hecho a Israel, al haberlo librado de mano de los egipcios. Y Jetró dijo: bendito sea YHWH, que os libró de mano de los egipcios y de la mano de faraón, y que libró al pueblo de la mano de los egipcios. Ahora conozco que YHWH es más grande que todos los elohim⁸³; porque en lo que se ensoberbecieron, él fue mayor que ellos.
+
+**12** Y tomó Jetró suegro de Moshé holocaustos y sacrificios para Elohim; y vino Aarón y todos los ancianos de Israel a comer pan con el suegro de Moshé delante de Elohim.
+
+**13-16** Aconteció que otro día se sentó Moshé a juzgar al pueblo; y el pueblo estuvo delante de Moshé desde la mañana hasta la tarde. Y viendo el suegro de Moshé todo lo que él hacía con el pueblo, dijo: ¿qué es esto que haces tú con el pueblo? ¿por qué te sientas tú solo, y todo el pueblo está delante de ti desde la mañana hasta la tarde? Y Moshé respondió a su suegro: porque el pueblo viene a mí para consultar a Elohim; cuando tienen algún asunto, vienen a mí; y yo juzgo entre el uno y el otro, y declaro las ordenanzas de Elohim y sus leyes.
+
+**17-18** Entonces el suegro de Moshé le dijo: no está bien lo que haces. Desfallecerás del todo, tú, y también este pueblo que está contigo; porque el trabajo es demasiado pesado para ti; no podrás hacerlo tú solo.
+
+**19-20** Oye ahora mi voz; yo te aconsejaré, y Elohim estará contigo. Está tú por el pueblo delante de Elohim, y somete tú los asuntos a Elohim. Y enseña a ellos las ordenanzas y las leyes, y muéstrales el camino por donde deben andar, y lo que han de hacer.
+
+**21-23** Además escoge tú de entre todo el pueblo varones de virtud, temerosos de Elohim, varones de verdad, que aborrezcan la avaricia; y ponlos sobre el pueblo por jefes de millares, de centenas, de cincuenta y de diez. Los cuales juzgarán al pueblo en todo tiempo; y todo asunto grave lo traerán a ti, y ellos juzgarán todo asunto pequeño; así se hará más leve la carga tuya, y ellos la llevarán contigo. Si esto hicieres, y Elohim te lo mandare, podrás sostenerte, y también todo este pueblo se irá en paz a su lugar⁸⁴.
+
+**24-26** Y oyó Moshé la voz de su suegro, e hizo todo lo que dijo. Y escogió Moshé varones de virtud de entre todo Israel, y los puso por jefes sobre el pueblo, jefes de millares, de centenas, de cincuenta, y de diez. Y juzgaban al pueblo en todo tiempo; el asunto difícil lo traían a Moshé, y ellos juzgaban todo asunto pequeño.
+
+**27** Y despidió Moshé a su suegro, y este se fue a su tierra.
+
 ---
 ---
 
@@ -459,6 +613,64 @@
 **54 — sheloshim shanah ve'arba me'ot shanah / cuatrocientos treinta años (12:40).** El tiempo declarado de estancia en Egipto no encaja con facilidad en la genealogía de solo cuatro generaciones entre Leví y Moshé (Éxodo 6:16-20) — un desajuste generacional real que la propia Torá no explica. Además, la Septuaginta griega y el Pentateuco samaritano leen este mismo versículo de manera distinta, contando los 430 años desde la llegada de Abraham a Canaán y no desde el descenso de Jacob a Egipto, lo cual reduciría a la mitad el tiempo efectivo de estancia egipcia. E1 el dato de la cifra y de la brevedad genealógica; E2/E3 cuál de las dos formas de contar los 430 años es la correcta, disputa textual real entre las versiones antiguas.
 
 **55 — torah achat la'ezrach velager / una misma ley para el natural y para el extranjero (12:49).** Fórmula de igualdad legal explícita entre el israelita nativo y el extranjero residente, aplicada acá específicamente a la condición de acceso a la Pascua (circuncisión mediante) — la ley de la ofrenda central de la identidad de Israel se declara, en el mismo movimiento, no exclusiva por nacimiento. E1.
+
+**56 — qadesh li kol bechor / santifícame todo primogénito (13:2).** Mismo verbo de consagración (raíz *q-d-sh*) ya establecido en la nota 13 (*admat qodesh*, 3:5) — acá aplicado no a un lugar sino a una categoría entera de seres vivos, humanos y animales, que pasan a pertenecer a YHWH por el solo hecho de abrir matriz. E1.
+
+**57 — le'ot al yadecha ulezikaron bein eineicha / señal sobre tu mano y memorial entre tus ojos (13:9).** Frase de sentido disputado: la tradición rabínica la entendió como mandato literal, origen de las filacterias (tefilín) atadas al brazo y a la frente; otras lecturas, dentro y fuera del judaísmo, la entienden como metáfora de recordación constante, sin objeto físico alguno. El propio versículo no especifica un objeto material. E1 el dato textual; E2/E3 la lectura literal frente a la metafórica, disputa exegética real y antigua.
+
+**58 — peter chamor tifdeh... va'arafto / redimirás el primogénito del asno... o le quebrarás la cerviz (13:13).** El asno, animal no apto para sacrificio en el sistema ritual posterior, recibe un tratamiento distinto al del resto del ganado: se redime con un cordero, o se le quiebra el cuello si no se redime. Es la primera ley de sustitución/redención del corpus aplicada a un animal específico por su condición. E1.
+
+**59 — velo nacham Elohim derech eretz Plishtim / Elohim no los llevó por el camino de los filisteos (13:17).** El propio texto explica la ruta elegida como decisión estratégica de Elohim, motivada por el temor de que el pueblo, al ver la guerra, quisiera volver a Egipto — no una limitación logística sino una consideración explícita sobre el estado psicológico del pueblo recién liberado. E1, dato narrativo; D1 la lectura de que la providencia acá se ejerce en términos de gestión humana, no de despliegue de poder.
+
+**60 — atzmot Yosef / los huesos de José (13:19).** Cumplimiento literal del juramento que José exigió a los hijos de Israel antes de morir (Génesis 50:25) — Moshé lleva consigo los huesos exactamente como fue jurado, generaciones después. E1, dato de cumplimiento narrativo directo entre los dos libros.
+
+**61 — amud anan... amud esh / columna de nube... columna de fuego (13:21).** Primera aparición de la doble manifestación visible que acompañará a Israel durante todo el trayecto por el desierto — de día una forma, de noche otra, ambas cumpliendo la misma función de guía. E1.
+
+**62 — ve'ikavda befar'oh / seré glorificado sobre faraón (14:4).** Raíz *kavod* ("peso/gloria/honra") — distinta de *kaved* ("pesado", aplicada al corazón obstinado de faraón, nota 20), aunque comparten la misma raíz consonántica: la "pesadez" del corazón de faraón y el "peso/gloria" que YHWH va a manifestar sobre él son, en hebreo, la misma familia de sonido aplicada a dos sentidos distintos. E1.
+
+**63 — hityatzvu ur'u et yeshuat YHWH / ved la salvación de YHWH (14:13).** Primera aparición sustancial de la raíz *yasha* ("salvar/liberar") en el corpus decodificado hasta ahora, con el sustantivo *yeshuah* — la misma raíz que da, unos capítulos después, el nombre propio de Yehoshúa (nota 79). E1.
+
+**64 — ruach qadim azah / recio viento oriental (14:21).** El propio texto da una causa física concreta —un viento fuerte y sostenido toda la noche— junto al acto de Moshé con su mano, para explicar la división del mar. No presenta el milagro como ruptura pura de las leyes naturales sin mediación, sino como fenómeno natural extremo, atribuido a la acción de YHWH. E1, dato textual; D1 la lectura de que el propio relato combina causa natural y atribución divina sin verlas como incompatibles.
+
+**65 — vaya'aminu... uveMoshe avdo / y creyeron... y en Moshé su siervo (14:31).** Misma raíz *aman* ya establecida (Génesis 15:6; 4:31 de este mismo libro) — acá extendida no solo a YHWH sino también, en la misma frase, a Moshé como su siervo. Es la primera vez que el corpus aplica el verbo de "creer" a un ser humano en el mismo movimiento gramatical que a la divinidad. E1.
+
+**66 — el Cántico del Mar (15:1-18).** Buena parte de la erudición lingüística moderna considera este poema uno de los pasajes más antiguos de todo el corpus bíblico, por las formas gramaticales arcaicas que conserva (algunas ya en desuso en el hebreo de otras partes de la Torá) — más antiguo, posiblemente, que el relato en prosa que lo rodea. E2, dato de erudición lingüística externa, con amplio consenso académico aunque sin fecha exacta cerrada.
+
+**67 — Yah (15:2).** Primera aparición de la forma abreviada del nombre divino, la misma sílaba que después cierra la palabra "Haleluyah" ("alaben a Yah") en otros libros del Tanaj. E1.
+
+**68 — YHWH ish milchamah / YHWH, varón de guerra (15:3).** Epíteto marcadamente antropomórfico y guerrero, sin paralelo en el vocabulario más abstracto que domina el resto del corpus hasta este punto — la divinidad se nombra acá con la misma palabra, *ish*, que designa a un varón humano. E1.
+
+**69 — mi chamocha ba'elim YHWH / ¿quién como tú entre los elim? (15:11).** El poema no niega la existencia de otras divinidades (*elim*, plural de *el*) — afirma la incomparable superioridad de YHWH sobre ellas, no su inexistencia. Este tipo de lenguaje, presente en varios de los textos más antiguos del corpus, es leído por buena parte de la erudición como reflejo de una etapa henoteísta anterior al monoteísmo estricto que domina capas más tardías del Tanaj. E1 el dato léxico (plural real de divinidades reconocidas); E2 la lectura histórico-religiosa de una evolución del henoteísmo al monoteísmo, con amplio respaldo académico aunque no sin matices.
+
+**70 — Miryam hanevi'ah / Miriam la profetisa (15:20).** Primer uso del título *nevi'ah* ("profetisa") en el corpus, aplicado a la hermana de Moshé y Aarón, quien dirige el canto y la danza de las mujeres tras cruzar el mar. E1.
+
+**71 — sham sam lo choq umishpat / allí les dio estatutos y ordenanzas (15:25).** El texto declara que hubo ya "estatuto y ordenanza" en Mara, semanas antes de la entrega formal de la ley en el Sinaí (cap. 19-24) — la legislación no comienza de golpe en el monte, tiene un antecedente narrado antes. E1, dato estructural.
+
+**72 — ani YHWH rofecha / yo soy YHWH tu sanador (15:26).** Primera aparición del epíteto de YHWH como sanador, ligado explícitamente a la obediencia de los estatutos — la salud se presenta como consecuencia de la relación pactada, no como beneficio automático. E1.
+
+**73 — lechem min hashamayim / pan del cielo (16:4).** El maná se introduce explícitamente como instrumento de prueba ("para que yo lo pruebe si anda en mi ley o no") antes que como simple provisión alimentaria — la comida diaria funciona, en el propio texto, como mecanismo pedagógico de disciplina. E1.
+
+**74 — kevod YHWH / la gloria de YHWH (16:7, 10).** Misma raíz *kavod* de la nota 62 — acá ya no como promesa futura sino como manifestación visible concreta, vista por el pueblo en la nube. Primera aparición del sustantivo como fenómeno perceptible directamente, no solo como estado que YHWH promete alcanzar. E1.
+
+**75 — man hu / ¿qué es esto? (16:15).** Etimología popular explícita: el nombre "man" (maná) surge, según el propio relato, de la pregunta "¿qué es esto?" (*man hu*, en arameo/hebreo tardío; en hebreo bíblico clásico la pregunta sería más bien *mah hu*). La conexión exacta entre la pregunta y el nombre es discutida: algunos la leen como juego de palabras real del propio narrador, otros proponen un origen distinto para la palabra "man", quizás emparentado con un término semítico para una sustancia resinosa comestible de ciertos arbustos del desierto. E1 el dato de que el texto ofrece esta etimología por pregunta; E2/E3 si es la etimología histórica real o una paronomasia narrativa.
+
+**76 — shabbaton shabbat qodesh laYHWH / reposo solemne, shabbat consagrado a YHWH (16:23).** Primera vez que la palabra *shabbat* aparece como mandato práctico dirigido al pueblo entero, antes de la entrega formal del mandamiento en el Decálogo — el ritmo de siete días ya estaba establecido desde la creación (cf. Génesis 2:2-3), pero acá se vuelve, por primera vez, ley concreta con consecuencias observables (el maná no cae el séptimo día). E1.
+
+**77 — hayesh YHWH beqirbenu im ayin / ¿está YHWH entre nosotros, o no? (17:7).** Pregunta que el pueblo formula después de haber presenciado ya las diez plagas, la partición del mar y el maná diario — la crisis de confianza no se resuelve con la acumulación de señales previas. E1, dato narrativo; D1 la lectura de que la fe, en el propio relato, no funciona como conclusión lógica acumulativa de evidencia.
+
+**78 — vayehi yadav emunah / hubo en sus manos firmeza (17:12).** Misma raíz *aman* de las notas 26 y 65 — acá no como verbo de creer, sino como sustantivo aplicado literalmente a la estabilidad física de las manos de Moshé, sostenidas por Aarón y Hur. El campo semántico de "sostén firme que no cede" (mismo que da "amén") se aplica tanto a la confianza como al propio cuerpo. E1.
+
+**79 — Yehoshúa (17:9).** Primera aparición del nombre en el corpus, sin etimología explicada en el momento — pero de la misma raíz *yasha* ya activa en 14:13 (nota 63, *yeshuat YHWH*). El nombre del sucesor de Moshé lleva, desde su primera mención, la misma raíz de "salvación/liberación" que ya organizó el lenguaje del cruce del mar. E1 el dato de raíz compartida; D1 la lectura del nombre como programático para el papel narrativo del personaje.
+
+**80 — ketov zot zikaron basefer / escribe esto para memoria en un libro (17:14).** Primer mandato explícito, dentro del propio relato, de poner algo por escrito en un libro — dato metatextual: el texto se presenta a sí mismo, en este punto, como el resultado de una orden de registro escrito, no solo como memoria oral transmitida. E1.
+
+**81 — YHWH Nisí / yad al keis Yah (17:15-16).** El nombre del altar ("YHWH es mi estandarte/bandera") es claro; la frase que sigue es una de las cruces textuales más discutidas del capítulo: el término traducido "trono" (*keis*, forma corta e inusual de *kisé*) podría leerse también como variante de "estandarte" (*nes*, la misma raíz del nombre del altar) — dos lecturas consonánticamente cercanas, sin resolución filológica cerrada. E1 el dato de la palabra rara; E3 su lectura exacta, disputa real entre las principales tradiciones textuales.
+
+**82 — Eliezer / "el Elohim de mi padre me ayudó" (18:4).** Etimología real, no paronomasia: el nombre combina *El* + *ezer* ("ayuda", misma raíz de *ezer kenegdo* en Génesis 2:18), y el propio Moshé la explica con esa raíz exacta al justificar el nombre de su segundo hijo. E1.
+
+**83 — gadol YHWH mikol ha'elohim / YHWH es más grande que todos los elohim (18:11).** Mismo tipo de lenguaje henoteísta de la nota 69 ("¿quién como tú entre los elim?"), acá puesto en boca de un sacerdote madianita no israelita — Jetró no niega la existencia de otras divinidades, afirma la superioridad de YHWH sobre ellas a partir de lo que acaba de escuchar. E1.
+
+**84 — consejo judicial de Jetró (18:13-27).** La estructura de jueces delegados por millares, centenas, cincuencias y decenas —el sistema judicial que organizará a Israel en el desierto— nace de un consejo práctico dado por un sacerdote extranjero, antes de la entrega de la ley en el Sinaí. El propio texto no le resta autoridad a la propuesta por venir de fuera del pueblo; Moshé la adopta íntegramente. E1, dato estructural; D1 la lectura de que la sabiduría organizativa, en este relato, no se presenta como exclusiva de la revelación directa a Israel.
 
 ---
 ---
