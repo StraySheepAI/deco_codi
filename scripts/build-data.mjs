@@ -1,5 +1,5 @@
 import fs from 'node:fs';
-const sourcePath=process.argv[2]||'/Users/rcdopazo/Downloads/Coding-the-Bible_Genesis-1-2_v2.md';
+const sourcePath=process.argv[2]||'/Users/rcdopazo/Downloads/Coding-the-Bible_Genesis-1-2_v2_1.md';
 const md=fs.readFileSync(sourcePath,'utf8');
 const xml=fs.readFileSync('/Users/rcdopazo/Downloads/OSHB-v.2.2/Gen.xml','utf8');
 const cleanHebrew=s=>s.replace(/<note[\s\S]*?<\/note>/g,'').replace(/<[^>]+>/g,' ').replace(/\//g,'').replace(/\s+([־׃])/g,'$1').replace(/\s+/g,' ').trim();
@@ -13,6 +13,12 @@ for(const line of md.split('# LAS NOTAS')[0].split('\n')){
   const h=line.match(/^## Génesis (\d+)/); if(h){current=+h[1];codyChapters[current]??=[];continue}
   const v=line.match(/^\*\*(\d+(?:-\d+)?)\*\*\s+(.+)/);
   if(v&&current)codyChapters[current].push({number:v[1],text:v[2].replace(/\*([^*]+)\*/g,'$1')});
+}
+const superscriptDigits={'⁰':'0','¹':'1','²':'2','³':'3','⁴':'4','⁵':'5','⁶':'6','⁷':'7','⁸':'8','⁹':'9'};
+const noteChapters=new Map();
+for(const [chapter,verses] of Object.entries(codyChapters))for(const verse of verses)for(const marker of verse.text.matchAll(/[⁰¹²³⁴⁵⁶⁷⁸⁹]+/g)){
+  const id=+[...marker[0]].map(d=>superscriptDigits[d]).join('');
+  if(id&&!noteChapters.has(id))noteChapters.set(id,+chapter);
 }
 const chapters={};
 for(let chapter=1;chapter<=50;chapter++){
@@ -30,10 +36,10 @@ for(let chapter=1;chapter<=50;chapter++){
 const hs={1:'אֱלֹהִים',2:'בָּרָא',3:'תֹהוּ וָבֹהוּ',4:'תְהוֹם',5:'רוּחַ',6:'טוֹב',7:'עֶרֶב · בֹּקֶר',8:'יוֹם אֶחָד',9:'רָקִיעַ',10:'יַמִּים',11:'לְמִינוֹ',12:'מְאֹרֹת',13:'מוֹעֲדִים',14:'נֶפֶשׁ חַיָּה',15:'תַּנִּינִם',16:'צֶלֶם · דְּמוּת',17:'רָדָה · כָּבַשׁ',18:'טוֹב מְאֹד',19:'שָׁבַת',20:'תּוֹלְדֹת',21:'יְהוָה אֱלֹהִים',22:'אָדָם · אֲדָמָה',23:'אֵד',24:'יָצַר',25:'נִשְׁמַת חַיִּים',26:'נֶפֶשׁ חַיָּה',27:'עֵדֶן',28:'טוֹב וָרָע',29:'עָבַד · שָׁמַר',30:'עֵזֶר כְּנֶגְדּוֹ',31:'תַּרְדֵּמָה',32:'צֵלָע',33:'אִשָּׁה · אִישׁ',34:'דָּבַק',35:'עֲרוּמִּים'};
 const teasers={1:'El plural que “Dios” suele ocultar.',3:'No caos moral: una tierra aún no habitable.',5:'Viento, aliento y espíritu en un mismo campo.',6:'¿Bueno o apto para funcionar?',9:'Un cielo trabajado a golpes.',14:'La misma expresión para animales y humano.',16:'Imagen como presencia delegada.',22:'El humano que lleva la tierra en el nombre.',28:'Apto y no-apto, antes que bien y mal.',30:'Rescate y paridad, no subordinación.',32:'Treinta y una veces “lado”; aquí, “costilla”.',35:'Un puente sonoro hacia la serpiente.'};
 const notes=[];
-const noteChapter=id=>id<=18?1:id<=35?2:id<=47?3:id<=60?4:id<=65?5:id<=75?6:id<=80?7:id<=85?8:9;
 for(const m of md.matchAll(/^\*\*(\d+) — ([^*]+)\*\*\s*([\s\S]*?)(?=\n\n\*\*\d+ —|\n\n---|\n\n#|$)/gm)){
   const id=+m[1],raw=m[3].trim(),evidence=[...new Set(raw.match(/\b(?:E[123]|D[12])\b/g)||[])];
-  notes.push({id,chapter:noteChapter(id),title:m[2].replace(/\s*\(.*?\)\.?$/,''),body:raw.replace(/\*([^*]+)\*/g,'$1').replace(/\*\*/g,''),evidence,hebrew:hs[id]||'',teaser:teasers[id]||''});
+  const unlinkedChapters={122:19,123:19,124:19,133:23};
+  notes.push({id,chapter:noteChapters.get(id)||unlinkedChapters[id]||null,title:m[2].replace(/\s*\(.*?\)\.?$/,''),body:raw.replace(/\*([^*]+)\*/g,'$1').replace(/\*\*/g,''),evidence,hebrew:hs[id]||'',teaser:teasers[id]||''});
 }
 const verseCount=Object.values(chapters).reduce((n,verses)=>n+verses.length,0);
 fs.mkdirSync('dist/data',{recursive:true});
