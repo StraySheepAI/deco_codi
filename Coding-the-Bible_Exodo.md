@@ -1,4 +1,4 @@
-# Coding the Bible — Éxodo 1 a 6
+# Coding the Bible — Éxodo 1 a 12
 ### Lectura DIMA. Motor sobre datos reales (OSHB / Códice de Leningrado).
 
 ---
@@ -173,6 +173,176 @@
 
 **28-30** Cuando YHWH habló a Moshé en la tierra de Egipto, YHWH habló a Moshé, diciendo: yo soy YHWH; di a faraón rey de Egipto todas las cosas que yo te digo. Y Moshé respondió delante de YHWH: he aquí, yo soy torpe de labios, ¿cómo, pues, me ha de oír faraón?
 
+## Éxodo 7
+
+**1-2** Y YHWH dijo a Moshé: mira, yo te he constituido elohim para faraón³², y tu hermano Aarón será tu profeta. Tú dirás todas las cosas que yo te mande, y Aarón tu hermano hablará a faraón, para que deje ir de su tierra a los hijos de Israel.
+
+**3-5** Y yo endureceré el corazón de faraón³³, y multiplicaré en la tierra de Egipto mis señales y mis maravillas. Y faraón no os oirá, y pondré mi mano sobre Egipto, y sacaré a mis ejércitos, mi pueblo, los hijos de Israel, de la tierra de Egipto, con grandes juicios. Y sabrán los egipcios que yo soy YHWH, cuando extienda mi mano sobre Egipto, y saque a los hijos de Israel de en medio de ellos.
+
+**6-7** E hicieron Moshé y Aarón como YHWH les mandó; así lo hicieron. Y era Moshé de edad de ochenta años, y Aarón de edad de ochenta y tres, cuando hablaron a faraón.
+
+**8-10** Y habló YHWH a Moshé y a Aarón, diciendo: si faraón os respondiere diciendo: mostrad milagro, dirás a Aarón: toma tu vara, y échala delante de faraón, para que se convierta en dragón³⁴. Vinieron, pues, Moshé y Aarón ante faraón, e hicieron como YHWH lo había mandado; y echó Aarón su vara delante de faraón y de sus siervos, y se convirtió en dragón.
+
+**11-12** Entonces llamó también faraón a los sabios y encantadores; e hicieron también lo mismo los hechiceros de Egipto con sus encantamientos; pues cada uno echó su vara, y se convirtieron en dragones; mas la vara de Aarón devoró las varas de ellos.
+
+**13** Y el corazón de faraón se endureció, y no los escuchó, como YHWH lo había dicho.
+
+**14-16** Entonces YHWH dijo a Moshé: el corazón de faraón está endurecido, y no quiere dejar ir al pueblo. Ve por la mañana a faraón, he aquí que él sale a las aguas; y tú ponte a la orilla del río para encontrarlo, y toma en tu mano la vara que se convirtió en serpiente, y dile: YHWH el Elohim de los hebreos me ha enviado a ti, diciendo: deja ir a mi pueblo, para que me sirva en el desierto; y he aquí que hasta ahora no has querido oír.
+
+**17-18** Así ha dicho YHWH: en esto conocerás que yo soy YHWH³⁵: he aquí, yo heriré con la vara que tengo en mi mano el agua que está en el río, y se convertirá en sangre. Y los peces que hay en el río morirán, y hederá el río, y los egipcios tendrán asco de beber el agua del río.
+
+**19** Y YHWH dijo a Moshé: di a Aarón: toma tu vara, y extiende tu mano sobre las aguas de Egipto, sobre sus ríos, sobre sus arroyos y sobre sus estanques, y sobre todos sus depósitos de aguas, para que se conviertan en sangre, y haya sangre por toda la tierra de Egipto, así en los vasos de madera como en los de piedra.
+
+**20-21** Y Moshé y Aarón hicieron como YHWH lo mandó; y alzando la vara, golpeó las aguas que había en el río, en presencia de faraón y de sus siervos; y todas las aguas que había en el río se convirtieron en sangre. Y los peces que había en el río murieron, y se corrompió el río, y los egipcios no podían beber de él; y hubo sangre por toda la tierra de Egipto.
+
+**22-23** Y los hechiceros de Egipto hicieron lo mismo con sus encantamientos; y el corazón de faraón se endureció, y no los escuchó, como YHWH lo había dicho. Y faraón se volvió y fue a su casa, y no se afligió por esto tampoco.
+
+**24-25** Y en todo Egipto hicieron pozos alrededor del río para beber, porque no podían beber de las aguas del río. Y se cumplieron siete días después de haber herido YHWH el río.
+
+**26-29** Después dijo YHWH a Moshé: entra a faraón, y dile: YHWH ha dicho así: deja ir a mi pueblo, para que me sirva. Y si no lo quieres dejar ir, he aquí yo castigaré con ranas todos tus territorios. Y el río criará ranas, las cuales subirán y entrarán en tu casa, en la cámara donde duermes, y sobre tu cama, y en las casas de tus siervos, en tu pueblo, y en tus hornos y en tus artesas. Y sobre ti, y sobre tu pueblo, y sobre todos tus siervos, subirán las ranas.
+
+## Éxodo 8
+
+**1-3** Y YHWH dijo a Moshé: di a Aarón: extiende tu mano con tu vara sobre los ríos, arroyos y estanques, y haz subir ranas sobre la tierra de Egipto. Entonces Aarón extendió su mano sobre las aguas de Egipto, y subieron ranas que cubrieron la tierra de Egipto. Y los hechiceros hicieron lo mismo con sus encantamientos, e hicieron venir ranas sobre la tierra de Egipto.
+
+**4-6** Entonces llamó faraón a Moshé y a Aarón, y les dijo: orad a YHWH para que quite las ranas de mí y de mi pueblo, y dejaré ir al pueblo para que ofrezca sacrificios a YHWH. Y dijo Moshé a faraón: dígnate indicarme cuándo debo orar por ti, por tus siervos y por tu pueblo, para que las ranas se aparten de ti y de tus casas, y queden solamente en el río. Y él dijo: mañana. Y Moshé respondió: se hará conforme a tu palabra, para que conozcas que no hay como YHWH nuestro Elohim.
+
+**7-9** Y las ranas se irán de ti, y de tus casas, de tus siervos y de tu pueblo, y solamente quedarán en el río. Y salieron Moshé y Aarón de la presencia de faraón; y clamó Moshé a YHWH tocante a las ranas que había puesto sobre faraón. E hizo YHWH conforme a la palabra de Moshé, y murieron las ranas de las casas, de los cortijos y de los campos.
+
+**10-11** Y las juntaron en montones, y apestaban la tierra. Y viendo faraón que se le había dado reposo, endureció su corazón, y no los escuchó, como YHWH lo había dicho.
+
+**12-15** Entonces YHWH dijo a Moshé: di a Aarón: extiende tu vara, y golpea el polvo de la tierra, para que se vuelva piojos por todo el país de Egipto. Y ellos lo hicieron así; y Aarón extendió su mano con su vara, y golpeó el polvo de la tierra, el cual se volvió piojos, así en los hombres como en las bestias; todo el polvo de la tierra se volvió piojos en todo el país de Egipto. Y los hechiceros hicieron así también, para sacar piojos con sus encantamientos, pero no pudieron. Y hubo piojos tanto en los hombres como en las bestias. Entonces los hechiceros dijeron a faraón: dedo de Elohim es este³⁶. Mas el corazón de faraón se endureció, y no los escuchó, como YHWH lo había dicho.
+
+**16-19** Y YHWH dijo a Moshé: levántate de mañana y ponte delante de faraón, he aquí él sale a las aguas; y dile: YHWH ha dicho así: deja ir a mi pueblo, para que me sirva. Porque si no dejas ir a mi pueblo, he aquí yo enviaré sobre ti, sobre tus siervos, sobre tu pueblo y sobre tus casas toda clase de moscas; y las casas de los egipcios se llenarán de toda clase de moscas, y asimismo la tierra donde ellos estén. Y aquel día yo apartaré la tierra de Goshen, en la cual habita mi pueblo, para que ninguna clase de moscas haya en ella, a fin de que sepas que yo soy YHWH en medio de la tierra. Y pondré redención³⁷ entre mi pueblo y el tuyo. Mañana será esta señal.
+
+**20-21** Y YHWH lo hizo así, y vino toda clase de moscas molestísimas sobre la casa de faraón, sobre las casas de sus siervos, y sobre todo el país de Egipto; y la tierra fue corrompida a causa de ellas. Entonces faraón llamó a Moshé y a Aarón, y les dijo: andad, ofreced sacrificio a vuestro Elohim en esta tierra.
+
+**22-23** Y Moshé respondió: no conviene que hagamos así, porque ofreceríamos a YHWH nuestro Elohim la abominación de los egipcios³⁸. He aquí, si sacrificáramos la abominación de los egipcios delante de ellos, ¿no nos apedrearían? Camino de tres días iremos por el desierto, y ofreceremos sacrificios a YHWH nuestro Elohim, como él nos dirá.
+
+**24-25** Y faraón dijo: yo os dejaré ir para que ofrezcáis sacrificios a YHWH vuestro Elohim en el desierto, con tal que no vayáis más lejos; orad por mí. Y respondió Moshé: he aquí, al salir yo de tu presencia, rogaré a YHWH que las diversas clases de moscas se vayan de faraón, y de sus siervos, y de su pueblo mañana; con tal que faraón no falte más, no dejando ir al pueblo a que ofrezca sacrificios a YHWH.
+
+**26-28** Y salió Moshé de la presencia de faraón, y oró a YHWH. E hizo YHWH conforme a la palabra de Moshé, y quitó todas aquellas moscas de faraón, de sus siervos y de su pueblo, sin que quedara una. Mas faraón endureció aún esta vez su corazón, y no dejó ir al pueblo.
+
+## Éxodo 9
+
+**1-4** Entonces YHWH dijo a Moshé: entra a faraón, y dile: YHWH el Elohim de los hebreos dice así: deja ir a mi pueblo, para que me sirva; porque si no lo quieres dejar ir, y lo detienes aún, he aquí la mano de YHWH estará sobre tus ganados que están en el campo, caballos, asnos, camellos, vacas y ovejas, con plaga gravísima. Y separará distintamente³⁹ YHWH entre los ganados de Israel y los de Egipto, y no morirá nada de todo lo de los hijos de Israel.
+
+**5-7** Y YHWH señaló tiempo, diciendo: mañana hará YHWH esta cosa en la tierra. Y al día siguiente YHWH hizo aquello, y murió todo el ganado de Egipto; mas del ganado de los hijos de Israel no murió uno. Entonces faraón envió a ver, y he aquí que del ganado de Israel no había muerto uno solo. Mas el corazón de faraón se agravó, y no dejó ir al pueblo.
+
+**8-10** Y YHWH dijo a Moshé y a Aarón: tomad puñados de ceniza de un horno, y la esparcirá Moshé hacia el cielo delante de faraón; y vendrá a ser polvo sobre toda la tierra de Egipto, el cual originará sarpullido que cause tumores en los hombres y en las bestias, por todo el país de Egipto. Y tomaron ceniza del horno, y se pusieron delante de faraón, y la esparció Moshé hacia el cielo; y vino un sarpullido que causaba tumores tanto en los hombres como en las bestias.
+
+**11-12** Y los hechiceros no podían estar delante de Moshé a causa de los tumores, porque hubo sarpullido en los hechiceros y en todos los egipcios. Y YHWH endureció el corazón de faraón, y no los escuchó, como YHWH lo había dicho a Moshé.
+
+**13-16** Entonces YHWH dijo a Moshé: levántate de mañana, y ponte delante de faraón, y dile: YHWH el Elohim de los hebreos dice así: deja ir a mi pueblo, para que me sirva. Porque yo enviaré esta vez todas mis plagas a tu corazón, sobre tus siervos y sobre tu pueblo, para que entiendas que no hay otro como yo en toda la tierra. Porque ahora yo extenderé mi mano para herirte a ti y a tu pueblo de plaga, y serás quitado de la tierra. Y a la verdad yo te he puesto para mostrar en ti mi poder, y para que mi nombre sea contado en toda la tierra⁴⁰.
+
+**17-19** ¿Todavía te ensoberbeces contra mi pueblo, no dejándolos ir? He aquí que mañana a estas horas yo haré llover granizo muy pesado, cual nunca hubo en Egipto, desde el día en que se fundó hasta ahora. Envía, pues, a recoger tu ganado, y todo lo que tienes en el campo; porque todo hombre o animal que se hallare en el campo, y no fuere recogido a casa, el granizo caerá sobre él, y morirá.
+
+**20-21** De los siervos de faraón, el que temió la palabra de YHWH hizo huir sus criados y su ganado a casa; mas el que no puso en su corazón la palabra de YHWH dejó sus criados y sus ganados en el campo.
+
+**22-23** Y YHWH dijo a Moshé: extiende tu mano hacia el cielo, para que venga granizo en toda la tierra de Egipto sobre los hombres, y sobre las bestias, y sobre toda la hierba del campo en el país de Egipto. Y Moshé extendió su vara hacia el cielo, y YHWH hizo tronar y granizar, y el fuego se descargó sobre la tierra; y YHWH hizo llover granizo sobre la tierra de Egipto.
+
+**24-26** Hubo, pues, granizo, y fuego mezclado con el granizo, tan grande, cual nunca hubo en toda la tierra de Egipto desde que fue habitada. Y aquel granizo hirió en toda la tierra de Egipto todo lo que estaba en el campo, así hombres como bestias; asimismo hirió el granizo toda la hierba del campo, y desgajó todos los árboles del país. Solamente en la tierra de Goshen, donde estaban los hijos de Israel, no hubo granizo.
+
+**27-29** Entonces faraón envió a llamar a Moshé y a Aarón, y les dijo: he pecado esta vez; YHWH es justo, y yo y mi pueblo somos malvados⁴¹. Orad a YHWH para que cesen los truenos de Elohim y el granizo, y yo os dejaré ir, y no os detendréis más. Y le respondió Moshé: en saliendo yo de la ciudad extenderé mis manos a YHWH, y los truenos cesarán, y no habrá más granizo; para que sepas que de YHWH es la tierra.
+
+**30-31** Mas yo sé que ni tú ni tus siervos temeréis todavía la presencia de YHWH Elohim. El lino, pues, y la cebada fueron destrozados, porque la cebada estaba ya en espiga, y el lino en caña.
+
+**32-33** Mas el trigo y el centeno no fueron destrozados, porque eran tardíos. Y salido Moshé de la presencia de faraón, fuera de la ciudad, extendió sus manos a YHWH, y cesaron los truenos y el granizo, y la lluvia no cayó más sobre la tierra.
+
+**34-35** Y viendo faraón que la lluvia había cesado, y el granizo y los truenos, se obstinó en pecar, y endureció su corazón, él y sus siervos. Y el corazón de faraón se endureció, y no dejó ir a los hijos de Israel, como YHWH lo había dicho por medio de Moshé.
+
+## Éxodo 10
+
+**1-2** YHWH dijo a Moshé: entra a la presencia de faraón, porque yo he endurecido su corazón, y el corazón de sus siervos, para mostrar entre ellos estas mis señales, y para que cuentes a tus hijos y a tus nietos las cosas que hice en Egipto, y mis señales que ejecuté en ellos⁴²; para que sepáis que yo soy YHWH.
+
+**3-4** Vinieron, pues, Moshé y Aarón a faraón, y le dijeron: YHWH el Elohim de los hebreos ha dicho así: ¿hasta cuándo no querrás humillarte delante de mí? Deja ir a mi pueblo, para que me sirva. Y si aún rehúsas dejarlo ir, he aquí que mañana yo traeré sobre tu territorio la langosta,
+
+**5-6** la cual cubrirá la faz de la tierra, de modo que no pueda verse la tierra, y comerá lo que escapó, lo que os quedó del granizo; comerá asimismo todo árbol que os produce fruto en el campo. Y llenará tus casas, y las casas de todos tus siervos, y las casas de todos los egipcios, cual nunca vieron tus padres ni tus abuelos, desde que ellos fueron sobre la tierra hasta hoy. Y se volvió, y salió de la presencia de faraón.
+
+**7-8** Entonces los siervos de faraón le dijeron: ¿hasta cuándo será este hombre lazo para nosotros? Deja ir a estos hombres, para que sirvan a YHWH su Elohim. ¿Acaso no sabes todavía que Egipto está destruido? Y Moshé y Aarón volvieron a ser llamados ante faraón, quien les dijo: andad, servid a YHWH vuestro Elohim. ¿Quiénes son los que han de ir?
+
+**9-11** Y Moshé respondió: hemos de ir con nuestros niños y con nuestros viejos, con nuestros hijos y con nuestras hijas; con nuestras ovejas y con nuestras vacas hemos de ir; porque es fiesta de YHWH para nosotros. Y él les dijo: así sea YHWH con vosotros como yo os dejaré ir a vosotros y a vuestros niños; mirad cómo el mal está delante de vuestro rostro. No será así; id ahora vosotros los varones, y servid a YHWH, pues esto es lo que habéis pedido. Y los echaron de la presencia de faraón.
+
+**12-15** Entonces dijo YHWH a Moshé: extiende tu mano sobre la tierra de Egipto para langosta, a fin de que suba sobre el país de Egipto, y consuma todo lo que el granizo dejó. Y extendió Moshé su vara sobre la tierra de Egipto, y YHWH trajo un viento oriental sobre el país todo aquel día y toda aquella noche; y a la mañana el viento oriental trajo la langosta. Y subió la langosta sobre toda la tierra de Egipto, y se asentó en todo el territorio de Egipto en tan gran cantidad; antes de ella no hubo langosta semejante, ni la habrá después. Y cubrió la faz de todo el país, de tal manera que la tierra quedó oscurecida; y consumió toda la hierba de la tierra, y todo el fruto de los árboles que había dejado el granizo; no quedó cosa verde en árboles ni en la hierba del campo, en toda la tierra de Egipto.
+
+**16-17** Entonces faraón hizo llamar aprisa a Moshé y a Aarón, y les dijo: he pecado contra YHWH vuestro Elohim, y contra vosotros. Mas os ruego ahora que perdonéis mi pecado solamente esta vez, y que oréis a YHWH vuestro Elohim que quite de mí solamente esta plaga mortal.
+
+**18-19** Y salió Moshé de la presencia de faraón, y oró a YHWH. Y YHWH volvió un vientísimo occidental fortísimo, y quitó la langosta, y la arrojó en el Mar Rojo; ni una langosta quedó en todo el término de Egipto.
+
+**20** Mas YHWH endureció el corazón de faraón, y no dejó ir a los hijos de Israel.
+
+**21-23** Y YHWH dijo a Moshé: extiende tu mano hacia el cielo, para que haya tinieblas sobre la tierra de Egipto, tanto que cualquiera las palpe. Y extendió Moshé su mano hacia el cielo, y hubo densas tinieblas en toda la tierra de Egipto por tres días. Ninguno vio a su prójimo, ni nadie se levantó de su lugar en tres días; mas todos los hijos de Israel tenían luz en sus habitaciones⁴³.
+
+**24-26** Entonces faraón hizo llamar a Moshé, y dijo: id, servid a YHWH; solamente queden vuestras ovejas y vuestras vacas; vayan también vuestros niños con vosotros. Y Moshé respondió: tú también nos entregarás sacrificios y holocaustos, que ofrezcamos a YHWH nuestro Elohim. Nuestros ganados irán también con nosotros; no quedará ni una pezuña; porque de ellos hemos de tomar para servir a YHWH nuestro Elohim, y no sabemos con qué hemos de servir a YHWH hasta que lleguemos allá.
+
+**27-29** Mas YHWH endureció el corazón de faraón, y no quiso dejarlos ir. Y le dijo faraón: retírate de mí; guárdate que no veas más mi rostro, porque en cualquier día que vieres mi rostro, morirás. Y Moshé respondió: bien has dicho; no veré más tu rostro.
+
+## Éxodo 11
+
+**1-3** YHWH dijo a Moshé: una plaga más traeré sobre faraón y sobre Egipto; después de la cual él os dejará ir de aquí, y en dejándoos ir, de cierto os echará de aquí del todo. Habla ahora al pueblo, y que cada uno pida a su vecino, y cada una a su vecina, alhajas de plata y de oro. Y YHWH dio gracia al pueblo en los ojos de los egipcios. También Moshé era tenido por gran varón en la tierra de Egipto, a los ojos de los siervos de faraón, y a los ojos del pueblo.
+
+**4-6** Dijo, pues, Moshé: YHWH ha dicho así: a la medianoche yo saldré por en medio de Egipto, y morirá todo primogénito en tierra de Egipto, desde el primogénito de faraón que se sienta en su trono, hasta el primogénito de la sierva que está tras el molino; y todo primogénito de las bestias. Y habrá gran clamor en toda la tierra de Egipto, cual nunca hubo, ni jamás habrá.
+
+**7-8** Mas entre todos los hijos de Israel, ni un perro moverá su lengua⁴⁴, desde el hombre hasta la bestia; para que sepáis que hará diferencia YHWH entre los egipcios y los israelitas. Y descenderán a mí todos estos tus siervos, e inclinados delante de mí dirán: vete tú, y todo el pueblo que está bajo tus órdenes; y después de esto yo saldré. Y salió muy enojado de la presencia de faraón.
+
+**9-10** Y YHWH dijo a Moshé: faraón no os oirá, para que mis maravillas se multipliquen en la tierra de Egipto. Y Moshé y Aarón hicieron todas estas maravillas delante de faraón; mas YHWH había endurecido el corazón de faraón, y no envió a los hijos de Israel fuera de su país.
+
+## Éxodo 12
+
+**1-2** Habló YHWH a Moshé y a Aarón en la tierra de Egipto, diciendo: este mes os será principio de los meses; para vosotros será este el primero en los meses del año⁴⁵.
+
+**3-4** Hablad a toda la congregación de Israel, diciendo: en el diez de este mes tómese cada uno un cordero según las familias de los padres, un cordero por familia. Mas si la familia fuere tan pequeña que no baste para comer el cordero, entonces él y su vecino inmediato a su casa tomarán uno según el número de las personas; conforme al comer de cada hombre, haréis la cuenta sobre el cordero.
+
+**5-6** El animal será sin defecto⁴⁶, macho de un año; lo tomaréis de las ovejas o de las cabras. Y lo guardaréis hasta el día catorce de este mes, y lo inmolará toda la congregación del pueblo de Israel entre las dos tardes⁴⁷.
+
+**7-8** Y tomarán de la sangre, y la pondrán en los dos postes y en el dintel de las casas en que lo han de comer. Y aquella noche comerán la carne asada al fuego, y panes sin levadura; con hierbas amargas la comerán.
+
+**9-10** Ninguna cosa comeréis de él cruda, ni cocida en agua, sino asada al fuego; su cabeza con sus pies y sus intestinos. Ninguna cosa dejaréis de él hasta la mañana; y lo que quedare hasta la mañana, lo quemaréis en el fuego.
+
+**11** Y lo comeréis así: ceñidos vuestros lomos, vuestro calzado en vuestros pies, y vuestro bastón en vuestra mano; y lo comeréis apresuradamente; es la Pascua⁴⁸ de YHWH.
+
+**12-13** Pues yo pasaré aquella noche por la tierra de Egipto, y heriré a todo primogénito en la tierra de Egipto, así de los hombres como de las bestias; y ejecutaré mis juicios en todos los elohim de Egipto⁴⁹. Yo soy YHWH. Y la sangre os será por señal en las casas donde vosotros estéis; y veré la sangre, y pasaré sobre vosotros, y no habrá en vosotros plaga de mortandad cuando hiera la tierra de Egipto.
+
+**14** Y este día os será en memoria, y lo celebraréis como fiesta a YHWH durante vuestras generaciones; por estatuto perpetuo lo celebraréis.
+
+**15** Siete días comeréis panes sin levadura; y así el primer día haréis que no haya levadura en vuestras casas; porque cualquiera que comiere leudado desde el primer día hasta el séptimo, aquella persona será cortada de Israel⁵⁰.
+
+**16-17** El primer día habrá santa convocación, y asimismo en el séptimo día tendréis una santa convocación; ninguna obra se hará en ellos, excepto solamente que aderecéis lo que cada cual hubiere de comer. Y guardaréis la fiesta de los panes sin levadura, porque en este mismo día saqué vuestros ejércitos de la tierra de Egipto; por tanto guardaréis este día por vuestras generaciones por costumbre perpetua.
+
+**18-20** En el mes primero, el día catorce del mes por la tarde, comeréis los panes sin levadura, hasta el veintiuno del mes por la tarde. Por siete días no se hallará levadura en vuestras casas, porque cualquiera que comiere algo leudado, así extranjero como natural del país, aquella persona será cortada de la congregación de Israel. Ninguna cosa leudada comeréis; en todas vuestras habitaciones comeréis panes sin levadura.
+
+**21-23** Y Moshé convocó a todos los ancianos de Israel, y les dijo: sacad, y tomaos corderos por vuestras familias, y sacrificad la Pascua. Y tomad un manojo de hisopo, y mojadlo en la sangre que estará en un lebrillo, y untad el dintel y los dos postes con la sangre que estará en el lebrillo; y ninguno de vosotros salga de las puertas de su casa hasta la mañana. Porque YHWH pasará hiriendo a los egipcios; y cuando vea la sangre en el dintel y en los dos postes, pasará YHWH aquella puerta, y no dejará entrar al heridor⁵¹ en vuestras casas para herir.
+
+**24-25** Guardaréis esto por estatuto para vosotros y para vuestros hijos para siempre. Y cuando hubiereis entrado en la tierra que YHWH os dará, como tiene hablado, guardaréis este rito.
+
+**26-27** Y cuando os dijeren vuestros hijos: ¿qué es este rito vuestro? vosotros responderéis: esta es la víctima de la Pascua de YHWH, el cual pasó las casas de los hijos de Israel en Egipto, cuando hirió a los egipcios, y libró nuestras casas. Entonces el pueblo se inclinó y adoró.
+
+**28** Y los hijos de Israel se fueron, e hicieron puntualmente así; como YHWH lo había mandado a Moshé y a Aarón.
+
+**29-30** Y aconteció que a la medianoche YHWH hirió a todo primogénito en la tierra de Egipto, desde el primogénito de faraón que se sentaba sobre su trono, hasta el primogénito del cautivo que estaba en la cárcel, y todo primogénito de los animales. Y se levantó aquella noche faraón, él y todos sus siervos, y todos los egipcios; y había un gran clamor en Egipto, porque no había casa donde no hubiese un muerto.
+
+**31-32** E hizo llamar a Moshé y a Aarón de noche, y les dijo: salid de en medio de mi pueblo vosotros, y los hijos de Israel; e id, servid a YHWH, como habéis dicho. Tomad también vuestras ovejas y vuestras vacas, como habéis dicho, e idos; y bendecidme también a mí.
+
+**33-34** Y los egipcios apremiaban al pueblo, dándose prisa a echarlos de la tierra; porque decían: todos somos muertos. Y llevó el pueblo su masa antes que se leudase, sus masas envueltas en sus sábanas sobre sus hombros.
+
+**35-36** E hicieron los hijos de Israel conforme al mandamiento de Moshé, pidiendo a los egipcios alhajas de plata, y de oro, y vestidos. Y YHWH dio gracia al pueblo delante de los egipcios, y les dieron cuanto pedían; así despojaron a los egipcios.
+
+**37-38** Así partieron los hijos de Israel de Ramesés a Sucot, como seiscientos mil hombres de a pie⁵², sin contar los niños. Y también subió con ellos gran multitud de toda clase de gentes⁵³, y ovejas, y vacas, y muchísimo ganado.
+
+**39** Y cocieron tortas sin levadura de la masa que habían sacado de Egipto, pues no había leudado, porque siendo arrojados de Egipto, no habían podido detenerse, ni prepararse comida.
+
+**40-41** El tiempo que los hijos de Israel habitaron en Egipto fue cuatrocientos treinta años⁵⁴. Y pasados los cuatrocientos treinta años, en el mismo día salieron todos los ejércitos de YHWH de la tierra de Egipto.
+
+**42** Es noche de guardar para YHWH, por haberlos sacado en ella de la tierra de Egipto. Esta noche deben guardar para YHWH todos los hijos de Israel en sus generaciones.
+
+**43-45** Y YHWH dijo a Moshé y a Aarón: esta es la ordenanza de la Pascua: ningún extraño comerá de ella; mas todo siervo humano comprado por dinero comerá de ella después que lo hubieres circuncidado. El extranjero y el jornalero no comerán de ella.
+
+**46** Se comerá en una casa; no llevarás de aquella carne fuera de la casa, ni quebraréis hueso suyo.
+
+**47-49** Toda la congregación de Israel la sacrificará. Mas si algún extranjero morare contigo, y quisiere celebrar la Pascua a YHWH, séale circuncidado todo varón, y entonces se acercará a celebrarla, y será como el natural de la tierra; pero ningún incircunciso comerá de ella. La misma ley será para el natural y para el extranjero que habitare entre vosotros⁵⁵.
+
+**50-51** Así lo hicieron todos los hijos de Israel; como mandó YHWH a Moshé y a Aarón, así lo hicieron. Y en aquel mismo día sacó YHWH a los hijos de Israel de la tierra de Egipto, agrupados por sus escuadrones.
+
 ---
 ---
 
@@ -241,6 +411,54 @@
 **30 — aral sefatayim / torpe de labios (6:12, 30).** Literalmente "incircunciso de labios" — extensión metafórica del término técnico *arel* ("incircunciso"), que en el corpus hasta ahora se aplicaba solo al cuerpo (cf. Génesis 17:11, la circuncisión como señal del pacto; Génesis 34:14, el reproche por un varón "incircunciso"). Acá el mismo adjetivo califica una dificultad de habla, no una condición física del prepucio. E1.
 
 **31 — Yojeved dodato / Yocheved su tía (6:20).** El propio texto declara que Amram, padre de Moshé y Aarón, se casó con su tía paterna — unión que la legislación levítica posterior (fuera de este libro) prohibirá expresamente entre parientes tan cercanos. El corpus no lo señala como problema en el momento narrado; el dato queda simplemente asentado en la genealogía. E1, dato textual verificable, sin comentario moral del propio texto.
+
+**32 — netaticha elohim lefar'oh / te he constituido elohim para faraón (7:1).** Misma aplicación funcional de *elohim* ya vista en 4:16, esta vez a mayor escala: Moshé no representa a la divinidad de Israel, sino que ocupa frente a faraón el lugar de autoridad última que la palabra puede nombrar. El sustantivo sigue funcionando como categoría de rol, no como nombre exclusivo (cf. Génesis 31:30). E1.
+
+**33 — va'ani aqsheh et libo / yo endureceré su corazón (7:3).** Tercera raíz distinta para el "endurecimiento" del corazón de faraón, anunciada como posibilidad desde 4:21: *qashah* ("volver terco/obstinado"), junto a *chazaq* ("fortalecer/endurecer") y *kaved* ("hacer pesado"). Las tres raíces conviven en el resto del ciclo de plagas, a veces con sujeto YHWH y a veces con sujeto el propio faraón — el texto no unifica el vocabulario en una sola fórmula. E1.
+
+**34 — vayehi letannin / se convirtió en dragón (7:9-12).** Palabra distinta de *nachash* (la serpiente de 4:3, y la del jardín en Génesis 3:1): acá la vara se vuelve *tannin*, la misma palabra de los "grandes monstruos marinos" creados por Elohim en Génesis 1:21. El cambio de palabra no es casual — es el mismo término que en otras tradiciones del Cercano Oriente antiguo nombra a la bestia del caos primordial, acá completamente domesticado como accesorio de poder de un profeta, y usado también por los hechiceros egipcios para el mismo truco. E1 el dato léxico (palabra distinta de *nachash*); D1 la lectura del eco con el vocabulario de dominio del caos.
+
+**35 — bezot teda ki ani YHWH / en esto conocerás que yo soy YHWH (7:17).** Primera aparición explícita de la fórmula que va a organizar la lógica interna de todo el ciclo de plagas: cada señal es, ante todo, una demostración epistémica, dirigida a que faraón (y después Egipto e Israel) "sepan" quién es YHWH. Responde directamente a la afirmación de faraón en 5:2 ("no conozco a YHWH"). E1, dato estructural.
+
+**36 — etzba Elohim hi / dedo de Elohim es este (8:15).** Son los propios hechiceros egipcios, no Moshé ni el narrador, quienes atribuyen el fenómeno a Elohim — reconocimiento involuntario que antecede en varios capítulos a la rendición de faraón. E1, dato narrativo; D1 la ironía de que la primera confesión venga del bando contrario.
+
+**37 — vesamti pedut / pondré redención (8:19).** Primera aparición de esta raíz de separación/rescate aplicada a la distinción entre el pueblo de Israel y Egipto durante las plagas — no toda la tierra sufre por igual; el texto empieza a marcar explícitamente esa asimetría a partir de esta plaga. E1.
+
+**38 — to'evat Mitzrayim / la abominación de los egipcios (8:22).** Mismo término que en Génesis 46:34 describía a los pastores de ovejas como "abominación" para los egipcios — acá Moshé lo aplica al animal mismo que Israel sacrificaría (probablemente un animal sagrado para el culto egipcio, como el toro o el carnero), razón que da para no ofrecer el sacrificio dentro de Egipto. Mismo vocablo, dos aplicaciones distintas de una misma lógica de choque cultural. E1.
+
+**39 — vehiflah YHWH / hará distinción YHWH (9:4).** Raíz *pele* ("cosa extraordinaria/maravilla") aplicada acá como verbo de diferenciación — no es una separación neutra sino una que el propio texto marca como asombrosa, digna de asombro en sí misma, entre el ganado de Israel y el de Egipto. E1.
+
+**40 — ulema'an saper shemi bechol ha'aretz / para que mi nombre sea contado en toda la tierra (9:16).** Declaración explícita de que la resistencia misma de faraón cumple una función dentro del relato — no es un obstáculo lateral, sino la ocasión elegida para mostrar poder y para que el nombre de YHWH se propague. Es uno de los versículos más discutidos de toda la Torá en relación con la libertad de faraón frente al endurecimiento divino de su corazón (notas 23, 33): ¿actúa faraón con voluntad propia, o es instrumentalizado desde el principio? El propio texto no resuelve la tensión entre ambas lecturas, y las cita alternativamente en distintos versículos del ciclo. E1 el dato textual; E3 la relación entre voluntad de faraón y endurecimiento divino, disputa teológica y filosófica central, no resuelta.
+
+**41 — chatati hapa'am, YHWH hatzadiq / he pecado esta vez, YHWH es justo (9:27).** Misma raíz *tzedeq* ya establecida como eje de "rectitud/justicia" en el corpus (cf. Génesis 18:19, *tzedaqah u-mishpat*) — primera vez que faraón mismo la usa, en una confesión que no le impide, un versículo más adelante, volver a endurecer su corazón. E1 el dato léxico; D1 la lectura de que la confesión verbal no implica cambio real de conducta.
+
+**42 — lema'an tesaper be'ozney bincha / para que cuentes a tus hijos (10:2).** Primera formulación explícita del propósito pedagógico y transgeneracional de las plagas: no son solo un medio para liberar a Israel, sino un relato destinado a transmitirse a los hijos y nietos. Este mismo esquema de instrucción a la descendencia reaparecerá, ampliado, en las leyes de Pésaj de este mismo capítulo (12:26-27). E1, dato estructural.
+
+**43 — or bemoshvotam / luz en sus habitaciones (10:23).** Durante la plaga de tinieblas, los hijos de Israel tienen luz mientras Egipto queda a oscuras — mismo par de opuestos, luz y oscuridad, que Elohim separa en el primer acto narrado de todo el corpus (Génesis 1:4). Acá la separación original de la creación se vuelve, siglos después en la propia cronología del relato, un instrumento de diferenciación entre pueblos. E1 el dato léxico compartido; D1 la lectura del eco como deliberado.
+
+**44 — lo yecheratz kelev leshono / ni un perro moverá su lengua (11:7).** Modismo hebreo para "no habrá la menor perturbación" — ni siquiera el gruñido de un perro marcará la salida de los hijos de Israel, en contraste explícito con el "gran clamor" que llenará las casas egipcias esa misma noche (11:6, 12:30). E1.
+
+**45 — hachodesh hazeh lachem rosh chodashim / este mes os será principio de los meses (12:2).** Reinicio explícito del calendario: el mes en que ocurre la salida de Egipto se vuelve, por mandato directo, el primer mes del año para Israel — no una fecha más entre otras, sino el punto cero desde el cual se cuenta el tiempo de ahí en adelante. E1, dato estructural con consecuencias en todo el calendario ritual posterior de la Torá.
+
+**46 — seh tamim / animal sin defecto (12:5).** Primera aparición del término técnico *tamim* ("sin defecto/íntegro") aplicado a un animal de sacrificio — criterio que la legislación ritual posterior de la Torá retomará de manera sistemática para toda ofrenda. E1.
+
+**47 — bein ha'arbayim / entre las dos tardes (12:6).** Expresión temporal de sentido disputado: una tradición la entiende como el atardecer mismo, poco antes de la puesta del sol; otra, como todo el intervalo entre el mediodía y el ocaso. El propio hebreo no dirime cuál de las dos "tardes" delimita el intervalo. E2/E3, disputa exegética real dentro de la propia tradición judía, sin resolución filológica cerrada.
+
+**48 — Pésaj / Pascua (12:11).** Nombre explicado por el propio texto más adelante (12:13, 12:23, 12:27) con el verbo *pasach*: la lectura tradicional lo entiende como "pasar de largo/saltar por encima" (YHWH pasa de largo las casas marcadas); una lectura minoritaria, apoyada en un posible cognado acadio, lo entiende más bien como "proteger/cubrir con las alas". La primera es la lectura dominante y la que el propio relato dramatiza con más claridad; la segunda no está descartada con certeza filológica total. E1 el dato de que el propio texto ofrece la etimología por el verbo *pasach*; E2/E3 el matiz exacto de esa raíz, disputa académica real.
+
+**49 — uvechol elohei Mitzrayim e'eseh shefatim / contra todos los elohim de Egipto ejecutaré juicios (12:12).** Los dioses egipcios reciben acá el mismo sustantivo, *elohim*, que nombra a la divinidad de Israel — mismo punto de la nota sobre Labán llamando "elohim" a sus ídolos domésticos (Génesis 31:30): la palabra es categoría gramatical de lo divino, no nombre reservado en exclusiva. La plaga final se presenta explícitamente como un juicio contra divinidades rivales, no solo contra un rey. E1.
+
+**50 — venichretah hanefesh hahi miYisrael / aquella persona será cortada de Israel (12:15).** Primera aparición en el corpus de la fórmula legal conocida como *karet* ("ser cortado") — una pena distinta de la muerte física ejecutada por un tribunal, cuyo mecanismo exacto el texto nunca explica del todo (¿muerte prematura por mano divina, exclusión de la comunidad, extinción del linaje?). Se aplicará después a muchas otras transgresiones rituales en la Torá. E1 el dato de primera aparición; E2/E3 el mecanismo exacto de la pena, disputa exegética real.
+
+**51 — hamashchit / el destructor (12:23).** El propio versículo distingue gramaticalmente entre YHWH, que "pasa" y "ve la sangre", y "el destructor", una figura separada a la que YHWH no permite entrar en las casas marcadas. La relación exacta entre ambos —¿un agente distinto enviado por YHWH, o una personificación literaria de la plaga misma?— no está resuelta por el propio texto. E1 el dato gramatical de la distinción de sujetos; E3 la identidad exacta de la figura, disputa exegética real.
+
+**52 — sheshet me'ot elef ragli / seiscientos mil hombres de a pie (12:37).** Cifra que, contando también mujeres y niños, implicaría una población de más de dos millones de personas saliendo de Egipto — número que la mayoría de la erudición moderna considera demográfica y logísticamente muy difícil de sostener para el período narrado, tanto por la capacidad del desierto del Sinaí como por las cifras conocidas de población del propio Egipto antiguo. Hay lecturas que proponen traducir *elef* no como "mil" sino como "clan/unidad militar", lo cual reduciría drásticamente el número total; ninguna lectura alternativa tiene consenso cerrado. E1 el dato de la cifra tal como está en el texto; E2/E3 su interpretación numérica real, disputa académica central y no resuelta.
+
+**53 — erev rav / gran multitud mixta (12:38).** El propio texto aclara que quienes salieron de Egipto no eran étnicamente homogéneos: junto a los hijos de Israel salió una "multitud mixta" no identificada por linaje. Dato que el resto de la Torá no vuelve a desarrollar en detalle, pero que el propio versículo no oculta. E1.
+
+**54 — sheloshim shanah ve'arba me'ot shanah / cuatrocientos treinta años (12:40).** El tiempo declarado de estancia en Egipto no encaja con facilidad en la genealogía de solo cuatro generaciones entre Leví y Moshé (Éxodo 6:16-20) — un desajuste generacional real que la propia Torá no explica. Además, la Septuaginta griega y el Pentateuco samaritano leen este mismo versículo de manera distinta, contando los 430 años desde la llegada de Abraham a Canaán y no desde el descenso de Jacob a Egipto, lo cual reduciría a la mitad el tiempo efectivo de estancia egipcia. E1 el dato de la cifra y de la brevedad genealógica; E2/E3 cuál de las dos formas de contar los 430 años es la correcta, disputa textual real entre las versiones antiguas.
+
+**55 — torah achat la'ezrach velager / una misma ley para el natural y para el extranjero (12:49).** Fórmula de igualdad legal explícita entre el israelita nativo y el extranjero residente, aplicada acá específicamente a la condición de acceso a la Pascua (circuncisión mediante) — la ley de la ofrenda central de la identidad de Israel se declara, en el mismo movimiento, no exclusiva por nacimiento. E1.
 
 ---
 ---
