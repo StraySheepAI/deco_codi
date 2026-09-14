@@ -1,4 +1,4 @@
-# Coding the Bible — Génesis 1 a 43
+# Coding the Bible — Génesis 1 a 50
 ### Lectura DIMA. Motor sobre datos reales (OSHB / Códice de Leningrado).
 
 ---
@@ -1687,6 +1687,202 @@
 
 **34** Y él les tomó viandas de delante de sí para ellos; mas la porción de Binyamín era cinco veces mayor²⁰¹ que cualquiera de las de ellos. Y bebieron, y se alegraron con él.
 
+## Génesis 44
+
+**1-2** Y mandó José al mayordomo de su casa: llena de alimento los costales de estos varones, cuanto puedan llevar, y pon el dinero de cada uno en la boca de su costal. Y pondrás mi copa, la copa de plata, en la boca del costal del menor, junto con el dinero de su trigo. Y él hizo conforme a lo que dijo José.
+
+**3-5** Venida la mañana, los varones fueron despedidos con sus asnos. Habiendo ellos salido de la ciudad, sin alejarse aún, dijo José a su mayordomo: levántate, sigue a esos varones; y cuando los alcances, diles: ¿por qué habéis pagado mal por bien? ¿No es esta la copa en que bebe mi señor, y por la que suele adivinar²⁰²? Habéis hecho mal en lo que hicisteis.
+
+**6-9** Cuando él los alcanzó, les dijo estas palabras. Y ellos le respondieron: ¿por qué dice mi señor tales cosas? Nunca tal hagan tus siervos. He aquí, el dinero que hallamos en la boca de nuestros costales, te lo volvimos a traer desde la tierra de Canaán; ¿cómo, pues, habíamos de hurtar de casa de tu señor plata ni oro? Aquel de tus siervos en quien fuere hallada la copa, que muera, y aun nosotros seremos siervos de mi señor.
+
+**10-13** Y él dijo: sea conforme a vuestras palabras; aquel en quien se hallare la copa será mi siervo, y vosotros seréis sin culpa. Ellos entonces se dieron prisa, y derribando cada uno su costal en tierra, abrió cada cual el costal suyo. Y buscó; desde el mayor comenzó, y acabó en el menor; y la copa fue hallada en el costal de Binyamín. Entonces ellos rasgaron sus vestidos, y cargó cada uno su asno, y volvieron a la ciudad.
+
+**14-15** Y llegó Judá con sus hermanos a casa de José, que aún estaba allí, y se postraron delante de él en tierra. Y les dijo José: ¿qué acción es esta que habéis hecho? ¿No sabíais que un varón como yo sabe adivinar?
+
+**16** Entonces dijo Judá: ¿qué diremos a mi señor? ¿qué hablaremos, o con qué nos justificaremos? Elohim ha hallado la culpa²⁰³ de tus siervos; henos aquí, siervos somos de mi señor, nosotros, y también aquel en cuyo poder fue hallada la copa.
+
+**17** Y José dijo: nunca yo tal haga; el varón en cuyo poder fue hallada la copa, él será mi siervo; vosotros id en paz a vuestro padre.
+
+**18-20** Entonces Judá se acercó a él, y dijo: ay, señor mío, te ruego que hable tu siervo una palabra en oídos de mi señor, y no se encienda tu enojo contra tu siervo, pues tú eres como faraón. Mi señor preguntó a sus siervos, diciendo: ¿tenéis padre o hermano? Y nosotros dijimos a mi señor: tenemos un padre anciano, y un joven que le nació en su vejez, pequeño aún; y un hermano suyo murió, y él quedó solo de su madre, y su padre lo ama.
+
+**21-23** Y tú dijiste a tus siervos: traédmelo, y pondré mis ojos sobre él. Y nosotros dijimos a mi señor: el joven no puede dejar a su padre, porque si lo dejare, su padre morirá. Y dijiste a tus siervos: si vuestro hermano menor no desciende con vosotros, no veréis más mi rostro.
+
+**24-26** Aconteció, pues, que cuando llegamos a tu siervo mi padre, le contamos las palabras de mi señor. Y dijo nuestro padre: volved a comprarnos un poco de alimento. Y nosotros dijimos: no podemos ir; si nuestro hermano menor va con nosotros, iremos; porque no podemos ver el rostro de aquel varón, si no está con nosotros nuestro hermano menor.
+
+**27-29** Y tu siervo mi padre nos dijo: vosotros sabéis que dos hijos me dio a luz mi esposa; y uno de ellos salió de mi presencia, y pienso de cierto que fue despedazado, y hasta ahora no lo he visto; y si tomáis también a este de mi presencia, y le acontece algún desastre, haréis descender mis canas con dolor al Sheol.
+
+**30-31** Ahora, pues, cuando yo llegue a tu siervo mi padre, si el joven no va conmigo, como su vida está ligada a la vida de este, sucederá que cuando no vea al joven, morirá; y tus siervos harán descender las canas de tu siervo nuestro padre con dolor al Sheol.
+
+**32-34** Como tu siervo salió por fiador del joven con mi padre, diciendo: si no te lo devuelvo, entonces yo seré culpable ante mi padre para siempre; te ruego, pues, que quede ahora tu siervo en lugar del joven por siervo de mi señor, y que el joven suba con sus hermanos²⁰⁴. Porque ¿cómo he de ver yo a mi padre, si el joven no va conmigo? No podría ver el mal que sobrevendría a mi padre.
+
+## Génesis 45
+
+**1-3** No podía ya José contenerse delante de todos los que estaban con él, y clamó: haced salir de mi presencia a todos. Y no quedó nadie con él, mientras José se daba a conocer a sus hermanos. Y dio su voz con llanto, y lo oyeron los egipcios, y lo oyó también la casa de faraón. Y dijo José a sus hermanos: yo soy José; ¿vive aún mi padre? Y sus hermanos no pudieron responderle, porque estaban turbados delante de él.
+
+**4-5** Entonces dijo José a sus hermanos: acercaos ahora a mí. Y ellos se acercaron. Y él dijo: yo soy José vuestro hermano, el que vendisteis para Egipto. Ahora, pues, no os entristezcáis, ni os pese de haberme vendido acá; porque para preservar vidas me envió Elohim delante de vosotros²⁰⁵.
+
+**6-8** Porque estos dos años ha habido hambre en medio de la tierra, y aún quedan cinco años en que ni habrá arada ni siega. Y Elohim me envió delante de vosotros, para preservaros posteridad sobre la tierra, y para daros vida por medio de gran liberación. Así pues, no me enviasteis acá vosotros, sino Elohim, que me ha puesto por padre de faraón y por señor de toda su casa, y por gobernador en toda la tierra de Egipto.
+
+**9-10** Daos prisa, id a mi padre y decidle: así dice tu hijo José: Elohim me ha puesto por señor de todo Egipto; ven a mí, no te detengas; y habitarás en la tierra de Goshen, y estarás cerca de mí, tú, y tus hijos, y los hijos de tus hijos, tus ganados y tus vacas, y todo lo que tienes.
+
+**11-13** Y allí te alimentaré, pues quedan aún cinco años de hambre, para que no perezcas de pobreza tú y tu casa, y todo lo que tienes. He aquí, vuestros ojos ven, y los ojos de mi hermano Binyamín, que mi boca os habla. Haréis, pues, saber a mi padre toda mi gloria en Egipto, y todo lo que habéis visto; y daos prisa, y traed a mi padre acá.
+
+**14-15** Y se echó sobre el cuello de Binyamín su hermano, y lloró; y también Binyamín lloró sobre su cuello. Y besó a todos sus hermanos, y lloró sobre ellos; y después sus hermanos hablaron con él.
+
+**16-18** Y se oyó la noticia en la casa de faraón, diciendo: los hermanos de José han venido. Y esto agradó a faraón y a sus siervos. Y dijo faraón a José: di a tus hermanos: haced esto, cargad vuestras bestias, e id a la tierra de Canaán; y tomad a vuestro padre y vuestras familias, y venid a mí, que yo os daré lo bueno de la tierra de Egipto, y comeréis de la grosura de la tierra.
+
+**19-20** Y tú manda: haced esto: tomad de la tierra de Egipto carros para vuestros niños y vuestras esposas, y traed a vuestro padre, y venid. Y no os preocupéis por vuestras cosas, porque el bien de la tierra de Egipto es vuestro.
+
+**21-23** Y lo hicieron así los hijos de Israel; y les dio José carros conforme a la orden de faraón, y les dio provisión para el camino. A cada uno de todos ellos dio mudas de vestidos, y a Binyamín dio trescientas piezas de plata, y cinco mudas de vestidos. Y a su padre envió esto: diez asnos cargados de lo mejor de Egipto, y diez asnas cargadas de trigo, pan y alimento, para su padre en el camino.
+
+**24-26** Y despidió a sus hermanos, y se fueron; y les dijo: no riñáis por el camino. Y subieron de Egipto, y llegaron a la tierra de Canaán a Jacob su padre. Y le dieron las nuevas, diciendo: José vive aún, y él es señor en toda la tierra de Egipto. Y su corazón se desmayó, pues no los creía.
+
+**27-28** Y ellos le contaron todas las palabras de José, que él les había hablado; y viendo Jacob los carros que José enviaba para llevarlo, se revivió el espíritu²⁰⁶ de Jacob su padre. Entonces dijo Israel: basta; José mi hijo vive todavía; iré, y lo veré antes que yo muera.
+
+## Génesis 46
+
+**1-4** Y salió Israel con todo lo que tenía, y llegó a Beer-seba, y ofreció sacrificios al Elohim de su padre Itzjak. Y habló Elohim a Israel en visiones de noche, y dijo: Jacob, Jacob. Y él respondió: heme aquí. Y dijo: yo soy el El, el Elohim de tu padre; no temas de descender a Egipto, porque allí te pondré por gran nación²⁰⁷. Yo descenderé contigo a Egipto, y yo también te haré volver a subir; y la mano de José cerrará tus ojos.
+
+**5-7** Se levantó, pues, Jacob de Beer-seba; y los hijos de Israel llevaron a su padre Jacob, y a sus niños, y a sus esposas, en los carros que faraón había enviado para llevarlo. Y tomaron sus ganados, y sus bienes que habían adquirido en la tierra de Canaán, y llegaron a Egipto, Jacob y toda su descendencia consigo; sus hijos, y los hijos de sus hijos consigo, sus hijas, y las hijas de sus hijos, y toda su descendencia trajo consigo a Egipto.
+
+**8-15** [Se listan los nombres de los hijos de Israel que entraron en Egipto: los seis hijos de Lea — Rubén, Simeón, Leví, Judá, Isacar, Zabulón — con sus respectivos hijos, y Dina; treinta y tres almas en total.]
+
+**16-18** [Los hijos de Zilpa, sierva de Lea, con los suyos: Gad y Aser; dieciséis almas.]
+
+**19-22** [Los hijos de Raquel: José, ya en Egipto, padre de Menashé y Efráyim, nacidos de Asenat; y Binyamín, con sus hijos; catorce almas.]
+
+**23-25** [Los hijos de Bilha, sierva de Raquel: Dan y Neftalí, con los suyos; siete almas.]
+
+**26-27** Todas las personas que vinieron con Jacob a Egipto, descendientes suyos, sin contar las esposas de sus hijos, fueron sesenta y seis en total. Y los hijos de José que le nacieron en Egipto fueron dos personas. Así todas las personas de la casa de Jacob que entraron en Egipto fueron setenta²⁰⁸.
+
+**28-30** Y Jacob envió a Judá delante de sí a José, para que le viniese a ver en Goshen; y llegaron a la tierra de Goshen. Y José unció su carro y subió a recibir a Israel su padre en Goshen; y se manifestó a él, y se echó sobre su cuello, y lloró sobre su cuello largamente. Entonces Israel dijo a José: muera yo ahora, ya que he visto tu rostro, pues aún vives.
+
+**31-34** Y José dijo a sus hermanos y a la casa de su padre: subiré y avisaré a faraón, y le diré: mis hermanos y la casa de mi padre, que estaban en la tierra de Canaán, han venido a mí. Y los varones son pastores de ovejas, pues han sido siempre hombres de ganadería; y han traído sus ovejas y sus vacas, y todo lo que tienen. Y cuando faraón os llame y os pregunte: ¿cuál es vuestro oficio? diréis: hombres de ganadería han sido tus siervos desde nuestra juventud hasta ahora, nosotros y nuestros padres; para que moréis en la tierra de Goshen, porque los pastores de ovejas son abominación²⁰⁰ para los egipcios.
+
+## Génesis 47
+
+**1-2** Y José fue y dio aviso a faraón: mi padre y mis hermanos, con sus ovejas y sus vacas y todo lo que tienen, han venido de la tierra de Canaán, y he aquí están en la tierra de Goshen. Y tomó a cinco varones de entre sus hermanos, y los presentó delante de faraón.
+
+**3-4** Y faraón dijo a sus hermanos: ¿cuál es vuestro oficio? Y ellos respondieron a faraón: pastores de ovejas somos tus siervos, nosotros y nuestros padres. Dijeron además a faraón: para morar en esta tierra hemos venido, porque no hay pasto para las ovejas de tus siervos, pues es grave el hambre en la tierra de Canaán; por tanto, te rogamos que moren tus siervos en la tierra de Goshen.
+
+**5-6** Y faraón habló a José: tu padre y tus hermanos han venido a ti. La tierra de Egipto delante de ti está; en lo mejor de la tierra haz habitar a tu padre y a tus hermanos; habiten en la tierra de Goshen; y si sabes que entre ellos hay varones de capacidad, ponlos por mayorales del ganado mío.
+
+**7-9** José introdujo entonces a su padre Jacob, y lo presentó delante de faraón; y Jacob bendijo a faraón. Y dijo faraón a Jacob: ¿cuántos son los días de los años de tu vida? Y Jacob respondió a faraón: los días de los años de mi peregrinación son ciento treinta años; pocos y malos han sido los días de los años de mi vida, y no han llegado a los días de los años de la vida de mis padres en los días de su peregrinación.
+
+**10-12** Y Jacob bendijo a faraón, y salió de delante de él. Así José hizo habitar a su padre y a sus hermanos, y les dio posesión en la tierra de Egipto, en lo mejor de la tierra, en la tierra de Ramesés, como mandó faraón. Y alimentaba José a su padre y a sus hermanos, y a toda la casa de su padre, con pan, según el número de los niños.
+
+**13-15** Y no había pan en toda la tierra, y el hambre era muy grave; y desfalleció de hambre la tierra de Egipto y la tierra de Canaán. Y recogió José todo el dinero que se halló en la tierra de Egipto y en la tierra de Canaán, por los alimentos que compraban de él; y llevó José el dinero a casa de faraón. Y cuando se acabó el dinero de la tierra de Egipto y de la tierra de Canaán, vino todo Egipto a José, diciendo: danos pan; ¿por qué moriremos delante de ti, ya que el dinero se ha acabado?
+
+**16-17** Y José dijo: dad vuestros ganados, y yo os daré por vuestros ganados, si se ha acabado el dinero. Y ellos trajeron sus ganados a José, y José les dio alimento por caballos, y por ganado de ovejas, y ganado de vacas, y por asnos; y les sustentó de pan en aquel año por todos sus ganados.
+
+**18-19** Y acabado aquel año, vinieron a él el segundo año, y le dijeron: no encubriremos a nuestro señor que el dinero ciertamente se ha acabado, y también el ganado es ya de nuestro señor; nada queda delante de nuestro señor, sino nuestros cuerpos y nuestra tierra. ¿Por qué moriremos delante de tus ojos, tanto nosotros como nuestra tierra? Cómpranos a nosotros y a nuestra tierra por pan, y seremos nosotros y nuestra tierra siervos de faraón; y danos semilla para que vivamos y no muramos, y no sea asolada la tierra.
+
+**20-22** Así compró José toda la tierra de Egipto para faraón; pues los egipcios vendieron cada uno sus tierras, porque el hambre se agravó sobre ellos; y fue la tierra de faraón²⁰⁹. Y al pueblo lo hizo pasar a las ciudades, desde un extremo al otro de los límites de Egipto. Solamente la tierra de los sacerdotes no compró, por cuanto los sacerdotes tenían ración de faraón, y ellos comían la ración que faraón les daba; por eso no vendieron su tierra.
+
+**23-24** Y José dijo al pueblo: he aquí os he comprado hoy, a vosotros y a vuestra tierra, para faraón; ved aquí semilla, y sembraréis la tierra. Y será que de los frutos daréis el quinto a faraón, y las cuatro partes serán vuestras para sembrar los campos, y para vuestro mantenimiento, y de los que están en vuestras casas, y para que coman vuestros niños.
+
+**25-26** Y ellos respondieron: la vida nos has dado; hallemos gracia en ojos de nuestro señor, y seamos siervos de faraón. Entonces José lo puso por ley hasta hoy sobre la tierra de Egipto, señalando para faraón el quinto, excepto solo la tierra de los sacerdotes, que no fue de faraón.
+
+**27-28** Así habitó Israel en la tierra de Egipto, en la tierra de Goshen, y tomaron posesión en ella, y se aumentaron, y se multiplicaron en gran manera. Y vivió Jacob en la tierra de Egipto diecisiete años; y fueron los días de Jacob, los años de su vida, ciento cuarenta y siete años.
+
+**29-31** Y llegaron los días de Israel para morir, y llamó a José su hijo, y le dijo: si he hallado ahora gracia en tus ojos, te ruego que pongas tu mano debajo de mi muslo¹³⁵, y harás conmigo misericordia y verdad: te ruego que no me entierres en Egipto. Antes yaceré con mis padres, y me llevarás de Egipto, y me sepultarás en el sepulcro de ellos. Y José dijo: haré como tú dices. Y él dijo: júramelo. Y le juró. Entonces Israel se inclinó sobre la cabecera de la cama²¹⁰.
+
+## Génesis 48
+
+**1-2** Sucedió después de estas cosas que dijeron a José: he aquí tu padre está enfermo. Y él tomó consigo a sus dos hijos, Menashé y Efráyim. Y se hizo saber a Jacob, diciendo: he aquí tu hijo José viene a ti. Entonces se esforzó Israel, y se sentó sobre la cama.
+
+**3-4** Y dijo Jacob a José: El Shaday se me apareció en Luz, en la tierra de Canaán, y me bendijo, y me dijo: he aquí yo te haré fructificar y te multiplicaré, y te pondré por multitud de pueblos; y daré esta tierra a tu descendencia después de ti, por heredad perpetua.
+
+**5-6** Y ahora tus dos hijos, Efráyim y Menashé, que te nacieron en la tierra de Egipto antes que yo viniese a ti a Egipto, míos son; como Rubén y Simeón, serán míos²¹¹. Mas los que después de ellos has engendrado, serán tuyos; por el nombre de sus hermanos serán llamados en su herencia.
+
+**7** Porque cuando yo venía de Padán, se me murió Raquel en la tierra de Canaán, en el camino, cuando aún faltaba cierta distancia para llegar a Efrata; y la sepulté allí en el camino de Efrata, que es Belén.
+
+**8-9** Y vio Israel a los hijos de José, y dijo: ¿quiénes son estos? Y respondió José a su padre: son mis hijos, que Elohim me ha dado aquí. Y él dijo: acércalos ahora a mí, y los bendeciré.
+
+**10-11** Y los ojos de Israel estaban ya tan agravados de la vejez, que no podía ver. Y les hizo acercarse a él, y él los besó y los abrazó. Y dijo Israel a José: no pensaba yo ver tu rostro, y he aquí Elohim me ha hecho ver también a tu descendencia.
+
+**12-14** Entonces José los sacó de entre sus rodillas, y se inclinó a tierra. Y tomó José a los dos, a Efráyim con su derecha, hacia la izquierda de Israel, y a Menashé con su izquierda, hacia la derecha de Israel; y los acercó a él. Entonces Israel extendió su mano derecha y la puso sobre la cabeza de Efráyim, que era el menor, y su izquierda sobre la cabeza de Menashé, entrecruzando así sus manos²¹², aunque Menashé era el primogénito.
+
+**15-16** Y bendijo a José, diciendo: el Elohim en cuya presencia anduvieron mis padres Abraham e Itzjak, el Elohim que me mantiene desde que yo soy hasta este día, el mensajero que me liberta de todo mal²¹³, bendiga a estos jóvenes; y sea perpetuado en ellos mi nombre, y el nombre de mis padres Abraham e Itzjak, y multiplíquense en gran manera en medio de la tierra.
+
+**17-18** Entonces viendo José que su padre ponía la mano derecha sobre la cabeza de Efráyim, le desagradó; y asió la mano de su padre para cambiarla de la cabeza de Efráyim a la cabeza de Menashé. Y dijo José a su padre: no así, padre mío, porque este es el primogénito; pon tu derecha sobre su cabeza.
+
+**19** Mas su padre no quiso, y dijo: lo sé, hijo mío, lo sé; también él vendrá a ser un pueblo, y será también engrandecido; pero su hermano menor será más grande que él²¹⁴, y su descendencia será multitud de naciones.
+
+**20** Y los bendijo aquel día, diciendo: en ti bendecirá Israel, diciendo: Elohim te haga como a Efráyim y como a Menashé. Y puso a Efráyim antes de Menashé.
+
+**21-22** Y dijo Israel a José: he aquí yo muero; pero Elohim estará con vosotros, y os hará volver a la tierra de vuestros padres. Y yo te he dado a ti una parte más que a tus hermanos, la que tomé de mano del amorreo con mi espada y con mi arco²¹⁵.
+
+## Génesis 49
+
+**1-2** Y llamó Jacob a sus hijos, y dijo: juntaos, y os declararé lo que os ha de acontecer en los días venideros. Juntaos y oíd, hijos de Jacob; y escuchad a Israel vuestro padre.
+
+**3-4** Rubén, tú eres mi primogénito, mi fortaleza, y el principio de mi vigor; el primero en dignidad, el primero en poder. Impetuoso como las aguas, no serás el principal²¹⁶, por cuanto subiste al lecho de tu padre; entonces lo profanaste; a mi cama subiste.
+
+**5-7** Simeón y Leví son hermanos; armas de violencia son sus armas de parentesco²¹⁷. En su consejo no entre mi alma, ni mi honra se junte en su compañía; porque en su furor mataron varones, y en su capricho desjarretaron toros. Maldito su furor, que fue fiero; y su ira, que fue dura. Yo los apartaré en Jacob, y los esparciré en Israel.
+
+**8-9** Judá, te alabarán tus hermanos; tu mano en la cerviz de tus enemigos; se inclinarán a ti los hijos de tu padre. Cachorro de león, Judá; de la presa subiste, hijo mío. Se encorva, se echa como león, así como leona; ¿quién lo despertará?
+
+**10** No se apartará el cetro de Judá, ni el legislador de entre sus pies, hasta que venga Shiló²¹⁸, y a él se congregarán los pueblos.
+
+**11-12** Atando a la vid su asno, y a la cepa el hijo de su asna, lavó en el vino su vestidura, y en la sangre de uvas su manto²¹⁹. Sus ojos, más rojos que el vino, y los dientes más blancos que la leche.
+
+**13** Zabulón en puertos de mar habitará; será para puerto de naves, y su límite hasta Sidón.
+
+**14-15** Isacar, asno de hueso fuerte, que se recuesta entre los apriscos; y vio que el descanso era bueno, y que la tierra era deleitosa; y bajó su hombro para llevar carga, y sirvió en tributo.
+
+**16-17** Dan juzgará a su pueblo, como una de las tribus de Israel. Será Dan serpiente junto al camino, víbora junto a la senda, que muerde los talones del caballo, y hace caer hacia atrás al jinete²²⁰.
+
+**18** ¡Tu salvación espero, YHWH!²²¹
+
+**19** Gad, ejército lo acometerá; mas él acometerá al fin²²².
+
+**20** El pan de Aser será substancioso, y él dará deleites al rey.
+
+**21** Neftalí, cierva suelta que pronunciará dichos hermosos.
+
+**22-23** Rama fructífera es José, rama fructífera junto a una fuente, cuyos vástagos se extienden sobre el muro. Y le causaron amargura, y le asaetearon, y le aborrecieron los arqueros.
+
+**24** Mas su arco se mantuvo poderoso, y los brazos de sus manos se fortalecieron por las manos del Fuerte de Jacob, por el nombre del Pastor, la Piedra de Israel²²³.
+
+**25** Por el El de tu padre, el cual te ayudará, y por el Shaday, el cual te bendecirá con bendiciones de los cielos arriba, con bendiciones del abismo²²⁴ que está abajo, con bendiciones de los pechos y del vientre.
+
+**26** Las bendiciones de tu padre fueron mayores que las bendiciones de mis progenitores; hasta el término de los collados eternos serán sobre la cabeza de José, y sobre la frente del apartado de entre sus hermanos.
+
+**27** Binyamín es lobo arrebatador; a la mañana comerá la presa, y a la tarde repartirá los despojos.
+
+**28** Todos estos son las doce tribus de Israel, y esto es lo que su padre les dijo, al bendecirlos; a cada uno por su bendición los bendijo.
+
+**29-31** Les mandó luego, y les dijo: yo voy a ser reunido con mi pueblo; sepultadme con mis padres en la cueva que está en el campo de Efrón el hitita, en la cueva que está en el campo de Macpela, al oriente de Mamré en la tierra de Canaán, la cual compró Abraham con el mismo campo de Efrón el hitita, para heredad de sepultura. Allí sepultaron a Abraham y a Sara su esposa; allí sepultaron a Itzjak y a Rebeca su esposa; allí también sepulté yo a Lea²²⁵.
+
+**32-33** El campo y la cueva que está en él fueron comprados de los hijos de Het. Y cuando acabó Jacob de dar mandamientos a sus hijos, encogió sus pies en la cama, y expiró, y fue reunido con su pueblo.
+
+## Génesis 50
+
+**1-3** Entonces se echó José sobre el rostro de su padre, y lloró sobre él, y lo besó. Y mandó José a sus siervos los médicos que embalsamasen a su padre; y los médicos embalsamaron a Israel. Y le cumplieron cuarenta días, porque así cumplían los días de los embalsamados; y lo lloraron los egipcios setenta días²²⁶.
+
+**4-6** Y pasados los días de su luto, habló José a la casa de faraón: si he hallado ahora gracia en vuestros ojos, os ruego que habléis en oídos de faraón, diciendo: mi padre me hizo jurar, diciendo: he aquí yo muero; en mi sepulcro que cavé para mí en la tierra de Canaán, allí me sepultarás; ruego, pues, que suba yo ahora, y sepulte a mi padre, y volveré. Y faraón dijo: sube, y sepulta a tu padre, como él te hizo jurar.
+
+**7-9** Entonces José subió para sepultar a su padre; y subieron con él todos los siervos de faraón, los ancianos de su casa, y todos los ancianos de la tierra de Egipto, y toda la casa de José, y sus hermanos, y la casa de su padre; solamente dejaron en la tierra de Goshen sus niños, y sus ovejas y sus vacas. Subieron también con él carros y gente de a caballo, y se hizo un escuadrón muy grande.
+
+**10-11** Y llegaron hasta la era de Atad, que está al otro lado del Jordán, y endecharon allí con grande y muy grave lamentación; y José hizo a su padre duelo por siete días. Y viendo los moradores de la tierra, los cananeos, el llanto en la era de Atad, dijeron: llanto grande es este de los egipcios; por eso fue llamado el nombre de aquel lugar Avel-Mitzráyim²²⁷, que está al otro lado del Jordán.
+
+**12-13** Hicieron, pues, sus hijos con él según les había mandado; pues lo llevaron sus hijos a la tierra de Canaán, y lo sepultaron en la cueva del campo de Macpela, la cual había comprado Abraham con el mismo campo, para heredad de sepultura, de Efrón el hitita, al oriente de Mamré.
+
+**14** Y volvió José a Egipto, él y sus hermanos, y todos los que subieron con él a sepultar a su padre, después que lo hubo sepultado.
+
+**15-17** Y viendo los hermanos de José que su padre era muerto, dijeron: quizá nos aborrecerá José, y nos dará el pago de todo el mal que le hicimos. Y enviaron a decir a José: tu padre mandó antes de su muerte, diciendo: así diréis a José: te ruego que perdones ahora la transgresión de tus hermanos y su pecado²²⁸, porque te trataron mal; te rogamos, pues, ahora, que perdones la transgresión de los siervos del Elohim de tu padre. Y José lloró mientras hablaban.
+
+**18-19** Vinieron también sus hermanos, y se postraron delante de él, y dijeron: henos aquí por siervos tuyos. Y les respondió José: no temáis; ¿acaso estoy yo en lugar de Elohim²²⁹?
+
+**20-21** Vosotros pensasteis mal contra mí, mas Elohim lo encaminó a bien, para hacer lo que vemos hoy, para mantener en vida a mucho pueblo. Ahora, pues, no tengáis miedo; yo os sustentaré a vosotros y a vuestros hijos. Así los consoló, y les habló al corazón.
+
+**22-23** Y habitó José en Egipto, él y la casa de su padre; y vivió José ciento diez años. Y vio José los hijos de Efráyim hasta la tercera generación; también los hijos de Maquir hijo de Menashé nacieron sobre las rodillas de José²³⁰.
+
+**24** Y José dijo a sus hermanos: yo voy a morir; mas Elohim ciertamente os visitará²³¹, y os hará subir de esta tierra a la tierra que juró a Abraham, a Itzjak y a Jacob.
+
+**25-26** E hizo jurar José a los hijos de Israel, diciendo: Elohim ciertamente os visitará, y haréis llevar de aquí mis huesos. Y murió José a la edad de ciento diez años; y lo embalsamaron, y fue puesto en un ataúd en Egipto²³².
+
 ---
 ---
 
@@ -2097,3 +2293,65 @@
 **200 — to'evah / abominación (43:32).** Primera aparición del término en el corpus — palabra de carga fuerte que en el resto de la Torá se reserva casi siempre para prácticas rituales o sexuales prohibidas. Acá describe algo mucho más llano: que los egipcios no comieran a la misma mesa que los hebreos, una norma de separación étnica, no una falta moral o cúltica. El contraste con sus usos posteriores es dato relevante, no forzado. E1.
 
 **201 — jamesh yadot / cinco veces más (43:34).** El propio José, favorecido de niño con una túnica que distinguía, reproduce con Binyamín el mismo patrón de trato desigual que originó el conflicto del capítulo 37 — ahora desde el lugar de quien reparte, no de quien es señalado. E1 el dato textual (la porción es objetivamente mayor); D1 la lectura del eco con el propio pasado de José.
+
+**202 — nachesh yenachesh / suele adivinar (44:5, 15).** José, hablando a través de su mayordomo, se presenta ante sus propios hermanos como un practicante de adivinación por copa (hidromancia), técnica real documentada en el antiguo Egipto. El texto no lo desmiente ni lo explica como farsa — lo deja tal cual, en tensión con todo lo dicho antes sobre José y Elohim (notas 190, 191). E1 el dato textual; D1 la tensión entre esta autopresentación y el resto del relato, no resuelta por el propio texto.
+
+**203 — avon / la culpa (44:16).** Palabra distinta de *pesha* y *chattah* (nota 155): *avon* nombra específicamente la culpa que se carga, el peso que una falta deja sobre quien la cometió, más que el acto mismo. Judá la usa en plural difuso — no queda claro si habla de la copa hallada en el costal o de una culpa más vieja y real, la venta de José. El propio texto no lo aclara. E1 el dato de raíz; D1 la lectura de que Judá habla, sin decirlo, de aquella otra culpa.
+
+**204 — "que el joven suba con sus hermanos" (44:33).** Judá, que en el capítulo 37 propuso vender a José, se ofrece ahora como esclavo sustituto para salvar a Binyamín y no repetir el dolor de su padre. Es el mismo personaje, en el mismo tipo de escena — un hermano menor amenazado —, actuando en sentido exactamente opuesto. E1 el dato narrativo (paralelismo de escena); D1 la lectura del arco de transformación de Judá, que la propia estructura del relato hace evidente sin declararlo.
+
+**205 — ki lemichyah shelachani Elohim lifneichem / me envió Elohim delante de vosotros (45:5).** Primera formulación explícita de la lectura providencial de toda la trama: José no niega que sus hermanos lo vendieron, pero reencuadra el acto bajo la agencia de Elohim. Se retomará, ampliada, en 50:20. E1, dato estructural — no es una frase suelta, es el eje teológico declarado del ciclo completo de José.
+
+**206 — vatechi ruach Ya'akov / revivió el espíritu de Jacob (45:27).** Misma raíz *ruach* de las notas 5 y 193 — acá no viento ni agitación, sino la vitalidad misma de Jacob, que "vuelve a vivir" al enterarse de que José está vivo. El campo semántico único de aliento/espíritu cubre otra vez, sin palabra distinta, un estado que el español separaría como "ánimo" o "ganas de vivir". E1.
+
+**207 — patrón de bajar y subir a Egipto (46:3-4).** Primera promesa explícita de que el descenso a Egipto no es definitivo: "yo descenderé contigo... y yo también te haré volver a subir". El verbo *alah* ("subir") vuelve a usarse acá con la misma carga que tendrá siglos después para nombrar la salida de Egipto — el propio libro que cierra con un cajón en tierra egipcia ya deja sembrada, en esta frase, la promesa de una subida futura. E1 el dato léxico; D1 la lectura de anticipación estructural.
+
+**208 — sesenta y seis / setenta almas (46:26-27).** El propio texto da dos cifras que no cuadran sin ajuste: 66 (sin contar a las esposas de los hijos de Jacob), y luego 70 al sumar a José y sus dos hijos ya en Egipto — pero esa suma exige contar también a Jacob mismo, que el v.26 no había contado. La aritmética exacta de quién entra en cada cifra es una vieja crux, discutida ya en fuentes rabínicas antiguas. E1 el dato de las dos cifras dadas por el propio texto; E2/E3 cómo se resuelve exactamente la cuenta.
+
+**209 — vatehi ha'aretz lefar'oh / la tierra fue de faraón (47:20-26).** José convierte a Egipto entero, salvo la tierra sacerdotal, en propiedad estatal y a los egipcios en arrendatarios de la corona, a cambio de pan durante el hambre. El propio Génesis no lo condena ni lo celebra — lo narra como maniobra exitosa. D1: hay una ironía estructural real en que sea precisamente esta concentración de poder egipcio, gestionada por un hebreo, la que siglos después haga posible la esclavización narrada al comienzo de Éxodo.
+
+**210 — al rosh hamitah / sobre la cabecera de la cama (47:31).** Crux textual real: las mismas consonantes hebreas (מטה) pueden leerse *mitah* ("cama", vocalización masorética tradicional) o *matteh* ("bastón/cetro") — la Septuaginta griega leyó "bastón", lectura que después cita el propio Nuevo Testamento (Hebreos 11:21). Las dos lecturas dan una imagen física distinta del gesto final de Israel. E1 el dato de la ambigüedad consonántica; E3 cuál de las dos vocalizaciones es la correcta.
+
+**211 — Efráyim y Menashé "como Rubén y Simeón" (48:5).** Jacob adopta formalmente a los dos hijos de José como propios, con el mismo rango que sus hijos mayores — no como nietos, sino como cabezas de tribu propias. Es el dato estructural detrás de que Génesis liste doce hijos de Jacob, pero el pueblo de Israel termine organizado en trece líneas tribales (con Leví aparte, sin herencia territorial, y Efráyim y Menashé en el lugar de José). E1.
+
+**212 — sikel et yadav / entrecruzó sus manos (48:14).** Verbo raro, de la misma raíz que *sekel* ("entendimiento/discernimiento" — nota 37, *lehaskil*). El gesto físico de cruzar los brazos para bendecir al menor con la derecha lleva, en el propio verbo que lo describe, la idea de un acto deliberado y lúcido, no un error de un anciano de vista cansada. E1 el dato de raíz; D1 la lectura de que el cruce es un acto consciente, reforzado por lo que Jacob dice enseguida (v.19).
+
+**213 — ha-mal'ach hago'el oti / el mensajero que me libera (48:15-16).** Jacob bendice usando tres frases en aposición para una sola bendición: "el Elohim... el Elohim... el mensajero que me libera de todo mal" — puestas en paralelo gramatical, como si nombraran lo mismo desde tres ángulos. Mismo tipo de ambigüedad entre "mensajero" y la divinidad misma que ya apareció en la lucha de Jacob (nota 159). E1 el dato de la estructura en aposición; D1 si se lee como identificación deliberada entre el mal'ach y Elohim.
+
+**214 — "su hermano menor será más grande que él" (48:19).** Última repetición explícita del patrón que recorre todo Génesis — Isaac sobre Ismael, Jacob sobre Esaú, Péretz sobre su hermano, y ahora Efráyim sobre Menashé —, esta vez con el propio Jacob nombrando la preferencia en voz alta y en contra de la costumbre esperada. E1 el patrón, verificable por acumulación de casos; D1 la lectura de que el libro entero elige sistemáticamente al segundo, no al primero.
+
+**215 — shechem achad / una porción, un Siquem (48:22).** Ambigüedad real: *shechem* significa literalmente "hombro/porción", pero es también el nombre de la ciudad donde Simeón y Leví masacraron a los varones (cap. 34). Jacob le da a José "un shechem" de más que a sus hermanos — frase que puede leerse simplemente como "una porción extra" o como una referencia velada al territorio de Siquem mismo. E1 el dato de la ambigüedad léxica; E2/E3 cuál de las dos lecturas es la intencionada.
+
+**216 — "no serás el principal" (49:3-4).** Jacob le retira a Rubén la primogenía explícitamente por el episodio de 35:22 (Rubén y Bilha) — pago narrativo directo de aquel dato que entonces se dejó sin comentario. E1.
+
+**217 — kelei chamas mecherotehem / armas de violencia sus armas de parentesco (49:5).** *Mecherah* es palabra rara, de sentido disputado (¿"instrumentos", "pactos", "orígenes"?); la lectura tradicional la conecta con el parentesco mismo de Simeón y Leví, vuelto arma. Jacob no maldice a sus hijos, maldice explícitamente su furor (v.7) — distinción que el propio texto marca con el sujeto gramatical de la maldición. E1 el dato de a quién/qué maldice exactamente; E2/E3 el sentido preciso de *mecherah*.
+
+**218 — ad ki yavo Shiló (49:10).** La crux más disputada de todo el capítulo, y una de las más discutidas de la Torá: el término hebreo (שילה) puede leerse como el topónimo Siló, o —repuntuando las mismas consonantes— como "hasta que venga aquello/aquel a quien pertenece", con lecturas mesiánicas atribuidas ya en fuentes judías antiguas. Ninguna interpretación está filológicamente cerrada. E1 el dato consonántico; E3 disputa genuina y central, sin resolver.
+
+**219 — Ketiv inusual en la bendición de Judá (49:11).** El texto masorético conserva en este versículo formas de escritura (עירה, סותה) que no siguen el patrón esperado de otras palabras del mismo verso — fenómeno del propio aparato textual hebreo (ketiv/qere), no error de copia moderno. Dato verificable en el texto consonántico mismo. E1.
+
+**220 — Dan yadin / Dan juzgará (49:16) — nachash alei derech (49:17).** Etimología real: *Dan* viene de la misma raíz que *yadin* ("juzgará"), ya anunciada en el nacimiento del propio Dan (30:6). La imagen de la serpiente (*nachash*, misma palabra de 3:1, nota 36) junto al camino no es la etimología del nombre — es una imagen aparte, de astucia guerrera, no un juego con el nombre mismo. E1 la etimología real de Dan; D1 si se lee la imagen de la serpiente como eco deliberado del Edén.
+
+**221 — lishu'atcha qiviti YHWH / tu salvación espero, YHWH (49:18).** Único versículo de todo el poema que rompe la forma: no es bendición de una tribu, sino una exclamación en primera persona, dirigida a YHWH en medio de una serie de oráculos hablados en tercera persona sobre los hijos. Dato de estructura poética, sin paralelo en el resto del capítulo. E1.
+
+**222 — Gad gedud yegudenu vehu yagud aqev (49:19).** Triple juego sobre la misma raíz consonántica (*g-d-d*, "atacar en banda") aplicada al nombre Gad, la amenaza que sufre, y la contraofensiva final — recurso poético concentrado en un solo versículo. E1.
+
+**223 — even Yisrael / la Piedra de Israel (49:24).** Título divino único en el corpus, sin paralelo exacto en el resto del Tanaj — "el Fuerte de Jacob" y "el Pastor, la Piedra de Israel" nombran a la misma divinidad en la bendición de José con vocabulario que no se repite en ningún otro lugar de Génesis. E1/E2.
+
+**224 — birkot tehom rovetzet tachat / bendiciones del abismo que yace abajo (49:25).** Misma palabra *tehom* de la nota 4 (las aguas profundas de 1:2) — acá no fuerza a domar sino fuente de bendición, en paralelo con "los cielos arriba". El mismo término que en el capítulo 1 se despersonaliza frente al Tiamat mesopotámico reaparece acá integrado sin tensión al vocabulario de la bendición. E1.
+
+**225 — "allí también sepulté yo a Lea" (49:29-31).** Jacob enumera a Abraham y Sara, Itzjak y Rebeca, y a Lea, como sepultados en la cueva de Macpela — y pide ser enterrado junto a ellos. Rachel, la esposa que más amó, no está en la lista: el propio capítulo 35 (nota 173) ya narró que murió y fue sepultada aparte, camino a Efrata. El silencio es del propio texto, no una omisión de esta edición. E1.
+
+**226 — cuarenta días de embalsamamiento, setenta de duelo (50:2-3).** Primera descripción explícita en el corpus de la momificación egipcia, con cifras que coinciden razonablemente con lo que se conoce del proceso real documentado fuera del texto bíblico. E1/E2.
+
+**227 — Avel-Mitzráyim / el duelo de Egipto (50:10-11).** Etimología real, no paronomasia: el nombre del lugar (*Avel*, "duelo/llanto") se explica directamente por el propio relato, por boca de los cananeos que presencian el luto. E1.
+
+**228 — "perdones la transgresión... y su pecado" (50:17).** Misma pareja *pesha/chattah* de la nota 155, puesta ahora en boca de un mensaje que los hermanos atribuyen a Jacob ya muerto — pero que el propio relato nunca puso en boca de Jacob mientras vivía. El texto no aclara si el mandato existió realmente o si los hermanos lo inventan por miedo, después de la muerte del único testigo posible. E1 el dato de que el mandato no está narrado en ningún momento anterior; E3 si se trata de una orden real no registrada o de una invención bajo presión — disputa exegética real, sin resolución textual posible.
+
+**229 — hatachat Elohim ani / ¿acaso estoy yo en lugar de Elohim? (50:19).** José rechaza explícitamente el lugar de juez último sobre sus hermanos — la venganza no le corresponde a él porque no ocupa el lugar de Elohim. Frase que cierra, en sentido inverso, la pregunta retórica de Caín ("¿soy yo guardián de mi hermano?", 4:9): acá alguien con poder real para vengarse se niega expresamente a ocupar un lugar que no le pertenece. E1 el dato textual; D1 la lectura del contraste con el inicio del libro.
+
+**230 — nacidos sobre las rodillas de José (50:23).** Gesto ritual de adopción/reconocimiento documentado en el mundo antiguo: colocar a un recién nacido sobre las rodillas de un patriarca era un acto formal de legitimación dentro del linaje, no un simple gesto de cariño. E1/E2.
+
+**231 — paqod yifqod / ciertamente os visitará (50:24-25).** Infinitivo absoluto — la misma construcción enfática que ya vimos en otros lugares del corpus (p. ej. nota 71, "muriendo morirás") — con una fórmula exacta que reaparece palabra por palabra en Éxodo 3:16 y 4:31, como la frase que los israelitas usarán generaciones después para reconocer a Moisés como el enviado legítimo. Nota fuera de corpus: el eslabón que conecta el cierre de Génesis con el comienzo de Éxodo es esta fórmula verbal exacta, no solo el tema general de la liberación. E1 el dato de la repetición literal, verificable en el propio texto; conexión con Éxodo, fuera de este libro.
+
+**232 — vayasem ba'aron be-Mitzrayim / fue puesto en un ataúd en Egipto (50:26).** Última frase del libro: el mismo texto que abrió con "los cielos y la tierra" (1:1) cierra con un cajón, en tierra extranjera, con la promesa de subida (nota 207) todavía sin cumplir. D1, lectura de cierre: Génesis no termina en la tierra prometida sino en un ataúd egipcio — el libro deja la promesa abierta, no resuelta, para lo que sigue.
