@@ -1,4 +1,4 @@
-# Coding the Bible — Éxodo 1 a 31
+# Coding the Bible — Éxodo 1 a 36
 ### Lectura DIMA. Motor sobre datos reales (OSHB / Códice de Leningrado).
 
 ---
@@ -831,6 +831,118 @@
 
 **18** Y dio a Moshé, cuando acabó de hablar con él en el monte de Sinaí, dos tablas del testimonio, tablas de piedra escritas con el dedo de Elohim¹³⁴.
 
+## Éxodo 32
+
+**1-2** Y viendo el pueblo que Moshé tardaba en descender del monte, se juntó el pueblo contra Aarón, y le dijeron: levántate, haznos elohim que vayan delante de nosotros; porque a este Moshé, el varón que nos sacó de la tierra de Egipto, no sabemos qué le haya acontecido. Y Aarón les dijo: apartad los zarcillos de oro que están en las orejas de vuestras mujeres, de vuestros hijos y de vuestras hijas, y traédmelos.
+
+**3-4** Entonces todo el pueblo apartó los zarcillos de oro que tenían en sus orejas, y los trajeron a Aarón; y él los tomó de sus manos, y le dio forma con buril, e hizo un becerro de fundición. Y dijeron: estos son tus elohim¹³⁵, Israel, que te sacaron de la tierra de Egipto.
+
+**5-6** Y viendo esto Aarón, edificó un altar delante del becerro; y pregonó Aarón, y dijo: mañana será fiesta para YHWH. Y al otro día madrugaron, y ofrecieron holocaustos, y presentaron ofrendas de paz; y se sentó el pueblo a comer y a beber, y se levantaron a regocijarse.
+
+**7-8** Entonces YHWH dijo a Moshé: anda, desciende, porque tu pueblo que sacaste de la tierra de Egipto se ha corrompido; pronto se han apartado del camino que yo les mandé, y se han hecho un becerro de fundición, y lo han adorado, y le han ofrecido sacrificios, y han dicho: estos son tus elohim, Israel, que te sacaron de la tierra de Egipto.
+
+**9-10** Dijo más YHWH a Moshé: he visto a este pueblo, y he aquí que es pueblo de dura cerviz¹³⁶. Ahora, pues, déjame que se encienda mi ira en ellos, y los consuma; y de ti yo haré una nación grande.
+
+**11-12** Entonces Moshé oró en presencia de YHWH su Elohim, y dijo: YHWH, ¿por qué se encenderá tu furor contra tu pueblo, que tú sacaste de la tierra de Egipto con gran poder y con mano fuerte? ¿Por qué han de hablar los egipcios, diciendo: para mal los sacó, para matarlos en los montes, y para raerlos de sobre la faz de la tierra? Vuélvete del ardor de tu ira, y arrepiéntete de este mal contra tu pueblo.
+
+**13-14** Acuérdate de Abraham, de Yitzchak y de Israel tus siervos, a los cuales has jurado por ti mismo, y les has dicho: yo multiplicaré vuestra descendencia como las estrellas del cielo; y daré a vuestra descendencia toda esta tierra que he dicho, y la tomarán por heredad para siempre¹³⁷. Entonces YHWH se arrepintió del mal que dijo que había de hacer a su pueblo.
+
+**15-16** Y volvió Moshé y descendió del monte, trayendo en su mano las dos tablas del testimonio, escritas por ambos lados; de un lado y de otro estaban escritas. Y las tablas eran obra de Elohim, y la escritura era escritura de Elohim grabada sobre las tablas¹³⁸.
+
+**17-18** Y oyó Yehoshúa la voz del pueblo que gritaba, y dijo a Moshé: alarido de pelea hay en el campamento. Y él respondió: no es voz de alaridos de fuertes, ni voz de alaridos de débiles; voz de cantar oigo yo.
+
+**19-20** Y aconteció que como llegó él al campamento, y vio el becerro y las danzas, se encendió la ira de Moshé, y arrojó las tablas de sus manos, y las quebró al pie del monte¹³⁹. Y tomó el becerro que habían hecho, y lo quemó en el fuego, y lo molió hasta reducirlo a polvo, y lo esparció sobre las aguas, y lo dio a beber a los hijos de Israel.
+
+**21-22** Y dijo Moshé a Aarón: ¿qué te ha hecho este pueblo, que has traído sobre él tan gran pecado? Y respondió Aarón: no se encienda la ira de mi señor; tú conoces al pueblo, que es inclinado al mal.
+
+**23-24** Porque me dijeron: haznos elohim que vayan delante de nosotros, que a este Moshé, el varón que nos sacó de la tierra de Egipto, no sabemos qué le haya acontecido. Y yo les respondí: ¿quién tiene oro? Apartadlo. Y me lo dieron, y lo eché en el fuego, y salió este becerro.
+
+**25-26** Y viendo Moshé que el pueblo estaba desenfrenado, porque Aarón lo había permitido, para vergüenza entre sus enemigos, se puso Moshé a la puerta del campamento, y dijo: quien esté por YHWH, júntese conmigo. Y se juntaron con él todos los hijos de Leví.
+
+**27-28** Y él les dijo: así ha dicho YHWH, el Elohim de Israel: poned cada uno su espada sobre su muslo; pasad y volved de puerta a puerta por el campamento, y matad cada uno a su hermano, y a su amigo, y a su pariente. Y los hijos de Leví hicieron conforme al dicho de Moshé; y cayeron del pueblo en aquel día como tres mil hombres.
+
+**29** Entonces Moshé dijo: hoy os habéis consagrado a YHWH¹⁴⁰, cada uno a costa de su hijo, y de su hermano, para que él dé bendición hoy sobre vosotros.
+
+**30-31** Y aconteció que el día siguiente dijo Moshé al pueblo: vosotros habéis cometido un gran pecado, mas yo subiré ahora a YHWH; quizá le aplacaré acerca de vuestro pecado. Entonces volvió Moshé a YHWH, y dijo: te ruego, este pueblo ha cometido un gran pecado, pues se hicieron elohim de oro;
+
+**32-33** que perdones ahora su pecado, y si no, ráeme ahora de tu libro que has escrito¹⁴¹. Y YHWH respondió a Moshé: al que pecare contra mí, a este raeré yo de mi libro.
+
+**34-35** Ve, pues, ahora, lleva a este pueblo a donde te he dicho; he aquí mi ángel irá delante de ti; mas en el día del castigo, yo castigaré en ellos su pecado. Y YHWH hirió al pueblo, porque habían hecho el becerro que formó Aarón.
+
+## Éxodo 33
+
+**1-3** YHWH dijo a Moshé: ve, sube de aquí, tú y el pueblo que sacaste de la tierra de Egipto, a la tierra de la cual juré a Abraham, Yitzchak y Yaakov, diciendo: a tu descendencia la daré. Y yo enviaré delante de ti el ángel, y echaré fuera al cananeo y al emoreo, al hitita, al perizita, al hivita y al yebusita, a la tierra que fluye leche y miel; porque yo no subiré en medio de ti, porque eres pueblo de dura cerviz, no sea que te consuma en el camino.
+
+**4-6** Y oyendo el pueblo esta mala noticia, vistieron luto, y ninguno se puso sus atavíos. Pues YHWH dijo a Moshé: di a los hijos de Israel: vosotros sois pueblo de dura cerviz; en un momento subiré en medio de ti, y te consumiré. Quítate, pues, ahora tus atavíos, para que yo sepa lo que te he de hacer. Entonces los hijos de Israel se despojaron de sus atavíos desde el monte Horeb.
+
+**7-9** Y Moshé tomó la tienda, y la levantó lejos, fuera del campamento, y la llamó el tabernáculo de reunión¹⁴². Y cualquiera que buscaba a YHWH salía al tabernáculo de reunión, que estaba fuera del campamento. Y sucedía que cuando salía Moshé al tabernáculo, todo el pueblo se levantaba, y cada uno se quedaba en pie a la puerta de su tienda, y miraban en pos de Moshé, hasta que él entraba en el tabernáculo. Y cuando Moshé entraba en el tabernáculo, la columna de nube descendía, y se ponía a la puerta del tabernáculo, y YHWH hablaba con Moshé.
+
+**10-11** Y viendo todo el pueblo la columna de nube que estaba a la puerta del tabernáculo, se levantaba todo el pueblo, cada uno a la puerta de su tienda y adoraba. Y hablaba YHWH a Moshé cara a cara, como habla cualquiera a su compañero¹⁴³. Y volvía al campamento; pero el joven Yehoshúa hijo de Nun, su servidor, nunca se apartaba de en medio del tabernáculo.
+
+**12-13** Y dijo Moshé a YHWH: mira, tú me dices a mí: saca a este pueblo; y tú no me has declarado a quién enviarás conmigo. Sin embargo, tú dices: yo te he conocido por tu nombre, y has hallado también gracia en mis ojos. Ahora, pues, si he hallado gracia en tus ojos, te ruego que me muestres ahora tu camino, para que te conozca, y halle gracia en tus ojos; y mira que esta gente es pueblo tuyo.
+
+**14-16** Y él dijo: mi presencia irá contigo, y te haré descansar. Y Moshé respondió: si tu presencia no ha de ir conmigo, no nos saques de aquí. ¿Y en qué se conocerá aquí que he hallado gracia en tus ojos, yo y tu pueblo, sino en andar tú con nosotros, y que yo y tu pueblo seamos apartados de todos los pueblos que están sobre la faz de la tierra?
+
+**17-18** Y YHWH dijo a Moshé: también haré esto que has dicho, por cuanto has hallado gracia en mis ojos, y te he conocido por tu nombre. Él entonces dijo: te ruego que me muestres tu gloria.
+
+**19-20** Y le respondió: yo haré pasar todo mi bien delante de tu rostro, y proclamaré el nombre de YHWH delante de ti; y tendré misericordia del que tendré misericordia, y seré clemente para con el que seré clemente¹⁴⁴. Dijo más: no podrás ver mi rostro; porque no me verá hombre, y vivirá.
+
+**21-23** Y dijo aún YHWH: he aquí lugar junto a mí, y tú estarás sobre la peña; y cuando pase mi gloria, yo te pondré en una hendidura de la peña, y te cubriré con mi mano hasta que haya pasado. Después apartaré mi mano, y verás mis espaldas; mas no se verá mi rostro.
+
+## Éxodo 34
+
+**1-3** YHWH dijo a Moshé: lábrate dos tablas de piedra como las primeras, y escribiré yo sobre esas tablas las palabras que estaban en las tablas primeras que quebraste. Prepárate, pues, para mañana, y sube de mañana al monte Sinaí, y preséntate ante mí sobre la cumbre del monte. Y no suba hombre contigo, ni parezca alguien en todo el monte; ni ovejas ni bueyes pazcan delante del monte.
+
+**4-5** Y Moshé labró dos tablas de piedra como las primeras; y se levantó de mañana, y subió al monte Sinaí, como YHWH le mandó, y llevó en su mano las dos tablas de piedra. Y YHWH descendió en la nube, y estuvo allí con él, y proclamó el nombre de YHWH.
+
+**6-7** Y pasando YHWH por delante de él, proclamó: YHWH, YHWH, Elohim misericordioso y clemente, tardo para la ira, y grande en misericordia y verdad¹⁴⁵; que guarda misericordia a millares, que perdona la iniquidad, la rebelión y el pecado, y que de ningún modo tendrá por inocente al culpable; que visita la iniquidad de los padres sobre los hijos y sobre los hijos de los hijos, hasta la tercera y cuarta generación¹⁴⁶.
+
+**8-9** Entonces Moshé, apresurándose, bajó la cabeza hacia el suelo y adoró. Y dijo: si ahora, oh YHWH, he hallado gracia en tus ojos, vaya ahora mi señor en medio de nosotros; porque este es un pueblo de dura cerviz; y perdona nuestra iniquidad y nuestro pecado, y poséenos por tu heredad.
+
+**10** Y él dijo: he aquí, yo hago pacto delante de todo tu pueblo; haré maravillas que no han sido hechas en toda la tierra, ni en nación alguna; y verá todo el pueblo en medio del cual estás tú la obra de YHWH, porque será cosa terrible la que yo haré contigo.
+
+**11-13** Guarda lo que yo te mando hoy; he aquí que yo echo de delante de tu presencia al amorreo, al cananeo, al hitita, al perizita, al hivita y al yebusita. Guárdate de hacer pacto con los moradores de la tierra donde has de entrar, no sea que te sea tropiezo en medio de ti. Antes derribaréis sus altares, y quebraréis sus estatuas, y talaréis sus imágenes de Asera.
+
+**14-16** Porque no te inclinarás a otro elohim, pues YHWH cuyo nombre es Celoso, Elohim celoso es. No sea que hagas pacto con los moradores de aquella tierra, y cuando se prostituyan en pos de sus elohim, e inmolen a sus elohim, tú seas llamado por ellos, y comas de sus sacrificios; o tomando de sus hijas para tus hijos, y prostituyéndose sus hijas en pos de sus elohim, hagan también prostituir a tus hijos en pos de los elohim de ellas.
+
+**17-18** No harás elohim de fundición para ti. La fiesta de los panes sin levadura guardarás; siete días comerás pan sin levadura, según te he mandado, en el tiempo del mes de Abib; porque en el mes de Abib saliste de Egipto.
+
+**19-20** Todo lo que abre matriz es mío; y de todo tu ganado que sea macho, los primogénitos de vaca y de oveja. Pero redimirás con cordero el primogénito del asno; y si no lo redimieres, quebrarás su cerviz. Redimirás todo primogénito de tus hijos, y ninguno se presentará delante de mí con las manos vacías.
+
+**21-23** Seis días trabajarás, mas en el séptimo día descansarás; aun en la arada y en la siega, descansarás. Y la fiesta de las semanas te harás, la de las primicias de la siega del trigo, y la fiesta de la cosecha a la vuelta del año. Tres veces en el año se presentará todo varón tuyo delante del Señor YHWH, Elohim de Israel.
+
+**24-26** Porque yo arrojaré a las naciones de tu presencia, y ensancharé tu término; y ninguno codiciará tu tierra, cuando subas para presentarte delante de YHWH tu Elohim tres veces en el año. No ofrecerás con pan leudo la sangre de mi sacrificio; ni quedará de la noche para la mañana el sacrificio de la fiesta de la pascua. Las primicias de los primeros frutos de tu tierra traerás a la casa de YHWH tu Elohim. No cocerás el cabrito en la leche de su madre.
+
+**27-28** Y YHWH dijo a Moshé: escribe tú estas palabras; porque conforme a estas palabras he hecho pacto contigo y con Israel. Y él estuvo allí con YHWH cuarenta días y cuarenta noches; no comió pan, ni bebió agua; y escribió en tablas las palabras del pacto, las diez palabras.
+
+**29-30** Y aconteció que descendiendo Moshé del monte Sinaí con las dos tablas del testimonio en su mano, mientras descendía del monte, Moshé no sabía que la piel de su rostro resplandecía, después que hubo hablado con Elohim¹⁴⁷. Y miró Aarón y todos los hijos de Israel a Moshé, y he aquí la piel de su rostro era resplandeciente; y tuvieron miedo de acercarse a él.
+
+**31-32** Y los llamó Moshé; y Aarón y todos los príncipes de la congregación volvieron a él, y Moshé les habló. Y después se acercaron todos los hijos de Israel, a los cuales mandó todas las cosas que YHWH le había dicho en el monte Sinaí.
+
+**33-35** Y cuando acabó Moshé de hablar con ellos, puso un velo sobre su rostro¹⁴⁸. Cuando venía Moshé delante de YHWH para hablar con él, se quitaba el velo hasta que salía; y saliendo, decía a los hijos de Israel lo que le era mandado. Y veían los hijos de Israel el rostro de Moshé, que la piel de su rostro era resplandeciente; y volvía Moshé a poner el velo sobre su rostro, hasta que entraba a hablar con él.
+
+## Éxodo 35
+
+**1-3** Moshé hizo juntar a toda la congregación de los hijos de Israel, y les dijo: estas son las cosas que YHWH ha mandado que hagáis. Seis días se trabajará, mas el día séptimo os será santo, sábado de reposo para YHWH; cualquiera que en él hiciere trabajo alguno, morirá. No encenderéis fuego en ninguna de vuestras moradas en el día del sábado¹⁴⁹.
+
+**4-9** Y habló Moshé a toda la congregación de los hijos de Israel, diciendo: esto es lo que YHWH ha mandado, diciendo: tomad de entre vosotros ofrenda para YHWH; todo generoso de corazón la traerá a YHWH: oro, plata, bronce; azul, púrpura, carmesí, lino fino, pelo de cabras; pieles de carneros teñidas de rojo, pieles de tejones, madera de acacia; aceite para la luminaria, especias para el aceite de la unción y para el incienso aromático; piedras de ónice, y piedras de engaste para el efod y para el pectoral.
+
+**10-19** [Repite, palabra por palabra, la lista de piezas que deben construirse —tabernáculo, arca, mesa, candelero, altares, cortinas, vestiduras— ya especificada en detalle en Éxodo 25-28 y 30; se omite la enumeración repetida.]
+
+**20-24** Y salió toda la congregación de los hijos de Israel de delante de Moshé. Y vino todo varón a quien su corazón estimuló, y todo aquel a quien su espíritu le dio impulso voluntario, y trajeron ofrenda a YHWH para la obra del tabernáculo de reunión, y para toda su fábrica, y para las vestiduras santas. Vinieron así hombres como mujeres, todos los voluntarios de corazón, y trajeron cadenas, zarcillos, sortijas y brazaletes, y toda clase de joyas de oro; y todos presentaban ofrenda de oro a YHWH. Todo hombre que tenía azul, púrpura, carmesí, lino fino, pelo de cabras, pieles de carneros teñidas de rojo o pieles de tejones, lo traía. Todo el que ofrecía ofrenda de plata o de bronce, traía a YHWH la ofrenda; y todo el que tenía madera de acacia apta para toda la obra del servicio, la traía.
+
+**25-29** Además todas las mujeres sabias de corazón hilaban con sus manos, y traían lo que habían hilado: azul, púrpura, carmesí o lino fino. Y todas las mujeres cuyo corazón las impulsó en sabiduría, hilaron pelos de cabras. Y los príncipes trajeron piedras de ónice, y las piedras de los engastes para el efod y el pectoral; y las especias aromáticas, y el aceite para la luminaria, y para el aceite de la unción, y para el incienso aromático. De los hijos de Israel, así hombres como mujeres, todos los que tuvieron corazón voluntario para traer para toda la obra que YHWH había mandado por medio de Moshé que hiciesen, trajeron ofrenda voluntaria a YHWH.
+
+**30-35** Y dijo Moshé a los hijos de Israel: mirad, YHWH ha nombrado por su nombre a Betzalel hijo de Uri, hijo de Hur, de la tribu de Judá; y lo ha llenado del espíritu de Elohim, en sabiduría, en inteligencia, en ciencia y en todo arte, para proyectar diseños, para trabajar en oro, en plata y en bronce, y en talla de piedras de engaste, y en obra de madera, para trabajar en toda labor ingeniosa. Y ha puesto en su corazón el don de enseñar, así a él como a Aholiab hijo de Ahisamac, de la tribu de Dan. Los ha llenado de sabiduría de corazón, para que hagan toda obra de arte y de invención, y de recamado en azul, en púrpura, en carmesí y en lino fino, y de tejedor; para que hagan toda labor, e inventen todo diseño.
+
+## Éxodo 36
+
+**1-3** Y Betzalel y Aholiab, y todo hombre sabio de corazón a quien YHWH dio sabiduría e inteligencia para saber hacer toda la obra del servicio del santuario, harán todas las cosas que ha mandado YHWH. Y Moshé llamó a Betzalel y a Aholiab, y a todo varón sabio de corazón, en cuyo corazón había puesto YHWH sabiduría, y a todo hombre a quien su corazón le impulsó a venir a la obra para trabajar en ella. Y tomaron de delante de Moshé toda la ofrenda que los hijos de Israel habían traído para la obra del servicio del santuario, a fin de hacerla. Y ellos le traían aún ofrenda voluntaria cada mañana.
+
+**4-7** Tanto, que vinieron todos los maestros que hacían toda la obra del santuario, cada uno de la obra que hacía, y hablaron a Moshé, diciendo: el pueblo trae mucho más de lo que se necesita para la obra que YHWH ha mandado que se haga. Entonces Moshé mandó pregonar por el campamento, diciendo: ningún hombre ni mujer haga más obra para ofrenda del santuario. Y así fue impedido el pueblo de traer más¹⁵⁰; pues tenían material abundante para hacer toda la obra, y sobraba.
+
+**8-38** [Relata la construcción de las cortinas, tablas, barras y velo del tabernáculo, ejecutando punto por punto el diseño ya especificado en Éxodo 26; se omite la repetición.]
+
 ---
 ---
 
@@ -1105,6 +1217,38 @@
 **133 — ot hi beini uvein bnei Yisrael... berit olam / señal es entre mí y los hijos de Israel... pacto perpetuo (31:13-17).** El shabbat se declara "señal" del pacto y "pacto perpetuo" en sí mismo — mismo fundamento en la creación ya citado en 20:11 (cf. Génesis 2:2-3), repetido acá con la fórmula adicional de "señal para siempre", como cierre del bloque completo de instrucciones del tabernáculo antes de la entrega de las tablas. E1.
 
 **134 — ketuvim be'etzba Elohim / escritas con el dedo de Elohim (31:18).** Misma expresión, "dedo de Elohim", que los hechiceros egipcios usaron para nombrar la plaga de los piojos que no pudieron replicar (cf. 8:15) — acá aplicada, sin ironía, a la autoría directa de las tablas de piedra. El mismo giro idiomático nombra, en dos contextos completamente distintos, una acción que escapa a la capacidad humana. E1.
+
+**135 — eleh eloheicha Yisrael / estos son tus elohim, Israel (32:4).** El pueblo usa un verbo plural ("que te sacaron") junto a un sustantivo gramaticalmente plural para referirse a un solo becerro — la misma ambigüedad gramatical de *Elohim* (cf. Génesis 1:1) se vuelve acá el vehículo mismo de la idolatría: la forma plural del nombre divino, aplicada a un ídolo, funciona como si fuera nombre propio de una multiplicidad de dioses. E1.
+
+**136 — am qesheh oref / pueblo de dura cerviz (32:9).** Primera aparición de esta expresión, que se repite después en boca de YHWH (33:3, 33:5) y del propio Moshé (34:9) — una metáfora tomada del ganado que se resiste al yugo, aplicada a la resistencia moral del pueblo. E1.
+
+**137 — zejor le'Avraham le'Yitzchak ule'Yisrael / acuérdate de Abraham, de Yitzchak y de Israel (32:13).** Moshé no apela a ningún mérito del pueblo, sino exclusivamente al juramento incondicional ya hecho a los patriarcas (cf. Génesis 15:5, 22:17) — el argumento que detiene la destrucción es un compromiso divino anterior, no la conducta presente de Israel. E1 el dato retórico; D1 la lectura de que el pacto patriarcal funciona acá como límite a la propia ira divina.
+
+**138 — maaseh Elohim... miktav Elohim / obra de Elohim... escritura de Elohim (32:16).** Las tablas no son objeto consagrado después de ser hechas por manos humanas: el propio texto las atribuye a la manufactura y a la escritura directa de Elohim, redundancia deliberada (obra y escritura) que refuerza la autoría no humana antes de narrar que serán destruidas en el mismo capítulo. E1.
+
+**139 — vayeshaber otam tajat hahar / las quebró al pie del monte (32:19).** Moshé rompe las tablas por iniciativa propia, sin mandato divino previo — un acto de furia humana que, sin embargo, ningún pasaje posterior censura; al contrario, las segundas tablas (34:1) se labran a partir de esa ruptura. E1 el dato narrativo; D2 la ausencia de censura explícita al gesto, lectura menor pues el silencio del texto no prueba aprobación.
+
+**140 — mil'u yedchem hayom laYHWH / hoy os habéis consagrado a YHWH (32:29).** Misma expresión idiomática, "llenar la mano," usada para la investidura sacerdotal de Aarón y sus hijos (29:9, 29:33) — acá aplicada a los levitas, pero mediante un acto de violencia contra sus propios parientes, no mediante unción y sacrificio. E1 el dato léxico compartido; E3 cómo leer la analogía entre ambos ritos de "consagración," tensión real no resuelta por el propio texto.
+
+**141 — mecheni na misifreja / ráeme ahora de tu libro que has escrito (32:32).** Primera mención de un "libro" divino del cual una persona puede ser borrada — Moshé ofrece su propio lugar en ese registro a cambio del perdón del pueblo, oferta que YHWH no acepta en los términos propuestos (32:33). E1.
+
+**142 — ohel moed / el tabernáculo de reunión (33:7).** Antes de que exista el mishkán construido según el diseño de los capítulos 25-31, Moshé ya arma una tienda provisoria con el mismo nombre, mas deliberadamente "lejos, fuera del campamento" — contraste espacial con el santuario futuro, que se erigirá en el centro mismo del campamento (cf. Números, fuera de este corpus). E1.
+
+**143 — panim el panim ka'asher yedaber ish el reehu / cara a cara, como habla cualquiera a su compañero (33:11).** Declaración de intimidad comunicativa entre YHWH y Moshé que el propio capítulo contradice pocos versículos después (33:20, "no me verá hombre y vivirá") — el propio texto no reconcilia ambas afirmaciones en el mismo lugar. E1 el dato textual; E3 tensión real dentro del corpus, ya señalada en la nota sobre 24:9-11.
+
+**144 — vechanoti et asher achon verichamti et asher arachem / seré clemente para con el que seré clemente (33:19).** Misma construcción idiomática de auto-referencia absoluta que "Eheyeh asher Eheyeh" (cf. 3:14) — la gracia divina se declara acá, explícitamente, como acto soberano no condicionado por mérito alguno del que la recibe. E1 el dato gramatical; D1 la lectura del paralelismo con la fórmula del nombre en la zarza.
+
+**145 — YHWH YHWH El rachum vechanun erej apayim verav chesed ve'emet / YHWH, YHWH, Elohim misericordioso y clemente, tardo para la ira, y grande en misericordia y verdad (34:6-7).** Los llamados "trece atributos de misericordia," una de las fórmulas más citadas de toda la tradición litúrgica judía posterior — la propia auto-revelación que Moshé pidió en 33:18 ("muéstrame tu gloria") se responde acá con una lista de cualidades éticas, no con una visión física. E1.
+
+**146 — poqed avon avot al banim... al shileshim ve'al ribeim / que visita la iniquidad de los padres sobre los hijos... hasta la tercera y cuarta generación (34:7).** Repite casi textualmente la cláusula ya dada en el segundo mandamiento (cf. 20:5-6), pero acá aparece incrustada dentro de la lista de atributos de misericordia, inmediatamente después de "que guarda misericordia a millares" — el propio texto no subordina un atributo al otro. E1.
+
+**147 — ki qaran or panav / la piel de su rostro resplandecía (34:29).** La raíz *qrn* significa tanto "brillar/emitir rayos" como, en su forma nominal, "cuerno" — ambigüedad real que llevó a traducciones latinas medievales (y a representaciones artísticas posteriores) a describir a Moshé con cuernos en vez de con un rostro radiante. El propio contexto (luz, temor a acercarse) confirma que el sentido es "resplandor," no "cuernos." E1 el dato gramatical; E3 la ambigüedad de la raíz en sí, que generó una disputa de siglos en la historia de la traducción e interpretación, aunque el contexto inmediato resuelve el sentido para este pasaje.
+
+**148 — vayiten al panav masveh / puso un velo sobre su rostro (34:33).** El velo no cubre a Moshé mientras habla con el pueblo, transmitiendo el mandato divino, sino después, una vez terminado el discurso — se lo quita solo para volver a entrar delante de YHWH. La secuencia exacta (habla sin velo, luego se cubre, luego se descubre solo ante YHWH) es materia de discusión entre comentaristas, ya que el orden de los verbos en el propio versículo admite más de una lectura. E1 el dato del uso alternado del velo; E3 el orden preciso de la secuencia, disputa real de lectura.
+
+**149 — lo tevaaru esh bechol moshevoteijem beyom hashabbat / no encenderéis fuego... en el día del sábado (35:3).** Único trabajo prohibido del sábado que el corpus especifica por su nombre concreto — todas las demás menciones (20:8-11, 23:12, 31:14-17) hablan de "melajá" en términos generales, sin ejemplo particular. E1.
+
+**150 — vayikale ha'am mehavi / fue impedido el pueblo de traer más (36:6).** Único caso en todo el corpus donde una colecta religiosa debe detenerse por exceso, no por falta — el propio texto explica la razón sin rodeos: el material disponible superaba lo necesario para toda la obra (36:7). E1.
 
 ---
 ---
