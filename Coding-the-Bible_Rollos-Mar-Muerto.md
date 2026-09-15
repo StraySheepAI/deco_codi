@@ -1,4 +1,4 @@
-# Coding the Bible — Rollos del Mar Muerto (1QIsaa, Isaías 1 a 33)
+# Coding the Bible — Rollos del Mar Muerto (1QIsaa, Isaías 1 a 40)
 
 ### Lectura DIMA — decodificación integral desde el hebreo/arameo original
 
@@ -868,6 +868,278 @@ A diferencia de Génesis y Éxodo, acá el texto es fragmentario y el hallazgo c
 
 **24** No dirá el morador: estoy enfermo; al pueblo que morare en ella le será perdonada la iniquidad.
 
+## 1QIsaa · Isaías 34
+
+**1** Acercaos, naciones, para oír; y escuchad, pueblos. Oiga la tierra y su plenitud, el mundo y todo lo que él produce.
+
+**2-3** Porque YHWH está airado contra todas las naciones, e indignado contra todo el ejército de ellas; las destruirá y las entregará al matadero. Y los muertos de ellas serán arrojados, y de sus cadáveres se levantará hedor; y los montes se desleirán por la sangre de ellos.
+
+**4** Y se hendirán los valles, y caerá todo el ejército de los cielos⁴⁴, y se plegarán los cielos como un libro; y todo su ejército caerá como se cae la hoja de la parra, y como se cae la de la higuera.
+
+**5-6** Porque en los cielos se embriagará mi espada; he aquí que descenderá sobre Edom, sobre el pueblo de mi anatema, para juicio. Espada de YHWH llena está de sangre, engrasada está de grosura, de sangre de corderos y de cabritos, de grosura de riñones de carneros; porque YHWH tiene sacrificios en Botzrá, y grande matanza en tierra de Edom.
+
+**7** Y con ellos caerán búfalos, y toros con becerros; y su tierra se embriagará de sangre, y su polvo se engrasará de grosura.
+
+**8** Porque es día de venganza de YHWH, año de retribuciones en el pleito de Sión.
+
+**9-10** Y sus arroyos se convertirán en brea, y su polvo en azufre, y su tierra en brea ardiente. No se apagará de noche ni de día, perpetuamente subirá su humo; de generación en generación será asolada, nunca jamás pasará nadie por ella.
+
+**11-12** Y la poseerán el pelícano y el erizo, la lechuza y el cuervo morarán en ella; y se extenderá sobre ella cordel de destrucción, y niveles de asolamiento. Sus nobles no tendrán allí a quién llamar para el reino, y todos sus príncipes serán nada.
+
+**13** En sus alcázares crecerán espinos; ortigas y cardos en sus fortalezas; y serán morada de chacales, y patio para los pollos de los avestruces.
+
+**14** Las fieras del desierto se encontrarán con las hienas, y la cabra salvaje gritará a su compañero; solo allí hallarán descanso los espíritus de la noche⁴⁵, y encontrarán para sí lugar de reposo.
+
+**15** Allí anidará el búho, pondrá sus huevos, y los sacará, y los juntará bajo su sombra; también allí se juntarán buitres, cada uno con su pareja.
+
+**16-17** Inquirid en el libro de YHWH, y leed si faltó alguno de ellos, si faltó su pareja; porque su boca mandó, y su mismo espíritu los juntó. Y él les echó suertes, y su mano les repartió con cordel; por siempre la tendrán por heredad; de generación en generación morarán allí.
+
+## 1QIsaa · Isaías 35
+
+**1-2** Se alegrarán el desierto y el sequedal; se gozará el desierto, y florecerá como la rosa. Florecerá profusamente, y también se alegrará y cantará con júbilo; la gloria del Líbano le será dada, la hermosura del Carmelo y de Sharón. Ellos verán la gloria de YHWH, la hermosura del Elohim nuestro.
+
+**3-4** Confortad las manos cansadas, afirmad las rodillas endebles. Decid a los de corazón apocado: esforzaos, no temáis; he aquí que vuestro Elohim viene con venganza, con retribución de Elohim; él mismo vendrá, y os salvará.
+
+**5-6** Entonces los ojos de los ciegos serán abiertos, y los oídos de los sordos se abrirán. Entonces el cojo saltará como un ciervo, y cantará la lengua del mudo; porque aguas serán cavadas en el desierto, y torrentes en la soledad.
+
+**7** El lugar seco será tornado en estanques, y el sequedal en manaderos de aguas; en la morada de chacales, en su cama, será lugar de cañas y de juncos.
+
+**8** Y habrá allí calzada y camino, y será llamado Camino de Santidad; no pasará inmundo por él; y estará para los que caminan por él, y los insensatos no se extraviarán.
+
+**9** No habrá allí león, ni fiera alguna subirá por él, ni allí se hallará, para que caminen los redimidos.
+
+**10** Y los rescatados de YHWH volverán, y vendrán a Sión con alegría; y gozo perpetuo será sobre sus cabezas; tendrán gozo y alegría, y huirán la tristeza y el gemido.
+
+## 1QIsaa · Isaías 36
+
+**1** Aconteció en el año catorce del rey Hizkiyahu, que Sanjerib, rey de Asiria, subió contra todas las ciudades fortificadas de Yehudá, y las tomó.
+
+**2** Y el rey de Asiria envió al Rabsaces con gran ejército desde Laquis a Yerushalaim contra el rey Hizkiyahu; y acampó junto al acueducto del estanque de arriba, en el camino de la heredad del Lavador.
+
+**3** Y salió a él Elyakim hijo de Hilkiyahu, mayordomo, y Shevná escriba, y Yoaj hijo de Asaf, canciller.
+
+**4-5** Y les dijo el Rabsaces: decid ahora a Hizkiyahu: así dice el gran rey, el rey de Asiria: ¿qué confianza es esta en que te apoyas? Dices tú (mas palabras de labios son): tengo consejo y fuerzas para la guerra. Ahora bien, ¿en quién confías, que te has rebelado contra mí?
+
+**6** He aquí que confías en este báculo de caña cascada, en Egipto, en el cual si alguien se apoyare, se le entrará por la mano, y la traspasará; tal es Faraón, rey de Egipto, para con todos los que en él confían.
+
+**7** Y si me dijeres: en YHWH nuestro Elohim confiamos; ¿no es este aquel cuyos lugares altos y cuyos altares hizo quitar Hizkiyahu, y dijo a Yehudá y a Yerushalaim: delante de este altar adoraréis?
+
+**8-9** Ahora, pues, yo te ruego que des rehenes a mi señor, el rey de Asiria, y yo te daré dos mil caballos, si pudieres tú dar jinetes que cabalguen sobre ellos. ¿Cómo, pues, harás volver el rostro de un capitán, el menor de los siervos de mi señor, aunque estés confiado en Egipto por sus carros y su gente de a caballo?
+
+**10** ¿Acaso he venido yo ahora sin YHWH a esta tierra para destruirla? YHWH me dijo: sube a esta tierra, y destrúyela.
+
+**11** Entonces dijeron Elyakim, Shevná y Yoaj al Rabsaces: te rogamos que hables a tus siervos en lengua aramea, porque la entendemos; y no hables a nosotros en lengua judaica, oyéndolo el pueblo que está sobre el muro.
+
+**12** Y dijo el Rabsaces: ¿acaso me envió mi señor a ti y a tu señor, para decir estas palabras, y no antes a los hombres que están sobre el muro, para comer su propio estiércol y beber su propia orina con vosotros?
+
+**13** Se paró entonces el Rabsaces, y clamó a gran voz en lengua judaica, diciendo: oíd las palabras del gran rey, el rey de Asiria.
+
+**14** El rey dice así: no os engañe Hizkiyahu, porque no os podrá librar.
+
+**15** Ni os haga Hizkiyahu confiar en YHWH, diciendo: de cierto nos librará YHWH; no será entregada esta ciudad en mano del rey de Asiria.
+
+**16-17** No oigáis a Hizkiyahu, porque así dice el rey de Asiria: haced conmigo paz, y salid a mí, y coma cada uno de su vid, y cada uno de su higuera, y beba cada cual las aguas de su pozo, hasta que yo venga y os lleve a una tierra como la vuestra, tierra de grano y de vino, tierra de pan y de viñas.
+
+**18** Mirad que no os engañe Hizkiyahu diciendo: YHWH nos librará. ¿Acaso han librado los dioses de las naciones cada uno su tierra de la mano del rey de Asiria?
+
+**19-20** ¿Dónde está el dios de Hamat y de Arpad? ¿Dónde está el dios de Sefarvaim? ¿Han librado a Shomrón de mi mano? ¿Qué dios de todos los dioses de estas tierras ha librado a su tierra de mi mano, para que YHWH libre de mi mano a Yerushalaim?
+
+**21-22** Pero ellos callaron, y no le respondieron palabra; porque había mandamiento del rey, el cual había dicho: no le respondáis. Entonces Elyakim hijo de Hilkiyahu, mayordomo, y Shevná escriba, y Yoaj hijo de Asaf, canciller, vinieron a Hizkiyahu, rasgados sus vestidos, y le contaron las palabras del Rabsaces.
+
+## 1QIsaa · Isaías 37
+
+**1** Aconteció que oyendo esto el rey Hizkiyahu, rasgó sus vestidos, y se cubrió de cilicio, y entró en la casa de YHWH.
+
+**2** Y envió a Elyakim mayordomo, a Shevná escriba, y a los ancianos de los sacerdotes, cubiertos de cilicio, a Yeshayahu profeta, hijo de Amotz.
+
+**3** Y le dijeron: así ha dicho Hizkiyahu: día de angustia, de reprensión y de blasfemia es este día; porque los hijos han llegado hasta el punto de nacer, y la que da a luz no tiene fuerzas.
+
+**4** Quizá oirá YHWH tu Elohim las palabras del Rabsaces, a quien el rey de Asiria su señor envió para blasfemar al Elohim vivo, y para argüir con las palabras que YHWH tu Elohim ha oído; eleva, pues, oración tú por el remanente que aún queda.
+
+**5-6** Vinieron, pues, los siervos del rey Hizkiyahu a Yeshayahu. Y les dijo Yeshayahu: diréis así a vuestro señor: así dice YHWH: no temas por las palabras que has oído, con las cuales me han blasfemado los criados del rey de Asiria.
+
+**7** He aquí que yo pongo en él un espíritu, y oirá rumor, y volverá a su tierra; y haré que en su tierra caiga a espada.
+
+**8** Vuelto, pues, el Rabsaces, halló al rey de Asiria combatiendo contra Libná, porque había oído que se había apartado de Laquis.
+
+**9** Y oyó decir de Tirhaká, rey de Cus: he salido para hacerte guerra. Y cuando lo oyó, envió embajadores a Hizkiyahu, diciendo:
+
+**10** así diréis a Hizkiyahu, rey de Yehudá: no te engañe tu Elohim en quien tú confías, diciendo: Yerushalaim no será entregada en mano del rey de Asiria.
+
+**11** He aquí que tú has oído lo que hicieron los reyes de Asiria a todas las tierras, destruyéndolas; ¿y escaparás tú?
+
+**12** ¿Libraron sus dioses a las naciones que mis padres destruyeron, a Gozán, a Harán, a Retzef, y a los hijos de Edén que estaban en Telasar?
+
+**13** ¿Dónde está el rey de Hamat, el rey de Arpad, el rey de la ciudad de Sefarvaim, de Hena, y de Ivá?
+
+**14** Y tomó Hizkiyahu las cartas de manos de los embajadores, y las leyó; y subió a la casa de YHWH, y las extendió delante de YHWH.
+
+**15-16** Y oró Hizkiyahu a YHWH, diciendo: YHWH de los ejércitos, Elohim de Israel, que moras entre los querubines, solo tú eres el Elohim de todos los reinos de la tierra; tú hiciste los cielos y la tierra.
+
+**17** Inclina, oh YHWH, tu oído, y oye; abre, oh YHWH, tus ojos, y mira; y oye todas las palabras de Senaquerib, que ha enviado a blasfemar al Elohim vivo.
+
+**18** Ciertamente, oh YHWH, los reyes de Asiria destruyeron todas las tierras,
+
+**19** y entregaron los dioses de ellas al fuego; porque no eran Elohim, sino obra de manos de hombre, madera y piedra; por eso los destruyeron.
+
+**20** Ahora pues, YHWH Elohim nuestro, sálvanos de su mano, para que sepan todos los reinos de la tierra que solo tú, YHWH, eres Elohim.
+
+**21** Entonces Yeshayahu hijo de Amotz envió a decir a Hizkiyahu: así dice YHWH, Elohim de Israel, respecto de lo que me pediste acerca de Senaquerib rey de Asiria:
+
+**22** esta es la palabra que YHWH ha hablado contra él: te ha menospreciado, te ha escarnecido, virgen hija de Sión; movió su cabeza detrás de ti, hija de Yerushalaim.
+
+**23** ¿A quién injuriaste, y a quién blasfemaste? ¿Contra quién alzaste la voz, y levantaste en alto tus ojos? Contra el Santo de Israel.
+
+**24** Por mano de tus siervos has injuriado al Señor, y dijiste: con la multitud de mis carros he subido a las alturas de los montes, a las cumbres del Líbano; y talaré sus altos cedros, sus cipreses escogidos; llegaré hasta sus más elevadas cumbres, al bosque de su Carmelo.
+
+**25** Yo cavé, y bebí las aguas extrañas, y con las plantas de mis pies sequé todos los ríos de Egipto.
+
+**26** ¿Nunca has oído que desde tiempos antiguos yo lo hice, que desde los días de la antigüedad lo tengo ideado? Ahora lo he hecho venir, y fue para reducir a montones de escombros las ciudades fortificadas.
+
+**27** Sus moradores, cortos de manos, quedaron espantados y confusos, fueron como hierba del campo y hortaliza verde, como heno de los tejados, quemado antes de sazón.
+
+**28** He conocido tu asentarte, tu salir y tu entrar, y tu furor contra mí.
+
+**29** Tu arrogancia⁴⁶ ha subido a mis oídos; pondré, por tanto, mi anzuelo en tu nariz, y mi freno en tus labios, y te haré volver por el camino por donde viniste.
+
+**30** Y esto te será por señal: comeréis este año lo que nace de suyo, y el año segundo lo que nace de suyo; y el año tercero sembraréis y segaréis, y plantaréis viñas, y comeréis el fruto de ellas.
+
+**31** Y lo que hubiere escapado, lo que hubiere quedado de la casa de Yehudá, tornará a echar raíz abajo, y dará fruto arriba.
+
+**32** Porque de Yerushalaim saldrá remanente, y del monte de Sión los que se salven; el celo de YHWH de los ejércitos hará esto.
+
+**33** Por tanto, así dice YHWH acerca del rey de Asiria: no entrará en esta ciudad, ni arrojará saeta en ella; ni vendrá delante de ella con escudo, ni levantará contra ella baluarte.
+
+**34** Por el camino que vino, volverá, y no entrará en esta ciudad, dice YHWH.
+
+**35** Porque yo ampararé a esta ciudad para salvarla, por amor de mí, y por amor de David mi siervo.
+
+**36** Y salió el ángel de YHWH, e hirió a ciento ochenta y cinco mil en el campamento de los asirios; y cuando se levantaron por la mañana, he aquí que todo era cuerpos de muertos.
+
+**37** Entonces Senaquerib rey de Asiria se fue, y volvió, y habitó en Nínive.
+
+**38** Y aconteció que mientras él adoraba en el templo de Nisroc su dios, sus hijos Adramelec y Sarezer lo hirieron a espada; y huyeron a tierra de Ararat, y reinó en su lugar Esarhadón, su hijo.
+
+## 1QIsaa · Isaías 38
+
+**1** En aquellos días Hizkiyahu enfermó de muerte; y vino a él Yeshayahu profeta, hijo de Amotz, y le dijo: así dice YHWH: ordena tu casa, porque morirás, y no vivirás.
+
+**2-3** Entonces volvió Hizkiyahu su rostro a la pared, y oró a YHWH. Y dijo: te ruego, oh YHWH, te ruego que hagas memoria de que he andado delante de ti en verdad y con corazón íntegro, y que he hecho lo bueno delante de tus ojos. Y lloró Hizkiyahu con gran lloro.
+
+**4-5** Entonces vino palabra de YHWH a Yeshayahu, diciendo: ve, y di a Hizkiyahu: así dice YHWH, el Elohim de David tu padre: he oído tu oración, y he visto tus lágrimas; he aquí que yo añado a tus días quince años.
+
+**6-7** Y te libraré, a ti y a esta ciudad, de mano del rey de Asiria; y a esta ciudad ampararé. Y esto te será señal de parte de YHWH, que YHWH hará esto que ha dicho:
+
+**8** he aquí, yo haré volver la sombra en las gradas, que ha descendido en el reloj de Ajaz por el sol, diez grados atrás. Y volvió el sol diez grados, por los cuales había ya descendido.
+
+**9** Escritura de Hizkiyahu rey de Yehudá, de cuando enfermó y sanó de su enfermedad:
+
+**10** yo dije: en el mediodía de mis días iré a las puertas del seol; privado soy del resto de mis años.
+
+**11** Dije: no veré a YAH, a YAH en la tierra de los vivientes; ya no veré más hombre con los moradores del mundo.
+
+**12** Mi morada ha sido movida, y traspasada de mí, como tienda de pastor; corté, como tejedor, mi vida; me cortará con la enfermedad; entre el día y la noche me acabarás.
+
+**13** Contaba yo hasta la mañana. Como un león molió todos mis huesos; de la mañana a la noche me acabarás.
+
+**14** Como la grulla y como la golondrina me quejaba; gemía como la paloma; alzaba en lo alto mis ojos; oh Señor, violencia padezco, fortaléceme.
+
+**15** ¿Qué diré? Él me lo dijo, y él mismo lo hizo. Andaré humildemente todos mis años a causa de la amargura de mi alma.
+
+**16** Oh Señor, por sobre ellas vive, y en todas ellas está la vida de mi espíritu; y me harás sanar, y me harás vivir.
+
+**17** He aquí, amargura amarga me sobrevino en paz; mas a ti agradó librar mi vida del hoyo de corrupción, porque echaste tras tus espaldas todos mis pecados.
+
+**18** Porque el seol no te dará gracias, ni te alabará la muerte; ni los que descienden al sepulcro esperarán tu verdad.
+
+**19** El que vive, el que vive, este te dará alabanza, como yo hoy; el padre hará a los hijos notoria tu verdad.
+
+**20** [El que vive, el que vive, te dará alabanza, como yo hoy; el padre hará a los hijos notoria tu verdad.]⁴⁷ YHWH me salvará; y en mis días cantaremos nuestros cánticos en la casa de YHWH.
+
+**21-22** Y había dicho Yeshayahu: tomen masa de higos, y pónganla en la llaga, y sanará. Dijo también Hizkiyahu: ¿qué señal tendré de que he de subir a la casa de YHWH?
+
+## 1QIsaa · Isaías 39
+
+**1** En aquel tiempo Merodac-baladán hijo de Baladán, rey de Babilonia, envió cartas y presente a Hizkiyahu, porque supo que había estado enfermo, y que había convalecido.
+
+**2** Y se alegró de ello Hizkiyahu, y les mostró la casa de su tesoro, plata, oro, aromas, ungüentos preciosos, y toda su casa de armas, y todo lo que se hallaba en sus tesoros; no hubo cosa en su casa y en todo su señorío que Hizkiyahu no les mostrase.
+
+**3** Entonces Yeshayahu profeta vino al rey Hizkiyahu, y le dijo: ¿qué dijeron aquellos hombres, y de dónde vinieron a ti? Y Hizkiyahu respondió: de tierra muy lejana vinieron a mí, de Babilonia.
+
+**4** Dijo entonces: ¿qué han visto en tu casa? Y dijo Hizkiyahu: han visto todo lo que hay en mi casa; nada quedó en mis tesoros que no les mostrase.
+
+**5** Entonces Yeshayahu dijo a Hizkiyahu: oye palabra de YHWH de los ejércitos:
+
+**6** he aquí, vienen días en que todo lo que hay en tu casa, y todo lo que tus padres han atesorado hasta hoy, será llevado a Babilonia; nada quedará, dice YHWH.
+
+**7** Y de tus hijos que saldrán de ti, y habrás engendrado, tomarán, y serán eunucos en el palacio del rey de Babilonia.
+
+**8** Y dijo Hizkiyahu a Yeshayahu: buena es la palabra de YHWH que has hablado. Dijo además: a lo menos, haya paz y verdad en mis días.
+
+## 1QIsaa · Isaías 40
+
+**1** Consolaos, consolaos, pueblo mío, dice vuestro Elohim.
+
+**2** Hablad al corazón de Yerushalaim, y decidle a voces que su tiempo de aflicción ha terminado, que su pecado es perdonado; que ha recibido doble de la mano de YHWH por todos sus pecados.
+
+**3** Voz que clama: preparad en el desierto camino a YHWH; enderezad calzada en la soledad a nuestro Elohim.
+
+**4** Todo valle sea alzado, y bájese todo monte y collado; y lo torcido se enderece, lo áspero se allane.
+
+**5** Y se manifestará la gloria de YHWH, y toda carne juntamente la verá; porque la boca de YHWH lo ha dicho.
+
+**6** Voz que decía: da voces. Y yo respondí: ¿qué tengo que decir a voces? Toda carne es hierba, y toda su gloria como flor del campo.
+
+**7** La hierba se seca, y la flor se marchita, porque el viento de YHWH sopló en ella; ciertamente como hierba es el pueblo.
+
+**8** Sécase la hierba, marchítase la flor; mas la palabra de nuestro Elohim permanece para siempre.
+
+**9** Súbete sobre un monte alto, anunciadora de buenas nuevas a Sión; levanta fuertemente tu voz, anunciadora de buenas nuevas a Yerushalaim; levántala, no temas; di a las ciudades de Yehudá: ¡he aquí vuestro Elohim!
+
+**10** He aquí que el Señor YHWH vendrá con fortaleza, y su brazo dominará; he aquí que su recompensa viene con él, y delante de su faz su obra.
+
+**11** Como pastor apacentará su rebaño; en su brazo llevará los corderos, y en su seno los llevará; pastoreará suavemente a las paridas.
+
+**12** ¿Quién midió las aguas con el hueco de su mano, y aderezó los cielos con su palmo, y contuvo el polvo de la tierra en una medida, y pesó los montes con balanza, y los collados en una pesa?
+
+**13** ¿Quién enseñó al espíritu de YHWH, o quién le aconsejó le hizo entender?
+
+**14** ¿A quién pidió consejo para ser aconsejado? ¿Quién le enseñó camino de juicio, o le enseñó ciencia, o le mostró la senda del entendimiento?
+
+**15** He aquí que las naciones le son como una gota de agua que cae del cántaro, y como menudo polvo en las balanzas; he aquí que hace desaparecer las islas como polvo fino.
+
+**16** Ni el Líbano bastará para el fuego, ni todos sus animales para el holocausto.
+
+**17** Como nada son todas las naciones delante de él; y las cuenta como cosa nula y vana.
+
+**18** ¿A qué, pues, haréis semejante a Elohim, o qué imagen le compondréis?
+
+**19** El artífice funde la imagen, el platero le extiende oro y le funde cadenas de plata.
+
+**20** El pobre escoge, para ofrecerle, madera que no se apolille; se busca un maestro sabio, que le haga una imagen que no se mueva.
+
+**21** ¿No sabéis? ¿No habéis oído? ¿Nunca os lo han dicho desde el principio? ¿No habéis sido enseñados desde que la tierra se fundó?
+
+**22** Él está sentado sobre el círculo de la tierra, cuyos moradores son como langostas; él extiende los cielos como una cortina, los despliega como una tienda para morar.
+
+**23** Él reduce a nada los poderosos, y a los que gobiernan la tierra como algo vano.
+
+**24** Como si nunca hubieran sido plantados, como si nunca hubieran sido sembrados, como si nunca su tronco hubiera echado raíz en tierra; en soplando en ellos, se secan, y el torbellino los lleva como hojarasca.
+
+**25** ¿A qué, pues, me haréis semejante, o a quién seré igual? dice el Santo.
+
+**26** Levantad en alto vuestros ojos, y mirad quién creó estas cosas; él saca y cuenta su ejército; a todas llama por sus nombres; ninguna faltará; tal es la grandeza de su fuerza, y el poder de su dominio.
+
+**27** ¿Por qué dices, oh Yaakov, y hablas tú, Israel: mi camino está escondido de YHWH, y de mi Elohim pasó mi juicio?
+
+**28** ¿No has sabido, no has oído que el Elohim eterno es YHWH, el cual creó los confines de la tierra? No desfallece ni se cansa con cansancio; su entendimiento no hay quien lo alcance.
+
+**29** Él da fuerza al cansado, y multiplica las fuerzas al que no tiene ningunas.
+
+**30** Los muchachos se fatigan y se cansan, los jóvenes flaquean y caen;
+
+**31** pero los que esperan a YHWH tendrán nuevas fuerzas; levantarán alas como águilas; correrán, y no se cansarán; caminarán, y no se fatigarán.
+
 ---
 ---
 
@@ -960,6 +1232,14 @@ A diferencia de Génesis y Éxodo, acá el texto es fragmentario y el hallazgo c
 **42 — ואין מים, en vez de מהם (30:6).** El TM tiene "לביא וליש מהם אפעה" ("león y leona, DE ELLOS víboras" — sintaxis difícil, otra crux reconocida de este pasaje); el rollo tiene "לביא וליש ואין מים אפעה" ("león y leona, Y NO HAY AGUA, víboras") — una lectura que encaja mejor con el contexto inmediato, una descripción de tierra árida y peligrosa ("tierra de aprieto y angustia... sin agua"). E1 el dato de la lectura; E3 si el rollo resuelve aquí una crux real del TM o introduce su propia dificultad, disputa no zanjada por este dato solo.
 
 **43 — ארא למ, dos palabras, en vez de אראלם (33:7).** El TM tiene אֶרְאֶלָּם, una palabra rara (hapax legomenon o cercano a serlo) que los comentaristas discuten sin acuerdo — algunos la leen como "sus valientes", otros como un nombre propio. El rollo divide la misma secuencia de letras en dos palabras distintas, ארא למ, lo que sugiere que ya en la época del rollo el sentido exacto de esta forma no era transparente ni siquiera para sus copistas. E1 el dato de la diferente división; E3 el sentido de fondo de la palabra del TM, crux ya reconocida en la bibliografía, sobre la que este dato es un testimonio adicional, no una solución.
+
+**44 — והעמקים יתבקעו וכול צבא השמים יפולו, en vez de ונמקו כל צבא השמים (34:4).** El TM tiene una sola cláusula: "y se pudrirá todo el ejército de los cielos" (ונמקו כל צבא השמים); el rollo tiene dos cláusulas distintas: "y se hendirán los valles, y caerá todo el ejército de los cielos" (והעמקים יתבקעו וכול צבא השמים יפולו) — una imagen de terremoto cósmico (valles que se abren) ausente del TM, además de un verbo distinto para la caída del ejército celeste (יפולו, "caerán", en vez de ונמקו, "se pudrirán"). E1 el dato del texto adicional; E3 si se trata de una expansión real del rollo o de una tradición textual paralela, disputa no resuelta por este dato solo.
+
+**45 — ליליות, plural, en vez de לילית (34:14).** El TM tiene לִילִית ("Lilit"), forma singular que la tradición judía posterior identificó como nombre propio de un demonio nocturno femenino — una de las escasísimas referencias a esta figura en toda la Biblia hebrea, y la base textual de buena parte de la tradición sobre "Lilith". El rollo tiene ליליות, plural ("espíritus/criaturas de la noche"), sin ninguna referencia a un ser nombrado en singular. Es una de las variantes más discutidas de todo 1QIsaa en relación con la historia de esta tradición. E1 el dato de la lectura; E3 si el rollo conserva aquí una forma más antigua y genérica que el TM habría convertido en nombre propio, o si sucede lo contrario — disputa real y no resuelta, con consecuencias directas para la historia de la tradición sobre "Lilith".
+
+**46 — sin יען התרגזך אלי, "porque te airaste contra mí" (37:29).** El TM tiene esta cláusula completa al comienzo del verso 29, repitiendo casi la misma frase con que termina el verso 28 ("y tu furor/tu enfurecerte contra mí"). El rollo no la tiene: pasa directo de "tu furor contra mí" (fin del v. 28) a "tu arrogancia ha subido a mis oídos" (continuación del v. 29 en el TM). Es el quinto caso, dentro de los capítulos ya decodificados de este rollo, del mismo mecanismo de salto de copista por repetición de una frase muy cercana — cf. notas 13, 17, 32 y 36. E1 el dato de la omisión; D1 la lectura del salto de copista, coherente con el patrón ya bien establecido en este rollo.
+
+**47 — repetición del verso 19 al comienzo del verso 20 (38:19-20).** Caso inverso a los anteriores: en vez de saltarse una frase repetida, el copista del rollo vuelve a copiar, casi palabra por palabra, el contenido completo del verso 19 ("el que vive, el que vive, te dará alabanza... hará notoria tu verdad") al comienzo del verso 20, antes de continuar con lo que en el TM es efectivamente el texto de ese verso ("YHWH me salvará..."). Se marca aquí entre corchetes, no por tratarse de una reconstrucción de texto perdido, sino para señalar visualmente la duplicación real del propio copista antiguo — el mismo tipo de error de copia que en otros puntos de este rollo produce omisiones (notas 13, 17, 32, 36, 46), aquí produce el efecto contrario. E1.
 
 ---
 ---
