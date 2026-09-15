@@ -1,4 +1,4 @@
-# Coding the Bible — Rollos del Mar Muerto (1QIsaa, Isaías 1 a 26)
+# Coding the Bible — Rollos del Mar Muerto (1QIsaa, Isaías 1 a 33)
 
 ### Lectura DIMA — decodificación integral desde el hebreo/arameo original
 
@@ -644,6 +644,230 @@ A diferencia de Génesis y Éxodo, acá el texto es fragmentario y el hallazgo c
 
 **20-21** Anda, pueblo mío, éntrate en tus aposentos, cierra tras ti tus puertas; escóndete un poquito, por un momento, en tanto que pasa la ira. Porque he aquí que YHWH sale de su lugar, para castigar al morador de la tierra por su maldad; y la tierra descubrirá la sangre derramada sobre ella, y no encubrirá más a sus muertos.
 
+## 1QIsaa · Isaías 27
+
+**1** En aquel día YHWH castigará con su espada dura, grande y fuerte, al Leviatán, serpiente veloz, y al Leviatán, serpiente tortuosa; y matará al dragón que está en el mar.
+
+**2-3** En aquel día cantad de la viña del vino escogido. Yo, YHWH, la guardo, cada momento la regaré; la guardaré de noche y de día, para que nadie la dañe.
+
+**4-5** No hay ira en mí. ¿Quién pondrá contra mí espinos y cardos en batalla? Yo los hollaré, los quemaré a una. O que se acoja a mi amparo, y haga paz conmigo; sí, haga paz conmigo.
+
+**6** Días vendrán cuando Yaakov echará raíces, florecerá y echará renuevos Israel, y llenará de fruto la faz del mundo.
+
+**7-8** ¿Acaso los ha herido como hirió él a los que lo herían a él? ¿Acaso ha sido muerto como los que lo mataron a él fueron muertos? Con medida la castigarás en sus vástagos; él remueve con su recio viento en el día del solano.
+
+**9** De esta manera, pues, será perdonada la iniquidad de Yaakov, y este será todo el fruto, la remoción de su pecado: cuando volviere todas las piedras del altar como piedras de cal desmenuzadas, no se levantarán los símbolos de Asera ni las imágenes del sol.
+
+**10** Porque la ciudad fortificada será asolada, la morada será desamparada y dejada como un desierto; allí pacerá el becerro, allí tendrá su majada, y acabará sus ramas.
+
+**11** Cuando sus ramas se sequen, serán quebradas; mujeres vendrán a encenderlas. Porque aquel no es pueblo de entendimiento; por tanto, su Hacedor no tendrá de él piedad, ni el que lo formó tendrá de él misericordia.
+
+**12** Acontecerá también en aquel día, que trillará YHWH desde el río Éufrates hasta el torrente de Egipto, y vosotros, hijos de Israel, seréis reunidos uno a uno.
+
+**13** Acontecerá también en aquel día, que se tocará con gran trompeta, y vendrán los que habían sido esparcidos en la tierra de Asiria, y los que habían sido desterrados en tierra de Egipto, y adorarán a YHWH en el monte santo, en Yerushalaim.
+
+## 1QIsaa · Isaías 28
+
+**1** ¡Ay de la corona de soberbia de los ebrios de Efraín, y de la flor caduca de su hermosa gloria, que está sobre la cumbre de un valle fértil de los aturdidos por el vino!
+
+**2** He aquí que con fuerza y con poder pertenece a YHWH⁴⁰, como turbión de granizo, tempestad destructora, como turbión de recias aguas que inundan, con fuerza a tierra las echará.
+
+**3** Con los pies será hollada la corona de la soberbia de los ebrios de Efraín.
+
+**4** Y será la flor caduca de su hermosa gloria, que está sobre la cumbre del valle fértil, como la fruta temprana antes del verano, la cual, en viéndola el que la mira, se la traga tan pronto como la tiene en la mano.
+
+**5-6** En aquel día YHWH de los ejércitos será por corona de gloria y diadema de hermosura al remanente de su pueblo; y por espíritu de juicio al que se sentare para juzgar, y por fuerzas a los que hagan tornar la batalla hasta la puerta.
+
+**7-8** Pero también estos erraron con el vino, y con la sidra se entontecieron; sacerdote y profeta erraron con sidra, fueron trastornados del vino; se entontecieron con la sidra, erraron en la visión, tropezaron en el juicio. Porque todas las mesas están llenas de vómito y suciedad, hasta no haber lugar limpio.
+
+**9** ¿A quién se enseñará ciencia, o a quién se hará entender doctrina? A los destetados de la leche, a los arrancados de los pechos.
+
+**10** Porque mandamiento tras mandamiento, mandamiento tras mandamiento, renglón tras renglón, renglón tras renglón, un poquito allí, otro poquito allá;
+
+**11-12** porque en lengua de tartamudos, y en extraña lengua hablará a este pueblo, al cual se dijo: este es el reposo; dad reposo al cansado; y este es el refrigerio; y no quisieron oír.
+
+**13** La palabra, pues, de YHWH les será mandamiento tras mandamiento, mandamiento tras mandamiento, renglón tras renglón, renglón tras renglón, un poquito allí, otro poquito allá; para que vayan y caigan de espaldas, y sean quebrantados, y enlazados, y presos.
+
+**14** Por tanto, varones burladores, que gobernáis a este pueblo que está en Yerushalaim, oíd la palabra de YHWH.
+
+**15** Porque habéis dicho: hicimos pacto con la muerte, y con el seol hicimos convenio; cuando pase el turbión del azote, no llegará a nosotros, porque hemos puesto en la mentira nuestro refugio, y en la falsedad nos hemos escondido.
+
+**16** Por tanto, el Señor YHWH dice así: he aquí que yo he puesto en Sión por fundamento una piedra, piedra probada, angular, preciosa, de cimiento estable; el que creyere, no se apresurará.
+
+**17** Y ajustaré el juicio a cordel, y a nivel la justicia; y granizo barrerá el refugio de la mentira, y aguas arrollarán el escondrijo.
+
+**18** Y será anulado vuestro pacto con la muerte, y vuestro convenio con el seol no será firme; cuando pasare el turbión del azote, seréis de él hollados.
+
+**19** Luego que comenzare a pasar, él os arrebatará; porque de mañana en mañana pasará, de día y de noche; y ciertamente el entender solo la noticia será terror.
+
+**20** Porque la cama es tan angosta que no basta para estirarse, y la manta estrecha para envolverse.
+
+**21** Porque YHWH se levantará como en el monte de Perazim, se enojará como en el valle de Gabaón, para hacer su obra, su extraña obra, y para hacer su operación, su extraña operación.
+
+**22** Ahora, pues, no os burléis, para que no se aprieten más vuestras ataduras; porque destrucción ya determinada he oído de YHWH de los ejércitos⁴⁰ sobre toda la tierra.
+
+**23-24** Estad atentos, y oíd mi voz; atended, y oíd mi dicho. El que ara para sembrar, ¿arará todo el día? ¿Andará abriendo y rompiendo los terrones de la tierra?
+
+**25** Después que hubiere igualado su superficie, ¿no derrama el eneldo, siembra el comino, pone el trigo en hileras, y la cebada en su lugar señalado, y la avena en su borde?
+
+**26** Porque su Elohim le instruye, y le enseña lo recto.
+
+**27-28** Que el eneldo no se trilla con trillo, ni sobre el comino se pasa rueda de carreta; sino que con un palo se sacude el eneldo, y el comino con una vara. El grano se trilla; pero no se trilla siempre, ni se cansa con moverlo el rodezno del carro, ni lo quebrantan las herraduras.
+
+**29** También esto salió de YHWH de los ejércitos, para hacer maravilloso el consejo y engrandecer la sabiduría.
+
+## 1QIsaa · Isaías 29
+
+**1-2** ¡Ay de Ariel, Ariel, ciudad donde acampó David! Añadid año a año; las fiestas solemnes tendrán su curso. Mas yo pondré a Ariel en apretura, y será a modo de llanto y de lamento, y será a mí como Ariel.
+
+**3-4** Porque acamparé contra ti alrededor, y te combatiré con ingenios, y levantaré contra ti baluartes. Entonces serás humillada, hablarás desde la tierra, y tu habla saldrá del polvo; y será tu voz de la tierra como la de un espíritu de los muertos, y tu habla susurrará desde el polvo.
+
+**5-6** Y la multitud de tus extraños será como polvo menudo, y la de los fuertes como tamo que pasa; y esto será repentinamente, en un momento. De parte de YHWH de los ejércitos serás visitada con truenos, terremotos y grandes ruidos, torbellinos y tempestad, y llama de fuego consumidor.
+
+**7-8** Y como sueño de visión nocturna será la multitud de todas las naciones que pelean contra Ariel, y todos los que la combaten a ella y a su fortaleza, y quienes la ponen en apretura. Y será como el que tiene hambre y sueña, y le parece que come, mas cuando despierta, su alma está vacía; y como el que tiene sed y sueña, y le parece que bebe, mas cuando despierta, se halla cansado, y su alma sedienta; así será la multitud de todas las naciones que pelean contra el monte de Sión.
+
+**9-10** Deteneos y maravillaos; ofuscaos y cegaos; embriagaos, y no de vino; tambalead, y no de sidra. Porque YHWH derramó sobre vosotros espíritu de sueño profundo, y cerró vuestros ojos; cubrió a los profetas y a vuestros príncipes, los videntes.
+
+**11-12** Y os será toda visión como palabras de libro sellado, el cual si dieren al que sabe leer, y le dijeren: lee ahora esto; él dirá: no puedo, porque está sellado. Y se dará el libro al que no sabe leer, diciéndole: lee ahora esto; y dirá: no sé leer.
+
+**13** Dice, pues, el Señor: porque este pueblo se acerca a mí con su boca, y con sus labios me honra, mas su corazón está lejos de mí, y su temor de mí no es más que un mandamiento de hombres que les ha sido enseñado;
+
+**14** por tanto, he aquí que nuevamente excitaré yo la admiración de este pueblo con un prodigio grande y espantoso; porque perecerá la sabiduría de sus sabios, y se desvanecerá la inteligencia de sus entendidos.
+
+**15** ¡Ay de los que se esconden de YHWH, encubriendo el consejo, y sus obras están en tinieblas, y dicen: ¿quién nos ve, y quién nos conoce?
+
+**16** Vuestra perversidad ciertamente será reputada como el barro del alfarero. ¿Acaso la obra dirá de su hacedor: no me hizo? ¿Dirá el barro a quien lo formó⁴¹: no entendió?
+
+**17** ¿No se convertirá de aquí a muy poco tiempo el Líbano en Carmelo fructífero, y el Carmelo será estimado por bosque?
+
+**18** En aquel tiempo los sordos oirán las palabras del libro, y los ojos de los ciegos verán en medio de la oscuridad y de las tinieblas.
+
+**19-20** Entonces los humildes crecerán en alegría en YHWH, y los pobres de los hombres se gozarán en el Santo de Israel. Porque el violento será acabado, y el escarnecedor será consumido; serán talados todos los que se desvelan para hacer iniquidad,
+
+**21** los que hacen pecar al hombre en el juicio, y arman lazo al que reprende en la puerta, y hacen sin causa agraviar al justo.
+
+**22-23** Por tanto, YHWH, que redimió a Avraham, dice así a la casa de Yaakov: no será avergonzado ahora Yaakov, ni su rostro empalidecerá ahora; porque cuando él vea entre sus hijos la obra de mis manos en medio de sí, santificarán mi nombre; santificarán al Santo de Yaakov, y temerán al Elohim de Israel.
+
+**24** Y los extraviados de espíritu aprenderán inteligencia, y los murmuradores aprenderán doctrina.
+
+## 1QIsaa · Isaías 30
+
+**1** ¡Ay de los hijos que se apartan, dice YHWH, para tomar consejo, y no de mí; para cobijarse con cubierta, y no de mi espíritu, añadiendo pecado a pecado!
+
+**2-3** Se apartan para descender a Egipto, y no han preguntado mi boca, para fortalecerse con la fuerza de Faraón, y poner su esperanza en la sombra de Egipto. Mas la fuerza de Faraón se os cambiará en vergüenza, y el amparo en la sombra de Egipto en confusión.
+
+**4-5** Cuando estén sus príncipes en Tzoán, y sus embajadores lleguen a Hanés, todos se avergonzarán del pueblo que no les aprovecha, ni los socorre, ni les trae provecho alguno, antes les será para vergüenza y aun para oprobio.
+
+**6-7** Profecía sobre las bestias del Négev: por tierra de tribulación y de angustia, de donde salen la leona y el león, la víbora y la serpiente que vuela, sin agua⁴², llevan sobre lomos de asnos su riqueza, y sus tesoros sobre jorobas de camellos, a un pueblo que no les será de provecho. Ciertamente Egipto ayudará en vano y sin provecho; por tanto, yo le doy voces, diciendo: fuerza es estarse quieto.
+
+**8** Ve, pues, ahora, y escríbelo delante de ellos en una tabla, y regístralo en un libro, para que quede hasta el día postrero, para siempre por todos los siglos.
+
+**9-10** Porque este pueblo es rebelde, hijos mentirosos, hijos que no quisieron oír la ley de YHWH; que dicen a los videntes: no veáis; y a los profetas: no nos profeticéis lo recto, decidnos cosas halagüeñas, profetizad mentiras;
+
+**11-12** dejad el camino, apartaos de la senda, quitad de nuestra presencia al Santo de Israel. Por tanto, el Santo de Israel dice así: porque desechasteis esta palabra, y confiasteis en violencia y en iniquidad, y en ello os habéis apoyado,
+
+**13-14** por tanto, os será este pecado como grieta que amenaza ruina, extendiéndose en un muro alto, cuyo quebrantamiento viene súbito, de repente. Y se quebrantará como se quiebra un vaso de alfarero, que sin misericordia lo hacen pedazos; tanto, que entre los pedazos no se halla un tiesto para traer fuego del hogar, o para sacar agua del pozo.
+
+**15** Porque así dijo el Señor YHWH, el Santo de Israel: en descanso y en reposo seréis salvos; en quietud y en confianza será vuestra fortaleza. Y no quisisteis,
+
+**16-17** sino que dijisteis: no, antes huiremos en caballos; por tanto, vosotros huiréis. Sobre corceles veloces cabalgaremos; por tanto, serán veloces vuestros perseguidores. Mil huiréis a la amenaza de uno; a la amenaza de cinco huiréis todos, hasta que quedéis como mástil en la cumbre de un monte, y como bandera sobre una colina.
+
+**18** Por tanto, YHWH esperará para tener piedad de vosotros, y por tanto, será exaltado teniendo de vosotros misericordia; porque YHWH es Elohim justo; bienaventurados todos los que confían en él.
+
+**19** Ciertamente el pueblo morará en Sión, y en Yerushalaim llorará; no llorará más; ciertamente se apiadará de ti a la voz de tu clamor; en oyéndola te responderá.
+
+**20-21** Aunque el Señor os dará pan de angustia y agua de aflicción, con todo, tus maestros nunca más te serán quitados de delante, sino que tus ojos verán a tus maestros. Y tus oídos oirán detrás de ti la palabra que diga: este es el camino, andad por él, sin apartaros ni a diestra ni a siniestra.
+
+**22** Entonces contaminarás la cobertura de tus imágenes de plata, y el vestido de tus becerros de fundición de oro; los apartarás como trapo de inmundicia; les dirás: ¡fuera de aquí!
+
+**23-24** Entonces dará el Señor lluvia a tu sementera, cuando sembrares la tierra, y dará pan de los frutos de la tierra; será abundante y de gran producción. En aquel tiempo tus ganados serán apacentados en espaciosas dehesas. Los bueyes y los asnos que labran la tierra comerán grano sazonado, aventado con pala y bieldo.
+
+**25** Y sobre todo monte alto, y sobre todo collado elevado, habrá ríos y corrientes de aguas, el día de la gran matanza, cuando caerán las torres.
+
+**26** Y la luz de la luna será como la luz del sol, y la luz del sol siete veces mayor, como la luz de siete días, el día que vendare YHWH la herida de su pueblo, y curare la llaga que él causó.
+
+**27-28** He aquí que el nombre de YHWH viene de lejos; su ira se enciende, y toda ella es carga que ha de soportarse; sus labios están llenos de ira, y su lengua como fuego que consume. Su aliento, cual torrente que inunda; llegará hasta el cuello, para zarandear a las naciones con criba de destrucción; y un freno estará en las quijadas de los pueblos, haciéndolos errar.
+
+**29** Vosotros tendréis cántico, como en la noche en que se celebra la fiesta, y alegría de corazón, como el que va con flauta para venir al monte de YHWH, al Fuerte de Israel.
+
+**30** Y hará oír YHWH la gloria de su voz, y hará ver el descenso de su brazo, con furor de rostro, y llama de fuego consumidor; con dispersión, tempestad, y piedra de granizo.
+
+**31-32** Porque Asiria, que hirió con vara, con la voz de YHWH será quebrantada. Y todo golpe de vara de castigo, que asiente YHWH sobre él, será con panderos y con arpas; y en batallas de conmoción luchará con ella.
+
+**33** Porque Tofet ya de tiempo está dispuesta y aparejada para el rey; la hizo profunda y ancha; la pira de ella es fuego y mucha leña; el soplo de YHWH, como torrente de azufre, la enciende.
+
+## 1QIsaa · Isaías 31
+
+**1** ¡Ay de los que descienden a Egipto por ayuda, y confían en caballos, y ponen su esperanza en carros, porque son muchos, y en gente de a caballo, porque son fuertes, y no miran al Santo de Israel, ni buscan a YHWH!
+
+**2** Mas él también es sabio, y traerá el mal, y no retirará sus palabras. Se levantará, pues, contra la casa de los malignos, y contra el auxilio de los que obran iniquidad.
+
+**3** Y los egipcios hombres son, y no Elohim; y sus caballos, carne, y no espíritu; de manera que en extendiendo YHWH su mano, caerá el que ayuda, y caerá el que es ayudado, y todos ellos desfallecerán a una.
+
+**4** Porque YHWH me dijo así: como el león, como el cachorro de león ruge sobre la presa, y aunque se reúna contra él multitud de pastores, no se atemoriza por sus voces, ni se acobarda por el tropel de ellos; así YHWH de los ejércitos descenderá a pelear sobre el monte de Sión, y sobre su collado.
+
+**5** Como las aves que vuelan, así amparará YHWH de los ejércitos a Yerushalaim, amparando, librando, pasando y preservando.
+
+**6** Convertíos a aquel contra quien los hijos de Israel se han rebelado tan hondamente.
+
+**7** Porque aquel día arrojará el hombre sus ídolos de plata y sus ídolos de oro, que os hicieron para pecar vuestras manos.
+
+**8-9** Y caerá Asiria por espada no de varón, y espada no de hombre lo consumirá; y huirá él ante la espada, y sus jóvenes serán tributarios. Y su fortaleza dejará el terror, y sus príncipes tendrán espanto de la bandera, dice YHWH, cuyo fuego está en Sión, y su horno en Yerushalaim.
+
+## 1QIsaa · Isaías 32
+
+**1-2** He aquí que para justicia reinará un rey, y príncipes presidirán en juicio. Y será aquel varón como escondedero contra el viento, y como refugio contra el turbión; como arroyos de aguas en tierra de sequedad, como sombra de gran peñasco en tierra calurosa.
+
+**3-4** No se ofuscarán entonces los ojos de los que ven, y los oídos de los oyentes escucharán atentos. Y el corazón de los necios entenderá para saber, y la lengua de los tartamudos será desenvuelta para hablar claramente.
+
+**5-6** El ruin nunca más será llamado noble, ni el tramposo será llamado generoso. Porque el ruin hablará ruindades, y su corazón fabricará iniquidad, para hacer maldad y para hablar escarnio contra YHWH, dejando vacía el alma hambrienta, y quitando la bebida al sediento.
+
+**7-8** Cierto el tramposo, sus armas son malas; trama intrigas para enredar a los pobres con palabras mentirosas, y a los menesterosos cuando hablan derecho. Mas el noble pensará liberalidades, y por liberalidades subirá.
+
+**9-10** Mujeres indolentes, levantaos, oíd mi voz; hijas confiadas, escuchad mi razón. Días y años tendréis espanto, oh confiadas; porque la vendimia faltará, y no llegará la cosecha.
+
+**11-12** Temblad, indolentes; turbaos, confiadas; despojaos, desnudaos, ceñid los lomos con cilicio. Golpeando los pechos lamentarán por los campos deleitosos, por la vid fructífera.
+
+**13-14** Sobre la tierra de mi pueblo subirán espinos y cardos; y aun sobre todas las casas de placer en la ciudad de alegría. Porque el palacio será desamparado, la multitud de la ciudad cesará; la torre y atalaya se convertirán en cuevas para siempre, donde huelguen asnos monteses, y ganados hagan pasto;
+
+**15-16** hasta que sobre nosotros sea derramado espíritu de lo alto, y el desierto se convierta en campo fértil, y el campo fértil sea estimado por bosque. Y habitará el juicio en el desierto, y en el campo fértil morará la justicia.
+
+**17-18** Y el efecto de la justicia será paz; y la labor de la justicia, reposo y seguridad para siempre. Y mi pueblo habitará en morada de paz, y en habitaciones seguras, y en recreos de reposo.
+
+**19-20** Y granizará descendiendo el bosque, y la ciudad será abatida en gran manera. Bienaventurados vosotros los que sembráis junto a todas las aguas, y dejáis andar libremente el pie del buey y del asno.
+
+## 1QIsaa · Isaías 33
+
+**1** ¡Ay de ti, que saqueas, y nunca fuiste saqueado; que haces deslealtad, bien que nadie contra ti la hizo! Cuando acabes de saquear, serás tú saqueado; y cuando acabes de hacer deslealtad, se hará ella contra ti.
+
+**2** Oh YHWH, ten misericordia de nosotros, a ti hemos esperado; sé tú nuestro brazo cada mañana, y nuestra salud en tiempo de la tribulación.
+
+**3-4** Los pueblos huyeron al estruendo del tumulto; las naciones fueron esparcidas al levantarte tú. Vuestros despojos serán recogidos como cuando recogen orugas; correrá sobre ellos como corren de una parte a otra las langostas.
+
+**5-6** Será exaltado YHWH, el cual mora en las alturas; llenó a Sión de juicio y de justicia. Y reinará la firmeza de tus tiempos, fortaleza de salvación, sabiduría y ciencia; el temor de YHWH será su tesoro.
+
+**7-8** He aquí que sus valientes⁴³ darán voces afuera; los mensajeros de paz llorarán amargamente. Las calzadas están deshechas, cesaron los caminantes; anulado ha sido el pacto, aborreció las ciudades, tuvo en nada a los hombres.
+
+**9** Se enlutó, enfermó la tierra; el Líbano se avergonzó, y fue cortado; Sarón ha venido a ser como desierto; y Basán y Carmelo fueron sacudidos.
+
+**10** Ahora me levantaré, dice YHWH; ahora seré exaltado, ahora seré engrandecido.
+
+**11-12** Concebisteis hojarascas, daréis a luz rastrojo; el fuego de vuestro aliento os consumirá. Y los pueblos serán como cal quemada; como espinos cortados serán quemados con fuego.
+
+**13-14** Oíd, los que estáis lejos, lo que he hecho; y vosotros los cercanos, conoced mi poder. Los pecadores en Sión están asombrados; espanto sobrecogió a los hipócritas. ¿Quién de nosotros morará con el fuego consumidor? ¿Quién de nosotros habitará con las llamas eternas?
+
+**15-16** El que camina en justicia, y habla lo recto; el que aborrece la ganancia de violencias; el que sacude sus manos por no recibir cohecho; el que tapa sus oídos por no oír propuestas sanguinarias; el que cierra sus ojos por no ver cosa mala. Este habitará en las alturas; fortaleza de rocas será su lugar de refugio; se le dará su pan, sus aguas serán seguras.
+
+**17-18** Tus ojos verán al rey en su hermosura; verán la tierra que está lejos. Tu corazón meditará en el espanto, diciendo: ¿qué es del escriba? ¿Qué del pesador de tributos? ¿Qué del que pone en lista las casas más insignes?
+
+**19-20** No verás a aquel pueblo orgulloso, pueblo de lengua difícil de entender, de lengua tartamuda que no comprendas. Mira a Sión, ciudad de nuestras fiestas solemnes; tus ojos verán a Yerushalaim, morada de quietud, tienda que no será desarmada, ni serán arrancadas sus estacas, ni ninguna de sus cuerdas será rota.
+
+**21-22** Porque ciertamente allí será YHWH fuerte para con nosotros, lugar de ríos, de arroyos muy anchos, por el cual no andará galera de remos, ni por él pasará gran nave. Porque YHWH es nuestro juez, YHWH es nuestro legislador, YHWH es nuestro rey; él mismo nos salvará.
+
+**23** Tus cuerdas se aflojaron; no afirmaron su mástil, ni entesaron la vela; se repartirá entonces botín de muchos despojos; los cojos arrebatarán presa.
+
+**24** No dirá el morador: estoy enfermo; al pueblo que morare en ella le será perdonada la iniquidad.
+
 ---
 ---
 
@@ -728,6 +952,14 @@ A diferencia de Génesis y Éxodo, acá el texto es fragmentario y el hallazgo c
 **38 — יהוה אלוהינו, con el nombre divino añadido (25:9).** El TM tiene simplemente "הִנֵּה אֱלֹהֵינוּ זֶה" ("he aquí, nuestro Elohim, este es"); el rollo agrega el nombre divino antes: "הנה יהוה אלוהינו זה" ("he aquí, YHWH nuestro Elohim, este es"). Adición real de una palabra que hace explícito lo que en el TM queda implícito bajo el título genérico "Elohim". E1.
 
 **39 — sin בטוח, "confía" (26:3).** El TM tiene "יֵצֶר סָמוּךְ תִּצֹּר שָׁלוֹם שָׁלוֹם כִּי בְךָ בָּטוּחַ" ("al de firme propósito guardarás en perfecta paz, porque en ti CONFÍA"); el rollo termina el verso en "כי בכה" ("porque en ti"), sin el verbo final "confía" — una omisión real de una palabra en uno de los versos más citados de todo el libro, que deja la cláusula sin su predicado explícito. E1.
+
+**40 — ליהוה, en vez de לאדני, y sin אדני, dos casos más en el mismo capítulo (28:2, 28:22).** En 28:2, el TM tiene "חזק ואמץ לאדני" ("fuerte y poderoso, para mi Señor"); el rollo tiene "בחזק ואמץ ליהוה" ("con fuerza y poder, para YHWH") — el nombre divino en vez del título. En 28:22, el TM tiene "שמעתי מאת אדני יהוה צבאות" ("lo he oído de mi Señor, YHWH de los ejércitos"); el rollo tiene solo "שמעתי מאת יהוה צבאות" ("lo he oído de YHWH de los ejércitos"), sin אדני. Es ya el tercer capítulo, dentro de los ya decodificados, donde el rollo altera de algún modo la combinación entre el nombre divino יהוה y el título אדני — cf. notas 22 (7:14) y 35 (21:16). E1 el dato de ambas lecturas; D1 la lectura de que se trata de un patrón real en la transmisión de este rollo, no de casos aislados.
+
+**41 — חמר, en vez de אמר (29:16).** El TM tiene "וְיֵצֶר אָמַר לְיוֹצְרוֹ" ("¿o dirá lo formado a quien lo formó?" — el verbo אמר, "decir"); el rollo tiene "ויצר חמר ליוצריו" ("¿o dirá el barro, lo formado, a su formador?" — sustituyendo por חמר, "barro/arcilla", la misma palabra ya usada unas líneas antes en la comparación con el alfarero). E1 el dato de la sustitución; E3 si se trata de una variante real que refuerza la imagen del barro ya presente en el verso, o de una confusión gráfica entre letras guturales parecidas — ambigüedad no resuelta por el dato aislado.
+
+**42 — ואין מים, en vez de מהם (30:6).** El TM tiene "לביא וליש מהם אפעה" ("león y leona, DE ELLOS víboras" — sintaxis difícil, otra crux reconocida de este pasaje); el rollo tiene "לביא וליש ואין מים אפעה" ("león y leona, Y NO HAY AGUA, víboras") — una lectura que encaja mejor con el contexto inmediato, una descripción de tierra árida y peligrosa ("tierra de aprieto y angustia... sin agua"). E1 el dato de la lectura; E3 si el rollo resuelve aquí una crux real del TM o introduce su propia dificultad, disputa no zanjada por este dato solo.
+
+**43 — ארא למ, dos palabras, en vez de אראלם (33:7).** El TM tiene אֶרְאֶלָּם, una palabra rara (hapax legomenon o cercano a serlo) que los comentaristas discuten sin acuerdo — algunos la leen como "sus valientes", otros como un nombre propio. El rollo divide la misma secuencia de letras en dos palabras distintas, ארא למ, lo que sugiere que ya en la época del rollo el sentido exacto de esta forma no era transparente ni siquiera para sus copistas. E1 el dato de la diferente división; E3 el sentido de fondo de la palabra del TM, crux ya reconocida en la bibliografía, sobre la que este dato es un testimonio adicional, no una solución.
 
 ---
 ---
