@@ -1,4 +1,4 @@
-# Coding the Bible — Rollos del Mar Muerto (1QIsaa, Isaías 1 a 20)
+# Coding the Bible — Rollos del Mar Muerto (1QIsaa, Isaías 1 a 26)
 
 ### Lectura DIMA — decodificación integral desde el hebreo/arameo original
 
@@ -496,6 +496,154 @@ A diferencia de Génesis y Éxodo, acá el texto es fragmentario y el hallazgo c
 
 **5-6** Y se turbarán y avergonzarán de Cus su esperanza, y de Egipto su gloria. Y dirá en aquel día el morador de esta costa: mirad qué tal fue nuestra esperanza, cuyo socorro buscamos para librarnos de la presencia del rey de Asiria; ¿cómo, pues, escaparemos nosotros?
 
+## 1QIsaa · Isaías 21
+
+**1** Profecía sobre el desierto del mar. Como tempestades que pasan por el Néguev, así viene del desierto, de la tierra terrible.
+
+**2-4** Visión dura me ha sido mostrada: el traidor traiciona, y el destructor destruye. Sube, Elam; sitia, Media; todo su gemido hice cesar. Por tanto, mis lomos se han llenado de dolor; angustias se apoderaron de mí, como angustias de mujer de parto; me agobié oyendo, y al ver me he espantado. Se pasmó mi corazón, el terror me ha intimidado; la noche de mi deseo se me volvió en espanto.
+
+**5** Ponen la mesa, extienden el tapiz; comen, beben. ¡Levantaos, príncipes, ungid el escudo!
+
+**6-7** Porque el Señor me dijo así: ve, pon centinela que vea y dé aviso. Y vio un carro, un par de jinetes, un carro de asno, y un carro de camello; y miró más atentamente, con gran cuidado.
+
+**8** Y el vidente³⁴ gritó: sobre la atalaya, Señor mío, estoy yo continuamente de día, y las noches enteras sobre mi guarda.
+
+**9** Y he aquí que viene un hombre en un carro con un par de jinetes. Después dio voces, y dijo: cayó, cayó Babilonia; y todos los ídolos de sus dioses quebrantó en tierra.
+
+**10** Trilla mía, y grano de mi era, os he dicho lo que oí de YHWH de los ejércitos, Elohim de Israel.
+
+**11-12** Profecía sobre Dumá. Me dan voces de Seír: guarda, ¿qué de la noche? Guarda, ¿qué de la noche? El guarda respondió: la mañana viene, y después la noche; preguntad si queréis, volved a venir.
+
+**13-14** Profecía sobre Arabia. En el bosque pasaréis la noche, caravanas de dedanitas. Salid a encontrar al sediento; llevadle agua, moradores de tierra de Temá; salid a encontrar al que huye, con pan.
+
+**15** Porque huyen de la presencia de las espadas, de la presencia de la espada desnuda, de la presencia del arco entesado, de la presencia del peso de la batalla.
+
+**16-17** Porque así me ha dicho YHWH: de aquí a tres años³⁵, como años de jornalero, se acabará toda la gloria de Kedar. Y las reliquias del número de los arqueros, fuertes de los hijos de Kedar, serán disminuidas; porque YHWH, Elohim de Israel, lo ha dicho.
+
+## 1QIsaa · Isaías 22
+
+**1-2** Profecía sobre el valle de la Visión. ¿Qué tienes ahora, que has subido toda sobre los terrados? Tú, llena de alborotos, ciudad bulliciosa, ciudad alegre; tus muertos no son muertos a espada, ni muertos en guerra.
+
+**3-4** Todos tus príncipes juntos huyeron de la ceñida ballesta, fueron atados; todos los que en ti se hallaron, fueron atados juntamente, aunque habían huido lejos. Por esto dije: dejadme, lloraré amargamente; no os afanéis por consolarme de la destrucción de la hija de mi pueblo.
+
+**5-6** Porque día de alboroto, y de angustia, y de confusión, dispuso el Señor, YHWH de los ejércitos, en el valle de la Visión; días de derribar el muro, y de clamor hacia el monte. Y Elam tomó aljaba, con carros de infantería y de gente de a caballo; y Kir descubrió los escudos.
+
+**7-8** Y fue lo más selecto de tus valles ocupado de carros, y las gentes de a caballo se pusieron en orden junto a la puerta. Y desnudó a Yehudá la cubierta; y miraste en aquel día hacia la armería de la casa del bosque.
+
+**9-11** Y visteis las brechas de la ciudad de David, que se multiplicaron; y recogisteis las aguas del estanque de abajo. Y contasteis las casas de Yerushalaim, y derribasteis casas para fortificar el muro. E hicisteis foso entre los dos muros para las aguas del estanque viejo; y no tuvisteis respeto al que la hizo, ni mirasteis desde lejos al que la labró.
+
+**12-13** Por tanto, el Señor, YHWH de los ejércitos, llamará en aquel día a llanto y a endechas, a raer cabeza y a vestir cilicio. Y he aquí gozo y alegría, matando vacas y degollando ovejas, comiendo carne y bebiendo vino, diciendo: comamos y bebamos, porque mañana moriremos.
+
+**14** Esto fue revelado a mis oídos por YHWH de los ejércitos: que este pecado no os será perdonado hasta que muráis, dice el Señor, YHWH de los ejércitos.
+
+**15-16** YHWH de los ejércitos dice así: ve, entra a este tesorero, a Shevná el mayordomo, y dile: ¿qué tienes tú aquí, o a quién tienes aquí, que labraste aquí sepulcro para ti, como el que en lugar alto labra su sepultura, o el que en la peña labra para sí morada?
+
+**17-18** He aquí que YHWH te transportará en transporte de varón esforzado, y de cierto te ha de trastornar. Te llevará rodando con ímpetu, como a bola, a tierra de anchas dimensiones; allá morirás, y allá estarán los carros de tu gloria, oh vergüenza de la casa de tu señor.
+
+**19-21** Y te arrojaré de tu lugar, y de tu puesto te derribaré. Y será que en aquel día llamaré a mi siervo Elyakim hijo de Hilkiyahu; y le vestiré de tu túnica, y le ceñiré tu talabarte, y entregaré en su mano tu potestad; y será padre al morador de Yerushalaim, y a la casa de Yehudá.
+
+**22-23** Y pondré la llave de la casa de David sobre su hombro; y abrirá, y nadie cerrará; cerrará, y nadie abrirá. Y le hincaré como clavo en lugar firme, y será por asiento de honra a la casa de su padre.
+
+**24-25** Y colgarán de él toda la honra de la casa de su padre, hijos y nietos, todos los vasos, desde los vasos de beber hasta todos los instrumentos de música. En aquel día, dice YHWH de los ejércitos, el clavo hincado en lugar firme será quitado; será quebrado y caerá; y la carga que sobre él se puso, se echará a perder; porque YHWH habló.
+
+## 1QIsaa · Isaías 23
+
+**1-2** Profecía sobre Tiro. Aullad, naves de Tarsis, porque destruida es hasta no quedar casa, ni entrada; desde la tierra de Kitim les es revelado. Callad, moradores de la costa, mercader de Sidón, que pasando el mar te abastecía.
+
+**3-4** Su provisión era de las sementeras que crecen con las muchas aguas del Nilo, de la mies del río; fue también feria de las naciones. Avergüénzate, Sidón, porque el mar dijo, la fortaleza del mar, diciendo: nunca estuve de parto, ni di a luz, ni crié jóvenes, ni levanté vírgenes.
+
+**5-6** Cuando llegue la noticia a Egipto, tendrán dolor de las nuevas de Tiro. Pasaos a Tarsis; aullad, moradores de la costa.
+
+**7-8** ¿Es esta vuestra ciudad alegre, cuyo origen es de tiempo antiguo? Sus pies la llevarán a peregrinar lejos. ¿Quién decretó esto sobre Tiro la coronada, cuyos negociantes eran príncipes, cuyos mercaderes eran los nobles de la tierra?
+
+**9-10** YHWH de los ejércitos lo decretó, para envilecer la soberbia de toda gloria, y para abatir todos los ilustres de la tierra. Pasa cual río de tu tierra, oh hija de Tarsis; no hay ya sujeción.
+
+**11-12** Extendió su mano sobre el mar, hizo temblar los reinos; YHWH mandó sobre Canaán que sus fuerzas sean destruidas. Y dijo: no te alegrarás más, oh oprimida virgen hija de Sidón. Levántate para pasar a Kitim; y aun allí no tendrás reposo.
+
+**13** He aquí la tierra de los caldeos; este pueblo no era, Asiria lo fundó para los moradores del desierto; levantaron sus fortalezas, edificaron sus palacios; él la convirtió en ruinas.
+
+**14-15** Aullad, naves de Tarsis, porque destruida es vuestra fortaleza. Y acontecerá en aquel día, que Tiro será entregada al olvido³⁶, y al fin será como canción de ramera.
+
+**16-17** Toma arpa, rodea la ciudad, ramera olvidada; haz buena melodía, canta muchas canciones, para que seas recordada. Y acontecerá que al fin de setenta años visitará YHWH a Tiro; y volverá a su ganancia de ramera, y otra vez fornicará con todos los reinos del mundo sobre la faz de la tierra.
+
+**18** Y sus negocios y ganancias serán consagrados a YHWH; no se guardarán ni se atesorarán, porque su comercio será para los que estuvieren delante de YHWH, para que coman hasta saciarse, y vistan espléndidamente.
+
+## 1QIsaa · Isaías 24
+
+**1** He aquí que YHWH vacía la tierra, y la desnuda, y trastorna su faz, y hace esparcir sus moradores.
+
+**2** Y será como el pueblo, así el sacerdote; como el siervo, así su señor; como la criada, así su señora; como el que compra, así el que vende; como el que presta, así el que toma prestado; como el que da a logro, así el que lo recibe.
+
+**3** Del todo será vaciada la tierra, y enteramente saqueada; porque YHWH ha pronunciado esta palabra.
+
+**4-5** Se enlutó, se marchitó la tierra; se enlutó, se marchitó el mundo; enfermó la altivez del pueblo de la tierra. Y la tierra se contaminó bajo sus moradores; porque traspasaron las leyes, falsearon el derecho, quebrantaron el pacto sempiterno.
+
+**6** Por esto la maldición devoró la tierra, y sus moradores quedaron desolados³⁷; por eso fueron consumidos los habitantes de la tierra, y quedaron muy pocos hombres.
+
+**7-8** Se perdió el vino, languideció la vid, gimieron todos los alegres de corazón. Cesó el regocijo de los panderos; se acabó el estruendo de los que se alegran; paró la alegría del arpa.
+
+**9-10** No beberán vino con cantar; la sidra será amarga a los que la bebieren. Quebrantada está la ciudad de la vanidad; toda casa se ha cerrado, para que no entre nadie.
+
+**11-12** Hay clamores por falta de vino en las calles; todo gozo se oscureció, se desterró la alegría de la tierra. La ciudad quedó desolada, la puerta fue derribada en ruinas.
+
+**13** Porque así será en medio de la tierra, en medio de los pueblos, como olivo sacudido, como rebuscos cuando han acabado la vendimia.
+
+**14-15** Estos alzarán su voz, cantarán gozosos por la grandeza de YHWH, gritarán desde el mar. Por eso glorificad a YHWH en las regiones de la luz; en las costas del mar, al nombre de YHWH, Elohim de Israel.
+
+**16** De lo postrero de la tierra oímos cánticos: gloria al justo. Y yo dije: mi flaqueza, mi flaqueza, ¡ay de mí! Prevaricadores han hecho traición; y con prevaricación han obrado deslealmente los prevaricadores.
+
+**17-18** Terror, foso y red sobre ti, oh morador de la tierra. Y acontecerá que el que huyere de la voz del terror caerá en el foso; y el que saliere de en medio del foso será preso en la red; porque de lo alto se abrirán ventanas, y temblarán los fundamentos de la tierra.
+
+**19-20** Se quebrantará del todo la tierra, se disolverá enteramente la tierra, en gran manera será conmovida la tierra. Temblará la tierra vacilando como un ebrio, y será removida como una choza; y se agravará sobre ella su pecado, y caerá, y nunca más se levantará.
+
+**21-23** Y acontecerá en aquel día, que YHWH castigará al ejército de los cielos en lo alto, y a los reyes de la tierra sobre la tierra. Y serán amontonados como se amontonan los encarcelados en mazmorra, y en prisión quedarán encerrados, y serán castigados después de muchos días. La luna se avergonzará, y el sol se confundirá, cuando YHWH de los ejércitos reine en el monte de Sión y en Yerushalaim, y delante de sus ancianos sea glorioso.
+
+## 1QIsaa · Isaías 25
+
+**1** YHWH, tú eres mi Elohim; te exaltaré, alabaré tu nombre, porque has hecho maravillas; tus consejos antiguos son fidelidad y verdad.
+
+**2-3** Porque de la ciudad hiciste un montón, de la ciudad fortalecida una ruina; alcázar de extraños, para que no sea ciudad, ni jamás sea reedificada. Por esto te glorificará el pueblo fuerte; ciudades de gentes poderosas te temerán.
+
+**4-5** Porque has sido fortaleza al pobre, fortaleza al menesteroso en su aflicción, amparo contra el turbión, sombra contra el calor; porque el ímpetu de los violentos es como turbión contra el muro. Como el calor en tierra de sequedad, así humillarás el orgullo de los extraños; y como calor debajo de nube, harás marchitar el pimpollo de los robustos.
+
+**6-7** Y hará YHWH de los ejércitos a todos los pueblos, en este monte, banquete de manjares suculentos, banquete de vinos refinados, de gruesos tuétanos, de vinos purificados. Y destruirá en este monte la cubierta con que están cubiertos todos los pueblos, y el velo que envuelve a todas las naciones.
+
+**8** Destruirá a la muerte para siempre; y enjugará el Señor, YHWH, toda lágrima de todos los rostros; y quitará la afrenta de su pueblo de toda la tierra; porque YHWH lo ha dicho.
+
+**9** Y se dirá en aquel día: he aquí que este es YHWH nuestro Elohim³⁸, a quien hemos esperado, y nos salvará; este es YHWH a quien hemos esperado, nos gozaremos y nos alegraremos en su salvación.
+
+**10-11** Porque la mano de YHWH reposará en este monte, y Moab será trillado debajo de él, como es trillada la paja en el muladar. Y extenderá su mano por en medio de él, como la extiende el nadador para nadar; y abatirá su soberbia con los movimientos de sus manos.
+
+**12** Y allanará la fortaleza de tus altos muros; la humillará y la echará a tierra, hasta el polvo.
+
+## 1QIsaa · Isaías 26
+
+**1** En aquel día cantarán este cántico en tierra de Yehudá: fuerte ciudad tenemos; salvación puso Elohim por muros y antemuro.
+
+**2-3** Abrid las puertas, y entrará la gente justa, guardadora de verdades. Tú guardarás en completa paz a aquel cuyo pensamiento en ti persevera; porque en ti³⁹.
+
+**4** Confiad en YHWH perpetuamente, porque en YAH, YHWH, está la fortaleza de los siglos.
+
+**5-6** Porque derribó a los que moraban en lugar sublime; humilló a la ciudad enaltecida, la humilló hasta la tierra, la derribó hasta el polvo. La hollará pie, los pies del afligido, los pasos de los menesterosos.
+
+**7-8** El camino del justo es rectitud; tú, que eres recto, pesas el camino del justo. También en el camino de tus juicios, oh YHWH, te hemos esperado; a tu nombre y a tu memoria es el deseo del alma.
+
+**9** Con mi alma te he deseado en la noche; y madrugaré a buscarte con mi espíritu dentro de mí; porque luego que hay juicios tuyos en la tierra, los moradores del mundo aprenden justicia.
+
+**10-11** Aunque se muestre piedad al impío, no aprenderá justicia; en tierra de rectitud hará iniquidad, y no mirará a la majestad de YHWH. YHWH, tu mano está alzada, mas ellos no la ven; verán al fin, y se avergonzarán los que envidian a tu pueblo; y a tus enemigos fuego los consumirá.
+
+**12-13** YHWH, tú nos depararás paz, porque también hiciste en nosotros todas nuestras obras. YHWH, Elohim nuestro, señores se enseñorearon de nosotros fuera de ti; mas en ti solamente nos acordamos de tu nombre.
+
+**14-15** Muertos son, no vivirán; han fallecido, no resucitarán; porque los castigaste, y destruiste, y deshiciste todo su recuerdo. Añadiste al pueblo, oh YHWH, añadiste al pueblo; te hiciste glorioso; ensanchaste todos los confines de la tierra.
+
+**16-17** YHWH, en la tribulación te buscaron; derramaron oración cuando los castigaste. Como la mujer encinta cuando se acerca el alumbramiento gime, y da gritos con sus dolores, así hemos sido en tu presencia, oh YHWH.
+
+**18** Concebimos, tuvimos dolores de parto, dimos a luz viento; salud ninguna hicimos en la tierra, ni cayeron los moradores del mundo.
+
+**19** Tus muertos vivirán; junto con mi cuerpo resucitarán. Despertad y cantad, moradores del polvo; porque tu rocío es cual rocío de luces, y la tierra dará sus muertos.
+
+**20-21** Anda, pueblo mío, éntrate en tus aposentos, cierra tras ti tus puertas; escóndete un poquito, por un momento, en tanto que pasa la ira. Porque he aquí que YHWH sale de su lugar, para castigar al morador de la tierra por su maldad; y la tierra descubrirá la sangre derramada sobre ella, y no encubrirá más a sus muertos.
+
 ---
 ---
 
@@ -568,6 +716,18 @@ A diferencia de Génesis y Éxodo, acá el texto es fragmentario y el hallazgo c
 **32 — גפן שבמה, sin continuación (16:8-9).** El TM tiene, después de "la vid de Sibmá", una descripción larga de esa vid (que sus mejores ramas llegaban hasta Yazer, se extendían por el desierto, cruzaban el mar) y luego repite la misma frase "vid de Sibmá" al comienzo del verso 9, antes de continuar con el llanto del profeta. El rollo pasa directo de la primera aparición de "vid de Sibmá" al texto que sigue después de la segunda — perdiendo unas veinte palabras en total. Es el tercer caso, dentro de los capítulos ya decodificados, de una omisión explicable por salto de copista sobre una frase que se repite cerca — el mismo mecanismo ya documentado en las notas 13 (2:9-10) y 17 (4:5-6). E1 el dato de la omisión; D1 la lectura del salto de copista por repetición de "vid de Sibmá", coherente con el patrón ya establecido en este rollo.
 
 **33 — בא, en vez de נלאה (16:12).** El TM tiene נִלְאָה ("se cansó/se fatigó" — "cuando Moab se haya fatigado en el lugar alto"); el rollo tiene בא ("vino/llegó" — "cuando Moab venga al lugar alto"). Sustitución real de una raíz por otra, con efecto real de sentido: cansancio tras un esfuerzo repetido, frente a la simple llegada al santuario. E1.
+
+**34 — הראה, en vez de אריה (21:8).** El TM tiene "וַיִּקְרָא אַרְיֵה" ("y un LEÓN llamó/gritó"), una lectura que ha intrigado durante siglos a los traductores, porque un león como sujeto que "grita" desde la torre de vigía resulta extraño en el contexto de un centinela que vigila y reporta. El rollo tiene הראה ("EL VIDENTE/vigía llamó"), una lectura que encaja mucho mejor con el resto del pasaje, que habla explícitamente de un centinela apostado. Esta es una de las variantes más citadas de todo 1QIsaa, y varias traducciones modernas del TM han adoptado la lectura del rollo en este punto. E1 el dato de la lectura; D1 la lectura de que el rollo probablemente conserva aquí el sentido original, dado lo extraño de la lectura del TM y la coherencia de la lectura del rollo con el contexto inmediato.
+
+**35 — יהוה, en vez de אדני, y "tres años" en vez de "un año" (21:16).** El TM tiene אֲדֹנָי ("mi Señor") y "בְּעוֹד שָׁנָה" ("dentro de un año"); el rollo tiene יהוה (el nombre divino) y "בעוד שלוש שנים" ("dentro de tres años") — dos diferencias reales en el mismo verso, una en el nombre divino (mismo patrón ya visto en la nota 22, 7:14) y otra en el plazo mismo de la profecía contra Kedar. E1 el dato de ambas lecturas; E3 cuál de los dos plazos —uno o tres años— refleja la forma más antigua del oráculo, disputa real sobre la que este dato solo no puede resolver.
+
+**36 — ונשכחת צר שבעים שנה כימי מלך אחד מקץ, sin continuación (23:15).** El TM tiene, entre "en aquel día" y "será para Tiro como la canción de la ramera", una frase completa sobre el olvido de Tiro durante setenta años, "como los días de un solo rey" — información cronológica real que el rollo no tiene en este punto. La expresión "שבעים שנה" ("setenta años") aparece dos veces muy cerca en el propio TM de este verso; es probable que el copista, al terminar de escribir la primera, saltara con la vista a la segunda, perdiendo todo lo que había en medio. Es el cuarto caso, dentro de los capítulos ya decodificados de este rollo, del mismo mecanismo de omisión por repetición cercana — cf. notas 13, 17 y 32. E1 el dato de la omisión; D1 la lectura del salto de copista, coherente con el patrón ya establecido.
+
+**37 — וישמו, en vez de ויאשמו (24:6).** El TM tiene וְאָשְׁמוּ ("y serán CULPABLES", de la raíz אשם, "culpa/deuda"); el rollo tiene וישמו ("y quedarán DESOLADOS/espantados", de la raíz שמם). Cambio real de raíz, que mueve el énfasis de una categoría legal-moral (la culpa) a una descripción del estado de la tierra y sus habitantes (la desolación) — ambas raíces encajan en el contexto de juicio del capítulo, pero con matices distintos. E1.
+
+**38 — יהוה אלוהינו, con el nombre divino añadido (25:9).** El TM tiene simplemente "הִנֵּה אֱלֹהֵינוּ זֶה" ("he aquí, nuestro Elohim, este es"); el rollo agrega el nombre divino antes: "הנה יהוה אלוהינו זה" ("he aquí, YHWH nuestro Elohim, este es"). Adición real de una palabra que hace explícito lo que en el TM queda implícito bajo el título genérico "Elohim". E1.
+
+**39 — sin בטוח, "confía" (26:3).** El TM tiene "יֵצֶר סָמוּךְ תִּצֹּר שָׁלוֹם שָׁלוֹם כִּי בְךָ בָּטוּחַ" ("al de firme propósito guardarás en perfecta paz, porque en ti CONFÍA"); el rollo termina el verso en "כי בכה" ("porque en ti"), sin el verbo final "confía" — una omisión real de una palabra en uno de los versos más citados de todo el libro, que deja la cláusula sin su predicado explícito. E1.
 
 ---
 ---
