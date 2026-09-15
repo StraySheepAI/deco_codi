@@ -478,779 +478,409 @@ window.ROLLOS_DATA={
       {
         "number": "1",
         "hebrew": "ויאומר יהוה אל׳י קח ל׳ך גליון גדול וכתוב עלי׳ו בחרט אנוש למהר שלל חש בז׃",
-        "text": null
+        "text": "Y me dijo YHWH: toma una tabla grande, y escribe en ella con caracteres legibles tocante a Maher-salal-hash-baz."
       },
       {
         "number": "2",
         "hebrew": "והעד ל׳י עדים נאמנים את אוריה הכוהן ואת זכריה בן יברכיה׃",
-        "text": null
+        "text": "Y llama para mí²³ testigos fieles, a Uriyah el sacerdote y a Zejaryah hijo de Yeverekyahu."
       },
       {
-        "number": "3",
-        "hebrew": "ואקרב אל הנביא ותהר ותלד בן ויאומר יהוה אל׳י קרא שמ׳ו מהר שלל חש בז׃",
-        "text": null
+        "number": "3-4",
+        "hebrew": "ואקרב אל הנביא ותהר ותלד בן ויאומר יהוה אל׳י קרא שמ׳ו מהר שלל חש בז׃ כיא בטרם ידע הנער לקראו אבי׳ו ואמ׳ו ישא את חיל דרמשק ואת שלל שומרון לפני מלך אשור׃",
+        "text": "Y me llegué a la profetisa²⁴, y concibió, y dio a luz un hijo. Y me dijo YHWH: ponle por nombre Maher-salal-hash-baz. Porque antes que el niño sepa decir padre mío y madre mía, será quitada la riqueza de Damasco y los despojos de Shomrón, en presencia del rey de Asiria."
       },
       {
-        "number": "4",
-        "hebrew": "כיא בטרם ידע הנער לקראו אבי׳ו ואמ׳ו ישא את חיל דרמשק ואת שלל שומרון לפני מלך אשור׃",
-        "text": null
+        "number": "5-6",
+        "hebrew": "ויוסף יהוה דבר אל׳י עוד לאמור׃ יען כיא מאס העם הזה את מי השולח ההולכים לאוט ומשוש את רצין ואת בן [ רומ ]ל[ י ]ה׃",
+        "text": "Otra vez me volvió a hablar YHWH, diciendo: por cuanto desechó este pueblo las aguas de Shiloaj, que corren mansamente, y se regocijan con Retzín y con el hijo de Remalyahu,"
       },
       {
-        "number": "5",
-        "hebrew": "ויוסף יהוה דבר אל׳י עוד לאמור׃",
-        "text": null
+        "number": "7-8",
+        "hebrew": "ולכן הנה אדוני מעלה עלי׳הם את מי הנהר ה[ [ העצומים והרבים את מ ]לך אשור ואת כול כבוד׳ו ועלה [ על כול אפיקי׳ו והלך על כול ] גדוותי׳ו׃ וחלף ביהודה שטפ[ ועבר עד צואר יגיע והיה מטות כנפי׳ו מלוא רחב ארצ׳ך עמנואל׃",
+        "text": "he aquí, por tanto, que el Señor hace subir sobre ellos aguas de ríos, impetuosas y muchas, [a saber, al rey de A]siria con toda su gloria; y subirá [sobre todos sus riberos, e irá sobre todas] sus riberas. Y pasará hasta Yehudá; inundará, y pasará adelante, y llegará hasta la garganta; y extendiendo sus alas, llenará la anchura de tu tierra, oh Imanuel."
       },
       {
-        "number": "6",
-        "hebrew": "יען כיא מאס העם הזה את מי השולח ההולכים לאוט ומשוש את רצין ואת בן [ רומ ]ל[ י ]ה׃",
-        "text": null
-      },
-      {
-        "number": "7",
-        "hebrew": "ולכן הנה אדוני מעלה עלי׳הם את מי הנהר ה[ [ העצומים והרבים את מ ]לך אשור ואת כול כבוד׳ו ועלה [ על כול אפיקי׳ו והלך על כול ] גדוותי׳ו׃",
-        "text": null
-      },
-      {
-        "number": "8",
-        "hebrew": "וחלף ביהודה שטפ[ ועבר עד צואר יגיע והיה מטות כנפי׳ו מלוא רחב ארצ׳ך עמנואל׃",
-        "text": null
-      },
-      {
-        "number": "9",
-        "hebrew": "רעו עמים וחתו והאזינו כול מרחקי הארץ התאזרו וחותו׃",
-        "text": null
-      },
-      {
-        "number": "10",
-        "hebrew": "עצו עצה ותפר דברו דבר ולוא יקום כיא עמ׳נואל׃",
-        "text": null
+        "number": "9-10",
+        "hebrew": "רעו עמים וחתו והאזינו כול מרחקי הארץ התאזרו וחותו׃ עצו עצה ותפר דברו דבר ולוא יקום כיא עמ׳נואל׃",
+        "text": "Juntaos, pueblos, y seréis quebrantados; oíd, todos los que sois de lejanas tierras. Ceñíos, y seréis quebrantados²⁵. Tomad consejo, y será frustrado; proferid palabra, y no será firme; porque Elohim está con nosotros."
       },
       {
         "number": "11",
         "hebrew": "כי כה אמר יהוה אל׳י כחזקת יד יסיר׳נו מלכת בדרך העם הזה לאמור׃",
-        "text": null
+        "text": "Porque así me habló YHWH con mano fuerte: lo aparta²⁶ de caminar por el camino de este pueblo, diciendo:"
       },
       {
-        "number": "12",
-        "hebrew": "לוא תאמרו קשר לכול אשר יואמר העמ הזה קשר ואת מורא׳ו לוא תיראו ולוא תעריצו׃",
-        "text": null
+        "number": "12-13",
+        "hebrew": "לוא תאמרו קשר לכול אשר יואמר העמ הזה קשר ואת מורא׳ו לוא תיראו ולוא תעריצו׃ את יהוה צבאות אות׳ו תקדישו והוא מורא׳כם והוא מערצ׳כם׃",
+        "text": "No llaméis conspiración a todo lo que este pueblo llama conspiración, ni temáis lo que temen, ni tengáis miedo. A YHWH de los ejércitos, a él santificad; sea Él vuestro temor, y Él vuestro miedo."
       },
       {
-        "number": "13",
-        "hebrew": "את יהוה צבאות אות׳ו תקדישו והוא מורא׳כם והוא מערצ׳כם׃",
-        "text": null
+        "number": "14-15",
+        "hebrew": "ויהיא למקדש ולאבן נגפ ולצר מכשול לשני בתי ישראל לפח ולמוקש ליושב ירושלים׃ וכשלו ב׳מ רבים ונפלו ונשברו ונוקשו ונלכדו׃",
+        "text": "Y será por santuario; mas a las dos casas de Israel, por piedra para tropezar, y por tropezadero para caer, y por lazo y por red al morador de Yerushalaim. Y muchos entre ellos tropezarán, y caerán, y serán quebrantados, y enlazados, y apresados."
       },
       {
-        "number": "14",
-        "hebrew": "ויהיא למקדש ולאבן נגפ ולצר מכשול לשני בתי ישראל לפח ולמוקש ליושב ירושלים׃",
-        "text": null
-      },
-      {
-        "number": "15",
-        "hebrew": "וכשלו ב׳מ רבים ונפלו ונשברו ונוקשו ונלכדו׃",
-        "text": null
-      },
-      {
-        "number": "16",
-        "hebrew": "צור תעודה וחתום תורה בלמד׳י׃",
-        "text": null
-      },
-      {
-        "number": "17",
-        "hebrew": "וחכיתי ליהוה המסתיר את פני׳ו מבית יעקוב וקויתי ל׳ו׃",
-        "text": null
+        "number": "16-17",
+        "hebrew": "צור תעודה וחתום תורה בלמד׳י׃ וחכיתי ליהוה המסתיר את פני׳ו מבית יעקוב וקויתי ל׳ו׃",
+        "text": "Ata el testimonio, sella la ley entre mis discípulos. Esperaré, pues, a YHWH, el cual escondió su rostro de la casa de Yaakov, y a él aguardaré."
       },
       {
         "number": "18",
         "hebrew": "אנה אנוכי והילדים אשר נתן ל׳י יהוה לאות ולמופת בישראל מעמ יהוה צבאות השוכן בהר ציון׃",
-        "text": null
+        "text": "He aquí, yo y los hijos que me dio YHWH somos por señales y presagios en Israel, de parte de YHWH de los ejércitos, que mora en el monte de Sión."
       },
       {
-        "number": "19",
-        "hebrew": "וכי יואמרו אלי׳כמה דרשו אל האובות ואל הידעונים המצפצפים והמהגים הלוא עמ אל אלוה׳ו ידרוש בעד חיים אל המיתים׃",
-        "text": null
+        "number": "19-20",
+        "hebrew": "וכי יואמרו אלי׳כמה דרשו אל האובות ואל הידעונים המצפצפים והמהגים הלוא עמ אל אלוה׳ו ידרוש בעד חיים אל המיתים׃ לתורה ולתעודה אמ לוא יואמרו כדבר הזה אשר אין ל׳ו שחר׃",
+        "text": "Y si os dijeren: preguntad a los encantadores y a los adivinos, que susurran hablando y murmuran, responded: ¿no consultará el pueblo a su Elohim? ¿Consultará a los muertos por los vivos? ¡A la ley y al testimonio! Si no dijeren conforme a esto, no les amanecerá."
       },
       {
-        "number": "20",
-        "hebrew": "לתורה ולתעודה אמ לוא יואמרו כדבר הזה אשר אין ל׳ו שחר׃",
-        "text": null
-      },
-      {
-        "number": "21",
-        "hebrew": "ועבר ב׳ה ונקשה ורעב והיה כיא ירעב יתקצפ וקלל במלכ׳ו ובאלוה׳ו ופנה למעל׳ה׃",
-        "text": null
-      },
-      {
-        "number": "22",
-        "hebrew": "ואל הארץ יביט והנה צרה וחשוכה מעיף צוקה ואפלה מנדח׃",
-        "text": null
+        "number": "21-22",
+        "hebrew": "ועבר ב׳ה ונקשה ורעב והיה כיא ירעב יתקצפ וקלל במלכ׳ו ובאלוה׳ו ופנה למעל׳ה׃ ואל הארץ יביט והנה צרה וחשוכה מעיף צוקה ואפלה מנדח׃",
+        "text": "Y pasarán por la tierra fatigados y hambrientos; y acontecerá que teniendo hambre, se enojarán, y maldecirán a su rey y a su Elohim, mirando hacia arriba. Y mirarán a la tierra, y he aquí tribulación y tinieblas, oscuridad y angustia, serán sumidos en las tinieblas."
       },
       {
         "number": "23",
         "hebrew": "כילו מעופפ לאשר מוצק ל׳ה כעת הרישון הקל ארץ זבולון והארץ נפתלי והאחרון הכביד דרך הים עבר הירדן גליל הגואים׃",
-        "text": null
+        "text": "Mas no habrá oscuridad para la que fue angustiada, como en el tiempo primero, cuando levemente afligió el Señor la tierra de Zevulún y la tierra de Naftalí; mas al fin la llenó de gloria, junto al camino del mar, al otro lado del Jordán, en Galilea de los gentiles."
       }
     ],
     "9": [
       {
-        "number": "1",
-        "hebrew": "העמ ההולכים בחושך ראו אור גדול יושבי בארץ צלמות אור נגה עלי׳הם׃",
-        "text": null
+        "number": "1-2",
+        "hebrew": "העמ ההולכים בחושך ראו אור גדול יושבי בארץ צלמות אור נגה עלי׳הם׃ הרביתה הגוי לוא הגדלתה השמחה שמחו לפני׳ך כשמחת בקציר כאשר יגילו בחלק׳ם שלל׃",
+        "text": "El pueblo que andaba en tinieblas vio gran luz; los que moraban en tierra de sombra de muerte, luz resplandeció sobre ellos. Aumentaste la nación, y le acrecentaste la alegría; se alegrarán delante de ti como se alegran en la siega, como se gozan cuando reparten despojos."
       },
       {
-        "number": "2",
-        "hebrew": "הרביתה הגוי לוא הגדלתה השמחה שמחו לפני׳ך כשמחת בקציר כאשר יגילו בחלק׳ם שלל׃",
-        "text": null
+        "number": "3-4",
+        "hebrew": "כי את עול׳ סבל׳ו ואת מטה שכמ׳ו שבט הנוגש ב׳ו והחתת כיום מדים׃ כי כול סאון סאן ברעש ושמלה מגוללה בדמים והיתה לשרפה מאכלת אש׃",
+        "text": "Porque tú quebraste su carga, y la vara de su hombro, y el cetro de su opresor, como en el día de Midián. Porque todo calzado de guerrero que resuena, y toda vestidura revolcada en sangre, serán para quema, pasto del fuego."
       },
       {
-        "number": "3",
-        "hebrew": "כי את עול׳ סבל׳ו ואת מטה שכמ׳ו שבט הנוגש ב׳ו והחתת כיום מדים׃",
-        "text": null
+        "number": "5-6",
+        "hebrew": "כי ילד יולד ל׳נו בן נתן ל׳נו ותהייהמשורה על שכמ׳ו וקרא שמ׳ו פלא יועץ אל גבור אבי עד שר השלום׃ למרבה המשורה ולשלום אין קץ על כסה דויד ועל ממלכת׳ו להכין אות׳ו ולסעד׳ו במשפט ובצדקה מעתה ועד עולם קנאת יהוה צבאות תעשה זאות׃",
+        "text": "Porque un niño nos es nacido, hijo nos es dado, y el principado sobre su hombro; y se llamará su nombre Admirable Consejero, Elohim Fuerte, Padre Eterno, Príncipe de Paz. Lo dilatado de su imperio y la paz no tendrán límite, sobre el trono de David y sobre su reino, disponiéndolo y confirmándolo en juicio y en justicia desde ahora y para siempre. El celo de YHWH de los ejércitos hará esto."
       },
       {
-        "number": "4",
-        "hebrew": "כי כול סאון סאן ברעש ושמלה מגוללה בדמים והיתה לשרפה מאכלת אש׃",
-        "text": null
+        "number": "7-8",
+        "hebrew": "דבר שלח יהוה ביעקוב ונפל בישראל׃ וירעו העם כל׳ו אפרים ויושבי שמרון בגאוה ובגדל לבב לאמור׃",
+        "text": "El Señor envió palabra a Yaakov, y cayó en Israel. Y lo sabrá todo el pueblo, Efraín y los moradores de Shomrón, que con soberbia y con altivez de corazón dicen:"
       },
       {
-        "number": "5",
-        "hebrew": "כי ילד יולד ל׳נו בן נתן ל׳נו ותהייהמשורה על שכמ׳ו וקרא שמ׳ו פלא יועץ אל גבור אבי עד שר השלום׃",
-        "text": null
+        "number": "9-10",
+        "hebrew": "לבנים נפלו וגזית נבנה שקמים גדעו וארזים נחליף׃ וישגב יה[ וה ]את צרי רציאן עלי׳ו ואת אויבי׳ו יסכסך׃",
+        "text": "los ladrillos cayeron, mas edificaremos de cantería; cortaron los cabrahígos, mas los cambiaremos en cedros. Pero YHWH engrandecerá a los enemigos de Retzín contra él, y juntará a sus enemigos."
       },
       {
-        "number": "6",
-        "hebrew": "למרבה המשורה ולשלום אין קץ על כסה דויד ועל ממלכת׳ו להכין אות׳ו ולסעד׳ו במשפט ובצדקה מעתה ועד עולם קנאת יהוה צבאות תעשה זאות׃",
-        "text": null
+        "number": "11-12",
+        "hebrew": "ארם מקדם ופלש[ תיים מא ]חור ויאכלו את ישראל בכול פה ובכול זוות לוא שב אפ׳ו ועוד יד׳יו נטויה׃ והעם לוא שב על המכ׳הו ואת יהוה צבאות לוא דרשו׃",
+        "text": "Aram desde el oriente, y los filisteos desde el occidente, devorarán a Israel a boca llena. Ni con todo esto ha cesado su furor, sino que todavía su mano está extendida. Y el pueblo no se convirtió al que lo hería, ni buscaron a YHWH de los ejércitos."
       },
       {
-        "number": "7",
-        "hebrew": "דבר שלח יהוה ביעקוב ונפל בישראל׃",
-        "text": null
+        "number": "13-14",
+        "hebrew": "ויכרת יהוה מישראל ראש וזנב כפה ואגמן ביום אחד׃ זקן ונשא פנים הוא הרואש ונביא מורה שקר הוא הזנב׃",
+        "text": "Y YHWH cortará de Israel cabeza y cola, rama y junco en un mismo día. El viejo y venerable de rostro es la cabeza; y el profeta que enseña mentira es la cola."
       },
       {
-        "number": "8",
-        "hebrew": "וירעו העם כל׳ו אפרים ויושבי שמרון בגאוה ובגדל לבב לאמור׃",
-        "text": null
+        "number": "15-16",
+        "hebrew": "ויהיו מאשרי העם הזה מתעים ומאשרי׳ו מבלעים׃ על כן על בחורי׳ו לוא יחמול אדוני ואת יתומי׳ו ואת אלמנותי׳ו לוא ירחם כי כול׳ו חנפ ומרע וכול פה דבר נבלה בכול זואת לוא שב אפ׳ו ועוד יד׳יו נטויה׃",
+        "text": "Porque los guías de este pueblo son engañadores, y los guiados por ellos, perdidos. Por tanto, el Señor no tendrá compasión²⁷ de sus jóvenes, ni de sus huérfanos y viudas tendrá misericordia; porque todos son falsos y malignos, y toda boca habla despropósitos. Ni con todo esto ha cesado su furor, sino que todavía su mano está extendida."
       },
       {
-        "number": "9",
-        "hebrew": "לבנים נפלו וגזית נבנה שקמים גדעו וארזים נחליף׃",
-        "text": null
+        "number": "17-18",
+        "hebrew": "כי בערה כאש רשעה שמיר ושית תואכל ותצת בסבכי היער ויתאבכו גיאות עשן׃ מעברת יהוה צבאות נתעם הארץ ויהיו העמ כמאכלת אש איש אל אחי׳ו לוא יחמולו׃",
+        "text": "Pues la maldad se encendió como fuego, cardos y espinos devorará, y se encenderá en lo espeso del bosque, y serán levantados como remolinos de humo. Por la ira de YHWH de los ejércitos se oscureció la tierra, y será el pueblo como pasto del fuego; el hombre no tendrá piedad de su hermano."
       },
       {
-        "number": "10",
-        "hebrew": "וישגב יה[ וה ]את צרי רציאן עלי׳ו ואת אויבי׳ו יסכסך׃",
-        "text": null
-      },
-      {
-        "number": "11",
-        "hebrew": "ארם מקדם ופלש[ תיים מא ]חור ויאכלו את ישראל בכול פה ובכול זוות לוא שב אפ׳ו ועוד יד׳יו נטויה׃",
-        "text": null
-      },
-      {
-        "number": "12",
-        "hebrew": "והעם לוא שב על המכ׳הו ואת יהוה צבאות לוא דרשו׃",
-        "text": null
-      },
-      {
-        "number": "13",
-        "hebrew": "ויכרת יהוה מישראל ראש וזנב כפה ואגמן ביום אחד׃",
-        "text": null
-      },
-      {
-        "number": "14",
-        "hebrew": "זקן ונשא פנים הוא הרואש ונביא מורה שקר הוא הזנב׃",
-        "text": null
-      },
-      {
-        "number": "15",
-        "hebrew": "ויהיו מאשרי העם הזה מתעים ומאשרי׳ו מבלעים׃",
-        "text": null
-      },
-      {
-        "number": "16",
-        "hebrew": "על כן על בחורי׳ו לוא יחמול אדוני ואת יתומי׳ו ואת אלמנותי׳ו לוא ירחם כי כול׳ו חנפ ומרע וכול פה דבר נבלה בכול זואת לוא שב אפ׳ו ועוד יד׳יו נטויה׃",
-        "text": null
-      },
-      {
-        "number": "17",
-        "hebrew": "כי בערה כאש רשעה שמיר ושית תואכל ותצת בסבכי היער ויתאבכו גיאות עשן׃",
-        "text": null
-      },
-      {
-        "number": "18",
-        "hebrew": "מעברת יהוה צבאות נתעם הארץ ויהיו העמ כמאכלת אש איש אל אחי׳ו לוא יחמולו׃",
-        "text": null
-      },
-      {
-        "number": "19",
-        "hebrew": "ויגזר על ימין ורעב ויאכל ועל שמאול ולוא שבעו איש בשר זרוע׳ו׃",
-        "text": null
-      },
-      {
-        "number": "20",
-        "hebrew": "ויאכל מנשה את אפרים ואפרים את מנשה יחדו המה על יהודה ובכול זואת לוא שב אפ׳ו ועוד יד׳יו נטויה׃",
-        "text": null
+        "number": "19-20",
+        "hebrew": "ויגזר על ימין ורעב ויאכל ועל שמאול ולוא שבעו איש בשר זרוע׳ו׃ ויאכל מנשה את אפרים ואפרים את מנשה יחדו המה על יהודה ובכול זואת לוא שב אפ׳ו ועוד יד׳יו נטויה׃",
+        "text": "Cada uno hurtará a la mano derecha, y tendrá hambre; y comerá a la izquierda, y no se saciará; cada cual comerá la carne de su brazo. Manasés a Efraín, y Efraín a Manasés, y ambos contra Yehudá juntamente. Ni con todo esto ha cesado su furor, sino que todavía su mano está extendida."
       }
     ],
     "10": [
       {
-        "number": "1",
-        "hebrew": "הוי חוקקים חוקקי און ומכתבים עמל כתבו׃",
-        "text": null
+        "number": "1-2",
+        "hebrew": "הוי חוקקים חוקקי און ומכתבים עמל כתבו׃ להטות מדין דלים ולגזול משפט עניי עמ׳י להיות אלמנות שלל׳ם ואת יתומים יבוזו׃",
+        "text": "¡Ay de los que dictan leyes injustas, y de los que escriben perversidad, para privar de justicia a los pobres, y despojar del derecho a los afligidos de mi pueblo; para despojar a las viudas, y robar a los huérfanos!"
       },
       {
-        "number": "2",
-        "hebrew": "להטות מדין דלים ולגזול משפט עניי עמ׳י להיות אלמנות שלל׳ם ואת יתומים יבוזו׃",
-        "text": null
+        "number": "3-4",
+        "hebrew": "ומה תעשו ליום פקודה ולשאה ממרחק תבוא על מי תנוסו לעזרה ואנ׳ה תעזובו כבוד׳כם׃ בלתי כרע תחת אסור ותחת הרוגים יפלו ובכול זואת לוא שב אפ׳ו ועוד יד׳יו נטויה׃",
+        "text": "¿Y qué haréis en el día del castigo, y en la ruina que vendrá de lejos? ¿A quién os acogeréis para que os ayude, y en dónde dejaréis vuestra gloria? Sin mí, se inclinarán entre los presos, y entre los muertos caerán. Ni con todo esto ha cesado su furor, sino que todavía su mano está extendida."
       },
       {
-        "number": "3",
-        "hebrew": "ומה תעשו ליום פקודה ולשאה ממרחק תבוא על מי תנוסו לעזרה ואנ׳ה תעזובו כבוד׳כם׃",
-        "text": null
+        "number": "5-6",
+        "hebrew": "הוי אשור שבט אפ׳י ומטה הוא ביד׳ם זעמ׳י׃ בגוי חנפ אשלח׳נו ועל עמ עברת׳י אצו׳נו לשלול שלל ולבז בז ולשום מרמס כחמר חוצות׃",
+        "text": "¡Ay de Asiria, vara y báculo de mi furor, en su mano está mi ira! Lo enviaré contra una nación pérfida, y sobre el pueblo de mi ira le mandaré, para que quite despojos, y arrebate presa, y lo ponga para ser hollado como lodo de las calles."
       },
       {
-        "number": "4",
-        "hebrew": "בלתי כרע תחת אסור ותחת הרוגים יפלו ובכול זואת לוא שב אפ׳ו ועוד יד׳יו נטויה׃",
-        "text": null
+        "number": "7-9",
+        "hebrew": "והוא לוא כן ידמה ולבב׳ו לוא כן יחשוב כיא להשמיד בלבב׳ו ולהכרית גואים לוא מעט׃ כיא יואמר הלוא שר׳י יחדו מלכים׃ הלוא ככרכמיש כלנו אמ לוא כארפד חמת אמ לוא כדרמשק שומרון׃",
+        "text": "Aunque él no lo pensará así, ni su corazón lo imaginará de esta manera, sino que su pensamiento será desarraigar y cortar naciones no pocas. Porque él dice: mis príncipes ¿no son todos reyes? ¿No es Calnó como Carquemis, Hamat como Arpad, y Shomrón como Damasco?"
       },
       {
-        "number": "5",
-        "hebrew": "הוי אשור שבט אפ׳י ומטה הוא ביד׳ם זעמ׳י׃",
-        "text": null
-      },
-      {
-        "number": "6",
-        "hebrew": "בגוי חנפ אשלח׳נו ועל עמ עברת׳י אצו׳נו לשלול שלל ולבז בז ולשום מרמס כחמר חוצות׃",
-        "text": null
-      },
-      {
-        "number": "7",
-        "hebrew": "והוא לוא כן ידמה ולבב׳ו לוא כן יחשוב כיא להשמיד בלבב׳ו ולהכרית גואים לוא מעט׃",
-        "text": null
-      },
-      {
-        "number": "8",
-        "hebrew": "כיא יואמר הלוא שר׳י יחדו מלכים׃",
-        "text": null
-      },
-      {
-        "number": "9",
-        "hebrew": "הלוא ככרכמיש כלנו אמ לוא כארפד חמת אמ לוא כדרמשק שומרון׃",
-        "text": null
-      },
-      {
-        "number": "10",
-        "hebrew": "כאשר מצאה יד׳י לממלכות האלילים ופסילי׳הם מירושלים ומשומרון׃",
-        "text": null
-      },
-      {
-        "number": "11",
-        "hebrew": "הלוא כאשר עשיתי לשומרון ולאלילי׳ה כן אעשה לירושלים ולעצבי׳ה׃",
-        "text": null
+        "number": "10-11",
+        "hebrew": "כאשר מצאה יד׳י לממלכות האלילים ופסילי׳הם מירושלים ומשומרון׃ הלוא כאשר עשיתי לשומרון ולאלילי׳ה כן אעשה לירושלים ולעצבי׳ה׃",
+        "text": "Como halló mi mano los reinos de los ídolos, siendo sus imágenes más que las de Yerushalaim y de Shomrón; como hice a Shomrón y a sus ídolos, ¿no haré también así a Yerushalaim y a sus ídolos?"
       },
       {
         "number": "12",
         "hebrew": "כי יבצע אדוני את כול מעשו׳הי בהר ציון ובירושלים אפקוד על פרי גודל לבב מלך אשור ועל תפארת רום עיני׳ו׃",
-        "text": null
+        "text": "Y acontecerá que cuando el Señor haya acabado toda su obra en el monte de Sión y en Yerushalaim, castigaré el fruto de la soberbia del corazón del rey de Asiria, y la gloria de la altivez de sus ojos."
       },
       {
-        "number": "13",
-        "hebrew": "כי יואמר בכוח יד׳י עשיתי ובחכמת׳י כי נבונותי ואסיר גבלות עמים ועתידותי׳המה שושיתי ואוריד יוש ]בים׃",
-        "text": null
-      },
-      {
-        "number": "14",
-        "hebrew": "ותמצא כקן יד׳י לחיל העמים וכאסוף בצים [ עזבות כול הא ]רץ אני אספתי ולוא היה נודד כנפ ופוצה פה ומצפצף׃",
-        "text": null
+        "number": "13-14",
+        "hebrew": "כי יואמר בכוח יד׳י עשיתי ובחכמת׳י כי נבונותי ואסיר גבלות עמים ועתידותי׳המה שושיתי ואוריד יוש ]בים׃ ותמצא כקן יד׳י לחיל העמים וכאסוף בצים [ עזבות כול הא ]רץ אני אספתי ולוא היה נודד כנפ ופוצה פה ומצפצף׃",
+        "text": "Porque dijo: con el poder de mi mano lo he hecho, y con mi sabiduría, porque he sido prudente; quité los territorios de los pueblos, y saqueé sus tesoros, y como valiente derribé a los que estaban sentados. Y halló mi mano como nido las riquezas de los pueblos; y como se recogen los huevos abandonados, así me apoderé yo de toda la tierra; y no hubo [quien moviera al]a, ni abriese boca y graznase."
       },
       {
         "number": "15",
         "hebrew": "היתפאר הגרזן על החוצב ב׳ו אמ יתגדל המשור על מני פי׳ו כהניף שבט את מרימי׳ו כהרים מטה לוא עץ׃",
-        "text": null
+        "text": "¿Se gloriará el hacha contra el que con ella corta? ¿Se ensoberbecerá la sierra contra el que la mueve? Como si la vara se levantase contra los que la levantan; como si el báculo se levantase, ¡como si no fuera de madera!"
       },
       {
-        "number": "16",
-        "hebrew": "לכן ישלח האדון יהוה צבאות במשמני׳ו רזון ותחת כבוד׳ו יקד יקוד כיקד אש׃",
-        "text": null
+        "number": "16-17",
+        "hebrew": "לכן ישלח האדון יהוה צבאות במשמני׳ו רזון ותחת כבוד׳ו יקד יקוד כיקד אש׃ והיה אור ישראל לאש וקדוש׳ו ללהבה ובערה ואכלה שית ׳ו ושמיר׳ו ביום אחד׃",
+        "text": "Por tanto, el Señor, YHWH de los ejércitos, enviará flaqueza sobre sus robustos; y debajo de su gloria encenderá un incendio como ardor de fuego. Y la luz de Israel será por fuego, y su Santo por llama, que abrase y consuma en un día sus cardos y sus espinos."
       },
       {
-        "number": "17",
-        "hebrew": "והיה אור ישראל לאש וקדוש׳ו ללהבה ובערה ואכלה שית ׳ו ושמיר׳ו ביום אחד׃",
-        "text": null
+        "number": "18-19",
+        "hebrew": "וכבוד יער׳ו וכרמל׳ו מנפש ועד בשר יכלה והיה כמסס נסס׃ ושאר עץ יער׳ו מספר יהיו ונער יכתב׳מ׃",
+        "text": "La gloria de su bosque y de su campo fértil consumirá, desde el alma hasta la carne; y vendrá a ser como abanderado en derrota. Y el resto de los árboles de su bosque serán tan pocos que un niño los pueda contar."
       },
       {
-        "number": "18",
-        "hebrew": "וכבוד יער׳ו וכרמל׳ו מנפש ועד בשר יכלה והיה כמסס נסס׃",
-        "text": null
+        "number": "20-21",
+        "hebrew": "והיה ביום ההוא לוא יוסיף עוד שאר ישראל ופליטת בית יעקוב להשען על מכ׳הו ונשען אל יהוה קדוש ישראל באמת׃ שאר ישוב שאר יעקוב אל אל גבור׃",
+        "text": "Y acontecerá en aquel día, que los que hayan quedado de Israel, y los que hayan quedado de la casa de Yaakov, nunca más se apoyarán en el que los hirió, sino que se apoyarán con verdad en YHWH, el Santo de Israel. El remanente volverá, el remanente de Yaakov, al Elohim fuerte."
       },
       {
-        "number": "19",
-        "hebrew": "ושאר עץ יער׳ו מספר יהיו ונער יכתב׳מ׃",
-        "text": null
+        "number": "22-23",
+        "hebrew": "כיא אמ יהיה עמ׳ך ישראל כחול הים שאר ישוב ב׳ו כליון חרוץ שוטף צדקה׃ כי כלה ונחרצה אדוני יהוה צבאות עושה בקרב כול הארץ׃",
+        "text": "Porque aunque tu pueblo, oh Israel, fuere como las arenas del mar, el remanente de él volverá; la destrucción acordada rebosará en justicia. Pues el Señor, YHWH de los ejércitos, hará consumación ya determinada en medio de toda la tierra."
       },
       {
-        "number": "20",
-        "hebrew": "והיה ביום ההוא לוא יוסיף עוד שאר ישראל ופליטת בית יעקוב להשען על מכ׳הו ונשען אל יהוה קדוש ישראל באמת׃",
-        "text": null
+        "number": "24-25",
+        "hebrew": "לכן כוה אמר אדוני יהוה צבאות אל תירא עמ׳י יושב ציון מאשור משבט יכ׳כה ומט׳ו ישא עלי׳ך בדרך מצרים׃ כי עוד מעט מזער וכלה זעמ ואפ׳י על תבלות׳ם׃",
+        "text": "Por tanto, el Señor, YHWH de los ejércitos, dice así: pueblo mío, morador de Sión, no temas de Asiria. Con vara te herirá, y contra ti alzará su palo, a la manera de Egipto; mas de aquí a muy poco tiempo, se acabará mi furor y mi enojo, para acabarlos."
       },
       {
-        "number": "21",
-        "hebrew": "שאר ישוב שאר יעקוב אל אל גבור׃",
-        "text": null
+        "number": "26-27",
+        "hebrew": "ויעיר עלי׳ו יהוה צבאות שוט כמכת מדין בצור עורב ומט׳הו על הים ונשא׳ו בדרך מצרים׃ והיה ביום ההוא יסור סבל׳ו מעל שכמ׳ך ועול׳ו מעל צואר׳ך וחבל עול מפני שמן׃",
+        "text": "Y levantará YHWH de los ejércitos azote contra él, como la matanza de Madián en la peña de Oreb; y alzará su vara sobre el mar, como hizo por la vía de Egipto. Y acontecerá en aquel tiempo, que su carga será quitada de tu hombro, y su yugo de tu cerviz, y el yugo se pudrirá a causa de la unción."
       },
       {
-        "number": "22",
-        "hebrew": "כיא אמ יהיה עמ׳ך ישראל כחול הים שאר ישוב ב׳ו כליון חרוץ שוטף צדקה׃",
-        "text": null
+        "number": "28-29",
+        "hebrew": "בא על עית׳ה עבר במגרון למכמש יפקוד כלי׳ו׃ עבר במעברה גבע מלון ל׳נו חרדה הרמה גבעת שאול נסה׃",
+        "text": "Vino hasta Ayat, pasó hasta Migrón; en Micmás contará su ejército. Pasaron el vado; se alojan en Geba; Ramá tiembla; Gibeá de Shaul huyó."
       },
       {
-        "number": "23",
-        "hebrew": "כי כלה ונחרצה אדוני יהוה צבאות עושה בקרב כול הארץ׃",
-        "text": null
+        "number": "30-31",
+        "hebrew": "צהלי קול׳ך בת גלים הקשיבי ליש עניה ענתות׃ נדדה מרמנה יושבי הגבים העיזו׃",
+        "text": "Grita en alta voz, hija de Galim; haz que se oiga hacia Layish, pobrecilla Anatot. Se fue Madmena, los moradores de Gebim se juntarán para huir."
       },
       {
-        "number": "24",
-        "hebrew": "לכן כוה אמר אדוני יהוה צבאות אל תירא עמ׳י יושב ציון מאשור משבט יכ׳כה ומט׳ו ישא עלי׳ך בדרך מצרים׃",
-        "text": null
-      },
-      {
-        "number": "25",
-        "hebrew": "כי עוד מעט מזער וכלה זעמ ואפ׳י על תבלות׳ם׃",
-        "text": null
-      },
-      {
-        "number": "26",
-        "hebrew": "ויעיר עלי׳ו יהוה צבאות שוט כמכת מדין בצור עורב ומט׳הו על הים ונשא׳ו בדרך מצרים׃",
-        "text": null
-      },
-      {
-        "number": "27",
-        "hebrew": "והיה ביום ההוא יסור סבל׳ו מעל שכמ׳ך ועול׳ו מעל צואר׳ך וחבל עול מפני שמן׃",
-        "text": null
-      },
-      {
-        "number": "28",
-        "hebrew": "בא על עית׳ה עבר במגרון למכמש יפקוד כלי׳ו׃",
-        "text": null
-      },
-      {
-        "number": "29",
-        "hebrew": "עבר במעברה גבע מלון ל׳נו חרדה הרמה גבעת שאול נסה׃",
-        "text": null
-      },
-      {
-        "number": "30",
-        "hebrew": "צהלי קול׳ך בת גלים הקשיבי ליש עניה ענתות׃",
-        "text": null
-      },
-      {
-        "number": "31",
-        "hebrew": "נדדה מרמנה יושבי הגבים העיזו׃",
-        "text": null
-      },
-      {
-        "number": "32",
-        "hebrew": "עוד היום בנב לעמוד ינופ יד׳יו הר בת ציון גבעת ירושלים׃",
-        "text": null
-      },
-      {
-        "number": "33",
-        "hebrew": "הנה האדון יהוה צבאות מסעפ פארה במערצה ורמי הקומה גדועים והגבהים ישפלו׃",
-        "text": null
-      },
-      {
-        "number": "34",
-        "hebrew": "ונקף סבכי היער בברזל והלבנון באדיר יפול׃",
-        "text": null
+        "number": "32-34",
+        "hebrew": "עוד היום בנב לעמוד ינופ יד׳יו הר בת ציון גבעת ירושלים׃ הנה האדון יהוה צבאות מסעפ פארה במערצה ורמי הקומה גדועים והגבהים ישפלו׃ ונקף סבכי היער בברזל והלבנון באדיר יפול׃",
+        "text": "Aún vendrá día cuando reposará en Nob; alzará su mano contra el monte de la hija de Sión, contra el collado de Yerushalaim. He aquí el Señor, YHWH de los ejércitos, desgajará el ramaje con violencia; y los de gran altura serán cortados, y los altivos serán humillados. Y cortará con hierro la espesura del bosque, y el Líbano caerá con estruendo."
       }
     ],
     "11": [
       {
-        "number": "1",
-        "hebrew": "ויצא חטר מגזע ישי ונצר משורשי׳ו יפרה׃",
-        "text": null
+        "number": "1-2",
+        "hebrew": "ויצא חטר מגזע ישי ונצר משורשי׳ו יפרה׃ ונחה עלי׳ו רוח יהוה רוח חכמה ובינה רוח עצה וגבורה רוח דעת ויראת יהוה׃",
+        "text": "Y saldrá una vara del tronco de Ishay, y un renuevo retoñará de sus raíces. Y reposará sobre él el espíritu de YHWH, espíritu de sabiduría y de inteligencia, espíritu de consejo y de poder, espíritu de conocimiento y de temor de YHWH."
       },
       {
-        "number": "2",
-        "hebrew": "ונחה עלי׳ו רוח יהוה רוח חכמה ובינה רוח עצה וגבורה רוח דעת ויראת יהוה׃",
-        "text": null
+        "number": "3-5",
+        "hebrew": "והריח׳ו ביראת יהוה ולוא למראה עני׳ו ישפוט ולוא למשמע אוזנ׳ו יוכיח׃ ושפט בצדק דלים והוכיח במישור לעניי הארץ והכה הארץ בשבט פי׳ו וברוח שפתי׳ו יומת רשע׃ והיה צדק אזור מתני׳ו ואמונה אזור חלצי׳ו׃",
+        "text": "Y le hará entender diligente en el temor de YHWH; no juzgará según la vista de sus ojos, ni argüirá por lo que oyeren sus oídos; sino que juzgará con justicia a los pobres, y argüirá con equidad por los mansos de la tierra; y herirá la tierra con la vara de su boca, y con el espíritu de sus labios matará al impío. Y será la justicia cinto de sus lomos, y la fidelidad cinto de su cintura."
       },
       {
-        "number": "3",
-        "hebrew": "והריח׳ו ביראת יהוה ולוא למראה עני׳ו ישפוט ולוא למשמע אוזנ׳ו יוכיח׃",
-        "text": null
+        "number": "6-8",
+        "hebrew": "וגר זאב עמ כבש ונמר עמ גדי ירבץ ועגל וכפיר ימרו יחדו ונער קטן נהג ב׳מה׃ ופרה ודב תרעינה יחדו ורבצו ילדי׳הן ואריה כבקר יאכל תבן׃ וישעשע יונק על חור פתן ועל מאורות צפעונים גמול יד׳ו הדה׃",
+        "text": "Morará el lobo con el cordero, y el leopardo con el cabrito se acostará; el becerro y el león y la bestia doméstica andarán juntos, y un niño los pastoreará. La vaca y la osa pacerán, sus crías se echarán juntas; y el león como el buey comerá paja. Y el niño de pecho jugará sobre la cueva del áspid, y el recién destetado extenderá su mano sobre la caverna de la víbora."
       },
       {
-        "number": "4",
-        "hebrew": "ושפט בצדק דלים והוכיח במישור לעניי הארץ והכה הארץ בשבט פי׳ו וברוח שפתי׳ו יומת רשע׃",
-        "text": null
+        "number": "9-10",
+        "hebrew": "לוא ירעו ולוא ישחיתו בהר קדש׳י כי תמלא׳ה הארץ דעה את יהוה כמים לים מכסים׃ והיה ביום ההוא שרש ישי אשר עמד לנס עמים אלי׳ו גואים ידרושו והיא מנוחת׳ו כבוד׃",
+        "text": "No harán mal ni dañarán en mi santo monte; porque la tierra será llena del conocimiento de YHWH, como las aguas cubren el mar. Y acontecerá en aquel tiempo, que la raíz de Ishay, la cual estará puesta por estandarte a los pueblos, será buscada por las naciones; y su morada será gloriosa."
       },
       {
-        "number": "5",
-        "hebrew": "והיה צדק אזור מתני׳ו ואמונה אזור חלצי׳ו׃",
-        "text": null
+        "number": "11-12",
+        "hebrew": "והיה ביום ההוא יוסיף אדוני שנית יד׳ו לקנות את שאר עמ׳ו אשר ישאר מאשור וממצרים ומפתרוס ומכוש ומעילם ומשנער ומחמת ומאיי הים׃ ונשה נס לגואים ואספ נדחי ישראל ונפוצות יהודה יקבצ מכנפות הארץ׃",
+        "text": "Acontecerá también en aquel tiempo, que el Señor volverá a poner su mano otra vez para recobrar el remanente de su pueblo que hubiere quedado de Asiria, de Egipto, de Patros, de Cus, de Elam, de Sinar, de Hamat y de las costas del mar. Y levantará pendón a las naciones, y juntará los desterrados de Israel, y reunirá los esparcidos de Yehudá de los cuatro confines de la tierra."
       },
       {
-        "number": "6",
-        "hebrew": "וגר זאב עמ כבש ונמר עמ גדי ירבץ ועגל וכפיר ימרו יחדו ונער קטן נהג ב׳מה׃",
-        "text": null
+        "number": "13-14",
+        "hebrew": "וסרה קנאת אפרים וצוררי יהודה יכרתו אפרים לוא יקנא את יהודה ויהודה לוא יצר את אפרים׃ ועפו בכתף פלשתיים ימ׳ה יחדו ובזזו את בני קדם אדום ומואב משלוח יד׳ם ובני עמון משמעת׳ם׃",
+        "text": "Y se disipará la envidia de Efraín, y los enemigos de Yehudá serán destruidos; Efraín no tendrá envidia de Yehudá, ni Yehudá afligirá a Efraín. Volarán sobre los hombros de los filisteos al occidente, saquearán juntamente a los hijos del oriente; Edom y Moab les servirán, y los hijos de Amón les serán obedientes."
       },
       {
-        "number": "7",
-        "hebrew": "ופרה ודב תרעינה יחדו ורבצו ילדי׳הן ואריה כבקר יאכל תבן׃",
-        "text": null
-      },
-      {
-        "number": "8",
-        "hebrew": "וישעשע יונק על חור פתן ועל מאורות צפעונים גמול יד׳ו הדה׃",
-        "text": null
-      },
-      {
-        "number": "9",
-        "hebrew": "לוא ירעו ולוא ישחיתו בהר קדש׳י כי תמלא׳ה הארץ דעה את יהוה כמים לים מכסים׃",
-        "text": null
-      },
-      {
-        "number": "10",
-        "hebrew": "והיה ביום ההוא שרש ישי אשר עמד לנס עמים אלי׳ו גואים ידרושו והיא מנוחת׳ו כבוד׃",
-        "text": null
-      },
-      {
-        "number": "11",
-        "hebrew": "והיה ביום ההוא יוסיף אדוני שנית יד׳ו לקנות את שאר עמ׳ו אשר ישאר מאשור וממצרים ומפתרוס ומכוש ומעילם ומשנער ומחמת ומאיי הים׃",
-        "text": null
-      },
-      {
-        "number": "12",
-        "hebrew": "ונשה נס לגואים ואספ נדחי ישראל ונפוצות יהודה יקבצ מכנפות הארץ׃",
-        "text": null
-      },
-      {
-        "number": "13",
-        "hebrew": "וסרה קנאת אפרים וצוררי יהודה יכרתו אפרים לוא יקנא את יהודה ויהודה לוא יצר את אפרים׃",
-        "text": null
-      },
-      {
-        "number": "14",
-        "hebrew": "ועפו בכתף פלשתיים ימ׳ה יחדו ובזזו את בני קדם אדום ומואב משלוח יד׳ם ובני עמון משמעת׳ם׃",
-        "text": null
-      },
-      {
-        "number": "15",
-        "hebrew": "והחרים יהוה את לשון ימ מצרים והניף יד׳יו על הנהר בעיים רוח והכ׳הו לשבעת נחלים והדריכי בנעלים׃",
-        "text": null
-      },
-      {
-        "number": "16",
-        "hebrew": "והייתה מסלה לשאר עמ׳ו אשר ישאר מאשור כאשר הייתה לישראל ביום עלות׳ מארצ מצרים׃",
-        "text": null
+        "number": "15-16",
+        "hebrew": "והחרים יהוה את לשון ימ מצרים והניף יד׳יו על הנהר בעיים רוח והכ׳הו לשבעת נחלים והדריכי בנעלים׃ והייתה מסלה לשאר עמ׳ו אשר ישאר מאשור כאשר הייתה לישראל ביום עלות׳ מארצ מצרים׃",
+        "text": "Y secará YHWH la lengua del mar de Egipto; y levantará su mano con vehemencia de su espíritu sobre el río, y lo herirá en sus siete brazos, y hará que pasen por él con sandalias. Y habrá camino para el remanente de su pueblo, el que quedó de Asiria, de la manera que lo hubo para Israel el día que subió de la tierra de Egipto."
       }
     ],
     "12": [
       {
-        "number": "1",
-        "hebrew": "ואמרתה ביום ההוא אוד׳כה יהוה כי אנפתה ב׳י ושב אפ׳כה ותנחמ׳ני׃",
-        "text": null
+        "number": "1-2",
+        "hebrew": "ואמרתה ביום ההוא אוד׳כה יהוה כי אנפתה ב׳י ושב אפ׳כה ותנחמ׳ני׃ הנה אל אל ישועת׳י אבטח ולוא אפחד כיא עוז׳י וזמרתיה יהוה היהא ל׳י לישועה׃",
+        "text": "Y dirás en aquel día: te alabaré, oh YHWH; aunque te enojaste contra mí, tu ira se apartó, y me has consolado. He aquí, Elohim es mi salvación; me aseguraré, y no temeré; porque mi fortaleza y mi cántico es YAH, YHWH, quien ha sido salvación para mí."
       },
       {
-        "number": "2",
-        "hebrew": "הנה אל אל ישועת׳י אבטח ולוא אפחד כיא עוז׳י וזמרתיה יהוה היהא ל׳י לישועה׃",
-        "text": null
+        "number": "3-4",
+        "hebrew": "ושאבתמה מים בששון ממעיני הישועה׃ ואמרתה ביום ההוא אודו ליהוה קראו בשמ׳ו הודיעו בעמים עלילותי׳ו הזכירו כי נשגב שמ׳ו׃",
+        "text": "Sacaréis con gozo aguas de las fuentes de la salvación. Y diréis en aquel día: alabad a YHWH, invocad su nombre, dad a conocer en los pueblos sus obras, recordad que su nombre es engrandecido."
       },
       {
-        "number": "3",
-        "hebrew": "ושאבתמה מים בששון ממעיני הישועה׃",
-        "text": null
-      },
-      {
-        "number": "4",
-        "hebrew": "ואמרתה ביום ההוא אודו ליהוה קראו בשמ׳ו הודיעו בעמים עלילותי׳ו הזכירו כי נשגב שמ׳ו׃",
-        "text": null
-      },
-      {
-        "number": "5",
-        "hebrew": "זמרו ליהוה כי גאות עשה מודעות זואת בכול הארץ׃",
-        "text": null
-      },
-      {
-        "number": "6",
-        "hebrew": "צהלי ורני יושבת ציון כיא גדול בקרב׳ך קדוש ישראל׃",
-        "text": null
+        "number": "5-6",
+        "hebrew": "זמרו ליהוה כי גאות עשה מודעות זואת בכול הארץ׃ צהלי ורני יושבת ציון כיא גדול בקרב׳ך קדוש ישראל׃",
+        "text": "Cantad salmos a YHWH, porque ha hecho cosas magníficas; sea sabido esto en toda la tierra. Regocíjate y canta, moradora de Sión; porque grande es en medio de ti el Santo de Israel."
       }
     ],
     "13": [
       {
-        "number": "1",
-        "hebrew": "משא בבל אשר חוזה ישעיה בן אמוץ׃",
-        "text": null
+        "number": "1-2",
+        "hebrew": "משא בבל אשר חוזה ישעיה בן אמוץ׃ על הר נשפה שאו נס הרימו קול ל׳הם הניפו יד יבוא פתחי נדיבים׃",
+        "text": "Profecía sobre Babilonia, que vio Yeshayahu hijo de Amotz. Levantad bandera sobre un monte alto; alzad la voz a ellos, alzad la mano, para que entren por puertas de príncipes."
       },
       {
-        "number": "2",
-        "hebrew": "על הר נשפה שאו נס הרימו קול ל׳הם הניפו יד יבוא פתחי נדיבים׃",
-        "text": null
+        "number": "3-5",
+        "hebrew": "אני צויתי למקדש׳י גמ קראתי גבור׳י לאפ׳י עליזי גאות׳י׃ קול המון בהרים דמות עמ רב קול שאון ממלכות גואים נספים יהוה צבאות מפקד צבא מלחמה׃ באים מארץ מרחק מקצה השמים יהוה וכלי זעמ׳ו לחבל כל הארץ׃",
+        "text": "Yo mandé a mis consagrados, asimismo llamé a mis valientes para ejecutar mi ira, a los que se alegran con mi gloria. Estruendo de multitud en los montes, como de mucho pueblo; estruendo de ruido de reinos, de naciones reunidas; YHWH de los ejércitos pasa revista al ejército de la batalla. Vienen de lejana tierra, de lo postrero de los cielos, YHWH y los instrumentos de su furor, para destruir toda la tierra."
       },
       {
-        "number": "3",
-        "hebrew": "אני צויתי למקדש׳י גמ קראתי גבור׳י לאפ׳י עליזי גאות׳י׃",
-        "text": null
+        "number": "6-8",
+        "hebrew": "הילילו כי קרוב יום יהוה כשד משדי יבוא׃ על כן כול ידין תרפינה וכל לבב אנוש ימס׃ ונבהלו צירים וחבלים יאחזו׳ן כיולדה יחילו׳ן איש אל רע׳הו יתמהו ופני להבים פני׳הם׃",
+        "text": "Aullad, porque cerca está el día de YHWH; vendrá como destrucción de parte del Todopoderoso. Por tanto, se debilitarán todas las manos, y desfallecerá todo corazón de hombre; y se llenarán de terror; angustias y dolores les tomarán; tendrán dolores como mujer de parto; se asombrará cada cual al mirar a su compañero; sus rostros, rostros de llamas."
       },
       {
-        "number": "4",
-        "hebrew": "קול המון בהרים דמות עמ רב קול שאון ממלכות גואים נספים יהוה צבאות מפקד צבא מלחמה׃",
-        "text": null
+        "number": "9-10",
+        "hebrew": "הנה יום יהוה בא אגזרי ועברה וחרון אפ לשום ארצ לשמה וחטאים ישמיד ממ׳נה׃ כי כוכבי השמים וכסלי׳הם לוא יאירו אור׳ם חשכ השמש בצאת׳ו וירח לוא יגיה אור׳ו׃",
+        "text": "He aquí el día de YHWH viene, terrible, y de indignación y de ardor de ira, para convertir la tierra en soledad, y raer de ella a los pecadores. Por lo cual las estrellas de los cielos y sus luceros no darán su luz; y el sol se oscurecerá al nacer, y la luna no dará su resplandor."
       },
       {
-        "number": "5",
-        "hebrew": "באים מארץ מרחק מקצה השמים יהוה וכלי זעמ׳ו לחבל כל הארץ׃",
-        "text": null
+        "number": "11-12",
+        "hebrew": "ופקדתי על תבל רעה ועל רשעים עוונ׳ם והשבתי גאון זדים וגאות עריצים אשפיל׃ אוקר אנוש מפז ואדם מכתם אופיר׃",
+        "text": "Y castigaré al mundo por su maldad, y a los impíos por su iniquidad; y haré que cese la arrogancia de los soberbios, y abatiré la altivez de los fuertes. Haré más precioso que el oro fino al varón, y más que el oro de Ofir al hombre."
       },
       {
-        "number": "6",
-        "hebrew": "הילילו כי קרוב יום יהוה כשד משדי יבוא׃",
-        "text": null
+        "number": "13-14",
+        "hebrew": "על כן שמים ארגיז ותרעש הארצ ממקומ׳ה בעברת יהוה צבאות וביום חרון אפ׳ו׃ והיו כצבי מדח וכצאון ואין מקבץ איש אל עמ׳ו יפנו ואיש אל ארצ׳ו ינוסו׃",
+        "text": "Porque haré estremecer los cielos, y la tierra se moverá de su lugar, en la indignación de YHWH de los ejércitos, y en el día de su ardiente ira. Y será como corza asustada, y como oveja sin pastor; cada cual mirará hacia su pueblo, y cada uno huirá a su tierra."
       },
       {
-        "number": "7",
-        "hebrew": "על כן כול ידין תרפינה וכל לבב אנוש ימס׃",
-        "text": null
+        "number": "15-16",
+        "hebrew": "כול הנמצא ידקר וכול הנספה יפול בחרב׃ ועילולי׳המה ירוטשו לעיני׳הם וישסו בתי׳הם ונשי׳המה תשכבנה׃",
+        "text": "Cualquiera que fuere hallado será alanceado; y cualquiera que a ellos se junte, caerá a espada. Sus niños serán estrellados delante de ellos; sus casas serán saqueadas, y sus mujeres se acostarán con ellos²⁸."
       },
       {
-        "number": "8",
-        "hebrew": "ונבהלו צירים וחבלים יאחזו׳ן כיולדה יחילו׳ן איש אל רע׳הו יתמהו ופני להבים פני׳הם׃",
-        "text": null
+        "number": "17-18",
+        "hebrew": "הנ׳ני מעיר עלי׳הם את מדי אשר כספ לוא יחשוב וזהב לוא יחפצו ב׳ו׃ וקשתות נערים תרטשנה ועל פרי בטן לוא ירחמו ועל בנים לוא תחוס עינ׳ם׃",
+        "text": "He aquí que yo despierto contra ellos a los medos, que no estimarán la plata, ni codiciarán oro. Y con arcos tirarán a los jóvenes, y no tendrán misericordia del fruto del vientre, ni su ojo perdonará a los niños."
       },
       {
-        "number": "9",
-        "hebrew": "הנה יום יהוה בא אגזרי ועברה וחרון אפ לשום ארצ לשמה וחטאים ישמיד ממ׳נה׃",
-        "text": null
+        "number": "19-20",
+        "hebrew": "והיתה בבל צבי ממלכת תפראת גאון כשדיים כמאפכת אלוהים את סודם ואת עומרה׃ לוא תשב לנצח ולוא תשכון עד דור ודור ולוא יהל שמ׳ה ערבי ורועים לוא ירביצו שם׃",
+        "text": "Y Babilonia, hermosura de reinos y ornamento de la grandeza de los caldeos, será como Sodoma y Gomorra, a las que trastornó Elohim. Nunca más será habitada, ni se morará en ella de generación en generación; ni levantará allí tienda el árabe, ni pastores tendrán allí majada."
       },
       {
-        "number": "10",
-        "hebrew": "כי כוכבי השמים וכסלי׳הם לוא יאירו אור׳ם חשכ השמש בצאת׳ו וירח לוא יגיה אור׳ו׃",
-        "text": null
-      },
-      {
-        "number": "11",
-        "hebrew": "ופקדתי על תבל רעה ועל רשעים עוונ׳ם והשבתי גאון זדים וגאות עריצים אשפיל׃",
-        "text": null
-      },
-      {
-        "number": "12",
-        "hebrew": "אוקר אנוש מפז ואדם מכתם אופיר׃",
-        "text": null
-      },
-      {
-        "number": "13",
-        "hebrew": "על כן שמים ארגיז ותרעש הארצ ממקומ׳ה בעברת יהוה צבאות וביום חרון אפ׳ו׃",
-        "text": null
-      },
-      {
-        "number": "14",
-        "hebrew": "והיו כצבי מדח וכצאון ואין מקבץ איש אל עמ׳ו יפנו ואיש אל ארצ׳ו ינוסו׃",
-        "text": null
-      },
-      {
-        "number": "15",
-        "hebrew": "כול הנמצא ידקר וכול הנספה יפול בחרב׃",
-        "text": null
-      },
-      {
-        "number": "16",
-        "hebrew": "ועילולי׳המה ירוטשו לעיני׳הם וישסו בתי׳הם ונשי׳המה תשכבנה׃",
-        "text": null
-      },
-      {
-        "number": "17",
-        "hebrew": "הנ׳ני מעיר עלי׳הם את מדי אשר כספ לוא יחשוב וזהב לוא יחפצו ב׳ו׃",
-        "text": null
-      },
-      {
-        "number": "18",
-        "hebrew": "וקשתות נערים תרטשנה ועל פרי בטן לוא ירחמו ועל בנים לוא תחוס עינ׳ם׃",
-        "text": null
-      },
-      {
-        "number": "19",
-        "hebrew": "והיתה בבל צבי ממלכת תפראת גאון כשדיים כמאפכת אלוהים את סודם ואת עומרה׃",
-        "text": null
-      },
-      {
-        "number": "20",
-        "hebrew": "לוא תשב לנצח ולוא תשכון עד דור ודור ולוא יהל שמ׳ה ערבי ורועים לוא ירביצו שם׃",
-        "text": null
-      },
-      {
-        "number": "21",
-        "hebrew": "ורבצו שמ ציים ומלאו בתי׳הם אחים ושכנו שמ׳ה בנות יענה ושעירים ירקדו שם׃",
-        "text": null
-      },
-      {
-        "number": "22",
-        "hebrew": "וענה אים באלמנות׳ו ותנים בהיכל׳ו ענוג׳ו קרוב לבוא עת׳ה וימי׳ה לוא ימשכו עוד׃",
-        "text": null
+        "number": "21-22",
+        "hebrew": "ורבצו שמ ציים ומלאו בתי׳הם אחים ושכנו שמ׳ה בנות יענה ושעירים ירקדו שם׃ וענה אים באלמנות׳ו ותנים בהיכל׳ו ענוג׳ו קרוב לבוא עת׳ה וימי׳ה לוא ימשכו עוד׃",
+        "text": "Sino que dormirán allí fieras del desierto, y sus casas se llenarán de hurones; allí habitarán hijas del búho, y allí saltarán sátiros. Y en sus palacios gritarán hienas, y chacales en sus palacios de placer; y su tiempo está para llegar, y sus días no se alargarán."
       }
     ],
     "14": [
       {
-        "number": "1",
-        "hebrew": "כי ירחם יהוה את יעקוב ובחר עוד בישראל והניח׳ם על אדמת׳ם ונלוא הגר עלי׳הם ונספחו [ ע ]ל בית יעקוב׃",
-        "text": null
+        "number": "1-2",
+        "hebrew": "כי ירחם יהוה את יעקוב ובחר עוד בישראל והניח׳ם על אדמת׳ם ונלוא הגר עלי׳הם ונספחו [ ע ]ל בית יעקוב׃ ולקחו׳ם עמים רבים והביאו׳ם אל אדמת׳ם ואל מקומ׳מ והתנחלו׳ם בית ישראל אל אדמת יהוה לעבדים ולשפחות והיו שובים לשובי׳הם ורדים בנוגשי׳הם׃",
+        "text": "Porque YHWH tendrá piedad de Yaakov, y todavía escogerá a Israel, y los hará reposar en su tierra; y se juntará con ellos el extranjero, y se allegará a la casa de Yaakov. Y los tomarán los pueblos, y los traerán a su lugar; y la casa de Israel los poseerá por siervos y criadas en la tierra de YHWH; y cautivarán a los que los cautivaron, y señorearán sobre los que los oprimían."
       },
       {
-        "number": "2",
-        "hebrew": "ולקחו׳ם עמים רבים והביאו׳ם אל אדמת׳ם ואל מקומ׳מ והתנחלו׳ם בית ישראל אל אדמת יהוה לעבדים ולשפחות והיו שובים לשובי׳הם ורדים בנוגשי׳הם׃",
-        "text": null
+        "number": "3-4",
+        "hebrew": "והיה ביום הניח יהוה ל׳ך מעצב׳ך ומרוגז׳ך ומן העבודה הקשה אשר עבדו ב׳כה׃ ונשאתה את המשל הזה על מלך בבל ואמרתה איכה שב[ ת ] נוגש שבתה מרהבה׃",
+        "text": "Y en el día que YHWH te dé reposo de tu trabajo y de tu temor, y de la dura servidumbre en que te hicieron servir, pronunciarás este proverbio contra el rey de Babilonia, y dirás: ¡cómo paró el opresor, cómo acabó el tributo!"
       },
       {
-        "number": "3",
-        "hebrew": "והיה ביום הניח יהוה ל׳ך מעצב׳ך ומרוגז׳ך ומן העבודה הקשה אשר עבדו ב׳כה׃",
-        "text": null
+        "number": "5-6",
+        "hebrew": "שבר יהוה מטה רשעים שבט מושלים׃ מכה עמים בעברה מכת בלתי סרה רודה באף גואים מרדף בלי חשך׃",
+        "text": "Quebrantó YHWH el báculo de los impíos, el cetro de los señores; el que hería a los pueblos con furor, con llaga permanente, el que se enseñoreaba de las naciones con ira, y las perseguía sin dejarlas descansar."
       },
       {
-        "number": "4",
-        "hebrew": "ונשאתה את המשל הזה על מלך בבל ואמרתה איכה שב[ ת ] נוגש שבתה מרהבה׃",
-        "text": null
+        "number": "7-8",
+        "hebrew": "נחה שקטה כול הארץ פצחו רונה׃ גמ ברושים שמחו ל׳ך ארזי הלבנון מאז שכבתה ולוא יעלה הכורת עלי׳נו׃",
+        "text": "Toda la tierra está en reposo y en paz; se cantan alabanzas. Aun los cipreses se regocijan a causa de ti, y los cedros del Líbano, diciendo: desde que tú pereciste, no ha subido cortador contra nosotros."
       },
       {
-        "number": "5",
-        "hebrew": "שבר יהוה מטה רשעים שבט מושלים׃",
-        "text": null
+        "number": "9-10",
+        "hebrew": "שאול מתחת רגזה ל׳כה לקרת בוא׳ך עו[ ר ]רה ל׳כה רפאים כול עתודי ארץ הקימה מכסאות׳ם כול מלכי גואים׃ כ[ ו ]ל׳ם יענו ויאמרו אלי׳ך גמ אתה חליתה כמו׳נו אלי׳נו נמשלתה׃",
+        "text": "El seol abajo se espanta por ti para encontrar tu venida; despierta por ti a los muertos, a todos los príncipes de la tierra; hizo levantar de sus tronos a todos los reyes de las naciones. Todos ellos darán voces, y te dirán: ¿también tú te debilitaste como nosotros, y llegaste a ser como nosotros?"
       },
       {
-        "number": "6",
-        "hebrew": "מכה עמים בעברה מכת בלתי סרה רודה באף גואים מרדף בלי חשך׃",
-        "text": null
+        "number": "11-12",
+        "hebrew": "ה[ ו ]רד שאול גאונ׳ך המות נבלת׳ך תחתי׳ך יצע רמה ומכס׳ך תולעה׃ היכה נפלתה מהשמים היליל בן שחר נגדעתה לארץ חולש על גוי׃",
+        "text": "Descendió al seol tu pompa, y el sonido de tus arpas; gusanos serán tu cama, y gusanos te cubrirán. ¡Cómo caíste del cielo, oh Lucero, hijo de la mañana! Cortado fuiste por tierra, tú que debilitabas a las naciones."
       },
       {
-        "number": "7",
-        "hebrew": "נחה שקטה כול הארץ פצחו רונה׃",
-        "text": null
-      },
-      {
-        "number": "8",
-        "hebrew": "גמ ברושים שמחו ל׳ך ארזי הלבנון מאז שכבתה ולוא יעלה הכורת עלי׳נו׃",
-        "text": null
-      },
-      {
-        "number": "9",
-        "hebrew": "שאול מתחת רגזה ל׳כה לקרת בוא׳ך עו[ ר ]רה ל׳כה רפאים כול עתודי ארץ הקימה מכסאות׳ם כול מלכי גואים׃",
-        "text": null
-      },
-      {
-        "number": "10",
-        "hebrew": "כ[ ו ]ל׳ם יענו ויאמרו אלי׳ך גמ אתה חליתה כמו׳נו אלי׳נו נמשלתה׃",
-        "text": null
-      },
-      {
-        "number": "11",
-        "hebrew": "ה[ ו ]רד שאול גאונ׳ך המות נבלת׳ך תחתי׳ך יצע רמה ומכס׳ך תולעה׃",
-        "text": null
-      },
-      {
-        "number": "12",
-        "hebrew": "היכה נפלתה מהשמים היליל בן שחר נגדעתה לארץ חולש על גוי׃",
-        "text": null
-      },
-      {
-        "number": "13",
-        "hebrew": "ואתה אמרתה בלבב׳כה השמים אעלה ממעל׳ה לכוכבי אל ארים כסא׳י אשב בהר מועד בירכתי צפון׃",
-        "text": null
-      },
-      {
-        "number": "14",
-        "hebrew": "אעלה על בומתי עב אדמה לעליון׃",
-        "text": null
+        "number": "13-14",
+        "hebrew": "ואתה אמרתה בלבב׳כה השמים אעלה ממעל׳ה לכוכבי אל ארים כסא׳י אשב בהר מועד בירכתי צפון׃ אעלה על בומתי עב אדמה לעליון׃",
+        "text": "Tú que decías en tu corazón: subiré al cielo; en lo alto, junto a las estrellas de Elohim, levantaré mi trono, y en el monte del testimonio me sentaré, a los lados del norte; subiré sobre las alturas de las nubes, y seré semejante al Altísimo."
       },
       {
         "number": "15",
         "hebrew": "אך אל שאול תורד אל ירכתי בור׃",
-        "text": null
+        "text": "Mas tú derribado eres hasta el seol, a los lados del abismo."
       },
       {
-        "number": "16",
-        "hebrew": "רואי׳ך אלי׳ך ישגיחו אלי׳כה יתבוננ[ ו ] הזה האיש המרגיז הארץ המרעיש ממלכות׃",
-        "text": null
+        "number": "16-17",
+        "hebrew": "רואי׳ך אלי׳ך ישגיחו אלי׳כה יתבוננ[ ו ] הזה האיש המרגיז הארץ המרעיש ממלכות׃ שם תבל כמדבר ערי׳ו הרס אסירי׳ו לוא פתח בית׳ה׃",
+        "text": "Se inclinarán hacia ti los que te vean, te contemplarán, diciendo: ¿es este el varón que hacía temblar la tierra, que trastornaba los reinos; que puso al mundo como un desierto, que asoló sus ciudades, que a sus presos nunca abrió la cárcel?"
       },
       {
-        "number": "17",
-        "hebrew": "שם תבל כמדבר ערי׳ו הרס אסירי׳ו לוא פתח בית׳ה׃",
-        "text": null
+        "number": "18-19",
+        "hebrew": "כול מלכי גואים שכבו בכבוד איש בבית׳[ ו ]׃ ואתה הושלכתה מקובר׳ך כנצר נתעב לבש הרוגים מטעני חרב יורדו א[ ל ] אבני בור כפגר מובס׃",
+        "text": "Todos los reyes de las naciones, todos ellos yacen con honra cada uno en su casa; pero tú echado eres de tu sepulcro como vástago abominable, como vestido de muertos atravesados a espada, que descienden al fondo de la fosa, como cuerpo pisoteado."
       },
       {
-        "number": "18",
-        "hebrew": "כול מלכי גואים שכבו בכבוד איש בבית׳[ ו ]׃",
-        "text": null
+        "number": "20-21",
+        "hebrew": "לוא תחת אות׳ם בקבורה כי ארצ׳ך שחתה עמ׳ך הרגתה לוא יקראו לעולם זרע מרעים׃ הכינו לבני׳ו מטבח בעוון אבות׳ם בל יקומ[ ו ] וירשו ארץ ומלו פני תבל ערים׃",
+        "text": "No serás contado con ellos en la sepultura; porque tú destruiste tu tierra, mataste a tu pueblo; no será nombrada para siempre la descendencia de los malignos. Preparad matadero a sus hijos, por la maldad de sus padres; no se levanten, ni posean la tierra, ni llenen la faz del mundo de ciudades."
       },
       {
-        "number": "19",
-        "hebrew": "ואתה הושלכתה מקובר׳ך כנצר נתעב לבש הרוגים מטעני חרב יורדו א[ ל ] אבני בור כפגר מובס׃",
-        "text": null
+        "number": "22-23",
+        "hebrew": "וקמתי עלי׳הםה נואם יהוה צבאות והכרתי לבבל שם ושארית נין ונכד נואם יהוה׃ ושמתי למירש[ ] קפז אגמי מים וטאטאתי במטאטא השמד נואם יהוה צבאות׃",
+        "text": "Porque me levantaré contra ellos, dice YHWH de los ejércitos, y raeré de Babilonia el nombre y las reliquias, hijo y nieto, dice YHWH. Y la convertiré en posesión de erizos, y en lagunas de aguas; y la barreré con escobas de destrucción, dice YHWH de los ejércitos."
       },
       {
-        "number": "20",
-        "hebrew": "לוא תחת אות׳ם בקבורה כי ארצ׳ך שחתה עמ׳ך הרגתה לוא יקראו לעולם זרע מרעים׃",
-        "text": null
-      },
-      {
-        "number": "21",
-        "hebrew": "הכינו לבני׳ו מטבח בעוון אבות׳ם בל יקומ[ ו ] וירשו ארץ ומלו פני תבל ערים׃",
-        "text": null
-      },
-      {
-        "number": "22",
-        "hebrew": "וקמתי עלי׳הםה נואם יהוה צבאות והכרתי לבבל שם ושארית נין ונכד נואם יהוה׃",
-        "text": null
-      },
-      {
-        "number": "23",
-        "hebrew": "ושמתי למירש[ ] קפז אגמי מים וטאטאתי במטאטא השמד נואם יהוה צבאות׃",
-        "text": null
-      },
-      {
-        "number": "24",
-        "hebrew": "נשבע יהוה צבאות לאמור אמ לוא כאשר דמיתי כן תהיה וכאשר יעצתי היא תקום׃",
-        "text": null
-      },
-      {
-        "number": "25",
-        "hebrew": "לשבור אשור בארצ׳י ועל הר׳י אבוס׳נו וסר מעלי׳כמה על׳ו וסבל׳ו מעל שכמ׳כה יסור׃",
-        "text": null
-      },
-      {
-        "number": "26",
-        "hebrew": "זואת העצה היעוצה על כול הארץ וזות היד הנטויה על כול הגואים׃",
-        "text": null
+        "number": "24-26",
+        "hebrew": "נשבע יהוה צבאות לאמור אמ לוא כאשר דמיתי כן תהיה וכאשר יעצתי היא תקום׃ לשבור אשור בארצ׳י ועל הר׳י אבוס׳נו וסר מעלי׳כמה על׳ו וסבל׳ו מעל שכמ׳כה יסור׃ זואת העצה היעוצה על כול הארץ וזות היד הנטויה על כול הגואים׃",
+        "text": "YHWH de los ejércitos juró diciendo: de cierto que como lo pensé, tal será; y como lo he determinado, así permanecerá: que quebrantaré a Asiria en mi tierra, y en mis montes la hollaré; y su yugo será apartado de ellos, y su carga será quitada de su hombro. Este es el consejo acordado sobre toda la tierra, y esta es la mano extendida sobre todas las naciones."
       },
       {
         "number": "27",
         "hebrew": "כיא יהוה צבאות יעצ ומי[ יפר ]ויד׳יו הנטויה ומי ישיב׳נה׃",
-        "text": null
+        "text": "Porque YHWH de los ejércitos lo ha determinado, ¿y quién lo invalidará? Y su mano extendida, ¿quién la hará tornar?"
       },
       {
         "number": "28",
         "hebrew": "בשנת מות המלכ אחז היה המשא הזה׃",
-        "text": null
+        "text": "En el año que murió el rey Ajaz fue esta profecía."
       },
       {
         "number": "29",
         "hebrew": "אל תשמח[ י [.] ]פלשת כול׳ך כי נשבר שבט מכ׳כה כי משורש נחש יצא צפע ופרי׳ו שרף מעופפ׃",
-        "text": null
+        "text": "No te alegres tú, Filistea toda, por haberse quebrado la vara del que te hería; porque de la raíz de la culebra saldrá basilisco, y su fruto será serpiente voladora."
       },
       {
-        "number": "30",
-        "hebrew": "ורעו בכורי דלים ואביונים לבטח ירבצו והמתי ברעב שורש׳ך ושארית׳ך אהרוג׃",
-        "text": null
-      },
-      {
-        "number": "31",
-        "hebrew": "הילילי שער זעקי עיר נמוג פלשת כול׳ך כי מצפון עשן בא ואין מודד במודעי׳ו׃",
-        "text": null
+        "number": "30-31",
+        "hebrew": "ורעו בכורי דלים ואביונים לבטח ירבצו והמתי ברעב שורש׳ך ושארית׳ך אהרוג׃ הילילי שער זעקי עיר נמוג פלשת כול׳ך כי מצפון עשן בא ואין מודד במודעי׳ו׃",
+        "text": "Y los primogénitos de los pobres serán apacentados, y los menesterosos se acostarán seguros; mas yo haré morir de hambre tu raíz, y mataré²⁹ tu remanente. Aúlla, oh puerta; clama, oh ciudad; disuelta estás toda tú, Filistea; porque humo vendrá del norte, no quedará uno solo en sus asambleas."
       },
       {
         "number": "32",
         "hebrew": "ומה יענו מלכי גוי כי יהוה יסד ציון וב׳ו יחסו עניי עמ׳ו׃",
-        "text": null
+        "text": "¿Qué se responderá a los mensajeros de esa nación? Que YHWH fundó a Sión, y que a ella se acogerán los afligidos de su pueblo."
       }
     ],
     "15": [
@@ -6535,6 +6165,89 @@ window.ROLLOS_DATA={
       ],
       "hebrew": "אֲדֹנָי הוּא · יְהוָה הוה",
       "teaser": "El nombre propio donde el TM tiene un título, justo antes de Emanuel."
+    },
+    {
+      "id": 23,
+      "chapter": 8,
+      "title": "והעד לי, imperativo",
+      "body": "El TM tiene וְאָעִידָה לִּי, forma cohortativa en primera persona (\"y TOMARÉ YO testigos para mí\") — el profeta narra su propia acción, rompiendo la cadena de órdenes divinas de los versos anteriores (toma... escribe...). El rollo tiene והעד לי, imperativo hifil (\"toma testigos para mí\"), que continúa la misma cadena de mandatos en segunda persona con que empieza el pasaje. Cambio real de forma verbal que decide si Yeshayahu recibe una orden más, o si pasa a narrar en primera persona lo que él mismo hace. E1.",
+      "evidence": [
+        "E1"
+      ],
+      "hebrew": "וְאָעִידָה לִּי · וְהָעֵד לִי",
+      "teaser": "Una cadena de órdenes, rota en el TM por un verbo en primera persona."
+    },
+    {
+      "id": 24,
+      "chapter": 8,
+      "title": "הנביא, sin la ה final",
+      "body": "El TM tiene הַנְּבִיאָה (\"la profetisa\"), designación explícita y poco común para la esposa de Yeshayahu. El rollo tiene הנביא, sin la ה final que marca el femenino — aunque los verbos que siguen inmediatamente (ותהר, \"concibió\"; ותלד, \"dio a luz\") están en femenino, dejando claro que el referente sigue siendo una mujer. Es más probable que se trate de un descuido del copista al omitir una sola letra, que de una lectura deliberada distinta. E1 el dato de la grafía; D2 la lectura de que se trata de un simple descuido, no de una variante consciente — interpretación menor y no verificable con certeza.",
+      "evidence": [
+        "E1",
+        "D2"
+      ],
+      "hebrew": "הַנְּבִיאָה / הנביא",
+      "teaser": "Una sola letra decide si la esposa del profeta es nombrada \"profetisa\"."
+    },
+    {
+      "id": 25,
+      "chapter": 8,
+      "title": "התאזרו וחותו, una sola vez",
+      "body": "El TM repite la fórmula \"ceñíos y seréis quebrantados\" dos veces seguidas (\"התאזרו וחתו התאזרו וחתו\"), como un estribillo dramático. El rollo la tiene una sola vez. Es el tercer caso, dentro de los capítulos ya decodificados de este rollo, en que 1QIsaa conserva una sola instancia de una frase que el TM repite dos o tres veces — el mismo patrón ya visto en \"seis alas\" (nota 19, 6:2) y en el Trisagio (nota 20, 6:3). E1 el dato puntual; D1 la lectura de que se trata de un rasgo recurrente del perfil textual de este rollo frente al TM, no de un hecho aislado.",
+      "evidence": [
+        "E1",
+        "D1"
+      ],
+      "hebrew": "הִתְאַזְּרוּ וָחֹתּוּ",
+      "teaser": "Un tercer caso del mismo patrón: una frase doblada en el TM, una vez en el rollo."
+    },
+    {
+      "id": 26,
+      "chapter": 8,
+      "title": "יסיר׳נו, tercera persona",
+      "body": "El TM tiene וַיִּסְּרֵנִי (\"y me advirtió/instruyó a MÍ\", primera persona, de la raíz יסר \"instruir, disciplinar\"); el rollo tiene יסיר׳נו (\"lo aparta A ÉL\", tercera persona, de la raíz סור \"apartar, desviar\") — no solo cambia la persona gramatical (a quién se dirige la advertencia), sino también la raíz verbal misma. E1 el dato de la lectura; E3 a quién se refiere el \"él\" del rollo si no es el propio profeta, pregunta que el propio pasaje no resuelve.",
+      "evidence": [
+        "E1",
+        "E3"
+      ],
+      "hebrew": "וַיִּסְּרֵנִי / יסיר׳נו",
+      "teaser": "Cambia la persona y la raíz misma del verbo."
+    },
+    {
+      "id": 27,
+      "chapter": 9,
+      "title": "יחמול, \"tendrá compasión\"",
+      "body": "El TM tiene יִשְׂמַח (\"se alegrará\", de la raíz שמח) — una lectura que ha intrigado a los comentaristas, porque resulta extraño decir que el Señor \"no se alegrará\" de sus jóvenes en un contexto de juicio. El rollo tiene יחמול (\"tendrá compasión/piedad\", de la raíz חמל), una raíz completamente distinta que encaja con más naturalidad en el contexto. E1 el dato de la sustitución; E3 cuál de las dos lecturas es la más antigua, crux real de la crítica textual de este pasaje.",
+      "evidence": [
+        "E1",
+        "E3"
+      ],
+      "hebrew": "יִשְׂמַח / יַחְמֹל",
+      "teaser": "Una raíz completamente distinta, donde el TM sorprende con \"se alegrará\"."
+    },
+    {
+      "id": 28,
+      "chapter": 13,
+      "title": "תשכבנה, \"se acostarán\"",
+      "body": "El TM tiene תִּשָּׁגַלְנָה, un verbo explícito para la violación sexual de las mujeres en la conquista (raíz שגל, la misma que la tradición rabínica marcaba como término que debía sustituirse por uno más suave al leerse en voz alta — un caso ya documentado de corrección eufemística, cf. tiqqune soferim). El rollo tiene, en su lugar, תשכבנה (\"se acostarán\", raíz שכב, más común y menos explícita). E1 el dato de la sustitución; D1 la lectura de que se trata de un eufemismo real conservado en el propio texto del rollo, del mismo tipo que la tradición rabínica documenta para este verbo en otros pasajes.",
+      "evidence": [
+        "E1",
+        "D1"
+      ],
+      "hebrew": "תִּשָּׁגַלְנָה / תשכבנה",
+      "teaser": "El verbo explícito del TM, cambiado por uno más suave."
+    },
+    {
+      "id": 29,
+      "chapter": 14,
+      "title": "אהרוג, primera persona",
+      "body": "El TM tiene יַהֲרֹג (\"él matará\", o en lectura pasiva \"será matado\" — la forma es ambigua), tercera persona; el rollo tiene אהרוג (\"yo mataré\"), primera persona, sin ambigüedad: es YHWH mismo quien habla en primera persona y anuncia la acción directamente. E1 el dato de la lectura; D1 la lectura de que el rollo resuelve a favor de la voz divina directa una ambigüedad gramatical real que el TM deja abierta.",
+      "evidence": [
+        "E1",
+        "D1"
+      ],
+      "hebrew": "יַהֲרֹג / אהרוג",
+      "teaser": "Primera persona directa, donde el TM deja la voz ambigua."
     }
   ],
   "meta": {
@@ -6549,8 +6262,15 @@ window.ROLLOS_DATA={
       4,
       5,
       6,
-      7
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14
     ],
-    "verseCount": 1230
+    "verseCount": 1156
   }
 };

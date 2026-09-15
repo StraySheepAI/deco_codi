@@ -1,4 +1,4 @@
-# Coding the Bible — Rollos del Mar Muerto (1QIsaa, Isaías 1 a 7)
+# Coding the Bible — Rollos del Mar Muerto (1QIsaa, Isaías 1 a 14)
 
 ### Lectura DIMA — decodificación integral desde el hebreo/arameo original
 
@@ -218,6 +218,178 @@ A diferencia de Génesis y Éxodo, acá el texto es fragmentario y el hallazgo c
 
 **23-25** Acontecerá también en aquel día, que todo lugar donde había mil vides que valían mil piezas de plata, se volverá espinos y cardos. Con saetas y arco irán allá, porque toda la tierra será espinos y cardos. Y a todos los montes que se cavaban con azadón, no llegará allí el temor del hierro; serán solamente para pasto de bueyes, y para ser hollados del ganado menor.
 
+## 1QIsaa · Isaías 8
+
+**1** Y me dijo YHWH: toma una tabla grande, y escribe en ella con caracteres legibles tocante a Maher-salal-hash-baz.
+
+**2** Y llama para mí²³ testigos fieles, a Uriyah el sacerdote y a Zejaryah hijo de Yeverekyahu.
+
+**3-4** Y me llegué a la profetisa²⁴, y concibió, y dio a luz un hijo. Y me dijo YHWH: ponle por nombre Maher-salal-hash-baz. Porque antes que el niño sepa decir padre mío y madre mía, será quitada la riqueza de Damasco y los despojos de Shomrón, en presencia del rey de Asiria.
+
+**5-6** Otra vez me volvió a hablar YHWH, diciendo: por cuanto desechó este pueblo las aguas de Shiloaj, que corren mansamente, y se regocijan con Retzín y con el hijo de Remalyahu,
+
+**7-8** he aquí, por tanto, que el Señor hace subir sobre ellos aguas de ríos, impetuosas y muchas, [a saber, al rey de A]siria con toda su gloria; y subirá [sobre todos sus riberos, e irá sobre todas] sus riberas. Y pasará hasta Yehudá; inundará, y pasará adelante, y llegará hasta la garganta; y extendiendo sus alas, llenará la anchura de tu tierra, oh Imanuel.
+
+**9-10** Juntaos, pueblos, y seréis quebrantados; oíd, todos los que sois de lejanas tierras. Ceñíos, y seréis quebrantados²⁵. Tomad consejo, y será frustrado; proferid palabra, y no será firme; porque Elohim está con nosotros.
+
+**11** Porque así me habló YHWH con mano fuerte: lo aparta²⁶ de caminar por el camino de este pueblo, diciendo:
+
+**12-13** No llaméis conspiración a todo lo que este pueblo llama conspiración, ni temáis lo que temen, ni tengáis miedo. A YHWH de los ejércitos, a él santificad; sea Él vuestro temor, y Él vuestro miedo.
+
+**14-15** Y será por santuario; mas a las dos casas de Israel, por piedra para tropezar, y por tropezadero para caer, y por lazo y por red al morador de Yerushalaim. Y muchos entre ellos tropezarán, y caerán, y serán quebrantados, y enlazados, y apresados.
+
+**16-17** Ata el testimonio, sella la ley entre mis discípulos. Esperaré, pues, a YHWH, el cual escondió su rostro de la casa de Yaakov, y a él aguardaré.
+
+**18** He aquí, yo y los hijos que me dio YHWH somos por señales y presagios en Israel, de parte de YHWH de los ejércitos, que mora en el monte de Sión.
+
+**19-20** Y si os dijeren: preguntad a los encantadores y a los adivinos, que susurran hablando y murmuran, responded: ¿no consultará el pueblo a su Elohim? ¿Consultará a los muertos por los vivos? ¡A la ley y al testimonio! Si no dijeren conforme a esto, no les amanecerá.
+
+**21-22** Y pasarán por la tierra fatigados y hambrientos; y acontecerá que teniendo hambre, se enojarán, y maldecirán a su rey y a su Elohim, mirando hacia arriba. Y mirarán a la tierra, y he aquí tribulación y tinieblas, oscuridad y angustia, serán sumidos en las tinieblas.
+
+**23** Mas no habrá oscuridad para la que fue angustiada, como en el tiempo primero, cuando levemente afligió el Señor la tierra de Zevulún y la tierra de Naftalí; mas al fin la llenó de gloria, junto al camino del mar, al otro lado del Jordán, en Galilea de los gentiles.
+
+## 1QIsaa · Isaías 9
+
+**1-2** El pueblo que andaba en tinieblas vio gran luz; los que moraban en tierra de sombra de muerte, luz resplandeció sobre ellos. Aumentaste la nación, y le acrecentaste la alegría; se alegrarán delante de ti como se alegran en la siega, como se gozan cuando reparten despojos.
+
+**3-4** Porque tú quebraste su carga, y la vara de su hombro, y el cetro de su opresor, como en el día de Midián. Porque todo calzado de guerrero que resuena, y toda vestidura revolcada en sangre, serán para quema, pasto del fuego.
+
+**5-6** Porque un niño nos es nacido, hijo nos es dado, y el principado sobre su hombro; y se llamará su nombre Admirable Consejero, Elohim Fuerte, Padre Eterno, Príncipe de Paz. Lo dilatado de su imperio y la paz no tendrán límite, sobre el trono de David y sobre su reino, disponiéndolo y confirmándolo en juicio y en justicia desde ahora y para siempre. El celo de YHWH de los ejércitos hará esto.
+
+**7-8** El Señor envió palabra a Yaakov, y cayó en Israel. Y lo sabrá todo el pueblo, Efraín y los moradores de Shomrón, que con soberbia y con altivez de corazón dicen:
+
+**9-10** los ladrillos cayeron, mas edificaremos de cantería; cortaron los cabrahígos, mas los cambiaremos en cedros. Pero YHWH engrandecerá a los enemigos de Retzín contra él, y juntará a sus enemigos.
+
+**11-12** Aram desde el oriente, y los filisteos desde el occidente, devorarán a Israel a boca llena. Ni con todo esto ha cesado su furor, sino que todavía su mano está extendida. Y el pueblo no se convirtió al que lo hería, ni buscaron a YHWH de los ejércitos.
+
+**13-14** Y YHWH cortará de Israel cabeza y cola, rama y junco en un mismo día. El viejo y venerable de rostro es la cabeza; y el profeta que enseña mentira es la cola.
+
+**15-16** Porque los guías de este pueblo son engañadores, y los guiados por ellos, perdidos. Por tanto, el Señor no tendrá compasión²⁷ de sus jóvenes, ni de sus huérfanos y viudas tendrá misericordia; porque todos son falsos y malignos, y toda boca habla despropósitos. Ni con todo esto ha cesado su furor, sino que todavía su mano está extendida.
+
+**17-18** Pues la maldad se encendió como fuego, cardos y espinos devorará, y se encenderá en lo espeso del bosque, y serán levantados como remolinos de humo. Por la ira de YHWH de los ejércitos se oscureció la tierra, y será el pueblo como pasto del fuego; el hombre no tendrá piedad de su hermano.
+
+**19-20** Cada uno hurtará a la mano derecha, y tendrá hambre; y comerá a la izquierda, y no se saciará; cada cual comerá la carne de su brazo. Manasés a Efraín, y Efraín a Manasés, y ambos contra Yehudá juntamente. Ni con todo esto ha cesado su furor, sino que todavía su mano está extendida.
+
+## 1QIsaa · Isaías 10
+
+**1-2** ¡Ay de los que dictan leyes injustas, y de los que escriben perversidad, para privar de justicia a los pobres, y despojar del derecho a los afligidos de mi pueblo; para despojar a las viudas, y robar a los huérfanos!
+
+**3-4** ¿Y qué haréis en el día del castigo, y en la ruina que vendrá de lejos? ¿A quién os acogeréis para que os ayude, y en dónde dejaréis vuestra gloria? Sin mí, se inclinarán entre los presos, y entre los muertos caerán. Ni con todo esto ha cesado su furor, sino que todavía su mano está extendida.
+
+**5-6** ¡Ay de Asiria, vara y báculo de mi furor, en su mano está mi ira! Lo enviaré contra una nación pérfida, y sobre el pueblo de mi ira le mandaré, para que quite despojos, y arrebate presa, y lo ponga para ser hollado como lodo de las calles.
+
+**7-9** Aunque él no lo pensará así, ni su corazón lo imaginará de esta manera, sino que su pensamiento será desarraigar y cortar naciones no pocas. Porque él dice: mis príncipes ¿no son todos reyes? ¿No es Calnó como Carquemis, Hamat como Arpad, y Shomrón como Damasco?
+
+**10-11** Como halló mi mano los reinos de los ídolos, siendo sus imágenes más que las de Yerushalaim y de Shomrón; como hice a Shomrón y a sus ídolos, ¿no haré también así a Yerushalaim y a sus ídolos?
+
+**12** Y acontecerá que cuando el Señor haya acabado toda su obra en el monte de Sión y en Yerushalaim, castigaré el fruto de la soberbia del corazón del rey de Asiria, y la gloria de la altivez de sus ojos.
+
+**13-14** Porque dijo: con el poder de mi mano lo he hecho, y con mi sabiduría, porque he sido prudente; quité los territorios de los pueblos, y saqueé sus tesoros, y como valiente derribé a los que estaban sentados. Y halló mi mano como nido las riquezas de los pueblos; y como se recogen los huevos abandonados, así me apoderé yo de toda la tierra; y no hubo [quien moviera al]a, ni abriese boca y graznase.
+
+**15** ¿Se gloriará el hacha contra el que con ella corta? ¿Se ensoberbecerá la sierra contra el que la mueve? Como si la vara se levantase contra los que la levantan; como si el báculo se levantase, ¡como si no fuera de madera!
+
+**16-17** Por tanto, el Señor, YHWH de los ejércitos, enviará flaqueza sobre sus robustos; y debajo de su gloria encenderá un incendio como ardor de fuego. Y la luz de Israel será por fuego, y su Santo por llama, que abrase y consuma en un día sus cardos y sus espinos.
+
+**18-19** La gloria de su bosque y de su campo fértil consumirá, desde el alma hasta la carne; y vendrá a ser como abanderado en derrota. Y el resto de los árboles de su bosque serán tan pocos que un niño los pueda contar.
+
+**20-21** Y acontecerá en aquel día, que los que hayan quedado de Israel, y los que hayan quedado de la casa de Yaakov, nunca más se apoyarán en el que los hirió, sino que se apoyarán con verdad en YHWH, el Santo de Israel. El remanente volverá, el remanente de Yaakov, al Elohim fuerte.
+
+**22-23** Porque aunque tu pueblo, oh Israel, fuere como las arenas del mar, el remanente de él volverá; la destrucción acordada rebosará en justicia. Pues el Señor, YHWH de los ejércitos, hará consumación ya determinada en medio de toda la tierra.
+
+**24-25** Por tanto, el Señor, YHWH de los ejércitos, dice así: pueblo mío, morador de Sión, no temas de Asiria. Con vara te herirá, y contra ti alzará su palo, a la manera de Egipto; mas de aquí a muy poco tiempo, se acabará mi furor y mi enojo, para acabarlos.
+
+**26-27** Y levantará YHWH de los ejércitos azote contra él, como la matanza de Madián en la peña de Oreb; y alzará su vara sobre el mar, como hizo por la vía de Egipto. Y acontecerá en aquel tiempo, que su carga será quitada de tu hombro, y su yugo de tu cerviz, y el yugo se pudrirá a causa de la unción.
+
+**28-29** Vino hasta Ayat, pasó hasta Migrón; en Micmás contará su ejército. Pasaron el vado; se alojan en Geba; Ramá tiembla; Gibeá de Shaul huyó.
+
+**30-31** Grita en alta voz, hija de Galim; haz que se oiga hacia Layish, pobrecilla Anatot. Se fue Madmena, los moradores de Gebim se juntarán para huir.
+
+**32-34** Aún vendrá día cuando reposará en Nob; alzará su mano contra el monte de la hija de Sión, contra el collado de Yerushalaim. He aquí el Señor, YHWH de los ejércitos, desgajará el ramaje con violencia; y los de gran altura serán cortados, y los altivos serán humillados. Y cortará con hierro la espesura del bosque, y el Líbano caerá con estruendo.
+
+## 1QIsaa · Isaías 11
+
+**1-2** Y saldrá una vara del tronco de Ishay, y un renuevo retoñará de sus raíces. Y reposará sobre él el espíritu de YHWH, espíritu de sabiduría y de inteligencia, espíritu de consejo y de poder, espíritu de conocimiento y de temor de YHWH.
+
+**3-5** Y le hará entender diligente en el temor de YHWH; no juzgará según la vista de sus ojos, ni argüirá por lo que oyeren sus oídos; sino que juzgará con justicia a los pobres, y argüirá con equidad por los mansos de la tierra; y herirá la tierra con la vara de su boca, y con el espíritu de sus labios matará al impío. Y será la justicia cinto de sus lomos, y la fidelidad cinto de su cintura.
+
+**6-8** Morará el lobo con el cordero, y el leopardo con el cabrito se acostará; el becerro y el león y la bestia doméstica andarán juntos, y un niño los pastoreará. La vaca y la osa pacerán, sus crías se echarán juntas; y el león como el buey comerá paja. Y el niño de pecho jugará sobre la cueva del áspid, y el recién destetado extenderá su mano sobre la caverna de la víbora.
+
+**9-10** No harán mal ni dañarán en mi santo monte; porque la tierra será llena del conocimiento de YHWH, como las aguas cubren el mar. Y acontecerá en aquel tiempo, que la raíz de Ishay, la cual estará puesta por estandarte a los pueblos, será buscada por las naciones; y su morada será gloriosa.
+
+**11-12** Acontecerá también en aquel tiempo, que el Señor volverá a poner su mano otra vez para recobrar el remanente de su pueblo que hubiere quedado de Asiria, de Egipto, de Patros, de Cus, de Elam, de Sinar, de Hamat y de las costas del mar. Y levantará pendón a las naciones, y juntará los desterrados de Israel, y reunirá los esparcidos de Yehudá de los cuatro confines de la tierra.
+
+**13-14** Y se disipará la envidia de Efraín, y los enemigos de Yehudá serán destruidos; Efraín no tendrá envidia de Yehudá, ni Yehudá afligirá a Efraín. Volarán sobre los hombros de los filisteos al occidente, saquearán juntamente a los hijos del oriente; Edom y Moab les servirán, y los hijos de Amón les serán obedientes.
+
+**15-16** Y secará YHWH la lengua del mar de Egipto; y levantará su mano con vehemencia de su espíritu sobre el río, y lo herirá en sus siete brazos, y hará que pasen por él con sandalias. Y habrá camino para el remanente de su pueblo, el que quedó de Asiria, de la manera que lo hubo para Israel el día que subió de la tierra de Egipto.
+
+## 1QIsaa · Isaías 12
+
+**1-2** Y dirás en aquel día: te alabaré, oh YHWH; aunque te enojaste contra mí, tu ira se apartó, y me has consolado. He aquí, Elohim es mi salvación; me aseguraré, y no temeré; porque mi fortaleza y mi cántico es YAH, YHWH, quien ha sido salvación para mí.
+
+**3-4** Sacaréis con gozo aguas de las fuentes de la salvación. Y diréis en aquel día: alabad a YHWH, invocad su nombre, dad a conocer en los pueblos sus obras, recordad que su nombre es engrandecido.
+
+**5-6** Cantad salmos a YHWH, porque ha hecho cosas magníficas; sea sabido esto en toda la tierra. Regocíjate y canta, moradora de Sión; porque grande es en medio de ti el Santo de Israel.
+
+## 1QIsaa · Isaías 13
+
+**1-2** Profecía sobre Babilonia, que vio Yeshayahu hijo de Amotz. Levantad bandera sobre un monte alto; alzad la voz a ellos, alzad la mano, para que entren por puertas de príncipes.
+
+**3-5** Yo mandé a mis consagrados, asimismo llamé a mis valientes para ejecutar mi ira, a los que se alegran con mi gloria. Estruendo de multitud en los montes, como de mucho pueblo; estruendo de ruido de reinos, de naciones reunidas; YHWH de los ejércitos pasa revista al ejército de la batalla. Vienen de lejana tierra, de lo postrero de los cielos, YHWH y los instrumentos de su furor, para destruir toda la tierra.
+
+**6-8** Aullad, porque cerca está el día de YHWH; vendrá como destrucción de parte del Todopoderoso. Por tanto, se debilitarán todas las manos, y desfallecerá todo corazón de hombre; y se llenarán de terror; angustias y dolores les tomarán; tendrán dolores como mujer de parto; se asombrará cada cual al mirar a su compañero; sus rostros, rostros de llamas.
+
+**9-10** He aquí el día de YHWH viene, terrible, y de indignación y de ardor de ira, para convertir la tierra en soledad, y raer de ella a los pecadores. Por lo cual las estrellas de los cielos y sus luceros no darán su luz; y el sol se oscurecerá al nacer, y la luna no dará su resplandor.
+
+**11-12** Y castigaré al mundo por su maldad, y a los impíos por su iniquidad; y haré que cese la arrogancia de los soberbios, y abatiré la altivez de los fuertes. Haré más precioso que el oro fino al varón, y más que el oro de Ofir al hombre.
+
+**13-14** Porque haré estremecer los cielos, y la tierra se moverá de su lugar, en la indignación de YHWH de los ejércitos, y en el día de su ardiente ira. Y será como corza asustada, y como oveja sin pastor; cada cual mirará hacia su pueblo, y cada uno huirá a su tierra.
+
+**15-16** Cualquiera que fuere hallado será alanceado; y cualquiera que a ellos se junte, caerá a espada. Sus niños serán estrellados delante de ellos; sus casas serán saqueadas, y sus mujeres se acostarán con ellos²⁸.
+
+**17-18** He aquí que yo despierto contra ellos a los medos, que no estimarán la plata, ni codiciarán oro. Y con arcos tirarán a los jóvenes, y no tendrán misericordia del fruto del vientre, ni su ojo perdonará a los niños.
+
+**19-20** Y Babilonia, hermosura de reinos y ornamento de la grandeza de los caldeos, será como Sodoma y Gomorra, a las que trastornó Elohim. Nunca más será habitada, ni se morará en ella de generación en generación; ni levantará allí tienda el árabe, ni pastores tendrán allí majada.
+
+**21-22** Sino que dormirán allí fieras del desierto, y sus casas se llenarán de hurones; allí habitarán hijas del búho, y allí saltarán sátiros. Y en sus palacios gritarán hienas, y chacales en sus palacios de placer; y su tiempo está para llegar, y sus días no se alargarán.
+
+## 1QIsaa · Isaías 14
+
+**1-2** Porque YHWH tendrá piedad de Yaakov, y todavía escogerá a Israel, y los hará reposar en su tierra; y se juntará con ellos el extranjero, y se allegará a la casa de Yaakov. Y los tomarán los pueblos, y los traerán a su lugar; y la casa de Israel los poseerá por siervos y criadas en la tierra de YHWH; y cautivarán a los que los cautivaron, y señorearán sobre los que los oprimían.
+
+**3-4** Y en el día que YHWH te dé reposo de tu trabajo y de tu temor, y de la dura servidumbre en que te hicieron servir, pronunciarás este proverbio contra el rey de Babilonia, y dirás: ¡cómo paró el opresor, cómo acabó el tributo!
+
+**5-6** Quebrantó YHWH el báculo de los impíos, el cetro de los señores; el que hería a los pueblos con furor, con llaga permanente, el que se enseñoreaba de las naciones con ira, y las perseguía sin dejarlas descansar.
+
+**7-8** Toda la tierra está en reposo y en paz; se cantan alabanzas. Aun los cipreses se regocijan a causa de ti, y los cedros del Líbano, diciendo: desde que tú pereciste, no ha subido cortador contra nosotros.
+
+**9-10** El seol abajo se espanta por ti para encontrar tu venida; despierta por ti a los muertos, a todos los príncipes de la tierra; hizo levantar de sus tronos a todos los reyes de las naciones. Todos ellos darán voces, y te dirán: ¿también tú te debilitaste como nosotros, y llegaste a ser como nosotros?
+
+**11-12** Descendió al seol tu pompa, y el sonido de tus arpas; gusanos serán tu cama, y gusanos te cubrirán. ¡Cómo caíste del cielo, oh Lucero, hijo de la mañana! Cortado fuiste por tierra, tú que debilitabas a las naciones.
+
+**13-14** Tú que decías en tu corazón: subiré al cielo; en lo alto, junto a las estrellas de Elohim, levantaré mi trono, y en el monte del testimonio me sentaré, a los lados del norte; subiré sobre las alturas de las nubes, y seré semejante al Altísimo.
+
+**15** Mas tú derribado eres hasta el seol, a los lados del abismo.
+
+**16-17** Se inclinarán hacia ti los que te vean, te contemplarán, diciendo: ¿es este el varón que hacía temblar la tierra, que trastornaba los reinos; que puso al mundo como un desierto, que asoló sus ciudades, que a sus presos nunca abrió la cárcel?
+
+**18-19** Todos los reyes de las naciones, todos ellos yacen con honra cada uno en su casa; pero tú echado eres de tu sepulcro como vástago abominable, como vestido de muertos atravesados a espada, que descienden al fondo de la fosa, como cuerpo pisoteado.
+
+**20-21** No serás contado con ellos en la sepultura; porque tú destruiste tu tierra, mataste a tu pueblo; no será nombrada para siempre la descendencia de los malignos. Preparad matadero a sus hijos, por la maldad de sus padres; no se levanten, ni posean la tierra, ni llenen la faz del mundo de ciudades.
+
+**22-23** Porque me levantaré contra ellos, dice YHWH de los ejércitos, y raeré de Babilonia el nombre y las reliquias, hijo y nieto, dice YHWH. Y la convertiré en posesión de erizos, y en lagunas de aguas; y la barreré con escobas de destrucción, dice YHWH de los ejércitos.
+
+**24-26** YHWH de los ejércitos juró diciendo: de cierto que como lo pensé, tal será; y como lo he determinado, así permanecerá: que quebrantaré a Asiria en mi tierra, y en mis montes la hollaré; y su yugo será apartado de ellos, y su carga será quitada de su hombro. Este es el consejo acordado sobre toda la tierra, y esta es la mano extendida sobre todas las naciones.
+
+**27** Porque YHWH de los ejércitos lo ha determinado, ¿y quién lo invalidará? Y su mano extendida, ¿quién la hará tornar?
+
+**28** En el año que murió el rey Ajaz fue esta profecía.
+
+**29** No te alegres tú, Filistea toda, por haberse quebrado la vara del que te hería; porque de la raíz de la culebra saldrá basilisco, y su fruto será serpiente voladora.
+
+**30-31** Y los primogénitos de los pobres serán apacentados, y los menesterosos se acostarán seguros; mas yo haré morir de hambre tu raíz, y mataré²⁹ tu remanente. Aúlla, oh puerta; clama, oh ciudad; disuelta estás toda tú, Filistea; porque humo vendrá del norte, no quedará uno solo en sus asambleas.
+
+**32** ¿Qué se responderá a los mensajeros de esa nación? Que YHWH fundó a Sión, y que a ella se acogerán los afligidos de su pueblo.
+
 ---
 ---
 
@@ -268,6 +440,20 @@ A diferencia de Génesis y Éxodo, acá el texto es fragmentario y el hallazgo c
 **21 — לבב עמ׳ו, sin לבבו (7:2).** El TM tiene "וינע לבבו ולבב עמו" ("y se conmovió SU corazón [el de Ajaz] Y el corazón de su pueblo" — dos corazones, el del rey y el del pueblo). El rollo tiene solo "וינע לבב עמ׳ו" ("y se conmovió el corazón de su pueblo") — sin mencionar aparte el corazón del propio rey. Omisión real de una palabra y su conjunción, que simplifica el paralelismo original. E1.
 
 **22 — יהוה הוה, en vez de אדני הוא (7:14).** El verso más citado de todo este pasaje, inmediatamente antes de la señal de Emanuel. El TM tiene "לכן יתן אדני הוא לכם אות" ("por tanto, el Señor mismo os dará señal" — usando אדני, "mi Señor"). El rollo tiene, en su lugar, "לכן יתן יהוה הוה לכמה" — el nombre divino יהוה en vez de אדני, seguido de הוה ("mismo", la misma palabra que el TM tiene como הוא, aquí escrita con ה en vez de álef, un intercambio de guturales ya documentado en este rollo — cf. nota 1 sobre היכה/איכה en 1:21). Se verificó a nivel de palabra individual (línea 28, fragmento 6): ninguna de las dos palabras está dañada ni reconstruida. E1 el dato de la lectura; E3 su alcance interpretativo — no se puede resolver aquí si esta variante refleja una tradición textual distinta con implicaciones teológicas, o una sustitución más simple del epíteto por el nombre propio, cuestión que excede el alcance filológico de esta nota.
+
+**23 — והעד לי, imperativo (8:2).** El TM tiene וְאָעִידָה לִּי, forma cohortativa en primera persona ("y TOMARÉ YO testigos para mí") — el profeta narra su propia acción, rompiendo la cadena de órdenes divinas de los versos anteriores (toma... escribe...). El rollo tiene והעד לי, imperativo hifil ("toma testigos para mí"), que continúa la misma cadena de mandatos en segunda persona con que empieza el pasaje. Cambio real de forma verbal que decide si Yeshayahu recibe una orden más, o si pasa a narrar en primera persona lo que él mismo hace. E1.
+
+**24 — הנביא, sin la ה final (8:3).** El TM tiene הַנְּבִיאָה ("la profetisa"), designación explícita y poco común para la esposa de Yeshayahu. El rollo tiene הנביא, sin la ה final que marca el femenino — aunque los verbos que siguen inmediatamente (ותהר, "concibió"; ותלד, "dio a luz") están en femenino, dejando claro que el referente sigue siendo una mujer. Es más probable que se trate de un descuido del copista al omitir una sola letra, que de una lectura deliberada distinta. E1 el dato de la grafía; D2 la lectura de que se trata de un simple descuido, no de una variante consciente — interpretación menor y no verificable con certeza.
+
+**25 — התאזרו וחותו, una sola vez (8:9-10).** El TM repite la fórmula "ceñíos y seréis quebrantados" dos veces seguidas ("התאזרו וחתו התאזרו וחתו"), como un estribillo dramático. El rollo la tiene una sola vez. Es el tercer caso, dentro de los capítulos ya decodificados de este rollo, en que 1QIsaa conserva una sola instancia de una frase que el TM repite dos o tres veces — el mismo patrón ya visto en "seis alas" (nota 19, 6:2) y en el Trisagio (nota 20, 6:3). E1 el dato puntual; D1 la lectura de que se trata de un rasgo recurrente del perfil textual de este rollo frente al TM, no de un hecho aislado.
+
+**26 — יסיר׳נו, tercera persona (8:11).** El TM tiene וַיִּסְּרֵנִי ("y me advirtió/instruyó a MÍ", primera persona, de la raíz יסר "instruir, disciplinar"); el rollo tiene יסיר׳נו ("lo aparta A ÉL", tercera persona, de la raíz סור "apartar, desviar") — no solo cambia la persona gramatical (a quién se dirige la advertencia), sino también la raíz verbal misma. E1 el dato de la lectura; E3 a quién se refiere el "él" del rollo si no es el propio profeta, pregunta que el propio pasaje no resuelve.
+
+**27 — יחמול, "tendrá compasión" (9:16).** El TM tiene יִשְׂמַח ("se alegrará", de la raíz שמח) — una lectura que ha intrigado a los comentaristas, porque resulta extraño decir que el Señor "no se alegrará" de sus jóvenes en un contexto de juicio. El rollo tiene יחמול ("tendrá compasión/piedad", de la raíz חמל), una raíz completamente distinta que encaja con más naturalidad en el contexto. E1 el dato de la sustitución; E3 cuál de las dos lecturas es la más antigua, crux real de la crítica textual de este pasaje.
+
+**28 — תשכבנה, "se acostarán" (13:16).** El TM tiene תִּשָּׁגַלְנָה, un verbo explícito para la violación sexual de las mujeres en la conquista (raíz שגל, la misma que la tradición rabínica marcaba como término que debía sustituirse por uno más suave al leerse en voz alta — un caso ya documentado de corrección eufemística, cf. tiqqune soferim). El rollo tiene, en su lugar, תשכבנה ("se acostarán", raíz שכב, más común y menos explícita). E1 el dato de la sustitución; D1 la lectura de que se trata de un eufemismo real conservado en el propio texto del rollo, del mismo tipo que la tradición rabínica documenta para este verbo en otros pasajes.
+
+**29 — אהרוג, primera persona (14:30).** El TM tiene יַהֲרֹג ("él matará", o en lectura pasiva "será matado" — la forma es ambigua), tercera persona; el rollo tiene אהרוג ("yo mataré"), primera persona, sin ambigüedad: es YHWH mismo quien habla en primera persona y anuncia la acción directamente. E1 el dato de la lectura; D1 la lectura de que el rollo resuelve a favor de la voz divina directa una ambigüedad gramatical real que el TM deja abierta.
 
 ---
 ---
