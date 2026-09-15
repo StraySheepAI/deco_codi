@@ -1,4 +1,4 @@
-# Coding the Bible — Éxodo 1 a 36
+# Coding the Bible — Éxodo 1 a 40 (libro completo)
 ### Lectura DIMA. Motor sobre datos reales (OSHB / Códice de Leningrado).
 
 ---
@@ -943,6 +943,60 @@
 
 **8-38** [Relata la construcción de las cortinas, tablas, barras y velo del tabernáculo, ejecutando punto por punto el diseño ya especificado en Éxodo 26; se omite la repetición.]
 
+## Éxodo 37
+
+**1-29** [Betzalel construye el arca y el propiciatorio con sus querubines, la mesa, el candelero y el altar del incienso, conforme a las medidas y materiales ya especificados en Éxodo 25 y 30:1-10, 34-38; se omite la repetición.]
+
+## Éxodo 38
+
+**1-20** [Se construyen el altar de bronce, la fuente y el atrio, conforme a las especificaciones ya dadas en Éxodo 27 y 30:17-21; se omite la repetición.]
+
+**21** Estas son las cuentas del tabernáculo, del tabernáculo del testimonio, hechas conforme a la orden de Moshé por mano de los levitas, bajo la dirección de Itamar hijo de Aarón el sacerdote¹⁵¹.
+
+**22-23** Y Betzalel hijo de Uri, hijo de Hur, de la tribu de Judá, hizo todas las cosas que YHWH mandó a Moshé. Y con él estaba Aholiab hijo de Ahisamac, de la tribu de Dan, artífice, diseñador y recamador en azul, púrpura, carmesí y lino fino.
+
+**24-26** Todo el oro empleado en la obra, en toda la obra del santuario, el cual fue oro de ofrenda, llegó a veintinueve talentos y setecientos treinta siclos, según el siclo del santuario. Y la plata de los contados de la congregación fue cien talentos, y mil setecientos setenta y cinco siclos, según el siclo del santuario; medio siclo por cabeza, la mitad de un siclo, según el siclo del santuario, de todos los que pasaron por el censo, de veinte años arriba, que fueron seiscientos tres mil quinientos cincuenta hombres¹⁵².
+
+**27-28** Hubo además cien talentos de plata para fundir las basas del santuario y las basas del velo; en cien basas cien talentos, un talento por basa. Y de los mil setecientos setenta y cinco siclos hizo los capiteles de las columnas, y cubrió sus capiteles, y las ciñó.
+
+**29-31** Y el bronce de la ofrenda fue setenta talentos y dos mil cuatrocientos siclos; del cual hizo las basas de la puerta del tabernáculo de reunión, y el altar de bronce y su enrejado de bronce, y todos los utensilios del altar, y las basas del atrio alrededor, y las basas de la puerta del atrio, y todas las estacas del tabernáculo, y todas las estacas del atrio alrededor.
+
+## Éxodo 39
+
+**1-31** [Se confeccionan el efod, el pectoral con las doce piedras, el manto, la lámina de oro y las vestiduras de Aarón y sus hijos, conforme a las especificaciones ya dadas en Éxodo 28; se omite la repetición. A lo largo de estos versículos se repite, siete veces, la fórmula "como YHWH mandó a Moshé" — cierre reiterado de cada pieza terminada, ausente en el capítulo de las instrucciones y añadido recién acá, en el de la ejecución.]
+
+**32** Y fue terminada toda la obra del tabernáculo, del tabernáculo de reunión; e hicieron los hijos de Israel conforme a todo lo que YHWH había mandado a Moshé; así lo hicieron.
+
+**33-37** Y trajeron el tabernáculo a Moshé, el tabernáculo y todos sus utensilios; sus corchetes, sus tablas, sus barras, sus columnas y sus basas; la cubierta de pieles de carneros teñidas de rojo, la cubierta de pieles de tejones, y el velo de la tienda; el arca del testimonio y sus varas, y el propiciatorio; la mesa, todos sus utensilios, y el pan de la presencia; el candelero limpio, sus lámparas, las lámparas que debían mantenerse en orden, y todos sus utensilios, y el aceite para la luminaria.
+
+**38-41** El altar de oro, el aceite de la unción, el incienso aromático, y la cortina para la puerta del tabernáculo; el altar de bronce con su enrejado de bronce, sus varas y todos sus utensilios; la fuente y su base; las cortinas del atrio, sus columnas y sus basas, la cortina para la puerta del atrio, sus cuerdas y sus estacas, y todos los utensilios del servicio del tabernáculo, del tabernáculo de reunión; las vestiduras del servicio para ministrar en el santuario, las vestiduras santas para Aarón el sacerdote, y las vestiduras de sus hijos para ejercer el sacerdocio.
+
+**42-43** En conformidad con todo lo que YHWH había mandado a Moshé, así hicieron los hijos de Israel toda la obra¹⁵³. Y vio Moshé toda la obra, y he aquí que la habían hecho conforme a lo que YHWH había mandado; así la habían hecho; y los bendijo Moshé¹⁵⁴.
+
+## Éxodo 40
+
+**1-2** Y YHWH habló a Moshé, diciendo: en el día primero del mes primero harás levantar el tabernáculo, el tabernáculo de reunión¹⁵⁵.
+
+**3-8** Y pondrás allí el arca del testimonio, y la cubrirás con el velo. Y meterás la mesa, y la pondrás en orden; meterás también el candelero, y encenderás sus lámparas. Y pondrás el altar de oro para el incienso delante del arca del testimonio, y pondrás la cortina a la puerta del tabernáculo. Después pondrás el altar del holocausto delante de la puerta del tabernáculo, del tabernáculo de reunión. Luego pondrás la fuente entre el tabernáculo de reunión y el altar, y pondrás agua en ella. Finalmente, pondrás el atrio en derredor, y la cortina a la entrada del atrio.
+
+**9-11** Y tomarás el aceite de la unción y ungirás el tabernáculo, y todo lo que está en él; y lo santificarás con todos sus utensilios, y será santo. Ungirás también el altar del holocausto y todos sus utensilios; y santificarás el altar, y será un altar santísimo. Asimismo ungirás la fuente y su base, y la santificarás.
+
+**12-15** Y harás llegar a Aarón y a sus hijos a la puerta del tabernáculo de reunión, y los lavarás con agua. Y harás vestir a Aarón las vestiduras sagradas, y lo ungirás, y lo consagrarás, para que sea mi sacerdote. Después harás llegar a sus hijos, y les vestirás las túnicas. Y los ungirás como ungiste a su padre, y serán mis sacerdotes; y su unción les servirá por sacerdocio perpetuo por sus generaciones.
+
+**16-17** Y Moshé hizo conforme a todo lo que YHWH le mandó; así lo hizo. Así en el mes primero, en el segundo año, en el primer día del mes, el tabernáculo fue erigido¹⁵⁶.
+
+**18-21** Y Moshé hizo levantar el tabernáculo, y asentó sus basas, y colocó sus tablas, y puso sus barras, e hizo alzar sus columnas. Y extendió la tienda sobre el tabernáculo, y puso la cubierta de la tienda sobre ella, como YHWH había mandado a Moshé. Y tomó el testimonio y lo puso dentro del arca, y colocó las varas en el arca, y puso el propiciatorio encima del arca. Llevó el arca al tabernáculo, y puso el velo de la cortina, y cubrió el arca del testimonio, como YHWH había mandado a Moshé.
+
+**22-25** Puso también la mesa en el tabernáculo de reunión, al lado norte del tabernáculo, fuera del velo. Y sobre ella puso en orden el pan delante de YHWH, como YHWH había mandado a Moshé. Puso asimismo el candelero en el tabernáculo de reunión, enfrente de la mesa, al lado sur del tabernáculo. Y encendió las lámparas delante de YHWH, como YHWH había mandado a Moshé.
+
+**26-29** Puso también el altar de oro en el tabernáculo de reunión, delante del velo, y quemó sobre él incienso aromático, como YHWH había mandado a Moshé. Puso además la cortina de la puerta del tabernáculo. Y puso el altar del holocausto a la puerta del tabernáculo, del tabernáculo de reunión, y ofreció sobre él el holocausto y la ofrenda, como YHWH había mandado a Moshé.
+
+**30-33** Y puso la fuente entre el tabernáculo de reunión y el altar, y puso en ella agua para lavarse. Y Moshé y Aarón y sus hijos lavaban en ella sus manos y sus pies. Cuando entraban en el tabernáculo de reunión, y cuando se acercaban al altar, se lavaban, como YHWH había mandado a Moshé. Finalmente, levantó el atrio en derredor del tabernáculo y del altar, y puso la cortina de la puerta del atrio. Y así acabó Moshé la obra.
+
+**34-35** Entonces una nube cubrió el tabernáculo de reunión, y la gloria de YHWH llenó el tabernáculo¹⁵⁷. Y no podía Moshé entrar en el tabernáculo de reunión, porque la nube estaba sobre él, y la gloria de YHWH lo llenaba¹⁵⁸.
+
+**36-38** Y cuando la nube se alzaba del tabernáculo, los hijos de Israel partían en todos sus viajes. Pero si la nube no se alzaba, no partían hasta el día en que ella se alzaba. Porque la nube de YHWH estaba de día sobre el tabernáculo, y de noche había fuego en ella, ante los ojos de toda la casa de Israel, en todas sus jornadas¹⁵⁹.
+
 ---
 ---
 
@@ -1249,6 +1303,24 @@
 **149 — lo tevaaru esh bechol moshevoteijem beyom hashabbat / no encenderéis fuego... en el día del sábado (35:3).** Único trabajo prohibido del sábado que el corpus especifica por su nombre concreto — todas las demás menciones (20:8-11, 23:12, 31:14-17) hablan de "melajá" en términos generales, sin ejemplo particular. E1.
 
 **150 — vayikale ha'am mehavi / fue impedido el pueblo de traer más (36:6).** Único caso en todo el corpus donde una colecta religiosa debe detenerse por exceso, no por falta — el propio texto explica la razón sin rodeos: el material disponible superaba lo necesario para toda la obra (36:7). E1.
+
+**151 — beyad ha'Leviim beyad Itamar ben Aharon hakohen / por mano de los levitas, bajo la dirección de Itamar hijo de Aarón el sacerdote (38:21).** Primera vez que se nombra a un hijo de Aarón —no Aarón mismo— al frente de una responsabilidad administrativa concreta (la contabilidad de los materiales del tabernáculo); función distinta de la sacerdotal ritual que ejercerá junto a sus hermanos. E1.
+
+**152 — shesh me'ot elef ushloshet alafim vachamesh me'ot vachamishim / seiscientos tres mil quinientos cincuenta hombres (38:26).** La misma cifra de varones mayores de veinte años ya implicada por el rescate del censo instituido en 30:11-16, ahora usada para verificar la cuenta exacta de la plata recogida (medio siclo por persona) — el propio texto hace explícito el cálculo que solo se sugería en el capítulo anterior. E1.
+
+**153 — ka'asher tzivah YHWH et Moshe / como YHWH mandó a Moshé (39:42, repetido siete veces a lo largo de todo el capítulo).** Fórmula de cierre que no aparece en el capítulo de instrucciones (Éxodo 28) pero se añade sistemáticamente acá, pieza por pieza, en el capítulo de ejecución — un estribillo de obediencia verificada que estructura el relato entero de la construcción, de manera análoga al "y fue así" que cierra cada día de la creación (cf. Génesis 1). E1 el dato de la fórmula repetida; D1 el paralelo estructural con el relato de la creación.
+
+**154 — vayevarej otam Moshe / y los bendijo Moshé (39:43).** Primera vez que Moshé, y no YHWH, pronuncia una bendición sobre el pueblo en el corpus de Éxodo — gesto que cierra el bloque completo de instrucciones y construcción del tabernáculo antes del capítulo final de su erección. E1.
+
+**155 — et hamishkan ohel moed / el tabernáculo, el tabernáculo de reunión (40:2).** Los dos nombres que hasta acá designaban cosas distintas —el "mishkán" diseñado en los capítulos 25-31, y el "ohel moed" provisorio que Moshé había plantado fuera del campamento (cf. nota 142, 33:7)— se funden aquí en una sola estructura y un solo nombre compuesto; la tienda improvisada queda reemplazada por la construida según el diseño. E1.
+
+**156 — bachodesh harishon bashanah hashenit / en el mes primero, en el segundo año (40:17).** Cierra el marco cronológico abierto en 12:2 (el mes del éxodo como "principio de los meses") y en 19:1 (la llegada al Sinaí "al tercer mes"): el tabernáculo queda erigido exactamente un año después de la salida de Egipto. E1.
+
+**157 — uchvod YHWH male et hamishkan / y la gloria de YHWH llenó el tabernáculo (40:34).** Cumplimiento literal de la promesa hecha en 25:8 ("me harán un santuario, y habitaré en medio de ellos," nota 113) y reiterada en 29:45-46 (nota 129) — el libro entero, desde las instrucciones del capítulo 25, converge en esta única frase de cierre. E1.
+
+**158 — velo yachol Moshe lavo el ohel moed / y no podía Moshé entrar en el tabernáculo de reunión (40:35).** Inversión exacta de la situación descrita en 33:7-11, donde Moshé entraba y salía libremente de la tienda provisoria para hablar con YHWH "cara a cara" (nota 143) — ahora, ante la densidad de la gloria que llena el santuario recién terminado, ni siquiera Moshé puede entrar. E1 el dato textual; D1 la lectura del contraste entre ambos episodios.
+
+**159 — ki anan YHWH al hamishkan yomam ve'esh tihyeh laylah bo / la nube de YHWH estaba de día sobre el tabernáculo, y de noche había fuego en ella (40:38).** Retoma la misma doble señal —columna de nube de día, columna de fuego de noche— ya descrita en el éxodo de Egipto (13:21-22, nota 61), ahora fija sobre el tabernáculo en vez de moviéndose delante del pueblo por el desierto; cierre del libro entero con la imagen que lo abrió en su tramo narrativo central. E1.
 
 ---
 ---
