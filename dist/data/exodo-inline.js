@@ -1178,859 +1178,404 @@ window.EXODO_DATA={
     ],
     "19": [
       {
-        "number": "1",
-        "hebrew": "בַּחֹ֨דֶשׁ֙ הַשְּׁלִישִׁ֔י לְצֵ֥את בְּנֵי־ יִשְׂרָאֵ֖ל מֵאֶ֣רֶץ מִצְרָ֑יִם בַּיּ֣וֹם הַזֶּ֔ה בָּ֖אוּ מִדְבַּ֥ר סִינָֽי׃",
-        "text": null
+        "number": "1-2",
+        "hebrew": "בַּחֹ֨דֶשׁ֙ הַשְּׁלִישִׁ֔י לְצֵ֥את בְּנֵי־ יִשְׂרָאֵ֖ל מֵאֶ֣רֶץ מִצְרָ֑יִם בַּיּ֣וֹם הַזֶּ֔ה בָּ֖אוּ מִדְבַּ֥ר סִינָֽי׃ וַיִּסְע֣וּ מֵרְפִידִ֗ים וַיָּבֹ֨אוּ֙ מִדְבַּ֣ר סִינַ֔י וַֽיַּחֲנ֖וּ בַּמִּדְבָּ֑ר וַיִּֽחַן־ שָׁ֥ם יִשְׂרָאֵ֖ל נֶ֥גֶד הָהָֽר׃",
+        "text": "Al mes tercero de la salida de los hijos de Israel de la tierra de Egipto, en aquel mismo día llegaron al desierto de Sinaí. Habían partido de Refidim, y llegaron al desierto de Sinaí, y acamparon en el desierto; y acampó allí Israel delante del monte."
       },
       {
-        "number": "2",
-        "hebrew": "וַיִּסְע֣וּ מֵרְפִידִ֗ים וַיָּבֹ֨אוּ֙ מִדְבַּ֣ר סִינַ֔י וַֽיַּחֲנ֖וּ בַּמִּדְבָּ֑ר וַיִּֽחַן־ שָׁ֥ם יִשְׂרָאֵ֖ל נֶ֥גֶד הָהָֽר׃",
-        "text": null
+        "number": "3-4",
+        "hebrew": "וּמֹשֶׁ֥ה עָלָ֖ה אֶל־ הָאֱלֹהִ֑ים וַיִּקְרָ֨א אֵלָ֤יו יְהוָה֙ מִן־ הָהָ֣ר לֵאמֹ֔ר כֹּ֤ה תֹאמַר֙ לְבֵ֣ית יַעֲקֹ֔ב וְתַגֵּ֖יד לִבְנֵ֥י יִשְׂרָאֵֽל׃ אַתֶּ֣ם רְאִיתֶ֔ם אֲשֶׁ֥ר עָשִׂ֖יתִי לְמִצְרָ֑יִם וָאֶשָּׂ֤א אֶתְכֶם֙ עַל־ כַּנְפֵ֣י נְשָׁרִ֔ים וָאָבִ֥א אֶתְכֶ֖ם אֵלָֽי׃",
+        "text": "Y Moshé subió a Elohim; y YHWH lo llamó desde el monte, diciendo: así dirás a la casa de Jacob, y anunciarás a los hijos de Israel: vosotros visteis lo que hice a los egipcios, y cómo os tomé sobre alas de águilas, y os he traído a mí."
       },
       {
-        "number": "3",
-        "hebrew": "וּמֹשֶׁ֥ה עָלָ֖ה אֶל־ הָאֱלֹהִ֑ים וַיִּקְרָ֨א אֵלָ֤יו יְהוָה֙ מִן־ הָהָ֣ר לֵאמֹ֔ר כֹּ֤ה תֹאמַר֙ לְבֵ֣ית יַעֲקֹ֔ב וְתַגֵּ֖יד לִבְנֵ֥י יִשְׂרָאֵֽל׃",
-        "text": null
+        "number": "5-6",
+        "hebrew": "וְעַתָּ֗ה אִם־ שָׁמ֤וֹעַ תִּשְׁמְעוּ֙ בְּקֹלִ֔י וּשְׁמַרְתֶּ֖ם אֶת־ בְּרִיתִ֑י וִהְיִ֨יתֶם לִ֤י סְגֻלָּה֙ מִכָּל־ הָ֣עַמִּ֔ים כִּי־ לִ֖י כָּל־ הָאָֽרֶץ׃ וְאַתֶּ֧ם תִּהְיוּ־ לִ֛י מַמְלֶ֥כֶת כֹּהֲנִ֖ים וְג֣וֹי קָד֑וֹשׁ אֵ֚לֶּה הַדְּבָרִ֔ים אֲשֶׁ֥ר תְּדַבֵּ֖ר אֶל־ בְּנֵ֥י יִשְׂרָאֵֽל׃",
+        "text": "Ahora, pues, si diereis oído a mi voz, y guardareis mi pacto, vosotros seréis mi propiedad exclusiva más que todos los pueblos, porque mía es toda la tierra. Y vosotros me seréis un reino de sacerdotes, y nación consagrada⁸⁵. Estas son las palabras que dirás a los hijos de Israel."
       },
       {
-        "number": "4",
-        "hebrew": "אַתֶּ֣ם רְאִיתֶ֔ם אֲשֶׁ֥ר עָשִׂ֖יתִי לְמִצְרָ֑יִם וָאֶשָּׂ֤א אֶתְכֶם֙ עַל־ כַּנְפֵ֣י נְשָׁרִ֔ים וָאָבִ֥א אֶתְכֶ֖ם אֵלָֽי׃",
-        "text": null
+        "number": "7-8",
+        "hebrew": "וַיָּבֹ֣א מֹשֶׁ֔ה וַיִּקְרָ֖א לְזִקְנֵ֣י הָעָ֑ם וַיָּ֣שֶׂם לִפְנֵיהֶ֗ם אֵ֚ת כָּל־ הַדְּבָרִ֣ים הָאֵ֔לֶּה אֲשֶׁ֥ר צִוָּ֖הוּ יְהוָֽה׃ וַיַּעֲנ֨וּ כָל־ הָעָ֤ם יַחְדָּו֙ וַיֹּ֣אמְר֔וּ כֹּ֛ל אֲשֶׁר־ דִּבֶּ֥ר יְהוָ֖ה נַעֲשֶׂ֑ה וַיָּ֧שֶׁב מֹשֶׁ֛ה אֶת־ דִּבְרֵ֥י הָעָ֖ם אֶל־ יְהוָֽה׃",
+        "text": "Entonces vino Moshé, y llamó a los ancianos del pueblo, y les expuso todas estas palabras que YHWH le había mandado. Y todo el pueblo respondió a una, y dijeron: haremos todas las cosas que YHWH ha dicho. Y Moshé refirió las palabras del pueblo a YHWH."
       },
       {
-        "number": "5",
-        "hebrew": "וְעַתָּ֗ה אִם־ שָׁמ֤וֹעַ תִּשְׁמְעוּ֙ בְּקֹלִ֔י וּשְׁמַרְתֶּ֖ם אֶת־ בְּרִיתִ֑י וִהְיִ֨יתֶם לִ֤י סְגֻלָּה֙ מִכָּל־ הָ֣עַמִּ֔ים כִּי־ לִ֖י כָּל־ הָאָֽרֶץ׃",
-        "text": null
+        "number": "9-11",
+        "hebrew": "וַיֹּ֨אמֶר יְהוָ֜ה אֶל־ מֹשֶׁ֗ה הִנֵּ֨ה אָנֹכִ֜י בָּ֣א אֵלֶיךָ֮ בְּעַ֣ב הֶֽעָנָן֒ בַּעֲב֞וּר יִשְׁמַ֤ע הָעָם֙ בְּדַבְּרִ֣י עִמָּ֔ךְ וְגַם־ בְּךָ֖ יַאֲמִ֣ינוּ לְעוֹלָ֑ם וַיַּגֵּ֥ד מֹשֶׁ֛ה אֶת־ דִּבְרֵ֥י הָעָ֖ם אֶל־ יְהוָֽה׃ וַיֹּ֨אמֶר יְהוָ֤ה אֶל־ מֹשֶׁה֙ לֵ֣ךְ אֶל־ הָעָ֔ם וְקִדַּשְׁתָּ֥ם הַיּ֖וֹם וּמָחָ֑ר וְכִבְּס֖וּ שִׂמְלֹתָֽם׃ וְהָי֥וּ נְכֹנִ֖ים לַיּ֣וֹם הַשְּׁלִישִׁ֑י כִּ֣י ׀ בַּיּ֣וֹם הַשְּׁלִישִׁ֗י יֵרֵ֧ד יְהוָ֛ה לְעֵינֵ֥י כָל־ הָעָ֖ם עַל־ הַ֥ר סִינָֽי׃",
+        "text": "Y YHWH dijo a Moshé: he aquí, yo vengo a ti en una nube densa, para que el pueblo oiga mientras yo hablo contigo, y también para que te crean para siempre. Y Moshé refirió las palabras del pueblo a YHWH. Y YHWH dijo a Moshé: ve al pueblo, y santifícalos hoy y mañana, y laven sus vestidos; y estén apercibidos para el día tercero, porque al tercer día YHWH descenderá, a ojos de todo el pueblo, sobre el monte de Sinaí."
       },
       {
-        "number": "6",
-        "hebrew": "וְאַתֶּ֧ם תִּהְיוּ־ לִ֛י מַמְלֶ֥כֶת כֹּהֲנִ֖ים וְג֣וֹי קָד֑וֹשׁ אֵ֚לֶּה הַדְּבָרִ֔ים אֲשֶׁ֥ר תְּדַבֵּ֖ר אֶל־ בְּנֵ֥י יִשְׂרָאֵֽל׃",
-        "text": null
+        "number": "12-13",
+        "hebrew": "וְהִגְבַּלְתָּ֤ אֶת־ הָעָם֙ סָבִ֣יב לֵאמֹ֔ר הִשָּׁמְר֥וּ לָכֶ֛ם עֲל֥וֹת בָּהָ֖ר וּנְגֹ֣עַ בְּקָצֵ֑הוּ כָּל־ הַנֹּגֵ֥עַ בָּהָ֖ר מ֥וֹת יוּמָֽת׃ לֹא־ תִגַּ֨ע בּ֜וֹ יָ֗ד כִּֽי־ סָק֤וֹל יִסָּקֵל֙ אוֹ־ יָרֹ֣ה יִיָּרֶ֔ה אִם־ בְּהֵמָ֥ה אִם־ אִ֖ישׁ לֹ֣א יִחְיֶ֑ה בִּמְשֹׁךְ֙ הַיֹּבֵ֔ל הֵ֖מָּה יַעֲל֥וּ בָהָֽר׃",
+        "text": "Y señalarás término al pueblo en derredor, diciendo: guardaos, no subáis al monte, ni toquéis su término; cualquiera que tocare el monte, de seguro morirá⁸⁶. No lo tocará mano, porque será apedreado o asaeteado; sea animal o sea hombre, no vivirá. En habiendo sonado largamente la bocina, subirán al monte."
       },
       {
-        "number": "7",
-        "hebrew": "וַיָּבֹ֣א מֹשֶׁ֔ה וַיִּקְרָ֖א לְזִקְנֵ֣י הָעָ֑ם וַיָּ֣שֶׂם לִפְנֵיהֶ֗ם אֵ֚ת כָּל־ הַדְּבָרִ֣ים הָאֵ֔לֶּה אֲשֶׁ֥ר צִוָּ֖הוּ יְהוָֽה׃",
-        "text": null
+        "number": "14-15",
+        "hebrew": "וַיֵּ֧רֶד מֹשֶׁ֛ה מִן־ הָהָ֖ר אֶל־ הָעָ֑ם וַיְקַדֵּשׁ֙ אֶת־ הָעָ֔ם וַֽיְכַבְּס֖וּ שִׂמְלֹתָֽם׃ וַיֹּ֨אמֶר֙ אֶל־ הָעָ֔ם הֱי֥וּ נְכֹנִ֖ים לִשְׁלֹ֣שֶׁת יָמִ֑ים אַֽל־ תִּגְּשׁ֖וּ אֶל־ אִשָּֽׁה׃",
+        "text": "Y descendió Moshé del monte al pueblo, y santificó al pueblo, y lavaron sus vestidos. Y dijo al pueblo: estad apercibidos para el tercer día; no toquéis mujer."
       },
       {
-        "number": "8",
-        "hebrew": "וַיַּעֲנ֨וּ כָל־ הָעָ֤ם יַחְדָּו֙ וַיֹּ֣אמְר֔וּ כֹּ֛ל אֲשֶׁר־ דִּבֶּ֥ר יְהוָ֖ה נַעֲשֶׂ֑ה וַיָּ֧שֶׁב מֹשֶׁ֛ה אֶת־ דִּבְרֵ֥י הָעָ֖ם אֶל־ יְהוָֽה׃",
-        "text": null
+        "number": "16-17",
+        "hebrew": "וַיְהִי֩ בַיּ֨וֹם הַשְּׁלִישִׁ֜י בִּֽהְיֹ֣ת הַבֹּ֗קֶר וַיְהִי֩ קֹלֹ֨ת וּבְרָקִ֜ים וְעָנָ֤ן כָּבֵד֙ עַל־ הָהָ֔ר וְקֹ֥ל שֹׁפָ֖ר חָזָ֣ק מְאֹ֑ד וַיֶּחֱרַ֥ד כָּל־ הָעָ֖ם אֲשֶׁ֥ר בַּֽמַּחֲנֶֽה׃ וַיּוֹצֵ֨א מֹשֶׁ֧ה אֶת־ הָעָ֛ם לִקְרַ֥את הָֽאֱלֹהִ֖ים מִן־ הַֽמַּחֲנֶ֑ה וַיִּֽתְיַצְּב֖וּ בְּתַחְתִּ֥ית הָהָֽר׃",
+        "text": "Y aconteció al tercer día, cuando vino la mañana, que vinieron truenos y relámpagos, y una nube espesa sobre el monte, y sonido de bocina muy fuerte; y se estremeció todo el pueblo que estaba en el campamento. Y Moshé sacó del campamento al pueblo a recibir a Elohim; y se detuvieron al pie del monte."
       },
       {
-        "number": "9",
-        "hebrew": "וַיֹּ֨אמֶר יְהוָ֜ה אֶל־ מֹשֶׁ֗ה הִנֵּ֨ה אָנֹכִ֜י בָּ֣א אֵלֶיךָ֮ בְּעַ֣ב הֶֽעָנָן֒ בַּעֲב֞וּר יִשְׁמַ֤ע הָעָם֙ בְּדַבְּרִ֣י עִמָּ֔ךְ וְגַם־ בְּךָ֖ יַאֲמִ֣ינוּ לְעוֹלָ֑ם וַיַּגֵּ֥ד מֹשֶׁ֛ה אֶת־ דִּבְרֵ֥י הָעָ֖ם אֶל־ יְהוָֽה׃",
-        "text": null
+        "number": "18-19",
+        "hebrew": "וְהַ֤ר סִינַי֙ עָשַׁ֣ן כֻּלּ֔וֹ מִ֠פְּנֵי אֲשֶׁ֨ר יָרַ֥ד עָלָ֛יו יְהוָ֖ה בָּאֵ֑שׁ וַיַּ֤עַל עֲשָׁנוֹ֙ כְּעֶ֣שֶׁן הַכִּבְשָׁ֔ן וַיֶּחֱרַ֥ד כָּל־ הָהָ֖ר מְאֹֽד׃ וַיְהִי֙ ק֣וֹל הַשּׁוֹפָ֔ר הוֹלֵ֖ךְ וְחָזֵ֣ק מְאֹ֑ד מֹשֶׁ֣ה יְדַבֵּ֔ר וְהָאֱלֹהִ֖ים יַעֲנֶ֥נּוּ בְקֽוֹל׃",
+        "text": "Todo el monte Sinaí humeaba, porque YHWH había descendido sobre él en fuego; y el humo subía como el humo de un horno, y todo el monte se estremecía en gran manera. Y el sonido de la bocina iba aumentando en extremo; Moshé hablaba, y Elohim le respondía en voz de trueno."
       },
       {
-        "number": "10",
-        "hebrew": "וַיֹּ֨אמֶר יְהוָ֤ה אֶל־ מֹשֶׁה֙ לֵ֣ךְ אֶל־ הָעָ֔ם וְקִדַּשְׁתָּ֥ם הַיּ֖וֹם וּמָחָ֑ר וְכִבְּס֖וּ שִׂמְלֹתָֽם׃",
-        "text": null
+        "number": "20-21",
+        "hebrew": "וַיֵּ֧רֶד יְהוָ֛ה עַל־ הַ֥ר סִינַ֖י אֶל־ רֹ֣אשׁ הָהָ֑ר וַיִּקְרָ֨א יְהוָ֧ה לְמֹשֶׁ֛ה אֶל־ רֹ֥אשׁ הָהָ֖ר וַיַּ֥עַל מֹשֶֽׁה׃ וַיֹּ֤אמֶר יְהוָה֙ אֶל־ מֹשֶׁ֔ה רֵ֖ד הָעֵ֣ד בָּעָ֑ם פֶּן־ יֶהֶרְס֤וּ אֶל־ יְהוָה֙ לִרְא֔וֹת וְנָפַ֥ל מִמֶּ֖נּוּ רָֽב׃",
+        "text": "Y descendió YHWH sobre el monte Sinaí, sobre la cumbre del monte; y llamó YHWH a Moshé a la cumbre del monte, y Moshé subió. Entonces YHWH dijo a Moshé: desciende, ordena al pueblo que no traspase los límites para ver a YHWH, porque caerá multitud de ellos."
       },
       {
-        "number": "11",
-        "hebrew": "וְהָי֥וּ נְכֹנִ֖ים לַיּ֣וֹם הַשְּׁלִישִׁ֑י כִּ֣י ׀ בַּיּ֣וֹם הַשְּׁלִישִׁ֗י יֵרֵ֧ד יְהוָ֛ה לְעֵינֵ֥י כָל־ הָעָ֖ם עַל־ הַ֥ר סִינָֽי׃",
-        "text": null
+        "number": "22-23",
+        "hebrew": "וְגַ֧ם הַכֹּהֲנִ֛ים הַנִּגָּשִׁ֥ים אֶל־ יְהוָ֖ה יִתְקַדָּ֑שׁוּ פֶּן־ יִפְרֹ֥ץ בָּהֶ֖ם יְהוָֽה׃ וַיֹּ֤אמֶר מֹשֶׁה֙ אֶל־ יְהוָ֔ה לֹא־ יוּכַ֣ל הָעָ֔ם לַעֲלֹ֖ת אֶל־ הַ֣ר סִינָ֑י כִּֽי־ אַתָּ֞ה הַעֵדֹ֤תָה בָּ֨נוּ֙ לֵאמֹ֔ר הַגְבֵּ֥ל אֶת־ הָהָ֖ר וְקִדַּשְׁתּֽוֹ׃",
+        "text": "Y también los sacerdotes que se acercan a YHWH, se santifiquen, para que YHWH no haga en ellos estrago. Y Moshé dijo a YHWH: el pueblo no podrá subir al monte Sinaí, porque tú nos has mandado diciendo: señala términos al monte, y santifícalo."
       },
       {
-        "number": "12",
-        "hebrew": "וְהִגְבַּלְתָּ֤ אֶת־ הָעָם֙ סָבִ֣יב לֵאמֹ֔ר הִשָּׁמְר֥וּ לָכֶ֛ם עֲל֥וֹת בָּהָ֖ר וּנְגֹ֣עַ בְּקָצֵ֑הוּ כָּל־ הַנֹּגֵ֥עַ בָּהָ֖ר מ֥וֹת יוּמָֽת׃",
-        "text": null
-      },
-      {
-        "number": "13",
-        "hebrew": "לֹא־ תִגַּ֨ע בּ֜וֹ יָ֗ד כִּֽי־ סָק֤וֹל יִסָּקֵל֙ אוֹ־ יָרֹ֣ה יִיָּרֶ֔ה אִם־ בְּהֵמָ֥ה אִם־ אִ֖ישׁ לֹ֣א יִחְיֶ֑ה בִּמְשֹׁךְ֙ הַיֹּבֵ֔ל הֵ֖מָּה יַעֲל֥וּ בָהָֽר׃",
-        "text": null
-      },
-      {
-        "number": "14",
-        "hebrew": "וַיֵּ֧רֶד מֹשֶׁ֛ה מִן־ הָהָ֖ר אֶל־ הָעָ֑ם וַיְקַדֵּשׁ֙ אֶת־ הָעָ֔ם וַֽיְכַבְּס֖וּ שִׂמְלֹתָֽם׃",
-        "text": null
-      },
-      {
-        "number": "15",
-        "hebrew": "וַיֹּ֨אמֶר֙ אֶל־ הָעָ֔ם הֱי֥וּ נְכֹנִ֖ים לִשְׁלֹ֣שֶׁת יָמִ֑ים אַֽל־ תִּגְּשׁ֖וּ אֶל־ אִשָּֽׁה׃",
-        "text": null
-      },
-      {
-        "number": "16",
-        "hebrew": "וַיְהִי֩ בַיּ֨וֹם הַשְּׁלִישִׁ֜י בִּֽהְיֹ֣ת הַבֹּ֗קֶר וַיְהִי֩ קֹלֹ֨ת וּבְרָקִ֜ים וְעָנָ֤ן כָּבֵד֙ עַל־ הָהָ֔ר וְקֹ֥ל שֹׁפָ֖ר חָזָ֣ק מְאֹ֑ד וַיֶּחֱרַ֥ד כָּל־ הָעָ֖ם אֲשֶׁ֥ר בַּֽמַּחֲנֶֽה׃",
-        "text": null
-      },
-      {
-        "number": "17",
-        "hebrew": "וַיּוֹצֵ֨א מֹשֶׁ֧ה אֶת־ הָעָ֛ם לִקְרַ֥את הָֽאֱלֹהִ֖ים מִן־ הַֽמַּחֲנֶ֑ה וַיִּֽתְיַצְּב֖וּ בְּתַחְתִּ֥ית הָהָֽר׃",
-        "text": null
-      },
-      {
-        "number": "18",
-        "hebrew": "וְהַ֤ר סִינַי֙ עָשַׁ֣ן כֻּלּ֔וֹ מִ֠פְּנֵי אֲשֶׁ֨ר יָרַ֥ד עָלָ֛יו יְהוָ֖ה בָּאֵ֑שׁ וַיַּ֤עַל עֲשָׁנוֹ֙ כְּעֶ֣שֶׁן הַכִּבְשָׁ֔ן וַיֶּחֱרַ֥ד כָּל־ הָהָ֖ר מְאֹֽד׃",
-        "text": null
-      },
-      {
-        "number": "19",
-        "hebrew": "וַיְהִי֙ ק֣וֹל הַשּׁוֹפָ֔ר הוֹלֵ֖ךְ וְחָזֵ֣ק מְאֹ֑ד מֹשֶׁ֣ה יְדַבֵּ֔ר וְהָאֱלֹהִ֖ים יַעֲנֶ֥נּוּ בְקֽוֹל׃",
-        "text": null
-      },
-      {
-        "number": "20",
-        "hebrew": "וַיֵּ֧רֶד יְהוָ֛ה עַל־ הַ֥ר סִינַ֖י אֶל־ רֹ֣אשׁ הָהָ֑ר וַיִּקְרָ֨א יְהוָ֧ה לְמֹשֶׁ֛ה אֶל־ רֹ֥אשׁ הָהָ֖ר וַיַּ֥עַל מֹשֶֽׁה׃",
-        "text": null
-      },
-      {
-        "number": "21",
-        "hebrew": "וַיֹּ֤אמֶר יְהוָה֙ אֶל־ מֹשֶׁ֔ה רֵ֖ד הָעֵ֣ד בָּעָ֑ם פֶּן־ יֶהֶרְס֤וּ אֶל־ יְהוָה֙ לִרְא֔וֹת וְנָפַ֥ל מִמֶּ֖נּוּ רָֽב׃",
-        "text": null
-      },
-      {
-        "number": "22",
-        "hebrew": "וְגַ֧ם הַכֹּהֲנִ֛ים הַנִּגָּשִׁ֥ים אֶל־ יְהוָ֖ה יִתְקַדָּ֑שׁוּ פֶּן־ יִפְרֹ֥ץ בָּהֶ֖ם יְהוָֽה׃",
-        "text": null
-      },
-      {
-        "number": "23",
-        "hebrew": "וַיֹּ֤אמֶר מֹשֶׁה֙ אֶל־ יְהוָ֔ה לֹא־ יוּכַ֣ל הָעָ֔ם לַעֲלֹ֖ת אֶל־ הַ֣ר סִינָ֑י כִּֽי־ אַתָּ֞ה הַעֵדֹ֤תָה בָּ֨נוּ֙ לֵאמֹ֔ר הַגְבֵּ֥ל אֶת־ הָהָ֖ר וְקִדַּשְׁתּֽוֹ׃",
-        "text": null
-      },
-      {
-        "number": "24",
-        "hebrew": "וַיֹּ֨אמֶר אֵלָ֤יו יְהוָה֙ לֶךְ־ רֵ֔ד וְעָלִ֥יתָ אַתָּ֖ה וְאַהֲרֹ֣ן עִמָּ֑ךְ וְהַכֹּהֲנִ֣ים וְהָעָ֗ם אַל־ יֶֽהֶרְס֛וּ לַעֲלֹ֥ת אֶל־ יְהוָ֖ה פֶּן־ יִפְרָץ־ בָּֽם׃",
-        "text": null
-      },
-      {
-        "number": "25",
-        "hebrew": "וַיֵּ֥רֶד מֹשֶׁ֖ה אֶל־ הָעָ֑ם וַיֹּ֖אמֶר אֲלֵהֶֽם׃ ס",
-        "text": null
+        "number": "24-25",
+        "hebrew": "וַיֹּ֨אמֶר אֵלָ֤יו יְהוָה֙ לֶךְ־ רֵ֔ד וְעָלִ֥יתָ אַתָּ֖ה וְאַהֲרֹ֣ן עִמָּ֑ךְ וְהַכֹּהֲנִ֣ים וְהָעָ֗ם אַל־ יֶֽהֶרְס֛וּ לַעֲלֹ֥ת אֶל־ יְהוָ֖ה פֶּן־ יִפְרָץ־ בָּֽם׃ וַיֵּ֥רֶד מֹשֶׁ֖ה אֶל־ הָעָ֑ם וַיֹּ֖אמֶר אֲלֵהֶֽם׃ ס",
+        "text": "Y YHWH le dijo: ve, desciende, y subirás tú, y Aarón contigo; mas los sacerdotes y el pueblo no traspasen el término para subir a YHWH, no sea que él haga en ellos estrago. Entonces Moshé descendió al pueblo y se lo dijo."
       }
     ],
     "20": [
       {
-        "number": "1",
-        "hebrew": "וַיְדַבֵּ֣ר אֱלֹהִ֔ים אֵ֛ת כָּל־ הַדְּבָרִ֥ים הָאֵ֖לֶּה לֵאמֹֽר׃ ס",
-        "text": null
+        "number": "1-3",
+        "hebrew": "וַיְדַבֵּ֣ר אֱלֹהִ֔ים אֵ֛ת כָּל־ הַדְּבָרִ֥ים הָאֵ֖לֶּה לֵאמֹֽר׃ ס אָֽנֹכִ֖י יְהוָ֣ה אֱלֹהֶ֑יךָ אֲשֶׁ֧ר הוֹצֵאתִ֛יךָ מֵאֶ֥רֶץ מִצְרַ֖יִם מִבֵּ֥ית עֲבָדִֽים׃ לֹֽ֣א יִהְיֶֽה־ לְךָ֛ אֱלֹהִ֥ים אֲחֵרִ֖ים עַל־ פָּנָֽיַ׃",
+        "text": "Y habló Elohim todas estas palabras, diciendo: yo soy YHWH tu Elohim, que te saqué de la tierra de Egipto, de casa de servidumbre⁸⁷. No tendrás elohim ajenos delante de mí⁸⁸."
       },
       {
-        "number": "2",
-        "hebrew": "אָֽנֹכִ֖י יְהוָ֣ה אֱלֹהֶ֑יךָ אֲשֶׁ֧ר הוֹצֵאתִ֛יךָ מֵאֶ֥רֶץ מִצְרַ֖יִם מִבֵּ֥ית עֲבָדִֽים׃",
-        "text": null
-      },
-      {
-        "number": "3",
-        "hebrew": "לֹֽ֣א יִהְיֶֽה־ לְךָ֛ אֱלֹהִ֥ים אֲחֵרִ֖ים עַל־ פָּנָֽיַ׃",
-        "text": null
-      },
-      {
-        "number": "4",
-        "hebrew": "לֹֽ֣א תַֽעֲשֶׂ֨ה־ לְךָ֥ פֶ֨סֶל֙ וְכָל־ תְּמוּנָ֔ה אֲשֶׁ֤ר בַּשָּׁמַ֨יִם֙ מִמַּ֔עַל וַאֲשֶׁ֥ר בָּאָ֖רֶץ מִתָּ֑חַת וַאֲשֶׁ֥ר בַּמַּ֖יִם מִתַּ֥חַת לָאָֽרֶץ׃",
-        "text": null
-      },
-      {
-        "number": "5",
-        "hebrew": "לֹֽא־ תִשְׁתַּחֲוֶ֥ה לָהֶ֖ם וְלֹ֣א תָעָבְדֵ֑ם כִּ֣י אָֽנֹכִ֞י יְהוָ֤ה אֱלֹהֶ֨יךָ֙ אֵ֣ל קַנָּ֔א פֹּ֠קֵד עֲוֺ֨ן אָבֹ֧ת עַל־ בָּנִ֛ים עַל־ שִׁלֵּשִׁ֥ים וְעַל־ רִבֵּעִ֖ים לְשֹׂנְאָֽי׃",
-        "text": null
-      },
-      {
-        "number": "6",
-        "hebrew": "וְעֹ֥שֶׂה חֶ֖סֶד לַאֲלָפִ֑ים לְאֹהֲבַ֖י וּלְשֹׁמְרֵ֥י מִצְוֺתָֽי׃ ס",
-        "text": null
+        "number": "4-6",
+        "hebrew": "לֹֽ֣א תַֽעֲשֶׂ֨ה־ לְךָ֥ פֶ֨סֶל֙ וְכָל־ תְּמוּנָ֔ה אֲשֶׁ֤ר בַּשָּׁמַ֨יִם֙ מִמַּ֔עַל וַאֲשֶׁ֥ר בָּאָ֖רֶץ מִתָּ֑חַת וַאֲשֶׁ֥ר בַּמַּ֖יִם מִתַּ֥חַת לָאָֽרֶץ׃ לֹֽא־ תִשְׁתַּחֲוֶ֥ה לָהֶ֖ם וְלֹ֣א תָעָבְדֵ֑ם כִּ֣י אָֽנֹכִ֞י יְהוָ֤ה אֱלֹהֶ֨יךָ֙ אֵ֣ל קַנָּ֔א פֹּ֠קֵד עֲוֺ֨ן אָבֹ֧ת עַל־ בָּנִ֛ים עַל־ שִׁלֵּשִׁ֥ים וְעַל־ רִבֵּעִ֖ים לְשֹׂנְאָֽי׃ וְעֹ֥שֶׂה חֶ֖סֶד לַאֲלָפִ֑ים לְאֹהֲבַ֖י וּלְשֹׁמְרֵ֥י מִצְוֺתָֽי׃ ס",
+        "text": "No te harás imagen, ni ninguna semejanza de lo que está arriba en el cielo, ni abajo en la tierra, ni en las aguas debajo de la tierra. No te inclinarás a ellas, ni las honrarás; porque yo soy YHWH tu Elohim, fuerte, celoso, que visito la iniquidad de los padres sobre los hijos hasta la tercera y cuarta generación de los que me aborrecen, y que hago misericordia a millares, a los que me aman y guardan mis mandamientos⁸⁹."
       },
       {
         "number": "7",
         "hebrew": "לֹ֥א תִשָּׂ֛א אֶת־ שֵֽׁם־ יְהוָ֥ה אֱלֹהֶ֖יךָ לַשָּׁ֑וְא כִּ֣י לֹ֤א יְנַקֶּה֙ יְהוָ֔ה אֵ֛ת אֲשֶׁר־ יִשָּׂ֥א אֶת־ שְׁמ֖וֹ לַשָּֽׁוְא׃ פ",
-        "text": null
+        "text": "No tomarás el nombre de YHWH tu Elohim en vano; porque no dará por inocente YHWH al que tomare su nombre en vano."
       },
       {
-        "number": "8",
-        "hebrew": "זָכ֛וֹר אֶת־ י֥וֹם הַשַּׁבָּ֖ת לְקַדְּשֽׁוֹ׃",
-        "text": null
-      },
-      {
-        "number": "9",
-        "hebrew": "שֵׁ֤שֶׁת יָמִים֙ תַּֽעֲבֹ֔ד וְעָשִׂ֖יתָ כָּל־ מְלַאכְתֶּֽךָ׃",
-        "text": null
-      },
-      {
-        "number": "10",
-        "hebrew": "וְי֨וֹם֙ הַשְּׁבִיעִ֔י שַׁבָּ֖ת לַיהוָ֣ה אֱלֹהֶ֑יךָ לֹֽ֣א־ תַעֲשֶׂ֨ה כָל־ מְלָאכָ֜ה אַתָּ֣ה ׀ וּבִנְךָֽ֣־ וּבִתֶּ֗ךָ עַבְדְּךָ֤ וַאֲמָֽתְךָ֙ וּבְהֶמְתֶּ֔ךָ וְגֵרְךָ֖ אֲשֶׁ֥ר בִּשְׁעָרֶֽיךָ׃",
-        "text": null
-      },
-      {
-        "number": "11",
-        "hebrew": "כִּ֣י שֵֽׁשֶׁת־ יָמִים֩ עָשָׂ֨ה יְהוָ֜ה אֶת־ הַשָּׁמַ֣יִם וְאֶת־ הָאָ֗רֶץ אֶת־ הַיָּם֙ וְאֶת־ כָּל־ אֲשֶׁר־ בָּ֔ם וַיָּ֖נַח בַּיּ֣וֹם הַשְּׁבִיעִ֑י עַל־ כֵּ֗ן בֵּרַ֧ךְ יְהוָ֛ה אֶת־ י֥וֹם הַשַּׁבָּ֖ת וַֽיְקַדְּשֵֽׁהוּ׃ ס",
-        "text": null
+        "number": "8-11",
+        "hebrew": "זָכ֛וֹר אֶת־ י֥וֹם הַשַּׁבָּ֖ת לְקַדְּשֽׁוֹ׃ שֵׁ֤שֶׁת יָמִים֙ תַּֽעֲבֹ֔ד וְעָשִׂ֖יתָ כָּל־ מְלַאכְתֶּֽךָ׃ וְי֨וֹם֙ הַשְּׁבִיעִ֔י שַׁבָּ֖ת לַיהוָ֣ה אֱלֹהֶ֑יךָ לֹֽ֣א־ תַעֲשֶׂ֨ה כָל־ מְלָאכָ֜ה אַתָּ֣ה ׀ וּבִנְךָֽ֣־ וּבִתֶּ֗ךָ עַבְדְּךָ֤ וַאֲמָֽתְךָ֙ וּבְהֶמְתֶּ֔ךָ וְגֵרְךָ֖ אֲשֶׁ֥ר בִּשְׁעָרֶֽיךָ׃ כִּ֣י שֵֽׁשֶׁת־ יָמִים֩ עָשָׂ֨ה יְהוָ֜ה אֶת־ הַשָּׁמַ֣יִם וְאֶת־ הָאָ֗רֶץ אֶת־ הַיָּם֙ וְאֶת־ כָּל־ אֲשֶׁר־ בָּ֔ם וַיָּ֖נַח בַּיּ֣וֹם הַשְּׁבִיעִ֑י עַל־ כֵּ֗ן בֵּרַ֧ךְ יְהוָ֛ה אֶת־ י֥וֹם הַשַּׁבָּ֖ת וַֽיְקַדְּשֵֽׁהוּ׃ ס",
+        "text": "Acuérdate del día de reposo para santificarlo. Seis días trabajarás, y harás toda tu obra; mas el séptimo día es reposo para YHWH tu Elohim; no hagas en él obra alguna, tú, ni tu hijo, ni tu hija, ni tu siervo, ni tu criada, ni tu bestia, ni tu extranjero que está dentro de tus puertas. Porque en seis días hizo YHWH los cielos y la tierra, el mar, y todas las cosas que en ellos hay, y reposó en el séptimo día; por tanto YHWH bendijo el día de reposo, y lo santificó⁹¹."
       },
       {
         "number": "12",
         "hebrew": "כַּבֵּ֥ד אֶת־ אָבִ֖יךָ וְאֶת־ אִמֶּ֑ךָ לְמַ֨עַן֙ יַאֲרִכ֣וּן יָמֶ֔יךָ עַ֚ל הָאֲדָמָ֔ה אֲשֶׁר־ יְהוָ֥ה אֱלֹהֶ֖יךָ נֹתֵ֥ן לָֽךְ׃ ס",
-        "text": null
+        "text": "Honra a tu padre y a tu madre, para que tus días se alarguen en la tierra que YHWH tu Elohim te da⁹²."
       },
       {
-        "number": "13",
-        "hebrew": "לֹ֖א תִּרְצָֽח׃ ס",
-        "text": null
+        "number": "13-17",
+        "hebrew": "לֹ֖א תִּרְצָֽח׃ ס לֹ֖א תִּנְאָֽף׃ ס לֹ֖א תִּגְנֹֽב׃ ס לֹֽא־ תַעֲנֶ֥ה בְרֵעֲךָ֖ עֵ֥ד שָֽׁקֶר׃ ס לֹ֥א תַחְמֹ֖ד בֵּ֣ית רֵעֶ֑ךָ לֹֽא־ תַחְמֹ֞ד אֵ֣שֶׁת רֵעֶ֗ךָ וְעַבְדּ֤וֹ וַאֲמָתוֹ֙ וְשׁוֹר֣וֹ וַחֲמֹר֔וֹ וְכֹ֖ל אֲשֶׁ֥ר לְרֵעֶֽךָ׃ פ",
+        "text": "No matarás⁹⁰. No cometerás adulterio. No hurtarás. No hablarás contra tu prójimo falso testimonio. No codiciarás la casa de tu prójimo, no codiciarás la ishah de tu prójimo, ni su siervo, ni su criada, ni su buey, ni su asno, ni cosa alguna de tu prójimo."
       },
       {
-        "number": "14",
-        "hebrew": "לֹ֖א תִּנְאָֽף׃ ס",
-        "text": null
-      },
-      {
-        "number": "15",
-        "hebrew": "לֹ֖א תִּגְנֹֽב׃ ס",
-        "text": null
-      },
-      {
-        "number": "16",
-        "hebrew": "לֹֽא־ תַעֲנֶ֥ה בְרֵעֲךָ֖ עֵ֥ד שָֽׁקֶר׃ ס",
-        "text": null
-      },
-      {
-        "number": "17",
-        "hebrew": "לֹ֥א תַחְמֹ֖ד בֵּ֣ית רֵעֶ֑ךָ לֹֽא־ תַחְמֹ֞ד אֵ֣שֶׁת רֵעֶ֗ךָ וְעַבְדּ֤וֹ וַאֲמָתוֹ֙ וְשׁוֹר֣וֹ וַחֲמֹר֔וֹ וְכֹ֖ל אֲשֶׁ֥ר לְרֵעֶֽךָ׃ פ",
-        "text": null
-      },
-      {
-        "number": "18",
-        "hebrew": "וְכָל־ הָעָם֩ רֹאִ֨ים אֶת־ הַקּוֹלֹ֜ת וְאֶת־ הַלַּפִּידִ֗ם וְאֵת֙ ק֣וֹל הַשֹּׁפָ֔ר וְאֶת־ הָהָ֖ר עָשֵׁ֑ן וַיַּ֤רְא הָעָם֙ וַיָּנֻ֔עוּ וַיַּֽעַמְד֖וּ מֵֽרָחֹֽק׃",
-        "text": null
-      },
-      {
-        "number": "19",
-        "hebrew": "וַיֹּֽאמְרוּ֙ אֶל־ מֹשֶׁ֔ה דַּבֵּר־ אַתָּ֥ה עִמָּ֖נוּ וְנִשְׁמָ֑עָה וְאַל־ יְדַבֵּ֥ר עִמָּ֛נוּ אֱלֹהִ֖ים פֶּן־ נָמֽוּת׃",
-        "text": null
+        "number": "18-19",
+        "hebrew": "וְכָל־ הָעָם֩ רֹאִ֨ים אֶת־ הַקּוֹלֹ֜ת וְאֶת־ הַלַּפִּידִ֗ם וְאֵת֙ ק֣וֹל הַשֹּׁפָ֔ר וְאֶת־ הָהָ֖ר עָשֵׁ֑ן וַיַּ֤רְא הָעָם֙ וַיָּנֻ֔עוּ וַיַּֽעַמְד֖וּ מֵֽרָחֹֽק׃ וַיֹּֽאמְרוּ֙ אֶל־ מֹשֶׁ֔ה דַּבֵּר־ אַתָּ֥ה עִמָּ֖נוּ וְנִשְׁמָ֑עָה וְאַל־ יְדַבֵּ֥ר עִמָּ֛נוּ אֱלֹהִ֖ים פֶּן־ נָמֽוּת׃",
+        "text": "Todo el pueblo observaba las truenos, los relámpagos, el sonido de la bocina, y el monte que humeaba; y viéndolo el pueblo, temblaron, y se pusieron de lejos. Y dijeron a Moshé: habla tú con nosotros, y nosotros oiremos; pero no hable Elohim con nosotros, para que no muramos."
       },
       {
         "number": "20",
         "hebrew": "וַיֹּ֨אמֶר מֹשֶׁ֣ה אֶל־ הָעָם֮ אַל־ תִּירָאוּ֒ כִּ֗י לְבַֽעֲבוּר֙ נַסּ֣וֹת אֶתְכֶ֔ם בָּ֖א הָאֱלֹהִ֑ים וּבַעֲב֗וּר תִּהְיֶ֧ה יִרְאָת֛וֹ עַל־ פְּנֵיכֶ֖ם לְבִלְתִּ֥י תֶחֱטָֽאוּ׃",
-        "text": null
+        "text": "Y Moshé respondió al pueblo: no temáis, que para probaros vino Elohim, y para que su temor esté delante de vosotros, para que no pequéis⁹³."
       },
       {
         "number": "21",
         "hebrew": "וַיַּעֲמֹ֥ד הָעָ֖ם מֵרָחֹ֑ק וּמֹשֶׁה֙ נִגַּ֣שׁ אֶל־ הָֽעֲרָפֶ֔ל אֲשֶׁר־ שָׁ֖ם הָאֱלֹהִֽים׃ פ",
-        "text": null
+        "text": "Entonces el pueblo se puso de lejos, y Moshé se acercó a la densa oscuridad en la cual estaba Elohim."
       },
       {
-        "number": "22",
-        "hebrew": "וַיֹּ֤אמֶר יְהוָה֙ אֶל־ מֹשֶׁ֔ה כֹּ֥ה תֹאמַ֖ר אֶל־ בְּנֵ֣י יִשְׂרָאֵ֑ל אַתֶּ֣ם רְאִיתֶ֔ם כִּ֚י מִן־ הַשָּׁמַ֔יִם דִּבַּ֖רְתִּי עִמָּכֶֽם׃",
-        "text": null
+        "number": "22-23",
+        "hebrew": "וַיֹּ֤אמֶר יְהוָה֙ אֶל־ מֹשֶׁ֔ה כֹּ֥ה תֹאמַ֖ר אֶל־ בְּנֵ֣י יִשְׂרָאֵ֑ל אַתֶּ֣ם רְאִיתֶ֔ם כִּ֚י מִן־ הַשָּׁמַ֔יִם דִּבַּ֖רְתִּי עִמָּכֶֽם׃ לֹ֥א תַעֲשׂ֖וּן אִתִּ֑י אֱלֹ֤הֵי כֶ֨סֶף֙ וֵאלֹהֵ֣י זָהָ֔ב לֹ֥א תַעֲשׂ֖וּ לָכֶֽם׃",
+        "text": "Y YHWH dijo a Moshé: así dirás a los hijos de Israel: vosotros habéis visto que he hablado desde el cielo con vosotros. No hagáis conmigo elohim de plata, ni elohim de oro os haréis."
       },
       {
-        "number": "23",
-        "hebrew": "לֹ֥א תַעֲשׂ֖וּן אִתִּ֑י אֱלֹ֤הֵי כֶ֨סֶף֙ וֵאלֹהֵ֣י זָהָ֔ב לֹ֥א תַעֲשׂ֖וּ לָכֶֽם׃",
-        "text": null
-      },
-      {
-        "number": "24",
-        "hebrew": "מִזְבַּ֣ח אֲדָמָה֮ תַּעֲשֶׂה־ לִּי֒ וְזָבַחְתָּ֣ עָלָ֗יו אֶת־ עֹלֹתֶ֨יךָ֙ וְאֶת־ שְׁלָמֶ֔יךָ אֶת־ צֹֽאנְךָ֖ וְאֶת־ בְּקָרֶ֑ךָ בְּכָל־ הַמָּקוֹם֙ אֲשֶׁ֣ר אַזְכִּ֣יר אֶת־ שְׁמִ֔י אָב֥וֹא אֵלֶ֖יךָ וּבֵרַכְתִּֽיךָ׃",
-        "text": null
-      },
-      {
-        "number": "25",
-        "hebrew": "וְאִם־ מִזְבַּ֤ח אֲבָנִים֙ תַּֽעֲשֶׂה־ לִּ֔י לֹֽא־ תִבְנֶ֥ה אֶתְהֶ֖ן גָּזִ֑ית כִּ֧י חַרְבְּךָ֛ הֵנַ֥פְתָּ עָלֶ֖יהָ וַתְּחַֽלְלֶֽהָ׃",
-        "text": null
-      },
-      {
-        "number": "26",
-        "hebrew": "וְלֹֽא־ תַעֲלֶ֥ה בְמַעֲלֹ֖ת עַֽל־ מִזְבְּחִ֑י אֲשֶׁ֛ר לֹֽא־ תִגָּלֶ֥ה עֶרְוָתְךָ֖ עָלָֽיו׃ פ",
-        "text": null
+        "number": "24-26",
+        "hebrew": "מִזְבַּ֣ח אֲדָמָה֮ תַּעֲשֶׂה־ לִּי֒ וְזָבַחְתָּ֣ עָלָ֗יו אֶת־ עֹלֹתֶ֨יךָ֙ וְאֶת־ שְׁלָמֶ֔יךָ אֶת־ צֹֽאנְךָ֖ וְאֶת־ בְּקָרֶ֑ךָ בְּכָל־ הַמָּקוֹם֙ אֲשֶׁ֣ר אַזְכִּ֣יר אֶת־ שְׁמִ֔י אָב֥וֹא אֵלֶ֖יךָ וּבֵרַכְתִּֽיךָ׃ וְאִם־ מִזְבַּ֤ח אֲבָנִים֙ תַּֽעֲשֶׂה־ לִּ֔י לֹֽא־ תִבְנֶ֥ה אֶתְהֶ֖ן גָּזִ֑ית כִּ֧י חַרְבְּךָ֛ הֵנַ֥פְתָּ עָלֶ֖יהָ וַתְּחַֽלְלֶֽהָ׃ וְלֹֽא־ תַעֲלֶ֥ה בְמַעֲלֹ֖ת עַֽל־ מִזְבְּחִ֑י אֲשֶׁ֛ר לֹֽא־ תִגָּלֶ֥ה עֶרְוָתְךָ֖ עָלָֽיו׃ פ",
+        "text": "Altar de tierra harás para mí, y sacrificarás sobre él tus holocaustos y tus ofrendas de paz, tus ovejas y tus vacas; en cualquier lugar donde yo hiciere que esté la memoria de mi nombre, vendré a ti, y te bendeciré. Y si me hicieres altar de piedras, no las labres de cantería; porque si alzares tu herramienta sobre él, lo profanarás. Y no subirás por gradas a mi altar, para que tu desnudez no se descubra junto a él⁹⁴."
       }
     ],
     "21": [
       {
         "number": "1",
         "hebrew": "וְאֵ֨לֶּה֙ הַמִּשְׁפָּטִ֔ים אֲשֶׁ֥ר תָּשִׂ֖ים לִפְנֵיהֶֽם׃",
-        "text": null
+        "text": "Y estas son las leyes que les propondrás."
       },
       {
-        "number": "2",
-        "hebrew": "כִּ֤י תִקְנֶה֙ עֶ֣בֶד עִבְרִ֔י שֵׁ֥שׁ שָׁנִ֖ים יַעֲבֹ֑ד וּבַ֨שְּׁבִעִ֔ת יֵצֵ֥א לַֽחָפְשִׁ֖י חִנָּֽם׃",
-        "text": null
+        "number": "2-4",
+        "hebrew": "כִּ֤י תִקְנֶה֙ עֶ֣בֶד עִבְרִ֔י שֵׁ֥שׁ שָׁנִ֖ים יַעֲבֹ֑ד וּבַ֨שְּׁבִעִ֔ת יֵצֵ֥א לַֽחָפְשִׁ֖י חִנָּֽם׃ אִם־ בְּגַפּ֥וֹ יָבֹ֖א בְּגַפּ֣וֹ יֵצֵ֑א אִם־ בַּ֤עַל אִשָּׁה֙ ה֔וּא וְיָצְאָ֥ה אִשְׁתּ֖וֹ עִמּֽוֹ׃ אִם־ אֲדֹנָיו֙ יִתֶּן־ ל֣וֹ אִשָּׁ֔ה וְיָלְדָה־ ל֥וֹ בָנִ֖ים א֣וֹ בָנ֑וֹת הָאִשָּׁ֣ה וִילָדֶ֗יהָ תִּהְיֶה֙ לַֽאדֹנֶ֔יהָ וְה֖וּא יֵצֵ֥א בְגַפּֽוֹ׃",
+        "text": "Si comprares siervo hebreo, seis años servirá; mas al séptimo saldrá libre, de balde. Si entró solo, solo saldrá; si tenía ishah, saldrá su ishah con él. Si su señor le hubiere dado ishah, y ella le hubiere dado a luz hijos o hijas, la ishah y sus hijos serán de su señor, y él saldrá solo."
       },
       {
-        "number": "3",
-        "hebrew": "אִם־ בְּגַפּ֥וֹ יָבֹ֖א בְּגַפּ֣וֹ יֵצֵ֑א אִם־ בַּ֤עַל אִשָּׁה֙ ה֔וּא וְיָצְאָ֥ה אִשְׁתּ֖וֹ עִמּֽוֹ׃",
-        "text": null
+        "number": "5-6",
+        "hebrew": "וְאִם־ אָמֹ֤ר יֹאמַר֙ הָעֶ֔בֶד אָהַ֨בְתִּי֙ אֶת־ אֲדֹנִ֔י אֶת־ אִשְׁתִּ֖י וְאֶת־ בָּנָ֑י לֹ֥א אֵצֵ֖א חָפְשִֽׁי׃ וְהִגִּישׁ֤וֹ אֲדֹנָיו֙ אֶל־ הָ֣אֱלֹהִ֔ים וְהִגִּישׁוֹ֙ אֶל־ הַדֶּ֔לֶת א֖וֹ אֶל־ הַמְּזוּזָ֑ה וְרָצַ֨ע אֲדֹנָ֤יו אֶת־ אָזְנוֹ֙ בַּמַּרְצֵ֔עַ וַעֲבָד֖וֹ לְעֹלָֽם׃ ס",
+        "text": "Y si el siervo dijere: yo amo a mi señor, a mi ishah y a mis hijos, no saldré libre, entonces su señor lo llevará ante los jueces⁹⁵, y le arrimará a la puerta o al poste; y su señor le horadará la oreja con lezna, y será su siervo para siempre."
       },
       {
-        "number": "4",
-        "hebrew": "אִם־ אֲדֹנָיו֙ יִתֶּן־ ל֣וֹ אִשָּׁ֔ה וְיָלְדָה־ ל֥וֹ בָנִ֖ים א֣וֹ בָנ֑וֹת הָאִשָּׁ֣ה וִילָדֶ֗יהָ תִּהְיֶה֙ לַֽאדֹנֶ֔יהָ וְה֖וּא יֵצֵ֥א בְגַפּֽוֹ׃",
-        "text": null
+        "number": "7-9",
+        "hebrew": "וְכִֽי־ יִמְכֹּ֥ר אִ֛ישׁ אֶת־ בִּתּ֖וֹ לְאָמָ֑ה לֹ֥א תֵצֵ֖א כְּצֵ֥את הָעֲבָדִֽים׃ אִם־ רָעָ֞ה בְּעֵינֵ֧י אֲדֹנֶ֛יהָ אֲשֶׁר־ לא יְעָדָ֖הּ וְהֶפְדָּ֑הּ לְעַ֥ם נָכְרִ֛י לֹא־ יִמְשֹׁ֥ל לְמָכְרָ֖הּ בְּבִגְדוֹ־ בָֽהּ׃ וְאִם־ לִבְנ֖וֹ יִֽיעָדֶ֑נָּה כְּמִשְׁפַּ֥ט הַבָּנ֖וֹת יַעֲשֶׂה־ לָּֽהּ׃",
+        "text": "Y cuando alguno vendiere a su hija por sierva, no saldrá ella como suelen salir los siervos. Si no agradare a su señor, por lo cual no la tomó por esposa, se le permitirá que se rescate, y no la podrá vender a pueblo extraño cuando la desechare. Mas si la hubiere desposado con su hijo, hará con ella según la costumbre de las hijas."
       },
       {
-        "number": "5",
-        "hebrew": "וְאִם־ אָמֹ֤ר יֹאמַר֙ הָעֶ֔בֶד אָהַ֨בְתִּי֙ אֶת־ אֲדֹנִ֔י אֶת־ אִשְׁתִּ֖י וְאֶת־ בָּנָ֑י לֹ֥א אֵצֵ֖א חָפְשִֽׁי׃",
-        "text": null
+        "number": "10-11",
+        "hebrew": "אִם־ אַחֶ֖רֶת יִֽקַּֽח־ ל֑וֹ שְׁאֵרָ֛הּ כְּסוּתָ֥הּ וְעֹנָתָ֖הּ לֹ֥א יִגְרָֽע׃ וְאִם־ שְׁלָ֨שׁ־ אֵ֔לֶּה לֹ֥א יַעֲשֶׂ֖ה לָ֑הּ וְיָצְאָ֥ה חִנָּ֖ם אֵ֥ין כָּֽסֶף׃ ס",
+        "text": "Si tomare para sí otra ishah, no disminuirá su alimento, ni su vestido, ni el débito conyugal. Y si ninguna de estas tres cosas hiciere, ella saldrá de gracia sin dinero."
       },
       {
-        "number": "6",
-        "hebrew": "וְהִגִּישׁ֤וֹ אֲדֹנָיו֙ אֶל־ הָ֣אֱלֹהִ֔ים וְהִגִּישׁוֹ֙ אֶל־ הַדֶּ֔לֶת א֖וֹ אֶל־ הַמְּזוּזָ֑ה וְרָצַ֨ע אֲדֹנָ֤יו אֶת־ אָזְנוֹ֙ בַּמַּרְצֵ֔עַ וַעֲבָד֖וֹ לְעֹלָֽם׃ ס",
-        "text": null
+        "number": "12-14",
+        "hebrew": "מַכֵּ֥ה אִ֛ישׁ וָמֵ֖ת מ֥וֹת יוּמָֽת׃ וַאֲשֶׁר֙ לֹ֣א צָדָ֔ה וְהָאֱלֹהִ֖ים אִנָּ֣ה לְיָד֑וֹ וְשַׂמְתִּ֤י לְךָ֙ מָק֔וֹם אֲשֶׁ֥ר יָנ֖וּס שָֽׁמָּה׃ ס וְכִֽי־ יָזִ֥ד אִ֛ישׁ עַל־ רֵעֵ֖הוּ לְהָרְג֣וֹ בְעָרְמָ֑ה מֵעִ֣ם מִזְבְּחִ֔י תִּקָּחֶ֖נּוּ לָמֽוּת׃ ס",
+        "text": "El que hiriere a alguno, haciéndolo así morir, morirá también. Mas el que no armó asechanzas, sino que Elohim lo puso en sus manos, entonces yo te señalaré lugar al cual ha de huir. Pero si alguno se ensoberbeciere contra su prójimo, y lo matare con alevosía, de mi altar lo quitarás para que muera."
       },
       {
-        "number": "7",
-        "hebrew": "וְכִֽי־ יִמְכֹּ֥ר אִ֛ישׁ אֶת־ בִּתּ֖וֹ לְאָמָ֑ה לֹ֥א תֵצֵ֖א כְּצֵ֥את הָעֲבָדִֽים׃",
-        "text": null
+        "number": "15-17",
+        "hebrew": "וּמַכֵּ֥ה אָבִ֛יו וְאִמּ֖וֹ מ֥וֹת יוּמָֽת׃ וְגֹנֵ֨ב אִ֧ישׁ וּמְכָר֛וֹ וְנִמְצָ֥א בְיָד֖וֹ מ֥וֹת יוּמָֽת׃ ס וּמְקַלֵּ֥ל אָבִ֛יו וְאִמּ֖וֹ מ֥וֹת יוּמָֽת׃ ס",
+        "text": "El que hiriere a su padre o a su madre, morirá. Asimismo el que robare una persona y la vendiere, si fuere hallada en sus manos, morirá. Igualmente el que maldijere a su padre o a su madre, morirá."
       },
       {
-        "number": "8",
-        "hebrew": "אִם־ רָעָ֞ה בְּעֵינֵ֧י אֲדֹנֶ֛יהָ אֲשֶׁר־ לא יְעָדָ֖הּ וְהֶפְדָּ֑הּ לְעַ֥ם נָכְרִ֛י לֹא־ יִמְשֹׁ֥ל לְמָכְרָ֖הּ בְּבִגְדוֹ־ בָֽהּ׃",
-        "text": null
+        "number": "18-19",
+        "hebrew": "וְכִֽי־ יְרִיבֻ֣ן אֲנָשִׁ֔ים וְהִכָּה־ אִישׁ֙ אֶת־ רֵעֵ֔הוּ בְּאֶ֖בֶן א֣וֹ בְאֶגְרֹ֑ף וְלֹ֥א יָמ֖וּת וְנָפַ֥ל לְמִשְׁכָּֽב׃ אִם־ יָק֞וּם וְהִתְהַלֵּ֥ךְ בַּח֛וּץ עַל־ מִשְׁעַנְתּ֖וֹ וְנִקָּ֣ה הַמַּכֶּ֑ה רַ֥ק שִׁבְתּ֛וֹ יִתֵּ֖ן וְרַפֹּ֥א יְרַפֵּֽא׃ ס",
+        "text": "Además, si algunos contendieren, y uno hiriere a su prójimo con piedra o con el puño, y no muriere, pero cayere en cama; si se levantare y anduviere fuera sobre su bastón, entonces el que lo hirió será absuelto; solamente le satisfará por lo que estuvo sin trabajar, y hará que le curen."
       },
       {
-        "number": "9",
-        "hebrew": "וְאִם־ לִבְנ֖וֹ יִֽיעָדֶ֑נָּה כְּמִשְׁפַּ֥ט הַבָּנ֖וֹת יַעֲשֶׂה־ לָּֽהּ׃",
-        "text": null
+        "number": "20-21",
+        "hebrew": "וְכִֽי־ יַכֶּה֩ אִ֨ישׁ אֶת־ עַבְדּ֜וֹ א֤וֹ אֶת־ אֲמָתוֹ֙ בַּשֵּׁ֔בֶט וּמֵ֖ת תַּ֣חַת יָד֑וֹ נָקֹ֖ם יִנָּקֵֽם׃ אַ֥ךְ אִם־ י֛וֹם א֥וֹ יוֹמַ֖יִם יַעֲמֹ֑ד לֹ֣א יֻקַּ֔ם כִּ֥י כַסְפּ֖וֹ הֽוּא׃ ס",
+        "text": "Y si alguno hiriere a su siervo o a su sierva con palo, y muriere bajo su mano, será castigado; mas si sobreviviere por un día o dos, no será castigado, porque es de su propiedad."
       },
       {
-        "number": "10",
-        "hebrew": "אִם־ אַחֶ֖רֶת יִֽקַּֽח־ ל֑וֹ שְׁאֵרָ֛הּ כְּסוּתָ֥הּ וְעֹנָתָ֖הּ לֹ֥א יִגְרָֽע׃",
-        "text": null
+        "number": "22-23",
+        "hebrew": "וְכִֽי־ יִנָּצ֣וּ אֲנָשִׁ֗ים וְנָ֨גְפ֜וּ אִשָּׁ֤ה הָרָה֙ וְיָצְא֣וּ יְלָדֶ֔יהָ וְלֹ֥א יִהְיֶ֖ה אָס֑וֹן עָנ֣וֹשׁ יֵעָנֵ֗שׁ כַּֽאֲשֶׁ֨ר יָשִׁ֤ית עָלָיו֙ בַּ֣עַל הָֽאִשָּׁ֔ה וְנָתַ֖ן בִּפְלִלִֽים׃ וְאִם־ אָס֖וֹן יִהְיֶ֑ה וְנָתַתָּ֥ה נֶ֖פֶשׁ תַּ֥חַת נָֽפֶשׁ׃",
+        "text": "Si algunos riñeren, e hirieren a mujer embarazada, y esta abortare, pero sin haber otro daño, será penado conforme a lo que le impusiere el marido de la mujer, y pagará según juzguen los árbitros. Mas si hubiere daño, entonces pagarás vida por vida⁹⁶,"
       },
       {
-        "number": "11",
-        "hebrew": "וְאִם־ שְׁלָ֨שׁ־ אֵ֔לֶּה לֹ֥א יַעֲשֶׂ֖ה לָ֑הּ וְיָצְאָ֥ה חִנָּ֖ם אֵ֥ין כָּֽסֶף׃ ס",
-        "text": null
+        "number": "24-25",
+        "hebrew": "עַ֚יִן תַּ֣חַת עַ֔יִן שֵׁ֖ן תַּ֣חַת שֵׁ֑ן יָ֚ד תַּ֣חַת יָ֔ד רֶ֖גֶל תַּ֥חַת רָֽגֶל׃ כְּוִיָּה֙ תַּ֣חַת כְּוִיָּ֔ה פֶּ֖צַע תַּ֣חַת פָּ֑צַע חַבּוּרָ֕ה תַּ֖חַת חַבּוּרָֽה׃ ס",
+        "text": "ojo por ojo, diente por diente, mano por mano, pie por pie, quemadura por quemadura, herida por herida, golpe por golpe."
       },
       {
-        "number": "12",
-        "hebrew": "מַכֵּ֥ה אִ֛ישׁ וָמֵ֖ת מ֥וֹת יוּמָֽת׃",
-        "text": null
+        "number": "26-27",
+        "hebrew": "וְכִֽי־ יַכֶּ֨ה אִ֜ישׁ אֶת־ עֵ֥ין עַבְדּ֛וֹ אֽוֹ־ אֶת־ עֵ֥ין אֲמָת֖וֹ וְשִֽׁחֲתָ֑הּ לַֽחָפְשִׁ֥י יְשַׁלְּחֶ֖נּוּ תַּ֥חַת עֵינֽוֹ׃ ס וְאִם־ שֵׁ֥ן עַבְדּ֛וֹ אֽוֹ־ שֵׁ֥ן אֲמָת֖וֹ יַפִּ֑יל לַֽחָפְשִׁ֥י יְשַׁלְּחֶ֖נּוּ תַּ֥חַת שִׁנּֽוֹ׃ פ",
+        "text": "Si alguno hiriere el ojo de su siervo, o el ojo de su sierva, y lo dañare, le dará libertad por razón de su ojo. Y si sacare el diente de su siervo, o el diente de su sierva, por su diente le dejará ir libre⁹⁷."
       },
       {
-        "number": "13",
-        "hebrew": "וַאֲשֶׁר֙ לֹ֣א צָדָ֔ה וְהָאֱלֹהִ֖ים אִנָּ֣ה לְיָד֑וֹ וְשַׂמְתִּ֤י לְךָ֙ מָק֔וֹם אֲשֶׁ֥ר יָנ֖וּס שָֽׁמָּה׃ ס",
-        "text": null
+        "number": "28-29",
+        "hebrew": "וְכִֽי־ יִגַּ֨ח שׁ֥וֹר אֶת־ אִ֛ישׁ א֥וֹ אֶת־ אִשָּׁ֖ה וָמֵ֑ת סָק֨וֹל יִסָּקֵ֜ל הַשּׁ֗וֹר וְלֹ֤א יֵאָכֵל֙ אֶת־ בְּשָׂר֔וֹ וּבַ֥עַל הַשּׁ֖וֹר נָקִֽי׃ וְאִ֡ם שׁוֹר֩ נַגָּ֨ח ה֜וּא מִתְּמֹ֣ל שִׁלְשֹׁ֗ם וְהוּעַ֤ד בִּבְעָלָיו֙ וְלֹ֣א יִשְׁמְרֶ֔נּוּ וְהֵמִ֥ית אִ֖ישׁ א֣וֹ אִשָּׁ֑ה הַשּׁוֹר֙ יִסָּקֵ֔ל וְגַם־ בְּעָלָ֖יו יוּמָֽת׃",
+        "text": "Si un buey acorneare a hombre o a mujer, y a causa de esto muriere, el buey será apedreado, y no será comida su carne; mas el dueño del buey será absuelto. Pero si el buey era acorneador desde antes, y a su dueño se le hubiere notificado, y no lo hubiere guardado, y matare a hombre o a mujer, el buey será apedreado, y también morirá su dueño⁹⁸."
       },
       {
-        "number": "14",
-        "hebrew": "וְכִֽי־ יָזִ֥ד אִ֛ישׁ עַל־ רֵעֵ֖הוּ לְהָרְג֣וֹ בְעָרְמָ֑ה מֵעִ֣ם מִזְבְּחִ֔י תִּקָּחֶ֖נּוּ לָמֽוּת׃ ס",
-        "text": null
+        "number": "30-32",
+        "hebrew": "אִם־ כֹּ֖פֶר יוּשַׁ֣ת עָלָ֑יו וְנָתַן֙ פִּדְיֹ֣ן נַפְשׁ֔וֹ כְּכֹ֥ל אֲשֶׁר־ יוּשַׁ֖ת עָלָֽיו׃ אוֹ־ בֵ֥ן יִגָּ֖ח אוֹ־ בַ֣ת יִגָּ֑ח כַּמִּשְׁפָּ֥ט הַזֶּ֖ה יֵעָ֥שֶׂה לּֽוֹ׃ אִם־ עֶ֛בֶד יִגַּ֥ח הַשּׁ֖וֹר א֣וֹ אָמָ֑ה כֶּ֣סֶף ׀ שְׁלֹשִׁ֣ים שְׁקָלִ֗ים יִתֵּן֙ לַֽאדֹנָ֔יו וְהַשּׁ֖וֹר יִסָּקֵֽל׃ ס",
+        "text": "Si le fuere impuesto rescate, entonces dará por el rescate de su vida cuanto le fuere impuesto. Haya acorneado a hijo, o haya acorneado a hija, conforme a este juicio se hará con él. Si el buey acorneare a un siervo o a una sierva, pagará el dueño treinta piezas de plata a su señor, y el buey será apedreado."
       },
       {
-        "number": "15",
-        "hebrew": "וּמַכֵּ֥ה אָבִ֛יו וְאִמּ֖וֹ מ֥וֹת יוּמָֽת׃",
-        "text": null
+        "number": "33-34",
+        "hebrew": "וְכִֽי־ יִפְתַּ֨ח אִ֜ישׁ בּ֗וֹר א֠וֹ כִּֽי־ יִכְרֶ֥ה אִ֛ישׁ בֹּ֖ר וְלֹ֣א יְכַסֶּ֑נּוּ וְנָֽפַל־ שָׁ֥מָּה שּׁ֖וֹר א֥וֹ חֲמֽוֹר׃ בַּ֤עַל הַבּוֹר֙ יְשַׁלֵּ֔ם כֶּ֖סֶף יָשִׁ֣יב לִבְעָלָ֑יו וְהַמֵּ֖ת יִֽהְיֶה־ לּֽוֹ׃ ס",
+        "text": "Si alguno abriere un pozo, o cavare foso y no lo cubriere, y cayere allí buey o asno, el dueño del pozo pagará el dinero, resarciendo a su dueño, y lo que fue muerto será suyo."
       },
       {
-        "number": "16",
-        "hebrew": "וְגֹנֵ֨ב אִ֧ישׁ וּמְכָר֛וֹ וְנִמְצָ֥א בְיָד֖וֹ מ֥וֹת יוּמָֽת׃ ס",
-        "text": null
-      },
-      {
-        "number": "17",
-        "hebrew": "וּמְקַלֵּ֥ל אָבִ֛יו וְאִמּ֖וֹ מ֥וֹת יוּמָֽת׃ ס",
-        "text": null
-      },
-      {
-        "number": "18",
-        "hebrew": "וְכִֽי־ יְרִיבֻ֣ן אֲנָשִׁ֔ים וְהִכָּה־ אִישׁ֙ אֶת־ רֵעֵ֔הוּ בְּאֶ֖בֶן א֣וֹ בְאֶגְרֹ֑ף וְלֹ֥א יָמ֖וּת וְנָפַ֥ל לְמִשְׁכָּֽב׃",
-        "text": null
-      },
-      {
-        "number": "19",
-        "hebrew": "אִם־ יָק֞וּם וְהִתְהַלֵּ֥ךְ בַּח֛וּץ עַל־ מִשְׁעַנְתּ֖וֹ וְנִקָּ֣ה הַמַּכֶּ֑ה רַ֥ק שִׁבְתּ֛וֹ יִתֵּ֖ן וְרַפֹּ֥א יְרַפֵּֽא׃ ס",
-        "text": null
-      },
-      {
-        "number": "20",
-        "hebrew": "וְכִֽי־ יַכֶּה֩ אִ֨ישׁ אֶת־ עַבְדּ֜וֹ א֤וֹ אֶת־ אֲמָתוֹ֙ בַּשֵּׁ֔בֶט וּמֵ֖ת תַּ֣חַת יָד֑וֹ נָקֹ֖ם יִנָּקֵֽם׃",
-        "text": null
-      },
-      {
-        "number": "21",
-        "hebrew": "אַ֥ךְ אִם־ י֛וֹם א֥וֹ יוֹמַ֖יִם יַעֲמֹ֑ד לֹ֣א יֻקַּ֔ם כִּ֥י כַסְפּ֖וֹ הֽוּא׃ ס",
-        "text": null
-      },
-      {
-        "number": "22",
-        "hebrew": "וְכִֽי־ יִנָּצ֣וּ אֲנָשִׁ֗ים וְנָ֨גְפ֜וּ אִשָּׁ֤ה הָרָה֙ וְיָצְא֣וּ יְלָדֶ֔יהָ וְלֹ֥א יִהְיֶ֖ה אָס֑וֹן עָנ֣וֹשׁ יֵעָנֵ֗שׁ כַּֽאֲשֶׁ֨ר יָשִׁ֤ית עָלָיו֙ בַּ֣עַל הָֽאִשָּׁ֔ה וְנָתַ֖ן בִּפְלִלִֽים׃",
-        "text": null
-      },
-      {
-        "number": "23",
-        "hebrew": "וְאִם־ אָס֖וֹן יִהְיֶ֑ה וְנָתַתָּ֥ה נֶ֖פֶשׁ תַּ֥חַת נָֽפֶשׁ׃",
-        "text": null
-      },
-      {
-        "number": "24",
-        "hebrew": "עַ֚יִן תַּ֣חַת עַ֔יִן שֵׁ֖ן תַּ֣חַת שֵׁ֑ן יָ֚ד תַּ֣חַת יָ֔ד רֶ֖גֶל תַּ֥חַת רָֽגֶל׃",
-        "text": null
-      },
-      {
-        "number": "25",
-        "hebrew": "כְּוִיָּה֙ תַּ֣חַת כְּוִיָּ֔ה פֶּ֖צַע תַּ֣חַת פָּ֑צַע חַבּוּרָ֕ה תַּ֖חַת חַבּוּרָֽה׃ ס",
-        "text": null
-      },
-      {
-        "number": "26",
-        "hebrew": "וְכִֽי־ יַכֶּ֨ה אִ֜ישׁ אֶת־ עֵ֥ין עַבְדּ֛וֹ אֽוֹ־ אֶת־ עֵ֥ין אֲמָת֖וֹ וְשִֽׁחֲתָ֑הּ לַֽחָפְשִׁ֥י יְשַׁלְּחֶ֖נּוּ תַּ֥חַת עֵינֽוֹ׃ ס",
-        "text": null
-      },
-      {
-        "number": "27",
-        "hebrew": "וְאִם־ שֵׁ֥ן עַבְדּ֛וֹ אֽוֹ־ שֵׁ֥ן אֲמָת֖וֹ יַפִּ֑יל לַֽחָפְשִׁ֥י יְשַׁלְּחֶ֖נּוּ תַּ֥חַת שִׁנּֽוֹ׃ פ",
-        "text": null
-      },
-      {
-        "number": "28",
-        "hebrew": "וְכִֽי־ יִגַּ֨ח שׁ֥וֹר אֶת־ אִ֛ישׁ א֥וֹ אֶת־ אִשָּׁ֖ה וָמֵ֑ת סָק֨וֹל יִסָּקֵ֜ל הַשּׁ֗וֹר וְלֹ֤א יֵאָכֵל֙ אֶת־ בְּשָׂר֔וֹ וּבַ֥עַל הַשּׁ֖וֹר נָקִֽי׃",
-        "text": null
-      },
-      {
-        "number": "29",
-        "hebrew": "וְאִ֡ם שׁוֹר֩ נַגָּ֨ח ה֜וּא מִתְּמֹ֣ל שִׁלְשֹׁ֗ם וְהוּעַ֤ד בִּבְעָלָיו֙ וְלֹ֣א יִשְׁמְרֶ֔נּוּ וְהֵמִ֥ית אִ֖ישׁ א֣וֹ אִשָּׁ֑ה הַשּׁוֹר֙ יִסָּקֵ֔ל וְגַם־ בְּעָלָ֖יו יוּמָֽת׃",
-        "text": null
-      },
-      {
-        "number": "30",
-        "hebrew": "אִם־ כֹּ֖פֶר יוּשַׁ֣ת עָלָ֑יו וְנָתַן֙ פִּדְיֹ֣ן נַפְשׁ֔וֹ כְּכֹ֥ל אֲשֶׁר־ יוּשַׁ֖ת עָלָֽיו׃",
-        "text": null
-      },
-      {
-        "number": "31",
-        "hebrew": "אוֹ־ בֵ֥ן יִגָּ֖ח אוֹ־ בַ֣ת יִגָּ֑ח כַּמִּשְׁפָּ֥ט הַזֶּ֖ה יֵעָ֥שֶׂה לּֽוֹ׃",
-        "text": null
-      },
-      {
-        "number": "32",
-        "hebrew": "אִם־ עֶ֛בֶד יִגַּ֥ח הַשּׁ֖וֹר א֣וֹ אָמָ֑ה כֶּ֣סֶף ׀ שְׁלֹשִׁ֣ים שְׁקָלִ֗ים יִתֵּן֙ לַֽאדֹנָ֔יו וְהַשּׁ֖וֹר יִסָּקֵֽל׃ ס",
-        "text": null
-      },
-      {
-        "number": "33",
-        "hebrew": "וְכִֽי־ יִפְתַּ֨ח אִ֜ישׁ בּ֗וֹר א֠וֹ כִּֽי־ יִכְרֶ֥ה אִ֛ישׁ בֹּ֖ר וְלֹ֣א יְכַסֶּ֑נּוּ וְנָֽפַל־ שָׁ֥מָּה שּׁ֖וֹר א֥וֹ חֲמֽוֹר׃",
-        "text": null
-      },
-      {
-        "number": "34",
-        "hebrew": "בַּ֤עַל הַבּוֹר֙ יְשַׁלֵּ֔ם כֶּ֖סֶף יָשִׁ֣יב לִבְעָלָ֑יו וְהַמֵּ֖ת יִֽהְיֶה־ לּֽוֹ׃ ס",
-        "text": null
-      },
-      {
-        "number": "35",
-        "hebrew": "וְכִֽי־ יִגֹּ֧ף שֽׁוֹר־ אִ֛ישׁ אֶת־ שׁ֥וֹר רֵעֵ֖הוּ וָמֵ֑ת וּמָ֨כְר֜וּ אֶת־ הַשּׁ֤וֹר הַחַי֙ וְחָצ֣וּ אֶת־ כַּסְפּ֔וֹ וְגַ֥ם אֶת־ הַמֵּ֖ת יֶֽחֱצֽוּן׃",
-        "text": null
-      },
-      {
-        "number": "36",
-        "hebrew": "א֣וֹ נוֹדַ֗ע כִּ֠י שׁ֣וֹר נַגָּ֥ח הוּא֙ מִתְּמ֣וֹל שִׁלְשֹׁ֔ם וְלֹ֥א יִשְׁמְרֶ֖נּוּ בְּעָלָ֑יו שַׁלֵּ֨ם יְשַׁלֵּ֥ם שׁוֹר֙ תַּ֣חַת הַשּׁ֔וֹר וְהַמֵּ֖ת יִֽהְיֶה־ לּֽוֹ׃ ס",
-        "text": null
+        "number": "35-36",
+        "hebrew": "וְכִֽי־ יִגֹּ֧ף שֽׁוֹר־ אִ֛ישׁ אֶת־ שׁ֥וֹר רֵעֵ֖הוּ וָמֵ֑ת וּמָ֨כְר֜וּ אֶת־ הַשּׁ֤וֹר הַחַי֙ וְחָצ֣וּ אֶת־ כַּסְפּ֔וֹ וְגַ֥ם אֶת־ הַמֵּ֖ת יֶֽחֱצֽוּן׃ א֣וֹ נוֹדַ֗ע כִּ֠י שׁ֣וֹר נַגָּ֥ח הוּא֙ מִתְּמ֣וֹל שִׁלְשֹׁ֔ם וְלֹ֥א יִשְׁמְרֶ֖נּוּ בְּעָלָ֑יו שַׁלֵּ֨ם יְשַׁלֵּ֥ם שׁוֹר֙ תַּ֣חַת הַשּׁ֔וֹר וְהַמֵּ֖ת יִֽהְיֶה־ לּֽוֹ׃ ס",
+        "text": "Y si el buey de alguno hiriere al buey de su prójimo y este muriere, entonces venderán el buey vivo y partirán el dinero de él, y también partirán el muerto. Mas si era notorio que el buey era acorneador desde antes, y su dueño no lo hubiere guardado, pagará buey por buey, y el muerto será suyo."
       },
       {
         "number": "37",
         "hebrew": "כִּ֤י יִגְנֹֽב־ אִישׁ֙ שׁ֣וֹר אוֹ־ שֶׂ֔ה וּטְבָח֖וֹ א֣וֹ מְכָר֑וֹ חֲמִשָּׁ֣ה בָקָ֗ר יְשַׁלֵּם֙ תַּ֣חַת הַשּׁ֔וֹר וְאַרְבַּע־ צֹ֖אן תַּ֥חַת הַשֶּֽׂה׃",
-        "text": null
+        "text": "Si alguno hurtare buey u oveja, y lo degollare o lo vendiere, por el buey pagará cinco bueyes, y por la oveja cuatro ovejas."
       }
     ],
     "22": [
       {
-        "number": "1",
-        "hebrew": "אִם־ בַּמַּחְתֶּ֛רֶת יִמָּצֵ֥א הַגַּנָּ֖ב וְהֻכָּ֣ה וָמֵ֑ת אֵ֥ין ל֖וֹ דָּמִֽים׃",
-        "text": null
+        "number": "1-2",
+        "hebrew": "אִם־ בַּמַּחְתֶּ֛רֶת יִמָּצֵ֥א הַגַּנָּ֖ב וְהֻכָּ֣ה וָמֵ֑ת אֵ֥ין ל֖וֹ דָּמִֽים׃ אִם־ זָרְחָ֥ה הַשֶּׁ֛מֶשׁ עָלָ֖יו דָּמִ֣ים ל֑וֹ שַׁלֵּ֣ם יְשַׁלֵּ֔ם אִם־ אֵ֣ין ל֔וֹ וְנִמְכַּ֖ר בִּגְנֵבָתֽוֹ׃",
+        "text": "Si el ladrón fuere hallado forzando una casa, y fuere herido y muriere, el que lo hirió no será culpado de su muerte⁹⁹. Mas si fuere de día, el autor será reo de homicidio."
       },
       {
-        "number": "2",
-        "hebrew": "אִם־ זָרְחָ֥ה הַשֶּׁ֛מֶשׁ עָלָ֖יו דָּמִ֣ים ל֑וֹ שַׁלֵּ֣ם יְשַׁלֵּ֔ם אִם־ אֵ֣ין ל֔וֹ וְנִמְכַּ֖ר בִּגְנֵבָתֽוֹ׃",
-        "text": null
+        "number": "3-4",
+        "hebrew": "אִֽם־ הִמָּצֵא֩ תִמָּצֵ֨א בְיָד֜וֹ הַגְּנֵבָ֗ה מִשּׁ֧וֹר עַד־ חֲמ֛וֹר עַד־ שֶׂ֖ה חַיִּ֑ים שְׁנַ֖יִם יְשַׁלֵּֽם׃ ס כִּ֤י יַבְעֶר־ אִישׁ֙ שָׂדֶ֣ה אוֹ־ כֶ֔רֶם וְשִׁלַּח֙ אֶת־ בעירה וּבִעֵ֖ר בִּשְׂדֵ֣ה אַחֵ֑ר מֵיטַ֥ב שָׂדֵ֛הוּ וּמֵיטַ֥ב כַּרְמ֖וֹ יְשַׁלֵּֽם׃ ס",
+        "text": "El ladrón hará completa restitución; si no tuviere con qué, será vendido por su hurto. Si fuere hallado con el hurto en la mano, buey o asno u oveja vivos, pagará el doble."
       },
       {
-        "number": "3",
-        "hebrew": "אִֽם־ הִמָּצֵא֩ תִמָּצֵ֨א בְיָד֜וֹ הַגְּנֵבָ֗ה מִשּׁ֧וֹר עַד־ חֲמ֛וֹר עַד־ שֶׂ֖ה חַיִּ֑ים שְׁנַ֖יִם יְשַׁלֵּֽם׃ ס",
-        "text": null
+        "number": "5-6",
+        "hebrew": "כִּֽי־ תֵצֵ֨א אֵ֜שׁ וּמָצְאָ֤ה קֹצִים֙ וְנֶאֱכַ֣ל גָּדִ֔ישׁ א֥וֹ הַקָּמָ֖ה א֣וֹ הַשָּׂדֶ֑ה שַׁלֵּ֣ם יְשַׁלֵּ֔ם הַמַּבְעִ֖ר אֶת־ הַבְּעֵרָֽה׃ ס כִּֽי־ יִתֵּן֩ אִ֨ישׁ אֶל־ רֵעֵ֜הוּ כֶּ֤סֶף אֽוֹ־ כֵלִים֙ לִשְׁמֹ֔ר וְגֻנַּ֖ב מִבֵּ֣ית הָאִ֑ישׁ אִם־ יִמָּצֵ֥א הַגַּנָּ֖ב יְשַׁלֵּ֥ם שְׁנָֽיִם׃",
+        "text": "Si alguno hiciere pastar en campo o viña, y metiere su bestia, y comiere en campo de otro, de lo mejor de su campo y de lo mejor de su viña pagará. Si prendiere fuego, y al quemar espinos quemare mieses amontonadas o en pie, o campo, el que encendió el fuego pagará lo quemado."
       },
       {
-        "number": "4",
-        "hebrew": "כִּ֤י יַבְעֶר־ אִישׁ֙ שָׂדֶ֣ה אוֹ־ כֶ֔רֶם וְשִׁלַּח֙ אֶת־ בעירה וּבִעֵ֖ר בִּשְׂדֵ֣ה אַחֵ֑ר מֵיטַ֥ב שָׂדֵ֛הוּ וּמֵיטַ֥ב כַּרְמ֖וֹ יְשַׁלֵּֽם׃ ס",
-        "text": null
+        "number": "7-8",
+        "hebrew": "אִם־ לֹ֤א יִמָּצֵא֙ הַגַּנָּ֔ב וְנִקְרַ֥ב בַּֽעַל־ הַבַּ֖יִת אֶל־ הָֽאֱלֹהִ֑ים אִם־ לֹ֥א שָׁלַ֛ח יָד֖וֹ בִּמְלֶ֥אכֶת רֵעֵֽהוּ׃ עַֽל־ כָּל־ דְּבַר־ פֶּ֡שַׁע עַל־ שׁ֡וֹר עַל־ חֲ֠מוֹר עַל־ שֶׂ֨ה עַל־ שַׂלְמָ֜ה עַל־ כָּל־ אֲבֵדָ֗ה אֲשֶׁ֤ר יֹאמַר֙ כִּי־ ה֣וּא זֶ֔ה עַ֚ד הָֽאֱלֹהִ֔ים יָבֹ֖א דְּבַר־ שְׁנֵיהֶ֑ם אֲשֶׁ֤ר יַרְשִׁיעֻן֙ אֱלֹהִ֔ים יְשַׁלֵּ֥ם שְׁנַ֖יִם לְרֵעֵֽהוּ׃ ס",
+        "text": "Cuando alguno diere a su prójimo plata o alhajas a guardar, y fuere hurtado de la casa de aquel hombre, si el ladrón fuere hallado, pagará el doble. Si el ladrón no fuere hallado, entonces el dueño de la casa será presentado ante los jueces¹⁰⁰, para ver si ha metido su mano en los bienes de su prójimo."
       },
       {
-        "number": "5",
-        "hebrew": "כִּֽי־ תֵצֵ֨א אֵ֜שׁ וּמָצְאָ֤ה קֹצִים֙ וְנֶאֱכַ֣ל גָּדִ֔ישׁ א֥וֹ הַקָּמָ֖ה א֣וֹ הַשָּׂדֶ֑ה שַׁלֵּ֣ם יְשַׁלֵּ֔ם הַמַּבְעִ֖ר אֶת־ הַבְּעֵרָֽה׃ ס",
-        "text": null
+        "number": "9-10",
+        "hebrew": "כִּֽי־ יִתֵּן֩ אִ֨ישׁ אֶל־ רֵעֵ֜הוּ חֲמ֨וֹר אוֹ־ שׁ֥וֹר אוֹ־ שֶׂ֛ה וְכָל־ בְּהֵמָ֖ה לִשְׁמֹ֑ר וּמֵ֛ת אוֹ־ נִשְׁבַּ֥ר אוֹ־ נִשְׁבָּ֖ה אֵ֥ין רֹאֶֽה׃ שְׁבֻעַ֣ת יְהוָ֗ה תִּהְיֶה֙ בֵּ֣ין שְׁנֵיהֶ֔ם אִם־ לֹ֥א שָׁלַ֛ח יָד֖וֹ בִּמְלֶ֣אכֶת רֵעֵ֑הוּ וְלָקַ֥ח בְּעָלָ֖יו וְלֹ֥א יְשַׁלֵּֽם׃",
+        "text": "En toda clase de fraude, sobre buey, sobre asno, sobre oveja, sobre vestido, sobre toda cosa perdida, cuando alguno dijere que es suya, la causa de ambos vendrá delante de los jueces; y el que los jueces condenaren, pagará el doble a su prójimo. Si alguno hubiere dado a su prójimo asno, buey, oveja, o cualquier otro animal a guardar, y este muriere o fuere estropeado, o fuere llevado sin verlo nadie,"
       },
       {
-        "number": "6",
-        "hebrew": "כִּֽי־ יִתֵּן֩ אִ֨ישׁ אֶל־ רֵעֵ֜הוּ כֶּ֤סֶף אֽוֹ־ כֵלִים֙ לִשְׁמֹ֔ר וְגֻנַּ֖ב מִבֵּ֣ית הָאִ֑ישׁ אִם־ יִמָּצֵ֥א הַגַּנָּ֖ב יְשַׁלֵּ֥ם שְׁנָֽיִם׃",
-        "text": null
+        "number": "11-13",
+        "hebrew": "וְאִם־ גָּנֹ֥ב יִגָּנֵ֖ב מֵעִמּ֑וֹ יְשַׁלֵּ֖ם לִבְעָלָֽיו׃ אִם־ טָרֹ֥ף יִטָּרֵ֖ף יְבִאֵ֣הוּ עֵ֑ד הַטְּרֵפָ֖ה לֹ֥א יְשַׁלֵּֽם׃ פ וְכִֽי־ יִשְׁאַ֥ל אִ֛ישׁ מֵעִ֥ם רֵעֵ֖הוּ וְנִשְׁבַּ֣ר אוֹ־ מֵ֑ת בְּעָלָ֥יו אֵין־ עִמּ֖וֹ שַׁלֵּ֥ם יְשַׁלֵּֽם׃",
+        "text": "juramento de YHWH habrá entre ambos, de que no metió su mano a los bienes de su prójimo; y su dueño lo aceptará, y el otro no pagará. Mas si le hubiere sido hurtado, resarcirá a su dueño. Y si le hubiere sido arrebatado por fiera, le traerá testimonio, y no pagará lo arrebatado."
       },
       {
-        "number": "7",
-        "hebrew": "אִם־ לֹ֤א יִמָּצֵא֙ הַגַּנָּ֔ב וְנִקְרַ֥ב בַּֽעַל־ הַבַּ֖יִת אֶל־ הָֽאֱלֹהִ֑ים אִם־ לֹ֥א שָׁלַ֛ח יָד֖וֹ בִּמְלֶ֥אכֶת רֵעֵֽהוּ׃",
-        "text": null
+        "number": "14-15",
+        "hebrew": "אִם־ בְּעָלָ֥יו עִמּ֖וֹ לֹ֣א יְשַׁלֵּ֑ם אִם־ שָׂכִ֣יר ה֔וּא בָּ֖א בִּשְׂכָרֽוֹ׃ ס וְכִֽי־ יְפַתֶּ֣ה אִ֗ישׁ בְּתוּלָ֛ה אֲשֶׁ֥ר לֹא־ אֹרָ֖שָׂה וְשָׁכַ֣ב עִמָּ֑הּ מָהֹ֛ר יִמְהָרֶ֥נָּה לּ֖וֹ לְאִשָּֽׁה׃",
+        "text": "Pero si el prójimo le hubiere pedido prestado, y hubiere sido estropeado o hubiere muerto, no estando presente su dueño, deberá pagarlo. Si el dueño estaba presente, no lo pagará; si era alquilado, entra en el precio de su alquiler."
       },
       {
-        "number": "8",
-        "hebrew": "עַֽל־ כָּל־ דְּבַר־ פֶּ֡שַׁע עַל־ שׁ֡וֹר עַל־ חֲ֠מוֹר עַל־ שֶׂ֨ה עַל־ שַׂלְמָ֜ה עַל־ כָּל־ אֲבֵדָ֗ה אֲשֶׁ֤ר יֹאמַר֙ כִּי־ ה֣וּא זֶ֔ה עַ֚ד הָֽאֱלֹהִ֔ים יָבֹ֖א דְּבַר־ שְׁנֵיהֶ֑ם אֲשֶׁ֤ר יַרְשִׁיעֻן֙ אֱלֹהִ֔ים יְשַׁלֵּ֥ם שְׁנַ֖יִם לְרֵעֵֽהוּ׃ ס",
-        "text": null
-      },
-      {
-        "number": "9",
-        "hebrew": "כִּֽי־ יִתֵּן֩ אִ֨ישׁ אֶל־ רֵעֵ֜הוּ חֲמ֨וֹר אוֹ־ שׁ֥וֹר אוֹ־ שֶׂ֛ה וְכָל־ בְּהֵמָ֖ה לִשְׁמֹ֑ר וּמֵ֛ת אוֹ־ נִשְׁבַּ֥ר אוֹ־ נִשְׁבָּ֖ה אֵ֥ין רֹאֶֽה׃",
-        "text": null
-      },
-      {
-        "number": "10",
-        "hebrew": "שְׁבֻעַ֣ת יְהוָ֗ה תִּהְיֶה֙ בֵּ֣ין שְׁנֵיהֶ֔ם אִם־ לֹ֥א שָׁלַ֛ח יָד֖וֹ בִּמְלֶ֣אכֶת רֵעֵ֑הוּ וְלָקַ֥ח בְּעָלָ֖יו וְלֹ֥א יְשַׁלֵּֽם׃",
-        "text": null
-      },
-      {
-        "number": "11",
-        "hebrew": "וְאִם־ גָּנֹ֥ב יִגָּנֵ֖ב מֵעִמּ֑וֹ יְשַׁלֵּ֖ם לִבְעָלָֽיו׃",
-        "text": null
-      },
-      {
-        "number": "12",
-        "hebrew": "אִם־ טָרֹ֥ף יִטָּרֵ֖ף יְבִאֵ֣הוּ עֵ֑ד הַטְּרֵפָ֖ה לֹ֥א יְשַׁלֵּֽם׃ פ",
-        "text": null
-      },
-      {
-        "number": "13",
-        "hebrew": "וְכִֽי־ יִשְׁאַ֥ל אִ֛ישׁ מֵעִ֥ם רֵעֵ֖הוּ וְנִשְׁבַּ֣ר אוֹ־ מֵ֑ת בְּעָלָ֥יו אֵין־ עִמּ֖וֹ שַׁלֵּ֥ם יְשַׁלֵּֽם׃",
-        "text": null
-      },
-      {
-        "number": "14",
-        "hebrew": "אִם־ בְּעָלָ֥יו עִמּ֖וֹ לֹ֣א יְשַׁלֵּ֑ם אִם־ שָׂכִ֣יר ה֔וּא בָּ֖א בִּשְׂכָרֽוֹ׃ ס",
-        "text": null
-      },
-      {
-        "number": "15",
-        "hebrew": "וְכִֽי־ יְפַתֶּ֣ה אִ֗ישׁ בְּתוּלָ֛ה אֲשֶׁ֥ר לֹא־ אֹרָ֖שָׂה וְשָׁכַ֣ב עִמָּ֑הּ מָהֹ֛ר יִמְהָרֶ֥נָּה לּ֖וֹ לְאִשָּֽׁה׃",
-        "text": null
-      },
-      {
-        "number": "16",
-        "hebrew": "אִם־ מָאֵ֧ן יְמָאֵ֛ן אָבִ֖יהָ לְתִתָּ֣הּ ל֑וֹ כֶּ֣סֶף יִשְׁקֹ֔ל כְּמֹ֖הַר הַבְּתוּלֹֽת׃ ס",
-        "text": null
-      },
-      {
-        "number": "17",
-        "hebrew": "מְכַשֵּׁפָ֖ה לֹ֥א תְחַיֶּֽה׃ ס",
-        "text": null
+        "number": "16-17",
+        "hebrew": "אִם־ מָאֵ֧ן יְמָאֵ֛ן אָבִ֖יהָ לְתִתָּ֣הּ ל֑וֹ כֶּ֣סֶף יִשְׁקֹ֔ל כְּמֹ֖הַר הַבְּתוּלֹֽת׃ ס מְכַשֵּׁפָ֖ה לֹ֥א תְחַיֶּֽה׃ ס",
+        "text": "Si alguno engañare a una virgen que no fuere desposada, y durmiere con ella, deberá dotarla y tomarla por ishah. Si su padre no quisiere dársela, él le pesará plata conforme al dote de las vírgenes."
       },
       {
         "number": "18",
         "hebrew": "כָּל־ שֹׁכֵ֥ב עִם־ בְּהֵמָ֖ה מ֥וֹת יוּמָֽת׃ ס",
-        "text": null
+        "text": "A la hechicera no dejarás que viva."
       },
       {
-        "number": "19",
-        "hebrew": "זֹבֵ֥חַ לָאֱלֹהִ֖ים יָֽחֳרָ֑ם בִּלְתִּ֥י לַיהוָ֖ה לְבַדּֽוֹ׃",
-        "text": null
+        "number": "19-21",
+        "hebrew": "זֹבֵ֥חַ לָאֱלֹהִ֖ים יָֽחֳרָ֑ם בִּלְתִּ֥י לַיהוָ֖ה לְבַדּֽוֹ׃ וְגֵ֥ר לֹא־ תוֹנֶ֖ה וְלֹ֣א תִלְחָצֶ֑נּוּ כִּֽי־ גֵרִ֥ים הֱיִיתֶ֖ם בְּאֶ֥רֶץ מִצְרָֽיִם׃ כָּל־ אַלְמָנָ֥ה וְיָת֖וֹם לֹ֥א תְעַנּֽוּן׃",
+        "text": "Cualquiera que tuviere ayuntamiento con bestia, morirá irremisiblemente. El que ofreciere sacrificio a elohim, excepto solamente a YHWH, será destruido. Y al extranjero no engañarás ni angustiarás, porque extranjeros fuisteis vosotros en la tierra de Egipto¹⁰¹."
       },
       {
-        "number": "20",
-        "hebrew": "וְגֵ֥ר לֹא־ תוֹנֶ֖ה וְלֹ֣א תִלְחָצֶ֑נּוּ כִּֽי־ גֵרִ֥ים הֱיִיתֶ֖ם בְּאֶ֥רֶץ מִצְרָֽיִם׃",
-        "text": null
+        "number": "22-24",
+        "hebrew": "אִם־ עַנֵּ֥ה תְעַנֶּ֖ה אֹת֑וֹ כִּ֣י אִם־ צָעֹ֤ק יִצְעַק֙ אֵלַ֔י שָׁמֹ֥עַ אֶשְׁמַ֖ע צַעֲקָתֽוֹ׃ וְחָרָ֣ה אַפִּ֔י וְהָרַגְתִּ֥י אֶתְכֶ֖ם בֶּחָ֑רֶב וְהָי֤וּ נְשֵׁיכֶם֙ אַלְמָנ֔וֹת וּבְנֵיכֶ֖ם יְתֹמִֽים׃ פ אִם־ כֶּ֣סֶף ׀ תַּלְוֶ֣ה אֶת־ עַמִּ֗י אֶת־ הֶֽעָנִי֙ עִמָּ֔ךְ לֹא־ תִהְיֶ֥ה ל֖וֹ כְּנֹשֶׁ֑ה לֹֽא־ תְשִׂימ֥וּן עָלָ֖יו נֶֽשֶׁךְ׃",
+        "text": "A ninguna viuda ni huérfano afligiréis. Que si tú llegas a afligirle, y él clamare a mí, ciertamente oiré yo su clamor; y mi ira se encenderá, y os mataré a espada, y vuestras esposas serán viudas, y huérfanos vuestros hijos."
       },
       {
-        "number": "21",
-        "hebrew": "כָּל־ אַלְמָנָ֥ה וְיָת֖וֹם לֹ֥א תְעַנּֽוּן׃",
-        "text": null
-      },
-      {
-        "number": "22",
-        "hebrew": "אִם־ עַנֵּ֥ה תְעַנֶּ֖ה אֹת֑וֹ כִּ֣י אִם־ צָעֹ֤ק יִצְעַק֙ אֵלַ֔י שָׁמֹ֥עַ אֶשְׁמַ֖ע צַעֲקָתֽוֹ׃",
-        "text": null
-      },
-      {
-        "number": "23",
-        "hebrew": "וְחָרָ֣ה אַפִּ֔י וְהָרַגְתִּ֥י אֶתְכֶ֖ם בֶּחָ֑רֶב וְהָי֤וּ נְשֵׁיכֶם֙ אַלְמָנ֔וֹת וּבְנֵיכֶ֖ם יְתֹמִֽים׃ פ",
-        "text": null
-      },
-      {
-        "number": "24",
-        "hebrew": "אִם־ כֶּ֣סֶף ׀ תַּלְוֶ֣ה אֶת־ עַמִּ֗י אֶת־ הֶֽעָנִי֙ עִמָּ֔ךְ לֹא־ תִהְיֶ֥ה ל֖וֹ כְּנֹשֶׁ֑ה לֹֽא־ תְשִׂימ֥וּן עָלָ֖יו נֶֽשֶׁךְ׃",
-        "text": null
-      },
-      {
-        "number": "25",
-        "hebrew": "אִם־ חָבֹ֥ל תַּחְבֹּ֖ל שַׂלְמַ֣ת רֵעֶ֑ךָ עַד־ בֹּ֥א הַשֶּׁ֖מֶשׁ תְּשִׁיבֶ֥נּוּ לֽוֹ׃",
-        "text": null
-      },
-      {
-        "number": "26",
-        "hebrew": "כִּ֣י הִ֤וא כסותה לְבַדָּ֔הּ הִ֥וא שִׂמְלָת֖וֹ לְעֹר֑וֹ בַּמֶּ֣ה יִשְׁכָּ֔ב וְהָיָה֙ כִּֽי־ יִצְעַ֣ק אֵלַ֔י וְשָׁמַעְתִּ֖י כִּֽי־ חַנּ֥וּן אָֽנִי׃ ס",
-        "text": null
-      },
-      {
-        "number": "27",
-        "hebrew": "אֱלֹהִ֖ים לֹ֣א תְקַלֵּ֑ל וְנָשִׂ֥יא בְעַמְּךָ֖ לֹ֥א תָאֹֽר׃",
-        "text": null
+        "number": "25-27",
+        "hebrew": "אִם־ חָבֹ֥ל תַּחְבֹּ֖ל שַׂלְמַ֣ת רֵעֶ֑ךָ עַד־ בֹּ֥א הַשֶּׁ֖מֶשׁ תְּשִׁיבֶ֥נּוּ לֽוֹ׃ כִּ֣י הִ֤וא כסותה לְבַדָּ֔הּ הִ֥וא שִׂמְלָת֖וֹ לְעֹר֑וֹ בַּמֶּ֣ה יִשְׁכָּ֔ב וְהָיָה֙ כִּֽי־ יִצְעַ֣ק אֵלַ֔י וְשָׁמַעְתִּ֖י כִּֽי־ חַנּ֥וּן אָֽנִי׃ ס אֱלֹהִ֖ים לֹ֣א תְקַלֵּ֑ל וְנָשִׂ֥יא בְעַמְּךָ֖ לֹ֥א תָאֹֽר׃",
+        "text": "Si dieres a mi pueblo dinero prestado, al pobre que está contigo, no te portarás con él como usurero, ni le impondrás usura. Si tomares en prenda el vestido de tu prójimo, a la puesta del sol se lo devolverás; porque solo eso es su cubierta, es su vestido para cubrir su piel; ¿con qué dormirá? Y cuando él clame a mí, yo le oiré, porque soy clemente."
       },
       {
         "number": "28",
         "hebrew": "מְלֵאָתְךָ֥ וְדִמְעֲךָ֖ לֹ֣א תְאַחֵ֑ר בְּכ֥וֹר בָּנֶ֖יךָ תִּתֶּן־ לִּֽי׃",
-        "text": null
+        "text": "No injuriarás a Elohim, ni maldecirás al príncipe de tu pueblo¹⁰²."
       },
       {
-        "number": "29",
-        "hebrew": "כֵּֽן־ תַּעֲשֶׂ֥ה לְשֹׁרְךָ֖ לְצֹאנֶ֑ךָ שִׁבְעַ֤ת יָמִים֙ יִהְיֶ֣ה עִם־ אִמּ֔וֹ בַּיּ֥וֹם הַשְּׁמִינִ֖י תִּתְּנוֹ־ לִֽי׃",
-        "text": null
-      },
-      {
-        "number": "30",
-        "hebrew": "וְאַנְשֵׁי־ קֹ֖דֶשׁ תִּהְי֣וּן לִ֑י וּבָשָׂ֨ר בַּשָּׂדֶ֤ה טְרֵפָה֙ לֹ֣א תֹאכֵ֔לוּ לַכֶּ֖לֶב תַּשְׁלִכ֥וּן אֹתֽוֹ׃ ס",
-        "text": null
+        "number": "29-30",
+        "hebrew": "כֵּֽן־ תַּעֲשֶׂ֥ה לְשֹׁרְךָ֖ לְצֹאנֶ֑ךָ שִׁבְעַ֤ת יָמִים֙ יִהְיֶ֣ה עִם־ אִמּ֔וֹ בַּיּ֥וֹם הַשְּׁמִינִ֖י תִּתְּנוֹ־ לִֽי׃ וְאַנְשֵׁי־ קֹ֖דֶשׁ תִּהְי֣וּן לִ֑י וּבָשָׂ֨ר בַּשָּׂדֶ֤ה טְרֵפָה֙ לֹ֣א תֹאכֵ֔לוּ לַכֶּ֖לֶב תַּשְׁלִכ֥וּן אֹתֽוֹ׃ ס",
+        "text": "No demorarás la primicia de tu cosecha, ni de tu lagar. Me darás el primogénito de tus hijos. Lo mismo harás con el de tu buey y de tu oveja; siete días estará con su madre, y al octavo día me lo darás."
       }
     ],
     "23": [
       {
-        "number": "1",
-        "hebrew": "לֹ֥א תִשָּׂ֖א שֵׁ֣מַע שָׁ֑וְא אַל־ תָּ֤שֶׁת יָֽדְךָ֙ עִם־ רָשָׁ֔ע לִהְיֹ֖ת עֵ֥ד חָמָֽס׃ ס",
-        "text": null
-      },
-      {
-        "number": "2",
-        "hebrew": "לֹֽא־ תִהְיֶ֥ה אַחֲרֵֽי־ רַבִּ֖ים לְרָעֹ֑ת וְלֹא־ תַעֲנֶ֣ה עַל־ רִ֗ב לִנְטֹ֛ת אַחֲרֵ֥י רַבִּ֖ים לְהַטֹּֽת׃",
-        "text": null
+        "number": "1-2",
+        "hebrew": "לֹ֥א תִשָּׂ֖א שֵׁ֣מַע שָׁ֑וְא אַל־ תָּ֤שֶׁת יָֽדְךָ֙ עִם־ רָשָׁ֔ע לִהְיֹ֖ת עֵ֥ד חָמָֽס׃ ס לֹֽא־ תִהְיֶ֥ה אַחֲרֵֽי־ רַבִּ֖ים לְרָעֹ֑ת וְלֹא־ תַעֲנֶ֣ה עַל־ רִ֗ב לִנְטֹ֛ת אַחֲרֵ֥י רַבִּ֖ים לְהַטֹּֽת׃",
+        "text": "No admitirás falso rumor. No te concertarás con el impío para ser testigo falso. No seguirás a los muchos para hacer mal¹⁰⁴; ni responderás en litigio inclinándote a los más para hacer agravios;"
       },
       {
         "number": "3",
         "hebrew": "וְדָ֕ל לֹ֥א תֶהְדַּ֖ר בְּרִיבֽוֹ׃ ס",
-        "text": null
+        "text": "ni al pobre distinguirás en su causa."
       },
       {
-        "number": "4",
-        "hebrew": "כִּ֣י תִפְגַּ֞ע שׁ֧וֹר אֹֽיִבְךָ֛ א֥וֹ חֲמֹר֖וֹ תֹּעֶ֑ה הָשֵׁ֥ב תְּשִׁיבֶ֖נּוּ לֽוֹ׃ ס",
-        "text": null
+        "number": "4-5",
+        "hebrew": "כִּ֣י תִפְגַּ֞ע שׁ֧וֹר אֹֽיִבְךָ֛ א֥וֹ חֲמֹר֖וֹ תֹּעֶ֑ה הָשֵׁ֥ב תְּשִׁיבֶ֖נּוּ לֽוֹ׃ ס כִּֽי־ תִרְאֶ֞ה חֲמ֣וֹר שֹׂנַאֲךָ֗ רֹבֵץ֙ תַּ֣חַת מַשָּׂא֔וֹ וְחָדַלְתָּ֖ מֵעֲזֹ֣ב ל֑וֹ עָזֹ֥ב תַּעֲזֹ֖ב עִמּֽוֹ׃ ס",
+        "text": "Si encontrares el buey de tu enemigo o su asno extraviado, sin falta se lo devolverás. Si vieres el asno del que te aborrece caído debajo de su carga, ¿le dejarás sin ayuda? Sin falta ayudarás con él."
       },
       {
-        "number": "5",
-        "hebrew": "כִּֽי־ תִרְאֶ֞ה חֲמ֣וֹר שֹׂנַאֲךָ֗ רֹבֵץ֙ תַּ֣חַת מַשָּׂא֔וֹ וְחָדַלְתָּ֖ מֵעֲזֹ֣ב ל֑וֹ עָזֹ֥ב תַּעֲזֹ֖ב עִמּֽוֹ׃ ס",
-        "text": null
-      },
-      {
-        "number": "6",
-        "hebrew": "לֹ֥א תַטֶּ֛ה מִשְׁפַּ֥ט אֶבְיֹנְךָ֖ בְּרִיבֽוֹ׃",
-        "text": null
-      },
-      {
-        "number": "7",
-        "hebrew": "מִדְּבַר־ שֶׁ֖קֶר תִּרְחָ֑ק וְנָקִ֤י וְצַדִּיק֙ אַֽל־ תַּהֲרֹ֔ג כִּ֥י לֹא־ אַצְדִּ֖יק רָשָֽׁע׃",
-        "text": null
-      },
-      {
-        "number": "8",
-        "hebrew": "וְשֹׁ֖חַד לֹ֣א תִקָּ֑ח כִּ֤י הַשֹּׁ֨חַד֙ יְעַוֵּ֣ר פִּקְחִ֔ים וִֽיסַלֵּ֖ף דִּבְרֵ֥י צַדִּיקִֽים׃",
-        "text": null
+        "number": "6-8",
+        "hebrew": "לֹ֥א תַטֶּ֛ה מִשְׁפַּ֥ט אֶבְיֹנְךָ֖ בְּרִיבֽוֹ׃ מִדְּבַר־ שֶׁ֖קֶר תִּרְחָ֑ק וְנָקִ֤י וְצַדִּיק֙ אַֽל־ תַּהֲרֹ֔ג כִּ֥י לֹא־ אַצְדִּ֖יק רָשָֽׁע׃ וְשֹׁ֖חַד לֹ֣א תִקָּ֑ח כִּ֤י הַשֹּׁ֨חַד֙ יְעַוֵּ֣ר פִּקְחִ֔ים וִֽיסַלֵּ֖ף דִּבְרֵ֥י צַדִּיקִֽים׃",
+        "text": "No pervertirás el derecho de tu mendigo en su pleito. De palabra de mentira te alejarás, y no matarás al inocente y justo; porque yo no justificaré al impío. No recibirás presente; porque el presente ciega a los que ven, y pervierte las palabras justas."
       },
       {
         "number": "9",
         "hebrew": "וְגֵ֖ר לֹ֣א תִלְחָ֑ץ וְאַתֶּ֗ם יְדַעְתֶּם֙ אֶת־ נֶ֣פֶשׁ הַגֵּ֔ר כִּֽי־ גֵרִ֥ים הֱיִיתֶ֖ם בְּאֶ֥רֶץ מִצְרָֽיִם׃",
-        "text": null
+        "text": "Y no angustiarás al extranjero; porque vosotros conocéis el alma del extranjero, ya que extranjeros fuisteis en la tierra de Egipto."
       },
       {
-        "number": "10",
-        "hebrew": "וְשֵׁ֥שׁ שָׁנִ֖ים תִּזְרַ֣ע אֶת־ אַרְצֶ֑ךָ וְאָסַפְתָּ֖ אֶת־ תְּבוּאָתָֽהּ׃",
-        "text": null
-      },
-      {
-        "number": "11",
-        "hebrew": "וְהַשְּׁבִיעִ֞ת תִּשְׁמְטֶ֣נָּה וּנְטַשְׁתָּ֗הּ וְאָֽכְלוּ֙ אֶבְיֹנֵ֣י עַמֶּ֔ךָ וְיִתְרָ֕ם תֹּאכַ֖ל חַיַּ֣ת הַשָּׂדֶ֑ה כֵּֽן־ תַּעֲשֶׂ֥ה לְכַרְמְךָ֖ לְזֵיתֶֽךָ׃",
-        "text": null
+        "number": "10-11",
+        "hebrew": "וְשֵׁ֥שׁ שָׁנִ֖ים תִּזְרַ֣ע אֶת־ אַרְצֶ֑ךָ וְאָסַפְתָּ֖ אֶת־ תְּבוּאָתָֽהּ׃ וְהַשְּׁבִיעִ֞ת תִּשְׁמְטֶ֣נָּה וּנְטַשְׁתָּ֗הּ וְאָֽכְלוּ֙ אֶבְיֹנֵ֣י עַמֶּ֔ךָ וְיִתְרָ֕ם תֹּאכַ֖ל חַיַּ֣ת הַשָּׂדֶ֑ה כֵּֽן־ תַּעֲשֶׂ֥ה לְכַרְמְךָ֖ לְזֵיתֶֽךָ׃",
+        "text": "Seis años sembrarás tu tierra, y recogerás su cosecha; mas el séptimo año la dejarás libre y sin cultivo, para que coman los pobres de tu pueblo; y de lo que quedare comerán las bestias del campo; así harás con tu viña y con tu olivar¹⁰⁵."
       },
       {
         "number": "12",
         "hebrew": "שֵׁ֤שֶׁת יָמִים֙ תַּעֲשֶׂ֣ה מַעֲשֶׂ֔יךָ וּבַיּ֥וֹם הַשְּׁבִיעִ֖י תִּשְׁבֹּ֑ת לְמַ֣עַן יָנ֗וּחַ שֽׁוֹרְךָ֙ וַחֲמֹרֶ֔ךָ וְיִנָּפֵ֥שׁ בֶּן־ אֲמָתְךָ֖ וְהַגֵּֽר׃",
-        "text": null
+        "text": "Seis días trabajarás, mas el séptimo día reposarás, para que descanse tu buey y tu asno, y tome refrigerio el hijo de tu sierva, y el extranjero."
       },
       {
         "number": "13",
         "hebrew": "וּבְכֹ֛ל אֲשֶׁר־ אָמַ֥רְתִּי אֲלֵיכֶ֖ם תִּשָּׁמֵ֑רוּ וְשֵׁ֨ם אֱלֹהִ֤ים אֲחֵרִים֙ לֹ֣א תַזְכִּ֔ירוּ לֹ֥א יִשָּׁמַ֖ע עַל־ פִּֽיךָ׃",
-        "text": null
+        "text": "Y guardad todo lo que os he dicho; y nombre de otros elohim no mentaréis, ni se oirá de vuestra boca."
       },
       {
-        "number": "14",
-        "hebrew": "שָׁלֹ֣שׁ רְגָלִ֔ים תָּחֹ֥ג לִ֖י בַּשָּׁנָֽה׃",
-        "text": null
+        "number": "14-15",
+        "hebrew": "שָׁלֹ֣שׁ רְגָלִ֔ים תָּחֹ֥ג לִ֖י בַּשָּׁנָֽה׃ אֶת־ חַ֣ג הַמַּצּוֹת֮ תִּשְׁמֹר֒ שִׁבְעַ֣ת יָמִים֩ תֹּאכַ֨ל מַצּ֜וֹת כַּֽאֲשֶׁ֣ר צִוִּיתִ֗ךָ לְמוֹעֵד֙ חֹ֣דֶשׁ הָֽאָבִ֔יב כִּי־ ב֖וֹ יָצָ֣אתָ מִמִּצְרָ֑יִם וְלֹא־ יֵרָא֥וּ פָנַ֖י רֵיקָֽם׃",
+        "text": "Tres veces en el año me celebraréis fiesta¹⁰⁶. La fiesta de los panes sin levadura guardarás; siete días comerás pan sin levadura, como te he mandado, en el tiempo señalado del mes de Abib, porque en él saliste de Egipto; y ninguno se presentará delante de mí con las manos vacías."
       },
       {
-        "number": "15",
-        "hebrew": "אֶת־ חַ֣ג הַמַּצּוֹת֮ תִּשְׁמֹר֒ שִׁבְעַ֣ת יָמִים֩ תֹּאכַ֨ל מַצּ֜וֹת כַּֽאֲשֶׁ֣ר צִוִּיתִ֗ךָ לְמוֹעֵד֙ חֹ֣דֶשׁ הָֽאָבִ֔יב כִּי־ ב֖וֹ יָצָ֣אתָ מִמִּצְרָ֑יִם וְלֹא־ יֵרָא֥וּ פָנַ֖י רֵיקָֽם׃",
-        "text": null
+        "number": "16-17",
+        "hebrew": "וְחַ֤ג הַקָּצִיר֙ בִּכּוּרֵ֣י מַעֲשֶׂ֔יךָ אֲשֶׁ֥ר תִּזְרַ֖ע בַּשָּׂדֶ֑ה וְחַ֤ג הָֽאָסִף֙ בְּצֵ֣את הַשָּׁנָ֔ה בְּאָסְפְּךָ֥ אֶֽת־ מַעֲשֶׂ֖יךָ מִן־ הַשָּׂדֶֽה׃ שָׁלֹ֥שׁ פְּעָמִ֖ים בַּשָּׁנָ֑ה יֵרָאֶה֙ כָּל־ זְכ֣וּרְךָ֔ אֶל־ פְּנֵ֖י הָאָדֹ֥ן ׀ יְהוָֽה׃",
+        "text": "También la fiesta de la siega, los primeros frutos de tus labores que hubieres sembrado en el campo; y la fiesta de la cosecha a la salida del año, cuando hayas recogido los frutos de tus labores del campo. Tres veces en el año se presentará todo varón delante de YHWH el Adón."
       },
       {
-        "number": "16",
-        "hebrew": "וְחַ֤ג הַקָּצִיר֙ בִּכּוּרֵ֣י מַעֲשֶׂ֔יךָ אֲשֶׁ֥ר תִּזְרַ֖ע בַּשָּׂדֶ֑ה וְחַ֤ג הָֽאָסִף֙ בְּצֵ֣את הַשָּׁנָ֔ה בְּאָסְפְּךָ֥ אֶֽת־ מַעֲשֶׂ֖יךָ מִן־ הַשָּׂדֶֽה׃",
-        "text": null
+        "number": "18-19",
+        "hebrew": "לֹֽא־ תִזְבַּ֥ח עַל־ חָמֵ֖ץ דַּם־ זִבְחִ֑י וְלֹֽא־ יָלִ֥ין חֵֽלֶב־ חַגִּ֖י עַד־ בֹּֽקֶר׃ רֵאשִׁ֗ית בִּכּוּרֵי֙ אַדְמָ֣תְךָ֔ תָּבִ֕יא בֵּ֖ית יְהוָ֣ה אֱלֹהֶ֑יךָ לֹֽא־ תְבַשֵּׁ֥ל גְּדִ֖י בַּחֲלֵ֥ב אִמּֽוֹ׃ ס",
+        "text": "No ofrecerás con pan leudado la sangre de mi sacrificio, ni la grosura de mi víctima quedará de la noche hasta la mañana. Las primicias de los primeros frutos de tu tierra traerás a la casa de YHWH tu Elohim. No guisarás el cabrito en la leche de su madre¹⁰⁷."
       },
       {
-        "number": "17",
-        "hebrew": "שָׁלֹ֥שׁ פְּעָמִ֖ים בַּשָּׁנָ֑ה יֵרָאֶה֙ כָּל־ זְכ֣וּרְךָ֔ אֶל־ פְּנֵ֖י הָאָדֹ֥ן ׀ יְהוָֽה׃",
-        "text": null
+        "number": "20-21",
+        "hebrew": "הִנֵּ֨ה אָנֹכִ֜י שֹׁלֵ֤חַ מַלְאָךְ֙ לְפָנֶ֔יךָ לִשְׁמָרְךָ֖ בַּדָּ֑רֶךְ וְלַהֲבִ֣יאֲךָ֔ אֶל־ הַמָּק֖וֹם אֲשֶׁ֥ר הֲכִנֹֽתִי׃ הִשָּׁ֧מֶר מִפָּנָ֛יו וּשְׁמַ֥ע בְּקֹל֖וֹ אַל־ תַּמֵּ֣ר בּ֑וֹ כִּ֣י לֹ֤א יִשָּׂא֙ לְפִשְׁעֲכֶ֔ם כִּ֥י שְׁמִ֖י בְּקִרְבּֽוֹ׃",
+        "text": "He aquí yo envío mi mensajero delante de ti, para que te guarde en el camino, y te introduzca al lugar que yo he preparado. Guárdate delante de él, y oye su voz; no lo provoques a ira, porque él no perdonará vuestra rebelión, porque mi nombre está en él¹⁰⁸."
       },
       {
-        "number": "18",
-        "hebrew": "לֹֽא־ תִזְבַּ֥ח עַל־ חָמֵ֖ץ דַּם־ זִבְחִ֑י וְלֹֽא־ יָלִ֥ין חֵֽלֶב־ חַגִּ֖י עַד־ בֹּֽקֶר׃",
-        "text": null
+        "number": "22-23",
+        "hebrew": "כִּ֣י אִם־ שָׁמֹ֤עַ תִּשְׁמַע֙ בְּקֹל֔וֹ וְעָשִׂ֕יתָ כֹּ֖ל אֲשֶׁ֣ר אֲדַבֵּ֑ר וְאָֽיַבְתִּי֙ אֶת־ אֹ֣יְבֶ֔יךָ וְצַרְתִּ֖י אֶת־ צֹרְרֶֽיךָ׃ כִּֽי־ יֵלֵ֣ךְ מַלְאָכִי֮ לְפָנֶיךָ֒ וֶהֱבִֽיאֲךָ֗ אֶל־ הָֽאֱמֹרִי֙ וְהַ֣חִתִּ֔י וְהַפְּרִזִּי֙ וְהַֽכְּנַעֲנִ֔י הַחִוִּ֖י וְהַיְבוּסִ֑י וְהִכְחַדְתִּֽיו׃",
+        "text": "Pero si en verdad oyeres su voz, e hicieres todo lo que yo te dijere, seré enemigo de tus enemigos, y afligiré a los que te afligieren. Porque mi mensajero irá delante de ti, y te llevará al amorreo, al hitita, al ferezeo, al cananeo, al hivita y al jebuseo, a los cuales yo haré destruir."
       },
       {
-        "number": "19",
-        "hebrew": "רֵאשִׁ֗ית בִּכּוּרֵי֙ אַדְמָ֣תְךָ֔ תָּבִ֕יא בֵּ֖ית יְהוָ֣ה אֱלֹהֶ֑יךָ לֹֽא־ תְבַשֵּׁ֥ל גְּדִ֖י בַּחֲלֵ֥ב אִמּֽוֹ׃ ס",
-        "text": null
+        "number": "24-25",
+        "hebrew": "לֹֽא־ תִשְׁתַּחֲוֶ֤ה לֵאלֹֽהֵיהֶם֙ וְלֹ֣א תָֽעָבְדֵ֔ם וְלֹ֥א תַעֲשֶׂ֖ה כְּמַֽעֲשֵׂיהֶ֑ם כִּ֤י הָרֵס֙ תְּהָ֣רְסֵ֔ם וְשַׁבֵּ֥ר תְּשַׁבֵּ֖ר מַצֵּבֹתֵיהֶֽם׃ וַעֲבַדְתֶּ֗ם אֵ֚ת יְהוָ֣ה אֱלֹֽהֵיכֶ֔ם וּבֵרַ֥ךְ אֶֽת־ לַחְמְךָ֖ וְאֶת־ מֵימֶ֑יךָ וַהֲסִרֹתִ֥י מַחֲלָ֖ה מִקִּרְבֶּֽךָ׃",
+        "text": "No te inclinarás a sus elohim, ni los servirás, ni harás como ellos hacen; antes los destruirás del todo, y quebrantarás enteramente sus estatuas. Mas a YHWH vuestro Elohim serviréis, y él bendecirá tu pan y tus aguas; y yo quitaré toda enfermedad de en medio de ti."
       },
       {
-        "number": "20",
-        "hebrew": "הִנֵּ֨ה אָנֹכִ֜י שֹׁלֵ֤חַ מַלְאָךְ֙ לְפָנֶ֔יךָ לִשְׁמָרְךָ֖ בַּדָּ֑רֶךְ וְלַהֲבִ֣יאֲךָ֔ אֶל־ הַמָּק֖וֹם אֲשֶׁ֥ר הֲכִנֹֽתִי׃",
-        "text": null
+        "number": "26-27",
+        "hebrew": "לֹ֥א תִהְיֶ֛ה מְשַׁכֵּלָ֥ה וַעֲקָרָ֖ה בְּאַרְצֶ֑ךָ אֶת־ מִסְפַּ֥ר יָמֶ֖יךָ אֲמַלֵּֽא׃ אֶת־ אֵֽימָתִי֙ אֲשַׁלַּ֣ח לְפָנֶ֔יךָ וְהַמֹּתִי֙ אֶת־ כָּל־ הָעָ֔ם אֲשֶׁ֥ר תָּבֹ֖א בָּהֶ֑ם וְנָתַתִּ֧י אֶת־ כָּל־ אֹיְבֶ֛יךָ אֵלֶ֖יךָ עֹֽרֶף׃",
+        "text": "No habrá quien aborte, ni estéril en tu tierra; y yo completaré el número de tus días. Yo enviaré mi terror delante de ti, y consternaré a todo pueblo donde entrares, y te daré la cerviz de todos tus enemigos."
       },
       {
-        "number": "21",
-        "hebrew": "הִשָּׁ֧מֶר מִפָּנָ֛יו וּשְׁמַ֥ע בְּקֹל֖וֹ אַל־ תַּמֵּ֣ר בּ֑וֹ כִּ֣י לֹ֤א יִשָּׂא֙ לְפִשְׁעֲכֶ֔ם כִּ֥י שְׁמִ֖י בְּקִרְבּֽוֹ׃",
-        "text": null
+        "number": "28-30",
+        "hebrew": "וְשָׁלַחְתִּ֥י אֶת־ הַצִּרְעָ֖ה לְפָנֶ֑יךָ וְגֵרְשָׁ֗ה אֶת־ הַחִוִּ֧י אֶת־ הַֽכְּנַעֲנִ֛י וְאֶת־ הַחִתִּ֖י מִלְּפָנֶֽיךָ׃ לֹ֧א אֲגָרְשֶׁ֛נּוּ מִפָּנֶ֖יךָ בְּשָׁנָ֣ה אֶחָ֑ת פֶּן־ תִּהְיֶ֤ה הָאָ֨רֶץ֙ שְׁמָמָ֔ה וְרַבָּ֥ה עָלֶ֖יךָ חַיַּ֥ת הַשָּׂדֶֽה׃ מְעַ֥ט מְעַ֛ט אֲגָרְשֶׁ֖נּוּ מִפָּנֶ֑יךָ עַ֚ד אֲשֶׁ֣ר תִּפְרֶ֔ה וְנָחַלְתָּ֖ אֶת־ הָאָֽרֶץ׃",
+        "text": "Enviaré también delante de ti la avispa¹⁰⁹, que echará de delante de ti al hivita, al cananeo y al hitita. No los echaré de delante de ti en un año, para que no quede la tierra desierta, y se aumenten contra ti las fieras del campo. Poco a poco los echaré de delante de ti¹¹⁰, hasta que te multipliques y tomes posesión de la tierra."
       },
       {
-        "number": "22",
-        "hebrew": "כִּ֣י אִם־ שָׁמֹ֤עַ תִּשְׁמַע֙ בְּקֹל֔וֹ וְעָשִׂ֕יתָ כֹּ֖ל אֲשֶׁ֣ר אֲדַבֵּ֑ר וְאָֽיַבְתִּי֙ אֶת־ אֹ֣יְבֶ֔יךָ וְצַרְתִּ֖י אֶת־ צֹרְרֶֽיךָ׃",
-        "text": null
-      },
-      {
-        "number": "23",
-        "hebrew": "כִּֽי־ יֵלֵ֣ךְ מַלְאָכִי֮ לְפָנֶיךָ֒ וֶהֱבִֽיאֲךָ֗ אֶל־ הָֽאֱמֹרִי֙ וְהַ֣חִתִּ֔י וְהַפְּרִזִּי֙ וְהַֽכְּנַעֲנִ֔י הַחִוִּ֖י וְהַיְבוּסִ֑י וְהִכְחַדְתִּֽיו׃",
-        "text": null
-      },
-      {
-        "number": "24",
-        "hebrew": "לֹֽא־ תִשְׁתַּחֲוֶ֤ה לֵאלֹֽהֵיהֶם֙ וְלֹ֣א תָֽעָבְדֵ֔ם וְלֹ֥א תַעֲשֶׂ֖ה כְּמַֽעֲשֵׂיהֶ֑ם כִּ֤י הָרֵס֙ תְּהָ֣רְסֵ֔ם וְשַׁבֵּ֥ר תְּשַׁבֵּ֖ר מַצֵּבֹתֵיהֶֽם׃",
-        "text": null
-      },
-      {
-        "number": "25",
-        "hebrew": "וַעֲבַדְתֶּ֗ם אֵ֚ת יְהוָ֣ה אֱלֹֽהֵיכֶ֔ם וּבֵרַ֥ךְ אֶֽת־ לַחְמְךָ֖ וְאֶת־ מֵימֶ֑יךָ וַהֲסִרֹתִ֥י מַחֲלָ֖ה מִקִּרְבֶּֽךָ׃",
-        "text": null
-      },
-      {
-        "number": "26",
-        "hebrew": "לֹ֥א תִהְיֶ֛ה מְשַׁכֵּלָ֥ה וַעֲקָרָ֖ה בְּאַרְצֶ֑ךָ אֶת־ מִסְפַּ֥ר יָמֶ֖יךָ אֲמַלֵּֽא׃",
-        "text": null
-      },
-      {
-        "number": "27",
-        "hebrew": "אֶת־ אֵֽימָתִי֙ אֲשַׁלַּ֣ח לְפָנֶ֔יךָ וְהַמֹּתִי֙ אֶת־ כָּל־ הָעָ֔ם אֲשֶׁ֥ר תָּבֹ֖א בָּהֶ֑ם וְנָתַתִּ֧י אֶת־ כָּל־ אֹיְבֶ֛יךָ אֵלֶ֖יךָ עֹֽרֶף׃",
-        "text": null
-      },
-      {
-        "number": "28",
-        "hebrew": "וְשָׁלַחְתִּ֥י אֶת־ הַצִּרְעָ֖ה לְפָנֶ֑יךָ וְגֵרְשָׁ֗ה אֶת־ הַחִוִּ֧י אֶת־ הַֽכְּנַעֲנִ֛י וְאֶת־ הַחִתִּ֖י מִלְּפָנֶֽיךָ׃",
-        "text": null
-      },
-      {
-        "number": "29",
-        "hebrew": "לֹ֧א אֲגָרְשֶׁ֛נּוּ מִפָּנֶ֖יךָ בְּשָׁנָ֣ה אֶחָ֑ת פֶּן־ תִּהְיֶ֤ה הָאָ֨רֶץ֙ שְׁמָמָ֔ה וְרַבָּ֥ה עָלֶ֖יךָ חַיַּ֥ת הַשָּׂדֶֽה׃",
-        "text": null
-      },
-      {
-        "number": "30",
-        "hebrew": "מְעַ֥ט מְעַ֛ט אֲגָרְשֶׁ֖נּוּ מִפָּנֶ֑יךָ עַ֚ד אֲשֶׁ֣ר תִּפְרֶ֔ה וְנָחַלְתָּ֖ אֶת־ הָאָֽרֶץ׃",
-        "text": null
-      },
-      {
-        "number": "31",
-        "hebrew": "וְשַׁתִּ֣י אֶת־ גְּבֻלְךָ֗ מִיַּם־ סוּף֙ וְעַד־ יָ֣ם פְּלִשְׁתִּ֔ים וּמִמִּדְבָּ֖ר עַד־ הַנָּהָ֑ר כִּ֣י ׀ אֶתֵּ֣ן בְּיֶדְכֶ֗ם אֵ֚ת יֹשְׁבֵ֣י הָאָ֔רֶץ וְגֵרַשְׁתָּ֖מוֹ מִפָּנֶֽיךָ׃",
-        "text": null
-      },
-      {
-        "number": "32",
-        "hebrew": "לֹֽא־ תִכְרֹ֥ת לָהֶ֛ם וְלֵאלֹֽהֵיהֶ֖ם בְּרִֽית׃",
-        "text": null
-      },
-      {
-        "number": "33",
-        "hebrew": "לֹ֤א יֵשְׁבוּ֙ בְּאַרְצְךָ֔ פֶּן־ יַחֲטִ֥יאוּ אֹתְךָ֖ לִ֑י כִּ֤י תַעֲבֹד֙ אֶת־ אֱלֹ֣הֵיהֶ֔ם כִּֽי־ יִהְיֶ֥ה לְךָ֖ לְמוֹקֵֽשׁ׃ פ",
-        "text": null
+        "number": "31-33",
+        "hebrew": "וְשַׁתִּ֣י אֶת־ גְּבֻלְךָ֗ מִיַּם־ סוּף֙ וְעַד־ יָ֣ם פְּלִשְׁתִּ֔ים וּמִמִּדְבָּ֖ר עַד־ הַנָּהָ֑ר כִּ֣י ׀ אֶתֵּ֣ן בְּיֶדְכֶ֗ם אֵ֚ת יֹשְׁבֵ֣י הָאָ֔רֶץ וְגֵרַשְׁתָּ֖מוֹ מִפָּנֶֽיךָ׃ לֹֽא־ תִכְרֹ֥ת לָהֶ֛ם וְלֵאלֹֽהֵיהֶ֖ם בְּרִֽית׃ לֹ֤א יֵשְׁבוּ֙ בְּאַרְצְךָ֔ פֶּן־ יַחֲטִ֥יאוּ אֹתְךָ֖ לִ֑י כִּ֤י תַעֲבֹד֙ אֶת־ אֱלֹ֣הֵיהֶ֔ם כִּֽי־ יִהְיֶ֥ה לְךָ֖ לְמוֹקֵֽשׁ׃ פ",
+        "text": "Y fijaré tus límites desde el Mar Rojo hasta el mar de los filisteos, y desde el desierto hasta el río; porque pondré en vuestras manos a los moradores de la tierra, y tú los echarás de delante de ti. No harás pacto con ellos, ni con sus elohim. En tu tierra no habitarán, no sea que te hagan pecar contra mí, sirviendo a sus elohim, porque te será tropiezo."
       }
     ],
     "24": [
       {
-        "number": "1",
-        "hebrew": "וְאֶל־ מֹשֶׁ֨ה אָמַ֜ר עֲלֵ֣ה אֶל־ יְהוָ֗ה אַתָּה֙ וְאַהֲרֹן֙ נָדָ֣ב וַאֲבִיה֔וּא וְשִׁבְעִ֖ים מִזִּקְנֵ֣י יִשְׂרָאֵ֑ל וְהִשְׁתַּחֲוִיתֶ֖ם מֵרָחֹֽק׃",
-        "text": null
-      },
-      {
-        "number": "2",
-        "hebrew": "וְנִגַּ֨שׁ מֹשֶׁ֤ה לְבַדּוֹ֙ אֶל־ יְהוָ֔ה וְהֵ֖ם לֹ֣א יִגָּ֑שׁוּ וְהָעָ֕ם לֹ֥א יַעֲל֖וּ עִמּֽוֹ׃",
-        "text": null
+        "number": "1-2",
+        "hebrew": "וְאֶל־ מֹשֶׁ֨ה אָמַ֜ר עֲלֵ֣ה אֶל־ יְהוָ֗ה אַתָּה֙ וְאַהֲרֹן֙ נָדָ֣ב וַאֲבִיה֔וּא וְשִׁבְעִ֖ים מִזִּקְנֵ֣י יִשְׂרָאֵ֑ל וְהִשְׁתַּחֲוִיתֶ֖ם מֵרָחֹֽק׃ וְנִגַּ֨שׁ מֹשֶׁ֤ה לְבַדּוֹ֙ אֶל־ יְהוָ֔ה וְהֵ֖ם לֹ֣א יִגָּ֑שׁוּ וְהָעָ֕ם לֹ֥א יַעֲל֖וּ עִמּֽוֹ׃",
+        "text": "Dijo a Moshé: sube ante YHWH, tú, y Aarón, Nadab y Abihú, y setenta de los ancianos de Israel; y os inclinaréis desde lejos. Pero Moshé solo se acercará a YHWH; y ellos no se acerquen, ni suba el pueblo con él."
       },
       {
         "number": "3",
         "hebrew": "וַיָּבֹ֣א מֹשֶׁ֗ה וַיְסַפֵּ֤ר לָעָם֙ אֵ֚ת כָּל־ דִּבְרֵ֣י יְהוָ֔ה וְאֵ֖ת כָּל־ הַמִּשְׁפָּטִ֑ים וַיַּ֨עַן כָּל־ הָעָ֜ם ק֤וֹל אֶחָד֙ וַיֹּ֣אמְר֔וּ כָּל־ הַדְּבָרִ֛ים אֲשֶׁר־ דִּבֶּ֥ר יְהוָ֖ה נַעֲשֶֽׂה׃",
-        "text": null
+        "text": "Y Moshé vino y contó al pueblo todas las palabras de YHWH, y todas las leyes; y todo el pueblo respondió a una voz, y dijeron: haremos todas las palabras que YHWH ha dicho."
       },
       {
-        "number": "4",
-        "hebrew": "וַיִּכְתֹּ֣ב מֹשֶׁ֗ה אֵ֚ת כָּל־ דִּבְרֵ֣י יְהוָ֔ה וַיַּשְׁכֵּ֣ם בַּבֹּ֔קֶר וַיִּ֥בֶן מִזְבֵּ֖חַ תַּ֣חַת הָהָ֑ר וּשְׁתֵּ֤ים עֶשְׂרֵה֙ מַצֵּבָ֔ה לִשְׁנֵ֥ים עָשָׂ֖ר שִׁבְטֵ֥י יִשְׂרָאֵֽל׃",
-        "text": null
+        "number": "4-5",
+        "hebrew": "וַיִּכְתֹּ֣ב מֹשֶׁ֗ה אֵ֚ת כָּל־ דִּבְרֵ֣י יְהוָ֔ה וַיַּשְׁכֵּ֣ם בַּבֹּ֔קֶר וַיִּ֥בֶן מִזְבֵּ֖חַ תַּ֣חַת הָהָ֑ר וּשְׁתֵּ֤ים עֶשְׂרֵה֙ מַצֵּבָ֔ה לִשְׁנֵ֥ים עָשָׂ֖ר שִׁבְטֵ֥י יִשְׂרָאֵֽל׃ וַיִּשְׁלַ֗ח אֶֽת־ נַעֲרֵי֙ בְּנֵ֣י יִשְׂרָאֵ֔ל וַיַּֽעֲל֖וּ עֹלֹ֑ת וַֽיִּזְבְּח֞וּ זְבָחִ֧ים שְׁלָמִ֛ים לַיהוָ֖ה פָּרִֽים׃",
+        "text": "Y escribió Moshé todas las palabras de YHWH, y levantándose de mañana edificó un altar al pie del monte, y doce columnas, según las doce tribus de Israel. Y envió a los jóvenes de los hijos de Israel, los cuales ofrecieron holocaustos y sacrificaron novillos como ofrenda de paz a YHWH."
       },
       {
-        "number": "5",
-        "hebrew": "וַיִּשְׁלַ֗ח אֶֽת־ נַעֲרֵי֙ בְּנֵ֣י יִשְׂרָאֵ֔ל וַיַּֽעֲל֖וּ עֹלֹ֑ת וַֽיִּזְבְּח֞וּ זְבָחִ֧ים שְׁלָמִ֛ים לַיהוָ֖ה פָּרִֽים׃",
-        "text": null
+        "number": "6-8",
+        "hebrew": "וַיִּקַּ֤ח מֹשֶׁה֙ חֲצִ֣י הַדָּ֔ם וַיָּ֖שֶׂם בָּאַגָּנֹ֑ת וַחֲצִ֣י הַדָּ֔ם זָרַ֖ק עַל־ הַמִּזְבֵּֽחַ׃ וַיִּקַּח֙ סֵ֣פֶר הַבְּרִ֔ית וַיִּקְרָ֖א בְּאָזְנֵ֣י הָעָ֑ם וַיֹּ֣אמְר֔וּ כֹּ֛ל אֲשֶׁר־ דִּבֶּ֥ר יְהוָ֖ה נַעֲשֶׂ֥ה וְנִשְׁמָֽע׃ וַיִּקַּ֤ח מֹשֶׁה֙ אֶת־ הַדָּ֔ם וַיִּזְרֹ֖ק עַל־ הָעָ֑ם וַיֹּ֗אמֶר הִנֵּ֤ה דַֽם־ הַבְּרִית֙ אֲשֶׁ֨ר כָּרַ֤ת יְהוָה֙ עִמָּכֶ֔ם עַ֥ל כָּל־ הַדְּבָרִ֖ים הָאֵֽלֶּה׃",
+        "text": "Y Moshé tomó la mitad de la sangre, y la puso en tazones, y esparció la otra mitad sobre el altar. Y tomó el libro del pacto¹¹¹, y lo leyó a oídos del pueblo, el cual dijo: haremos todas las cosas que YHWH ha dicho, y obedeceremos. Entonces Moshé tomó la sangre y roció sobre el pueblo, y dijo: he aquí la sangre del pacto que YHWH ha hecho con vosotros sobre todas estas cosas."
       },
       {
-        "number": "6",
-        "hebrew": "וַיִּקַּ֤ח מֹשֶׁה֙ חֲצִ֣י הַדָּ֔ם וַיָּ֖שֶׂם בָּאַגָּנֹ֑ת וַחֲצִ֣י הַדָּ֔ם זָרַ֖ק עַל־ הַמִּזְבֵּֽחַ׃",
-        "text": null
+        "number": "9-11",
+        "hebrew": "וַיַּ֥עַל מֹשֶׁ֖ה וְאַהֲרֹ֑ן נָדָב֙ וַאֲבִיה֔וּא וְשִׁבְעִ֖ים מִזִּקְנֵ֥י יִשְׂרָאֵֽל׃ וַיִּרְא֕וּ אֵ֖ת אֱלֹהֵ֣י יִשְׂרָאֵ֑ל וְתַ֣חַת רַגְלָ֗יו כְּמַעֲשֵׂה֙ לִבְנַ֣ת הַסַּפִּ֔יר וּכְעֶ֥צֶם הַשָּׁמַ֖יִם לָטֹֽהַר׃ וְאֶל־ אֲצִילֵי֙ בְּנֵ֣י יִשְׂרָאֵ֔ל לֹ֥א שָׁלַ֖ח יָד֑וֹ וַֽיֶּחֱזוּ֙ אֶת־ הָ֣אֱלֹהִ֔ים וַיֹּאכְל֖וּ וַיִּשְׁתּֽוּ׃ ס",
+        "text": "Y subieron Moshé y Aarón, Nadab y Abihú, y setenta de los ancianos de Israel; y vieron al Elohim de Israel, y debajo de sus pies había como un embaldosado de zafiro, semejante al cielo mismo en claridad. Y no extendió su mano sobre los príncipes de los hijos de Israel; y vieron a Elohim, y comieron y bebieron¹¹²."
       },
       {
-        "number": "7",
-        "hebrew": "וַיִּקַּח֙ סֵ֣פֶר הַבְּרִ֔ית וַיִּקְרָ֖א בְּאָזְנֵ֣י הָעָ֑ם וַיֹּ֣אמְר֔וּ כֹּ֛ל אֲשֶׁר־ דִּבֶּ֥ר יְהוָ֖ה נַעֲשֶׂ֥ה וְנִשְׁמָֽע׃",
-        "text": null
+        "number": "12-14",
+        "hebrew": "וַיֹּ֨אמֶר יְהוָ֜ה אֶל־ מֹשֶׁ֗ה עֲלֵ֥ה אֵלַ֛י הָהָ֖רָה וֶהְיֵה־ שָׁ֑ם וְאֶתְּנָ֨ה לְךָ֜ אֶת־ לֻחֹ֣ת הָאֶ֗בֶן וְהַתּוֹרָה֙ וְהַמִּצְוָ֔ה אֲשֶׁ֥ר כָּתַ֖בְתִּי לְהוֹרֹתָֽם׃ וַיָּ֣קָם מֹשֶׁ֔ה וִיהוֹשֻׁ֖עַ מְשָׁרְת֑וֹ וַיַּ֥עַל מֹשֶׁ֖ה אֶל־ הַ֥ר הָאֱלֹהִֽים׃ וְאֶל־ הַזְּקֵנִ֤ים אָמַר֙ שְׁבוּ־ לָ֣נוּ בָזֶ֔ה עַ֥ד אֲשֶׁר־ נָשׁ֖וּב אֲלֵיכֶ֑ם וְהִנֵּ֨ה אַהֲרֹ֤ן וְחוּר֙ עִמָּכֶ֔ם מִי־ בַ֥עַל דְּבָרִ֖ים יִגַּ֥שׁ אֲלֵהֶֽם׃",
+        "text": "Y YHWH dijo a Moshé: sube a mí al monte, y espera allá, y te daré tablas de piedra, y la ley, y mandamientos que he escrito para enseñarles. Y se levantó Moshé, con Yehoshúa su servidor; y Moshé subió al monte de Elohim. Y dijo a los ancianos: esperadnos aquí hasta que volvamos a vosotros; y he aquí Aarón y Hur están con vosotros; el que tuviere asuntos, acuda a ellos."
       },
       {
-        "number": "8",
-        "hebrew": "וַיִּקַּ֤ח מֹשֶׁה֙ אֶת־ הַדָּ֔ם וַיִּזְרֹ֖ק עַל־ הָעָ֑ם וַיֹּ֗אמֶר הִנֵּ֤ה דַֽם־ הַבְּרִית֙ אֲשֶׁ֨ר כָּרַ֤ת יְהוָה֙ עִמָּכֶ֔ם עַ֥ל כָּל־ הַדְּבָרִ֖ים הָאֵֽלֶּה׃",
-        "text": null
-      },
-      {
-        "number": "9",
-        "hebrew": "וַיַּ֥עַל מֹשֶׁ֖ה וְאַהֲרֹ֑ן נָדָב֙ וַאֲבִיה֔וּא וְשִׁבְעִ֖ים מִזִּקְנֵ֥י יִשְׂרָאֵֽל׃",
-        "text": null
-      },
-      {
-        "number": "10",
-        "hebrew": "וַיִּרְא֕וּ אֵ֖ת אֱלֹהֵ֣י יִשְׂרָאֵ֑ל וְתַ֣חַת רַגְלָ֗יו כְּמַעֲשֵׂה֙ לִבְנַ֣ת הַסַּפִּ֔יר וּכְעֶ֥צֶם הַשָּׁמַ֖יִם לָטֹֽהַר׃",
-        "text": null
-      },
-      {
-        "number": "11",
-        "hebrew": "וְאֶל־ אֲצִילֵי֙ בְּנֵ֣י יִשְׂרָאֵ֔ל לֹ֥א שָׁלַ֖ח יָד֑וֹ וַֽיֶּחֱזוּ֙ אֶת־ הָ֣אֱלֹהִ֔ים וַיֹּאכְל֖וּ וַיִּשְׁתּֽוּ׃ ס",
-        "text": null
-      },
-      {
-        "number": "12",
-        "hebrew": "וַיֹּ֨אמֶר יְהוָ֜ה אֶל־ מֹשֶׁ֗ה עֲלֵ֥ה אֵלַ֛י הָהָ֖רָה וֶהְיֵה־ שָׁ֑ם וְאֶתְּנָ֨ה לְךָ֜ אֶת־ לֻחֹ֣ת הָאֶ֗בֶן וְהַתּוֹרָה֙ וְהַמִּצְוָ֔ה אֲשֶׁ֥ר כָּתַ֖בְתִּי לְהוֹרֹתָֽם׃",
-        "text": null
-      },
-      {
-        "number": "13",
-        "hebrew": "וַיָּ֣קָם מֹשֶׁ֔ה וִיהוֹשֻׁ֖עַ מְשָׁרְת֑וֹ וַיַּ֥עַל מֹשֶׁ֖ה אֶל־ הַ֥ר הָאֱלֹהִֽים׃",
-        "text": null
-      },
-      {
-        "number": "14",
-        "hebrew": "וְאֶל־ הַזְּקֵנִ֤ים אָמַר֙ שְׁבוּ־ לָ֣נוּ בָזֶ֔ה עַ֥ד אֲשֶׁר־ נָשׁ֖וּב אֲלֵיכֶ֑ם וְהִנֵּ֨ה אַהֲרֹ֤ן וְחוּר֙ עִמָּכֶ֔ם מִי־ בַ֥עַל דְּבָרִ֖ים יִגַּ֥שׁ אֲלֵהֶֽם׃",
-        "text": null
-      },
-      {
-        "number": "15",
-        "hebrew": "וַיַּ֥עַל מֹשֶׁ֖ה אֶל־ הָהָ֑ר וַיְכַ֥ס הֶעָנָ֖ן אֶת־ הָהָֽר׃",
-        "text": null
-      },
-      {
-        "number": "16",
-        "hebrew": "וַיִּשְׁכֹּ֤ן כְּבוֹד־ יְהוָה֙ עַל־ הַ֣ר סִינַ֔י וַיְכַסֵּ֥הוּ הֶעָנָ֖ן שֵׁ֣שֶׁת יָמִ֑ים וַיִּקְרָ֧א אֶל־ מֹשֶׁ֛ה בַּיּ֥וֹם הַשְּׁבִיעִ֖י מִתּ֥וֹךְ הֶעָנָֽן׃",
-        "text": null
-      },
-      {
-        "number": "17",
-        "hebrew": "וּמַרְאֵה֙ כְּב֣וֹד יְהוָ֔ה כְּאֵ֥שׁ אֹכֶ֖לֶת בְּרֹ֣אשׁ הָהָ֑ר לְעֵינֵ֖י בְּנֵ֥י יִשְׂרָאֵֽל׃",
-        "text": null
-      },
-      {
-        "number": "18",
-        "hebrew": "וַיָּבֹ֥א מֹשֶׁ֛ה בְּת֥וֹךְ הֶעָנָ֖ן וַיַּ֣עַל אֶל־ הָהָ֑ר וַיְהִ֤י מֹשֶׁה֙ בָּהָ֔ר אַרְבָּעִ֣ים י֔וֹם וְאַרְבָּעִ֖ים לָֽיְלָה׃ פ",
-        "text": null
+        "number": "15-18",
+        "hebrew": "וַיַּ֥עַל מֹשֶׁ֖ה אֶל־ הָהָ֑ר וַיְכַ֥ס הֶעָנָ֖ן אֶת־ הָהָֽר׃ וַיִּשְׁכֹּ֤ן כְּבוֹד־ יְהוָה֙ עַל־ הַ֣ר סִינַ֔י וַיְכַסֵּ֥הוּ הֶעָנָ֖ן שֵׁ֣שֶׁת יָמִ֑ים וַיִּקְרָ֧א אֶל־ מֹשֶׁ֛ה בַּיּ֥וֹם הַשְּׁבִיעִ֖י מִתּ֥וֹךְ הֶעָנָֽן׃ וּמַרְאֵה֙ כְּב֣וֹד יְהוָ֔ה כְּאֵ֥שׁ אֹכֶ֖לֶת בְּרֹ֣אשׁ הָהָ֑ר לְעֵינֵ֖י בְּנֵ֥י יִשְׂרָאֵֽל׃ וַיָּבֹ֥א מֹשֶׁ֛ה בְּת֥וֹךְ הֶעָנָ֖ן וַיַּ֣עַל אֶל־ הָהָ֑ר וַיְהִ֤י מֹשֶׁה֙ בָּהָ֔ר אַרְבָּעִ֣ים י֔וֹם וְאַרְבָּעִ֖ים לָֽיְלָה׃ פ",
+        "text": "Entonces Moshé subió al monte, y una nube cubrió el monte. Y la gloria de YHWH reposó sobre el monte Sinaí, y la nube lo cubrió por seis días; y al séptimo día llamó a Moshé de en medio de la nube. Y el parecer de la gloria de YHWH era como un fuego abrasador en la cumbre del monte, a los ojos de los hijos de Israel. Y entró Moshé en medio de la nube, y subió al monte; y estuvo Moshé en el monte cuarenta días y cuarenta noches."
       }
     ],
     "25": [
@@ -5782,6 +5327,326 @@ window.EXODO_DATA={
       ],
       "hebrew": "עֲצַת יִתְרוֹ",
       "teaser": "El sistema judicial de Israel, sugerido por un forastero."
+    },
+    {
+      "id": 85,
+      "chapter": 19,
+      "title": "segulah... mamlechet kohanim vegoy qadosh / propiedad exclusiva... reino de sacerdotes y nación consagrada",
+      "body": "Fórmula fundacional de autodefinición de Israel, dicha antes de cualquier ley concreta del Decálogo — misma raíz q-d-sh ya establecida (notas 13, 56, 76) aplicada acá no a un lugar, un día o una categoría de seres, sino al pueblo entero como colectivo. E1.",
+      "evidence": [
+        "E1"
+      ],
+      "hebrew": "מַמְלֶכֶת כֹּהֲנִים וְגוֹי קָדוֹשׁ",
+      "teaser": "La autodefinición de Israel, antes de cualquier ley concreta."
+    },
+    {
+      "id": 86,
+      "chapter": 19,
+      "title": "haqel yisaqel / de seguro morirá",
+      "body": "La ley de intocabilidad del monte durante la teofanía es tan absoluta que ni siquiera permite el contacto físico para ejecutar al transgresor: debe morir apedreado o asaeteado, sin que ninguna mano lo toque. Lo sagrado, en este pasaje, se protege incluso del propio acto de castigar. E1.",
+      "evidence": [
+        "E1"
+      ],
+      "hebrew": "מוֹת יוּמָת",
+      "teaser": "Ni siquiera una mano puede tocar lo sagrado para castigarlo."
+    },
+    {
+      "id": 87,
+      "chapter": 20,
+      "title": "anochi YHWH Elohecha / yo soy YHWH tu Elohim",
+      "body": "La primera \"palabra\" del Decálogo no es un mandato, sino una autopresentación en primera persona con referencia histórica concreta (la salida de Egipto) — dato que genera disputa exegética real sobre si cuenta como uno de los diez mandamientos o como marco introductorio de los nueve restantes. E1 el dato gramatical (no es imperativo); E2/E3 su estatus exacto dentro del conteo tradicional de \"los diez\", disputa real entre distintas tradiciones de recuento.",
+      "evidence": [
+        "E1",
+        "E2",
+        "E3"
+      ],
+      "hebrew": "אָנֹכִי יְהוָה אֱלֹהֶיךָ",
+      "teaser": "La primera “palabra” no es una orden, es una presentación."
+    },
+    {
+      "id": 88,
+      "chapter": 20,
+      "title": "lo yihyeh lecha elohim acherim al panai / no tendrás elohim ajenos delante de mí",
+      "body": "Mismo tipo de formulación henoteísta ya señalada (Éxodo 15:11, 18:11): el mandamiento no niega la existencia de otras divinidades, exige exclusividad de culto hacia YHWH frente a ellas. E1.",
+      "evidence": [
+        "E1"
+      ],
+      "hebrew": "לֹא יִהְיֶה־לְךָ אֱלֹהִים אֲחֵרִים",
+      "teaser": "El mandamiento no niega otros dioses: exige exclusividad."
+    },
+    {
+      "id": 89,
+      "chapter": 20,
+      "title": "poqed avon avot... oseh chesed la'alafim / que visito la iniquidad de los padres... y hago misericordia a millares",
+      "body": "Asimetría explícita en la propia gramática: el castigo alcanza tres o cuatro generaciones, la misericordia se extiende a \"millares\" (de generaciones, según la lectura tradicional). La proporción entre ambos términos no es simétrica ni casual. E1.",
+      "evidence": [
+        "E1"
+      ],
+      "hebrew": "פֹּקֵד עָוֺן · עֹשֶׂה חֶסֶד לַאֲלָפִים",
+      "teaser": "Tres o cuatro generaciones de castigo, miles de misericordia."
+    },
+    {
+      "id": 90,
+      "chapter": 20,
+      "title": "lo tirtzach / no matarás",
+      "body": "El verbo hebreo ratzach es específico para homicidio ilegítimo — distinto de harag (matar en sentido general, incluyendo guerra o ejecución legal) — el mismo corpus, en el capítulo siguiente, ordena la pena de muerte para varios delitos usando otras raíces, sin contradecir este mandamiento. E1, dato léxico verificable por concordancia.",
+      "evidence": [
+        "E1"
+      ],
+      "hebrew": "לֹא תִּרְצָח",
+      "teaser": "Un verbo específico, no el genérico “matar”."
+    },
+    {
+      "id": 91,
+      "chapter": 20,
+      "title": "ki sheshet yamim asah YHWH... vayanach bayom hashevi'i / porque en seis días hizo YHWH... y reposó el séptimo día",
+      "body": "El mandamiento del shabbat se funda explícitamente en el relato de la creación (cf. Génesis 2:2-3), citando el mismo patrón de siete días y el mismo verbo de cesación — el descanso semanal se presenta como imitación de un ritmo ya inscrito en el origen del mundo, no como institución nueva. E1.",
+      "evidence": [
+        "E1"
+      ],
+      "hebrew": "עַל־כֵּן בֵּרַךְ יְהוָה אֶת־יוֹם הַשַּׁבָּת",
+      "teaser": "El descanso semanal, fundado en el propio relato de la creación."
+    },
+    {
+      "id": 92,
+      "chapter": 20,
+      "title": "lema'an ya'arichun yamecha / para que tus días se alarguen",
+      "body": "Único mandamiento del Decálogo que lleva adjunta una razón explícita y una consecuencia declarada (longevidad en la tierra) — el resto de los mandamientos se dan sin justificación ni promesa asociada. E1, dato estructural.",
+      "evidence": [
+        "E1"
+      ],
+      "hebrew": "לְמַעַן יַאֲרִכוּן יָמֶיךָ",
+      "teaser": "El único mandamiento con una razón y una promesa."
+    },
+    {
+      "id": 93,
+      "chapter": 20,
+      "title": "yirato al peneichem levilti techeta'u / su temor esté delante de vosotros, para que no pequéis",
+      "body": "Moshé usa la raíz yare (temor reverencial) explícitamente como mecanismo disuasorio del pecado — distinta de pachad (terror/pavor, cf. \"el Pavor de Itzjak\", Génesis 31:42), aunque el episodio que la motiva (truenos, humo, temblor del monte) es objetivamente aterrador en sentido físico. El propio texto elige la palabra del temor reverencial, no la del miedo bruto, para nombrar el efecto pedagógico buscado. E1.",
+      "evidence": [
+        "E1"
+      ],
+      "hebrew": "יִרְאָתוֹ עַל־פְּנֵיכֶם",
+      "teaser": "Temor reverencial, no pavor, como freno del pecado."
+    },
+    {
+      "id": 94,
+      "chapter": 20,
+      "title": "velo ta'aleh bema'alot al mizbechi / no subirás por gradas a mi altar",
+      "body": "Norma concreta de pudor ritual: el diseño del altar debe evitar que el sacerdote, al subir escalones, exponga su desnudez — dato arquitectónico con una justificación corporal explícita, no meramente estética. E1.",
+      "evidence": [
+        "E1"
+      ],
+      "hebrew": "לֹא־תִגָּלֶה עֶרְוָתְךָ",
+      "teaser": "Una razón corporal para el diseño de un altar."
+    },
+    {
+      "id": 95,
+      "chapter": 21,
+      "title": "vehigisho el ha'elohim / lo llevará ante los jueces",
+      "body": "Crux de traducción real: la misma palabra elohim que en todo el corpus nombra a la divinidad aparece acá aplicada, según la lectura mayoritaria, a jueces o magistrados humanos ante quienes se formaliza el compromiso del siervo — otra vez el sustantivo funcionando como categoría de autoridad, no como nombre exclusivo de lo divino (cf. Éxodo 4:16, 7:1). E1 el dato léxico; E2/E3 si la lectura correcta es \"jueces humanos\" o \"ante la divinidad directamente\" en el santuario, disputa exegética real.",
+      "evidence": [
+        "E1",
+        "E2",
+        "E3"
+      ],
+      "hebrew": "וְהִגִּישׁוֹ אֶל־הָאֱלֹהִים",
+      "teaser": "“Elohim” aplicado a jueces humanos, no a la divinidad."
+    },
+    {
+      "id": 96,
+      "chapter": 21,
+      "title": "ve'im ason yihyeh venatatah nefesh tachat nefesh / mas si hubiere daño, pagarás vida por vida",
+      "body": "Uno de los pasajes legales más discutidos de toda la Torá: el versículo 22 distingue entre un aborto sin otro daño (pena solo pecuniaria) y un caso con \"daño\" (pena de \"vida por vida\"), pero el texto no especifica si ese \"daño\" se refiere a la madre o también al feto. La tradición rabínica clásica, y buena parte de la erudición moderna, entiende que ni siquiera la fórmula \"ojo por ojo\" que sigue se ejecutó nunca de manera literal en la práctica judicial israelita, sino como tasación de compensación económica equivalente — pero el propio texto no lo aclara de manera inequívoca en su formulación literal. E1 el dato de la distinción entre los dos casos; E3 el alcance exacto de \"daño\" y si la fórmula talional es literal o económica, disputa central y no resuelta.",
+      "evidence": [
+        "E1",
+        "E3"
+      ],
+      "hebrew": "נֶפֶשׁ תַּחַת נָפֶשׁ",
+      "teaser": "El pasaje legal más discutido de toda la Torá."
+    },
+    {
+      "id": 97,
+      "chapter": 21,
+      "title": "la'chofshi yeshalechenu tachat eino / le dará libertad por razón de su ojo",
+      "body": "Límite explícito al poder del amo sobre el siervo: si lo hiere de manera que pierda un ojo o un diente, el siervo queda libre de inmediato — protección concreta dentro de un sistema que, en general, acepta la esclavitud como institución. E1, dato legal; D1 la lectura de que el corpus regula y limita la violencia dentro de la esclavitud sin llegar a abolirla.",
+      "evidence": [
+        "E1",
+        "D1"
+      ],
+      "hebrew": "לַחָפְשִׁי יְשַׁלְּחֶנּוּ תַּחַת עֵינוֹ",
+      "teaser": "Un límite real al poder del amo sobre el siervo."
+    },
+    {
+      "id": 98,
+      "chapter": 21,
+      "title": "shor nagach mitemol shilshom / buey acorneador desde antes",
+      "body": "Distinción legal explícita entre la primera ofensa de un animal (el dueño queda libre de culpa) y la reincidencia ya advertida (el dueño responde con su propia vida) — noción temprana de responsabilidad por negligencia informada, no solo por el hecho dañino en sí. E1.",
+      "evidence": [
+        "E1"
+      ],
+      "hebrew": "שׁוֹר נַגָּח מִתְּמוֹל שִׁלְשֹׁם",
+      "teaser": "Responsabilidad legal por negligencia ya advertida."
+    },
+    {
+      "id": 99,
+      "chapter": 22,
+      "title": "im bamachteret yimatze haganav / si el ladrón fuere hallado forzando la casa",
+      "body": "Distinción legal según la hora del día: matar a un ladrón nocturno no genera culpa de sangre, pero hacerlo de día sí — el propio texto asume que de noche no puede saberse con certeza la intención del intruso, y de día sí. E1.",
+      "evidence": [
+        "E1"
+      ],
+      "hebrew": "אֵין לוֹ דָּמִים",
+      "teaser": "La hora del día decide si hay culpa de sangre."
+    },
+    {
+      "id": 100,
+      "chapter": 22,
+      "title": "yikarev ba'al habayit el ha'elohim / el dueño de la casa será presentado ante los jueces",
+      "body": "Misma crux léxica de la nota 95: elohim aplicado otra vez a la instancia judicial humana ante la cual se dirimen las disputas de bienes perdidos o robados. E1.",
+      "evidence": [
+        "E1"
+      ],
+      "hebrew": "עַד הָאֱלֹהִים יָבֹא דְּבַר־שְׁנֵיהֶם",
+      "teaser": "La misma crux: “elohim”, ¿jueces o divinidad?"
+    },
+    {
+      "id": 101,
+      "chapter": 22,
+      "title": "ve'et hager lo toneh... ki gerim heyitem be'eretz Mitzrayim / al extranjero no engañarás... porque extranjeros fuisteis en Egipto",
+      "body": "La ética hacia el extranjero se funda explícitamente en la propia experiencia histórica de Israel como extranjero en Egipto — el mismo argumento se repetirá, casi palabra por palabra, en 23:9. No es apelación abstracta a un principio, es apelación a memoria compartida. E1.",
+      "evidence": [
+        "E1"
+      ],
+      "hebrew": "כִּי־גֵרִים הֱיִיתֶם בְּאֶרֶץ מִצְרָיִם",
+      "teaser": "La ética hacia el extranjero, fundada en memoria propia."
+    },
+    {
+      "id": 102,
+      "chapter": 22,
+      "title": "Elohim lo tekalel / no injuriarás a Elohim",
+      "body": "Misma raíz qalal ya distinguida de arar en Génesis (nota sobre 3:17 frente a 8:21) — acá aplicada, sin ambigüedad, a la prohibición de maldecir tanto a Elohim como a una autoridad humana (el \"príncipe\" del pueblo) en la misma frase. E1.",
+      "evidence": [
+        "E1"
+      ],
+      "hebrew": "אֱלֹהִים לֹא תְקַלֵּל",
+      "teaser": "La misma raíz de maldecir, aplicada a Elohim y a un príncipe."
+    },
+    {
+      "id": 103,
+      "chapter": 22,
+      "title": "anshei qodesh tihyun li / me seréis varones consagrados",
+      "body": "Misma raíz q-d-sh de las notas 85, 76, 56 y 13 — acá aplicada de nuevo al pueblo entero como categoría de vida cotidiana (qué se puede o no comer), no solo como fórmula solemne de apertura. E1.",
+      "evidence": [
+        "E1"
+      ],
+      "hebrew": "אַנְשֵׁי־קֹדֶשׁ",
+      "teaser": "La consagración, otra vez aplicada a la vida cotidiana."
+    },
+    {
+      "id": 104,
+      "chapter": 23,
+      "title": "lo tihyeh acharei rabim lera'ot / no seguirás a los muchos para hacer mal",
+      "body": "Mandato explícito contra el conformismo judicial: ni la mayoría, ni la simpatía por el pobre, deben torcer un veredicto (v.3 lo aclara en sentido inverso). La justicia, en este código, no se define por consenso social sino por un criterio que puede oponerse a él. E1.",
+      "evidence": [
+        "E1"
+      ],
+      "hebrew": "לֹא־תִהְיֶה אַחֲרֵי רַבִּים לְרָעֹת",
+      "teaser": "Ni la mayoría decide lo que es justo."
+    },
+    {
+      "id": 105,
+      "chapter": 23,
+      "title": "vehashevi'it tishmetenah untashtah / el séptimo año la dejarás libre y sin cultivo",
+      "body": "Primera aparición del año sabático (shemitah) — la tierra misma, no solo las personas y los animales, recibe un año de descanso periódico, con los pobres y los animales silvestres autorizados a comer de lo que crezca sin cultivo. E1.",
+      "evidence": [
+        "E1"
+      ],
+      "hebrew": "הַשְּׁבִיעִת תִּשְׁמְטֶנָּה וּנְטַשְׁתָּהּ",
+      "teaser": "La tierra misma recibe un año de descanso."
+    },
+    {
+      "id": 106,
+      "chapter": 23,
+      "title": "shalosh pe'amim bashanah tachog li / tres veces en el año me celebraréis fiesta",
+      "body": "Primera enumeración conjunta de las tres fiestas de peregrinación (panes sin levadura, siega/primicias, cosecha final) como tríada fija del calendario ritual — cada una ligada a un momento concreto del ciclo agrícola. E1.",
+      "evidence": [
+        "E1"
+      ],
+      "hebrew": "שָׁלֹשׁ רְגָלִים תָּחֹג לִי",
+      "teaser": "Las tres fiestas de peregrinación, nombradas juntas por primera vez."
+    },
+    {
+      "id": 107,
+      "chapter": 23,
+      "title": "lo tevashel gedi bachalev imo / no guisarás el cabrito en la leche de su madre",
+      "body": "Una de las prohibiciones más discutidas de toda la Torá, repetida dos veces más en el resto del corpus. Una lectura la entiende como polémica contra un rito cananeo documentado (o presuntamente documentado) de cocinar cabritos en leche materna como ofrenda de fertilidad; otra la lee como principio ético autónomo, contra mezclar el símbolo de la vida (la leche que nutre) con el de la muerte (la carne cocinada) del mismo animal. Ninguna de las dos lecturas tiene respaldo filológico o arqueológico totalmente concluyente. E1 el dato de la prohibición y su repetición; E2/E3 su motivación original, disputa académica real y no resuelta.",
+      "evidence": [
+        "E1",
+        "E2",
+        "E3"
+      ],
+      "hebrew": "לֹא־תְבַשֵּׁל גְּדִי בַּחֲלֵב אִמּוֹ",
+      "teaser": "Una de las prohibiciones más discutidas de toda la Torá."
+    },
+    {
+      "id": 108,
+      "chapter": 23,
+      "title": "ki shemi beqirbo / porque mi nombre está en él",
+      "body": "El mensajero (mal'ach) que YHWH envía delante del pueblo recibe una autoridad casi indistinguible de la divina: no perdonará la rebelión, \"porque mi nombre está en él\" — misma ambigüedad entre mensajero y divinidad ya presente en la lucha de Jacob (cf. Génesis 32:25) y en la bendición de Jacob a José (cf. Génesis 48:15-16). E1 el dato textual; D1 la lectura de la identificación entre el mensajero y la presencia misma de YHWH.",
+      "evidence": [
+        "E1",
+        "D1"
+      ],
+      "hebrew": "כִּי שְׁמִי בְּקִרְבּוֹ",
+      "teaser": "Un mensajero con la autoridad del propio nombre de YHWH."
+    },
+    {
+      "id": 109,
+      "chapter": 23,
+      "title": "hatzir'ah / la avispa",
+      "body": "Imagen concreta y poco común: un agente no humano, no directamente milagroso en el sentido de las plagas, que expulsará a los pueblos de la tierra. La identidad exacta de la \"avispa\" —insecto literal, metáfora de pánico colectivo, o alusión velada a campañas militares egipcias previas en la región— es disputa real entre los comentaristas antiguos y modernos, sin resolución cerrada. E1 el dato textual; E2/E3 su sentido literal o figurado, disputa académica real.",
+      "evidence": [
+        "E1",
+        "E2",
+        "E3"
+      ],
+      "hebrew": "הַצִּרְעָה",
+      "teaser": "¿Un insecto literal, o una metáfora del pánico?"
+    },
+    {
+      "id": 110,
+      "chapter": 23,
+      "title": "me'at me'at agareshenu / poco a poco los echaré",
+      "body": "La conquista gradual se justifica con una razón ecológica y demográfica explícita: si los pueblos se expulsan de golpe, la tierra quedaría desolada y las fieras se multiplicarían contra el pueblo entrante. No es limitación de poder divino — es decisión deliberada, con razón dada. E1.",
+      "evidence": [
+        "E1"
+      ],
+      "hebrew": "מְעַט מְעַט אֲגָרְשֶׁנּוּ",
+      "teaser": "Una conquista gradual, con razón ecológica explícita."
+    },
+    {
+      "id": 111,
+      "chapter": 24,
+      "title": "sefer habrit... dam habrit / el libro del pacto... la sangre del pacto",
+      "body": "Primera vez que el corpus nombra explícitamente un \"libro\" que contiene \"todas las palabras de YHWH\" ya puesto por escrito y leído en voz alta al pueblo — y primera vez que un pacto se sella derramando sangre sobre el altar y sobre el pueblo por partes iguales, no solo sobre uno de los dos lados del acuerdo. E1.",
+      "evidence": [
+        "E1"
+      ],
+      "hebrew": "סֵפֶר הַבְּרִית · דַּם־הַבְּרִית",
+      "teaser": "Un pacto sellado con sangre repartida entre altar y pueblo."
+    },
+    {
+      "id": 112,
+      "chapter": 24,
+      "title": "vayechezu et ha'Elohim vayochlu vayishtu / vieron a Elohim, y comieron y bebieron",
+      "body": "Escena de tensión real dentro del propio corpus: setenta ancianos, Moshé y Aarón ven directamente a \"el Elohim de Israel\" con descripción física concreta (un pavimento de zafiro bajo sus pies) y sobreviven, comiendo y bebiendo con normalidad — en contraste con la premisa que en otros pasajes del Tanaj sostiene que ver el rostro de la divinidad implica la muerte. El propio texto no reconcilia las dos ideas en el mismo lugar. E1 el dato textual; E3 cómo se concilia esta escena con la premisa contraria sostenida en otros pasajes, tensión real dentro del corpus bíblico más amplio.",
+      "evidence": [
+        "E1",
+        "E3"
+      ],
+      "hebrew": "וַיֶּחֱזוּ אֶת־הָאֱלֹהִים וַיֹּאכְלוּ וַיִּשְׁתּוּ",
+      "teaser": "Ven a Elohim y sobreviven, contra la premisa de otros pasajes."
     }
   ],
   "meta": {
@@ -5807,8 +5672,14 @@ window.EXODO_DATA={
       15,
       16,
       17,
-      18
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24
     ],
-    "verseCount": 947
+    "verseCount": 856
   }
 };

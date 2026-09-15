@@ -1,4 +1,4 @@
-# Coding the Bible — Éxodo 1 a 18
+# Coding the Bible — Éxodo 1 a 24
 ### Lectura DIMA. Motor sobre datos reales (OSHB / Códice de Leningrado).
 
 ---
@@ -497,6 +497,176 @@
 
 **27** Y despidió Moshé a su suegro, y este se fue a su tierra.
 
+## Éxodo 19
+
+**1-2** Al mes tercero de la salida de los hijos de Israel de la tierra de Egipto, en aquel mismo día llegaron al desierto de Sinaí. Habían partido de Refidim, y llegaron al desierto de Sinaí, y acamparon en el desierto; y acampó allí Israel delante del monte.
+
+**3-4** Y Moshé subió a Elohim; y YHWH lo llamó desde el monte, diciendo: así dirás a la casa de Jacob, y anunciarás a los hijos de Israel: vosotros visteis lo que hice a los egipcios, y cómo os tomé sobre alas de águilas, y os he traído a mí.
+
+**5-6** Ahora, pues, si diereis oído a mi voz, y guardareis mi pacto, vosotros seréis mi propiedad exclusiva más que todos los pueblos, porque mía es toda la tierra. Y vosotros me seréis un reino de sacerdotes, y nación consagrada⁸⁵. Estas son las palabras que dirás a los hijos de Israel.
+
+**7-8** Entonces vino Moshé, y llamó a los ancianos del pueblo, y les expuso todas estas palabras que YHWH le había mandado. Y todo el pueblo respondió a una, y dijeron: haremos todas las cosas que YHWH ha dicho. Y Moshé refirió las palabras del pueblo a YHWH.
+
+**9-11** Y YHWH dijo a Moshé: he aquí, yo vengo a ti en una nube densa, para que el pueblo oiga mientras yo hablo contigo, y también para que te crean para siempre. Y Moshé refirió las palabras del pueblo a YHWH. Y YHWH dijo a Moshé: ve al pueblo, y santifícalos hoy y mañana, y laven sus vestidos; y estén apercibidos para el día tercero, porque al tercer día YHWH descenderá, a ojos de todo el pueblo, sobre el monte de Sinaí.
+
+**12-13** Y señalarás término al pueblo en derredor, diciendo: guardaos, no subáis al monte, ni toquéis su término; cualquiera que tocare el monte, de seguro morirá⁸⁶. No lo tocará mano, porque será apedreado o asaeteado; sea animal o sea hombre, no vivirá. En habiendo sonado largamente la bocina, subirán al monte.
+
+**14-15** Y descendió Moshé del monte al pueblo, y santificó al pueblo, y lavaron sus vestidos. Y dijo al pueblo: estad apercibidos para el tercer día; no toquéis mujer.
+
+**16-17** Y aconteció al tercer día, cuando vino la mañana, que vinieron truenos y relámpagos, y una nube espesa sobre el monte, y sonido de bocina muy fuerte; y se estremeció todo el pueblo que estaba en el campamento. Y Moshé sacó del campamento al pueblo a recibir a Elohim; y se detuvieron al pie del monte.
+
+**18-19** Todo el monte Sinaí humeaba, porque YHWH había descendido sobre él en fuego; y el humo subía como el humo de un horno, y todo el monte se estremecía en gran manera. Y el sonido de la bocina iba aumentando en extremo; Moshé hablaba, y Elohim le respondía en voz de trueno.
+
+**20-21** Y descendió YHWH sobre el monte Sinaí, sobre la cumbre del monte; y llamó YHWH a Moshé a la cumbre del monte, y Moshé subió. Entonces YHWH dijo a Moshé: desciende, ordena al pueblo que no traspase los límites para ver a YHWH, porque caerá multitud de ellos.
+
+**22-23** Y también los sacerdotes que se acercan a YHWH, se santifiquen, para que YHWH no haga en ellos estrago. Y Moshé dijo a YHWH: el pueblo no podrá subir al monte Sinaí, porque tú nos has mandado diciendo: señala términos al monte, y santifícalo.
+
+**24-25** Y YHWH le dijo: ve, desciende, y subirás tú, y Aarón contigo; mas los sacerdotes y el pueblo no traspasen el término para subir a YHWH, no sea que él haga en ellos estrago. Entonces Moshé descendió al pueblo y se lo dijo.
+
+## Éxodo 20
+
+**1-3** Y habló Elohim todas estas palabras, diciendo: yo soy YHWH tu Elohim, que te saqué de la tierra de Egipto, de casa de servidumbre⁸⁷. No tendrás elohim ajenos delante de mí⁸⁸.
+
+**4-6** No te harás imagen, ni ninguna semejanza de lo que está arriba en el cielo, ni abajo en la tierra, ni en las aguas debajo de la tierra. No te inclinarás a ellas, ni las honrarás; porque yo soy YHWH tu Elohim, fuerte, celoso, que visito la iniquidad de los padres sobre los hijos hasta la tercera y cuarta generación de los que me aborrecen, y que hago misericordia a millares, a los que me aman y guardan mis mandamientos⁸⁹.
+
+**7** No tomarás el nombre de YHWH tu Elohim en vano; porque no dará por inocente YHWH al que tomare su nombre en vano.
+
+**8-11** Acuérdate del día de reposo para santificarlo. Seis días trabajarás, y harás toda tu obra; mas el séptimo día es reposo para YHWH tu Elohim; no hagas en él obra alguna, tú, ni tu hijo, ni tu hija, ni tu siervo, ni tu criada, ni tu bestia, ni tu extranjero que está dentro de tus puertas. Porque en seis días hizo YHWH los cielos y la tierra, el mar, y todas las cosas que en ellos hay, y reposó en el séptimo día; por tanto YHWH bendijo el día de reposo, y lo santificó⁹¹.
+
+**12** Honra a tu padre y a tu madre, para que tus días se alarguen en la tierra que YHWH tu Elohim te da⁹².
+
+**13-17** No matarás⁹⁰. No cometerás adulterio. No hurtarás. No hablarás contra tu prójimo falso testimonio. No codiciarás la casa de tu prójimo, no codiciarás la ishah de tu prójimo, ni su siervo, ni su criada, ni su buey, ni su asno, ni cosa alguna de tu prójimo.
+
+**18-19** Todo el pueblo observaba las truenos, los relámpagos, el sonido de la bocina, y el monte que humeaba; y viéndolo el pueblo, temblaron, y se pusieron de lejos. Y dijeron a Moshé: habla tú con nosotros, y nosotros oiremos; pero no hable Elohim con nosotros, para que no muramos.
+
+**20** Y Moshé respondió al pueblo: no temáis, que para probaros vino Elohim, y para que su temor esté delante de vosotros, para que no pequéis⁹³.
+
+**21** Entonces el pueblo se puso de lejos, y Moshé se acercó a la densa oscuridad en la cual estaba Elohim.
+
+**22-23** Y YHWH dijo a Moshé: así dirás a los hijos de Israel: vosotros habéis visto que he hablado desde el cielo con vosotros. No hagáis conmigo elohim de plata, ni elohim de oro os haréis.
+
+**24-26** Altar de tierra harás para mí, y sacrificarás sobre él tus holocaustos y tus ofrendas de paz, tus ovejas y tus vacas; en cualquier lugar donde yo hiciere que esté la memoria de mi nombre, vendré a ti, y te bendeciré. Y si me hicieres altar de piedras, no las labres de cantería; porque si alzares tu herramienta sobre él, lo profanarás. Y no subirás por gradas a mi altar, para que tu desnudez no se descubra junto a él⁹⁴.
+
+## Éxodo 21
+
+**1** Y estas son las leyes que les propondrás.
+
+**2-4** Si comprares siervo hebreo, seis años servirá; mas al séptimo saldrá libre, de balde. Si entró solo, solo saldrá; si tenía ishah, saldrá su ishah con él. Si su señor le hubiere dado ishah, y ella le hubiere dado a luz hijos o hijas, la ishah y sus hijos serán de su señor, y él saldrá solo.
+
+**5-6** Y si el siervo dijere: yo amo a mi señor, a mi ishah y a mis hijos, no saldré libre, entonces su señor lo llevará ante los jueces⁹⁵, y le arrimará a la puerta o al poste; y su señor le horadará la oreja con lezna, y será su siervo para siempre.
+
+**7-9** Y cuando alguno vendiere a su hija por sierva, no saldrá ella como suelen salir los siervos. Si no agradare a su señor, por lo cual no la tomó por esposa, se le permitirá que se rescate, y no la podrá vender a pueblo extraño cuando la desechare. Mas si la hubiere desposado con su hijo, hará con ella según la costumbre de las hijas.
+
+**10-11** Si tomare para sí otra ishah, no disminuirá su alimento, ni su vestido, ni el débito conyugal. Y si ninguna de estas tres cosas hiciere, ella saldrá de gracia sin dinero.
+
+**12-14** El que hiriere a alguno, haciéndolo así morir, morirá también. Mas el que no armó asechanzas, sino que Elohim lo puso en sus manos, entonces yo te señalaré lugar al cual ha de huir. Pero si alguno se ensoberbeciere contra su prójimo, y lo matare con alevosía, de mi altar lo quitarás para que muera.
+
+**15-17** El que hiriere a su padre o a su madre, morirá. Asimismo el que robare una persona y la vendiere, si fuere hallada en sus manos, morirá. Igualmente el que maldijere a su padre o a su madre, morirá.
+
+**18-19** Además, si algunos contendieren, y uno hiriere a su prójimo con piedra o con el puño, y no muriere, pero cayere en cama; si se levantare y anduviere fuera sobre su bastón, entonces el que lo hirió será absuelto; solamente le satisfará por lo que estuvo sin trabajar, y hará que le curen.
+
+**20-21** Y si alguno hiriere a su siervo o a su sierva con palo, y muriere bajo su mano, será castigado; mas si sobreviviere por un día o dos, no será castigado, porque es de su propiedad.
+
+**22-23** Si algunos riñeren, e hirieren a mujer embarazada, y esta abortare, pero sin haber otro daño, será penado conforme a lo que le impusiere el marido de la mujer, y pagará según juzguen los árbitros. Mas si hubiere daño, entonces pagarás vida por vida⁹⁶,
+
+**24-25** ojo por ojo, diente por diente, mano por mano, pie por pie, quemadura por quemadura, herida por herida, golpe por golpe.
+
+**26-27** Si alguno hiriere el ojo de su siervo, o el ojo de su sierva, y lo dañare, le dará libertad por razón de su ojo. Y si sacare el diente de su siervo, o el diente de su sierva, por su diente le dejará ir libre⁹⁷.
+
+**28-29** Si un buey acorneare a hombre o a mujer, y a causa de esto muriere, el buey será apedreado, y no será comida su carne; mas el dueño del buey será absuelto. Pero si el buey era acorneador desde antes, y a su dueño se le hubiere notificado, y no lo hubiere guardado, y matare a hombre o a mujer, el buey será apedreado, y también morirá su dueño⁹⁸.
+
+**30-32** Si le fuere impuesto rescate, entonces dará por el rescate de su vida cuanto le fuere impuesto. Haya acorneado a hijo, o haya acorneado a hija, conforme a este juicio se hará con él. Si el buey acorneare a un siervo o a una sierva, pagará el dueño treinta piezas de plata a su señor, y el buey será apedreado.
+
+**33-34** Si alguno abriere un pozo, o cavare foso y no lo cubriere, y cayere allí buey o asno, el dueño del pozo pagará el dinero, resarciendo a su dueño, y lo que fue muerto será suyo.
+
+**35-36** Y si el buey de alguno hiriere al buey de su prójimo y este muriere, entonces venderán el buey vivo y partirán el dinero de él, y también partirán el muerto. Mas si era notorio que el buey era acorneador desde antes, y su dueño no lo hubiere guardado, pagará buey por buey, y el muerto será suyo.
+
+**37** Si alguno hurtare buey u oveja, y lo degollare o lo vendiere, por el buey pagará cinco bueyes, y por la oveja cuatro ovejas.
+
+## Éxodo 22
+
+**1-2** Si el ladrón fuere hallado forzando una casa, y fuere herido y muriere, el que lo hirió no será culpado de su muerte⁹⁹. Mas si fuere de día, el autor será reo de homicidio.
+
+**3-4** El ladrón hará completa restitución; si no tuviere con qué, será vendido por su hurto. Si fuere hallado con el hurto en la mano, buey o asno u oveja vivos, pagará el doble.
+
+**5-6** Si alguno hiciere pastar en campo o viña, y metiere su bestia, y comiere en campo de otro, de lo mejor de su campo y de lo mejor de su viña pagará. Si prendiere fuego, y al quemar espinos quemare mieses amontonadas o en pie, o campo, el que encendió el fuego pagará lo quemado.
+
+**7-8** Cuando alguno diere a su prójimo plata o alhajas a guardar, y fuere hurtado de la casa de aquel hombre, si el ladrón fuere hallado, pagará el doble. Si el ladrón no fuere hallado, entonces el dueño de la casa será presentado ante los jueces¹⁰⁰, para ver si ha metido su mano en los bienes de su prójimo.
+
+**9-10** En toda clase de fraude, sobre buey, sobre asno, sobre oveja, sobre vestido, sobre toda cosa perdida, cuando alguno dijere que es suya, la causa de ambos vendrá delante de los jueces; y el que los jueces condenaren, pagará el doble a su prójimo. Si alguno hubiere dado a su prójimo asno, buey, oveja, o cualquier otro animal a guardar, y este muriere o fuere estropeado, o fuere llevado sin verlo nadie,
+
+**11-13** juramento de YHWH habrá entre ambos, de que no metió su mano a los bienes de su prójimo; y su dueño lo aceptará, y el otro no pagará. Mas si le hubiere sido hurtado, resarcirá a su dueño. Y si le hubiere sido arrebatado por fiera, le traerá testimonio, y no pagará lo arrebatado.
+
+**14-15** Pero si el prójimo le hubiere pedido prestado, y hubiere sido estropeado o hubiere muerto, no estando presente su dueño, deberá pagarlo. Si el dueño estaba presente, no lo pagará; si era alquilado, entra en el precio de su alquiler.
+
+**16-17** Si alguno engañare a una virgen que no fuere desposada, y durmiere con ella, deberá dotarla y tomarla por ishah. Si su padre no quisiere dársela, él le pesará plata conforme al dote de las vírgenes.
+
+**18** A la hechicera no dejarás que viva.
+
+**19-21** Cualquiera que tuviere ayuntamiento con bestia, morirá irremisiblemente. El que ofreciere sacrificio a elohim, excepto solamente a YHWH, será destruido. Y al extranjero no engañarás ni angustiarás, porque extranjeros fuisteis vosotros en la tierra de Egipto¹⁰¹.
+
+**22-24** A ninguna viuda ni huérfano afligiréis. Que si tú llegas a afligirle, y él clamare a mí, ciertamente oiré yo su clamor; y mi ira se encenderá, y os mataré a espada, y vuestras esposas serán viudas, y huérfanos vuestros hijos.
+
+**25-27** Si dieres a mi pueblo dinero prestado, al pobre que está contigo, no te portarás con él como usurero, ni le impondrás usura. Si tomares en prenda el vestido de tu prójimo, a la puesta del sol se lo devolverás; porque solo eso es su cubierta, es su vestido para cubrir su piel; ¿con qué dormirá? Y cuando él clame a mí, yo le oiré, porque soy clemente.
+
+**28** No injuriarás a Elohim, ni maldecirás al príncipe de tu pueblo¹⁰².
+
+**29-30** No demorarás la primicia de tu cosecha, ni de tu lagar. Me darás el primogénito de tus hijos. Lo mismo harás con el de tu buey y de tu oveja; siete días estará con su madre, y al octavo día me lo darás.
+
+**31** Y me seréis varones consagrados¹⁰³; y no comeréis carne destrozada por las fieras en el campo; la arrojaréis al perro.
+
+## Éxodo 23
+
+**1-2** No admitirás falso rumor. No te concertarás con el impío para ser testigo falso. No seguirás a los muchos para hacer mal¹⁰⁴; ni responderás en litigio inclinándote a los más para hacer agravios;
+
+**3** ni al pobre distinguirás en su causa.
+
+**4-5** Si encontrares el buey de tu enemigo o su asno extraviado, sin falta se lo devolverás. Si vieres el asno del que te aborrece caído debajo de su carga, ¿le dejarás sin ayuda? Sin falta ayudarás con él.
+
+**6-8** No pervertirás el derecho de tu mendigo en su pleito. De palabra de mentira te alejarás, y no matarás al inocente y justo; porque yo no justificaré al impío. No recibirás presente; porque el presente ciega a los que ven, y pervierte las palabras justas.
+
+**9** Y no angustiarás al extranjero; porque vosotros conocéis el alma del extranjero, ya que extranjeros fuisteis en la tierra de Egipto.
+
+**10-11** Seis años sembrarás tu tierra, y recogerás su cosecha; mas el séptimo año la dejarás libre y sin cultivo, para que coman los pobres de tu pueblo; y de lo que quedare comerán las bestias del campo; así harás con tu viña y con tu olivar¹⁰⁵.
+
+**12** Seis días trabajarás, mas el séptimo día reposarás, para que descanse tu buey y tu asno, y tome refrigerio el hijo de tu sierva, y el extranjero.
+
+**13** Y guardad todo lo que os he dicho; y nombre de otros elohim no mentaréis, ni se oirá de vuestra boca.
+
+**14-15** Tres veces en el año me celebraréis fiesta¹⁰⁶. La fiesta de los panes sin levadura guardarás; siete días comerás pan sin levadura, como te he mandado, en el tiempo señalado del mes de Abib, porque en él saliste de Egipto; y ninguno se presentará delante de mí con las manos vacías.
+
+**16-17** También la fiesta de la siega, los primeros frutos de tus labores que hubieres sembrado en el campo; y la fiesta de la cosecha a la salida del año, cuando hayas recogido los frutos de tus labores del campo. Tres veces en el año se presentará todo varón delante de YHWH el Adón.
+
+**18-19** No ofrecerás con pan leudado la sangre de mi sacrificio, ni la grosura de mi víctima quedará de la noche hasta la mañana. Las primicias de los primeros frutos de tu tierra traerás a la casa de YHWH tu Elohim. No guisarás el cabrito en la leche de su madre¹⁰⁷.
+
+**20-21** He aquí yo envío mi mensajero delante de ti, para que te guarde en el camino, y te introduzca al lugar que yo he preparado. Guárdate delante de él, y oye su voz; no lo provoques a ira, porque él no perdonará vuestra rebelión, porque mi nombre está en él¹⁰⁸.
+
+**22-23** Pero si en verdad oyeres su voz, e hicieres todo lo que yo te dijere, seré enemigo de tus enemigos, y afligiré a los que te afligieren. Porque mi mensajero irá delante de ti, y te llevará al amorreo, al hitita, al ferezeo, al cananeo, al hivita y al jebuseo, a los cuales yo haré destruir.
+
+**24-25** No te inclinarás a sus elohim, ni los servirás, ni harás como ellos hacen; antes los destruirás del todo, y quebrantarás enteramente sus estatuas. Mas a YHWH vuestro Elohim serviréis, y él bendecirá tu pan y tus aguas; y yo quitaré toda enfermedad de en medio de ti.
+
+**26-27** No habrá quien aborte, ni estéril en tu tierra; y yo completaré el número de tus días. Yo enviaré mi terror delante de ti, y consternaré a todo pueblo donde entrares, y te daré la cerviz de todos tus enemigos.
+
+**28-30** Enviaré también delante de ti la avispa¹⁰⁹, que echará de delante de ti al hivita, al cananeo y al hitita. No los echaré de delante de ti en un año, para que no quede la tierra desierta, y se aumenten contra ti las fieras del campo. Poco a poco los echaré de delante de ti¹¹⁰, hasta que te multipliques y tomes posesión de la tierra.
+
+**31-33** Y fijaré tus límites desde el Mar Rojo hasta el mar de los filisteos, y desde el desierto hasta el río; porque pondré en vuestras manos a los moradores de la tierra, y tú los echarás de delante de ti. No harás pacto con ellos, ni con sus elohim. En tu tierra no habitarán, no sea que te hagan pecar contra mí, sirviendo a sus elohim, porque te será tropiezo.
+
+## Éxodo 24
+
+**1-2** Dijo a Moshé: sube ante YHWH, tú, y Aarón, Nadab y Abihú, y setenta de los ancianos de Israel; y os inclinaréis desde lejos. Pero Moshé solo se acercará a YHWH; y ellos no se acerquen, ni suba el pueblo con él.
+
+**3** Y Moshé vino y contó al pueblo todas las palabras de YHWH, y todas las leyes; y todo el pueblo respondió a una voz, y dijeron: haremos todas las palabras que YHWH ha dicho.
+
+**4-5** Y escribió Moshé todas las palabras de YHWH, y levantándose de mañana edificó un altar al pie del monte, y doce columnas, según las doce tribus de Israel. Y envió a los jóvenes de los hijos de Israel, los cuales ofrecieron holocaustos y sacrificaron novillos como ofrenda de paz a YHWH.
+
+**6-8** Y Moshé tomó la mitad de la sangre, y la puso en tazones, y esparció la otra mitad sobre el altar. Y tomó el libro del pacto¹¹¹, y lo leyó a oídos del pueblo, el cual dijo: haremos todas las cosas que YHWH ha dicho, y obedeceremos. Entonces Moshé tomó la sangre y roció sobre el pueblo, y dijo: he aquí la sangre del pacto que YHWH ha hecho con vosotros sobre todas estas cosas.
+
+**9-11** Y subieron Moshé y Aarón, Nadab y Abihú, y setenta de los ancianos de Israel; y vieron al Elohim de Israel, y debajo de sus pies había como un embaldosado de zafiro, semejante al cielo mismo en claridad. Y no extendió su mano sobre los príncipes de los hijos de Israel; y vieron a Elohim, y comieron y bebieron¹¹².
+
+**12-14** Y YHWH dijo a Moshé: sube a mí al monte, y espera allá, y te daré tablas de piedra, y la ley, y mandamientos que he escrito para enseñarles. Y se levantó Moshé, con Yehoshúa su servidor; y Moshé subió al monte de Elohim. Y dijo a los ancianos: esperadnos aquí hasta que volvamos a vosotros; y he aquí Aarón y Hur están con vosotros; el que tuviere asuntos, acuda a ellos.
+
+**15-18** Entonces Moshé subió al monte, y una nube cubrió el monte. Y la gloria de YHWH reposó sobre el monte Sinaí, y la nube lo cubrió por seis días; y al séptimo día llamó a Moshé de en medio de la nube. Y el parecer de la gloria de YHWH era como un fuego abrasador en la cumbre del monte, a los ojos de los hijos de Israel. Y entró Moshé en medio de la nube, y subió al monte; y estuvo Moshé en el monte cuarenta días y cuarenta noches.
+
 ---
 ---
 
@@ -671,6 +841,62 @@
 **83 — gadol YHWH mikol ha'elohim / YHWH es más grande que todos los elohim (18:11).** Mismo tipo de lenguaje henoteísta de la nota 69 ("¿quién como tú entre los elim?"), acá puesto en boca de un sacerdote madianita no israelita — Jetró no niega la existencia de otras divinidades, afirma la superioridad de YHWH sobre ellas a partir de lo que acaba de escuchar. E1.
 
 **84 — consejo judicial de Jetró (18:13-27).** La estructura de jueces delegados por millares, centenas, cincuencias y decenas —el sistema judicial que organizará a Israel en el desierto— nace de un consejo práctico dado por un sacerdote extranjero, antes de la entrega de la ley en el Sinaí. El propio texto no le resta autoridad a la propuesta por venir de fuera del pueblo; Moshé la adopta íntegramente. E1, dato estructural; D1 la lectura de que la sabiduría organizativa, en este relato, no se presenta como exclusiva de la revelación directa a Israel.
+
+**85 — segulah... mamlechet kohanim vegoy qadosh / propiedad exclusiva... reino de sacerdotes y nación consagrada (19:5-6).** Fórmula fundacional de autodefinición de Israel, dicha antes de cualquier ley concreta del Decálogo — misma raíz *q-d-sh* ya establecida (notas 13, 56, 76) aplicada acá no a un lugar, un día o una categoría de seres, sino al pueblo entero como colectivo. E1.
+
+**86 — haqel yisaqel / de seguro morirá (19:12-13).** La ley de intocabilidad del monte durante la teofanía es tan absoluta que ni siquiera permite el contacto físico para ejecutar al transgresor: debe morir apedreado o asaeteado, sin que ninguna mano lo toque. Lo sagrado, en este pasaje, se protege incluso del propio acto de castigar. E1.
+
+**87 — anochi YHWH Elohecha / yo soy YHWH tu Elohim (20:2).** La primera "palabra" del Decálogo no es un mandato, sino una autopresentación en primera persona con referencia histórica concreta (la salida de Egipto) — dato que genera disputa exegética real sobre si cuenta como uno de los diez mandamientos o como marco introductorio de los nueve restantes. E1 el dato gramatical (no es imperativo); E2/E3 su estatus exacto dentro del conteo tradicional de "los diez", disputa real entre distintas tradiciones de recuento.
+
+**88 — lo yihyeh lecha elohim acherim al panai / no tendrás elohim ajenos delante de mí (20:3).** Mismo tipo de formulación henoteísta ya señalada (Éxodo 15:11, 18:11): el mandamiento no niega la existencia de otras divinidades, exige exclusividad de culto hacia YHWH frente a ellas. E1.
+
+**89 — poqed avon avot... oseh chesed la'alafim / que visito la iniquidad de los padres... y hago misericordia a millares (20:5-6).** Asimetría explícita en la propia gramática: el castigo alcanza tres o cuatro generaciones, la misericordia se extiende a "millares" (de generaciones, según la lectura tradicional). La proporción entre ambos términos no es simétrica ni casual. E1.
+
+**90 — lo tirtzach / no matarás (20:13).** El verbo hebreo *ratzach* es específico para homicidio ilegítimo — distinto de *harag* (matar en sentido general, incluyendo guerra o ejecución legal) — el mismo corpus, en el capítulo siguiente, ordena la pena de muerte para varios delitos usando otras raíces, sin contradecir este mandamiento. E1, dato léxico verificable por concordancia.
+
+**91 — ki sheshet yamim asah YHWH... vayanach bayom hashevi'i / porque en seis días hizo YHWH... y reposó el séptimo día (20:11).** El mandamiento del shabbat se funda explícitamente en el relato de la creación (cf. Génesis 2:2-3), citando el mismo patrón de siete días y el mismo verbo de cesación — el descanso semanal se presenta como imitación de un ritmo ya inscrito en el origen del mundo, no como institución nueva. E1.
+
+**92 — lema'an ya'arichun yamecha / para que tus días se alarguen (20:12).** Único mandamiento del Decálogo que lleva adjunta una razón explícita y una consecuencia declarada (longevidad en la tierra) — el resto de los mandamientos se dan sin justificación ni promesa asociada. E1, dato estructural.
+
+**93 — yirato al peneichem levilti techeta'u / su temor esté delante de vosotros, para que no pequéis (20:20).** Moshé usa la raíz *yare* (temor reverencial) explícitamente como mecanismo disuasorio del pecado — distinta de *pachad* (terror/pavor, cf. "el Pavor de Itzjak", Génesis 31:42), aunque el episodio que la motiva (truenos, humo, temblor del monte) es objetivamente aterrador en sentido físico. El propio texto elige la palabra del temor reverencial, no la del miedo bruto, para nombrar el efecto pedagógico buscado. E1.
+
+**94 — velo ta'aleh bema'alot al mizbechi / no subirás por gradas a mi altar (20:26).** Norma concreta de pudor ritual: el diseño del altar debe evitar que el sacerdote, al subir escalones, exponga su desnudez — dato arquitectónico con una justificación corporal explícita, no meramente estética. E1.
+
+**95 — vehigisho el ha'elohim / lo llevará ante los jueces (21:6).** Crux de traducción real: la misma palabra *elohim* que en todo el corpus nombra a la divinidad aparece acá aplicada, según la lectura mayoritaria, a jueces o magistrados humanos ante quienes se formaliza el compromiso del siervo — otra vez el sustantivo funcionando como categoría de autoridad, no como nombre exclusivo de lo divino (cf. Éxodo 4:16, 7:1). E1 el dato léxico; E2/E3 si la lectura correcta es "jueces humanos" o "ante la divinidad directamente" en el santuario, disputa exegética real.
+
+**96 — ve'im ason yihyeh venatatah nefesh tachat nefesh / mas si hubiere daño, pagarás vida por vida (21:22-23).** Uno de los pasajes legales más discutidos de toda la Torá: el versículo 22 distingue entre un aborto sin otro daño (pena solo pecuniaria) y un caso con "daño" (pena de "vida por vida"), pero el texto no especifica si ese "daño" se refiere a la madre o también al feto. La tradición rabínica clásica, y buena parte de la erudición moderna, entiende que ni siquiera la fórmula "ojo por ojo" que sigue se ejecutó nunca de manera literal en la práctica judicial israelita, sino como tasación de compensación económica equivalente — pero el propio texto no lo aclara de manera inequívoca en su formulación literal. E1 el dato de la distinción entre los dos casos; E3 el alcance exacto de "daño" y si la fórmula talional es literal o económica, disputa central y no resuelta.
+
+**97 — la'chofshi yeshalechenu tachat eino / le dará libertad por razón de su ojo (21:26-27).** Límite explícito al poder del amo sobre el siervo: si lo hiere de manera que pierda un ojo o un diente, el siervo queda libre de inmediato — protección concreta dentro de un sistema que, en general, acepta la esclavitud como institución. E1, dato legal; D1 la lectura de que el corpus regula y limita la violencia dentro de la esclavitud sin llegar a abolirla.
+
+**98 — shor nagach mitemol shilshom / buey acorneador desde antes (21:29).** Distinción legal explícita entre la primera ofensa de un animal (el dueño queda libre de culpa) y la reincidencia ya advertida (el dueño responde con su propia vida) — noción temprana de responsabilidad por negligencia informada, no solo por el hecho dañino en sí. E1.
+
+**99 — im bamachteret yimatze haganav / si el ladrón fuere hallado forzando la casa (22:1-2).** Distinción legal según la hora del día: matar a un ladrón nocturno no genera culpa de sangre, pero hacerlo de día sí — el propio texto asume que de noche no puede saberse con certeza la intención del intruso, y de día sí. E1.
+
+**100 — yikarev ba'al habayit el ha'elohim / el dueño de la casa será presentado ante los jueces (22:8).** Misma crux léxica de la nota 95: *elohim* aplicado otra vez a la instancia judicial humana ante la cual se dirimen las disputas de bienes perdidos o robados. E1.
+
+**101 — ve'et hager lo toneh... ki gerim heyitem be'eretz Mitzrayim / al extranjero no engañarás... porque extranjeros fuisteis en Egipto (22:20).** La ética hacia el extranjero se funda explícitamente en la propia experiencia histórica de Israel como extranjero en Egipto — el mismo argumento se repetirá, casi palabra por palabra, en 23:9. No es apelación abstracta a un principio, es apelación a memoria compartida. E1.
+
+**102 — Elohim lo tekalel / no injuriarás a Elohim (22:28).** Misma raíz *qalal* ya distinguida de *arar* en Génesis (nota sobre 3:17 frente a 8:21) — acá aplicada, sin ambigüedad, a la prohibición de maldecir tanto a Elohim como a una autoridad humana (el "príncipe" del pueblo) en la misma frase. E1.
+
+**103 — anshei qodesh tihyun li / me seréis varones consagrados (22:31).** Misma raíz *q-d-sh* de las notas 85, 76, 56 y 13 — acá aplicada de nuevo al pueblo entero como categoría de vida cotidiana (qué se puede o no comer), no solo como fórmula solemne de apertura. E1.
+
+**104 — lo tihyeh acharei rabim lera'ot / no seguirás a los muchos para hacer mal (23:2).** Mandato explícito contra el conformismo judicial: ni la mayoría, ni la simpatía por el pobre, deben torcer un veredicto (v.3 lo aclara en sentido inverso). La justicia, en este código, no se define por consenso social sino por un criterio que puede oponerse a él. E1.
+
+**105 — vehashevi'it tishmetenah untashtah / el séptimo año la dejarás libre y sin cultivo (23:10-11).** Primera aparición del año sabático (*shemitah*) — la tierra misma, no solo las personas y los animales, recibe un año de descanso periódico, con los pobres y los animales silvestres autorizados a comer de lo que crezca sin cultivo. E1.
+
+**106 — shalosh pe'amim bashanah tachog li / tres veces en el año me celebraréis fiesta (23:14-17).** Primera enumeración conjunta de las tres fiestas de peregrinación (panes sin levadura, siega/primicias, cosecha final) como tríada fija del calendario ritual — cada una ligada a un momento concreto del ciclo agrícola. E1.
+
+**107 — lo tevashel gedi bachalev imo / no guisarás el cabrito en la leche de su madre (23:19).** Una de las prohibiciones más discutidas de toda la Torá, repetida dos veces más en el resto del corpus. Una lectura la entiende como polémica contra un rito cananeo documentado (o presuntamente documentado) de cocinar cabritos en leche materna como ofrenda de fertilidad; otra la lee como principio ético autónomo, contra mezclar el símbolo de la vida (la leche que nutre) con el de la muerte (la carne cocinada) del mismo animal. Ninguna de las dos lecturas tiene respaldo filológico o arqueológico totalmente concluyente. E1 el dato de la prohibición y su repetición; E2/E3 su motivación original, disputa académica real y no resuelta.
+
+**108 — ki shemi beqirbo / porque mi nombre está en él (23:20-21).** El mensajero (*mal'ach*) que YHWH envía delante del pueblo recibe una autoridad casi indistinguible de la divina: no perdonará la rebelión, "porque mi nombre está en él" — misma ambigüedad entre mensajero y divinidad ya presente en la lucha de Jacob (cf. Génesis 32:25) y en la bendición de Jacob a José (cf. Génesis 48:15-16). E1 el dato textual; D1 la lectura de la identificación entre el mensajero y la presencia misma de YHWH.
+
+**109 — hatzir'ah / la avispa (23:28).** Imagen concreta y poco común: un agente no humano, no directamente milagroso en el sentido de las plagas, que expulsará a los pueblos de la tierra. La identidad exacta de la "avispa" —insecto literal, metáfora de pánico colectivo, o alusión velada a campañas militares egipcias previas en la región— es disputa real entre los comentaristas antiguos y modernos, sin resolución cerrada. E1 el dato textual; E2/E3 su sentido literal o figurado, disputa académica real.
+
+**110 — me'at me'at agareshenu / poco a poco los echaré (23:29-30).** La conquista gradual se justifica con una razón ecológica y demográfica explícita: si los pueblos se expulsan de golpe, la tierra quedaría desolada y las fieras se multiplicarían contra el pueblo entrante. No es limitación de poder divino — es decisión deliberada, con razón dada. E1.
+
+**111 — sefer habrit... dam habrit / el libro del pacto... la sangre del pacto (24:4-8).** Primera vez que el corpus nombra explícitamente un "libro" que contiene "todas las palabras de YHWH" ya puesto por escrito y leído en voz alta al pueblo — y primera vez que un pacto se sella derramando sangre sobre el altar y sobre el pueblo por partes iguales, no solo sobre uno de los dos lados del acuerdo. E1.
+
+**112 — vayechezu et ha'Elohim vayochlu vayishtu / vieron a Elohim, y comieron y bebieron (24:9-11).** Escena de tensión real dentro del propio corpus: setenta ancianos, Moshé y Aarón ven directamente a "el Elohim de Israel" con descripción física concreta (un pavimento de zafiro bajo sus pies) y sobreviven, comiendo y bebiendo con normalidad — en contraste con la premisa que en otros pasajes del Tanaj sostiene que ver el rostro de la divinidad implica la muerte. El propio texto no reconcilia las dos ideas en el mismo lugar. E1 el dato textual; E3 cómo se concilia esta escena con la premisa contraria sostenida en otros pasajes, tensión real dentro del corpus bíblico más amplio.
 
 ---
 ---
