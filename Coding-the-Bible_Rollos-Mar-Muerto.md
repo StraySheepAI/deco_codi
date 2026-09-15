@@ -1,4 +1,4 @@
-# Coding the Bible — Rollos del Mar Muerto (1QIsaa, Isaías 1 a 40)
+# Coding the Bible — Rollos del Mar Muerto (1QIsaa, Isaías 1 a 47)
 
 ### Lectura DIMA — decodificación integral desde el hebreo/arameo original
 
@@ -1140,6 +1140,326 @@ A diferencia de Génesis y Éxodo, acá el texto es fragmentario y el hallazgo c
 
 **31** pero los que esperan a YHWH tendrán nuevas fuerzas; levantarán alas como águilas; correrán, y no se cansarán; caminarán, y no se fatigarán.
 
+## 1QIsaa · Isaías 41
+
+**1** Escuchadme, costas, y esfuércense los pueblos; acérquense, y entonces hablen; juntamente vengamos al juicio.
+
+**2-3** ¿Quién despertó del oriente al justo, lo llamó para que lo siguiese, entregó delante de él naciones, y lo hizo enseñorear de reyes; los entregó a su espada como polvo, como hojarasca que su arco arrebata? Los siguió, pasó en paz, por camino que sus pies no habían conocido.
+
+**4** ¿Quién hizo y realizó esto? ¿Quién llama a las generaciones desde el principio? Yo YHWH, el primero, y yo mismo con los postreros.
+
+**5-6** Las costas vieron, y tuvieron temor; los confines de la tierra se espantaron; se congregaron, y vinieron. Cada cual ayudó a su vecino, y dijo a su hermano: esfuérzate.
+
+**7** Y el artífice animó al platero, y el que alisaba con martillo al que batía en el yunque, diciendo: buena está la soldadura; y lo afirmó con clavos, para que no se moviese.
+
+**8-9** Mas tú, Israel, siervo mío eres, Yaakov a quien yo escogí, simiente de Avraham mi amigo. Porque te tomé de los confines de la tierra, y de tierras lejanas te llamé, y te dije: mi siervo eres tú; te escogí, y no te deseché.
+
+**10** No temas, porque yo estoy contigo; no desmayes, porque yo soy tu Elohim que te esfuerzo; siempre te ayudaré, siempre te sustentaré con la diestra de mi justicia.
+
+**11-12** He aquí que todos los que se enardecen contra ti serán avergonzados y confundidos; serán como nada y perecerán los que contienden contigo. Buscarás a los que tienen contienda contigo, y no los hallarás; serán como nada, y como cosa que no es, aquellos que te hacen guerra.
+
+**13** Porque yo YHWH soy tu Elohim, quien te sostiene de tu mano derecha, y te dice: no temas, yo te ayudo.
+
+**14** No temas, gusano de Yaakov, oh vosotros los pocos de Israel; yo te ayudo, dice YHWH; tu redentor es el Santo de Israel.
+
+**15-16** He aquí que yo te he puesto por trillo, trillo nuevo, lleno de dientes; trillarás montes y los molerás, y collados reducirás a hojarasca. Los aventarás, y los llevará el viento, y los esparcirá el torbellino; tú, empero, te regocijarás en YHWH, en el Santo de Israel te gloriarás.
+
+**17** Los afligidos y menesterosos buscan las aguas, y no las hay; su lengua se secó de sed; yo YHWH los oiré, yo el Elohim de Israel no los desampararé.
+
+**18** En las alturas abriré ríos, y manantiales en medio de los valles; abriré en el desierto estanques de aguas, y manantiales de aguas en la tierra seca.
+
+**19** Daré en el desierto cedros, acacias, arrayanes y olivos; pondré en la soledad hayas, olmos y bojes juntamente,
+
+**20** para que vean y conozcan, y adviertan y entiendan todos, que la mano de YHWH hace esto, y que el Santo de Israel lo creó.
+
+**21** Alegad por vuestra causa, dice YHWH; traed vuestras pruebas fuertes, dice el Rey de Yaakov.
+
+**22** Traigan, y anúnciennos lo que ha de venir; dígannos lo que ha pasado desde el principio, y pondremos nuestro corazón en ello; sepamos también su postrimería, y hacednos entender lo que ha de venir.
+
+**23** Dad las señales de lo que ha de ser después, y sabremos que sois dioses; o a lo menos haced bien, o mal, para que tengamos qué contar, y juntamente nos maravillemos.
+
+**24** He aquí que vosotros sois nada, y vuestras obras vanidad; abominación es el que os escogió.
+
+**25** Del norte desperté a uno, y vendrá; del oriente del sol invocará mi nombre; y hollará príncipes como lodo, y como pisa el barro el alfarero.
+
+**26** ¿Quién lo anunció desde el principio, para que sepamos, o de antemano, y digamos: es justo? Cierto no hay quien anuncie, sí, no hay quien enseñe, ciertamente no hay quien oiga vuestras palabras.
+
+**27** Yo soy el primero que he dicho a Sión: he aquí helos aquí; y a Yerushalaim daré un mensajero de alegres nuevas.
+
+**28** Miré, y no había ninguno; y pregunté de estas cosas, y ningún consejero hubo; les pregunté, y no respondieron palabra.
+
+**29** He aquí que todos son vanidad, y la nada son sus obras; viento y confusión son sus imágenes fundidas.
+
+## 1QIsaa · Isaías 42
+
+**1** He aquí mi siervo, yo lo sostendré; mi escogido en quien mi alma tiene contentamiento; he puesto sobre él mi espíritu; él traerá justicia a las naciones.
+
+**2** No clamará, ni alzará su voz, ni la hará oír en las calles.
+
+**3** No quebrará la caña cascada, ni apagará el pábilo que humea; por medio de la verdad traerá justicia.
+
+**4** No se cansará ni desmayará, hasta que establezca en la tierra justicia; y las costas esperarán su ley.
+
+**5** Así dice El, el Elohim⁴⁸, el Creador de los cielos, y el que los extiende; el que extendió la tierra y sus productos; el que da respiración al pueblo que mora sobre ella, y espíritu a los que por ella andan.
+
+**6** Yo, YHWH⁴⁹, te he llamado en justicia, y te sostendré por la mano; te guardaré, y te pondré por pacto al pueblo, por luz de las naciones,
+
+**7** para que abras los ojos de los ciegos, para que saques de la cárcel a los presos, y de casas de prisión a los que moran en tinieblas.
+
+**8** Yo, YHWH, este es mi nombre; y a otro no daré mi gloria, ni mi alabanza a esculturas.
+
+**9** Las cosas primeras ya han venido, y yo anuncio las nuevas; antes que salgan a luz, yo os las haré notorias.
+
+**10** Cantad a YHWH un nuevo cántico, su alabanza desde el fin de la tierra; los que descendéis al mar, y lo que lo llena, las costas y los moradores de ellas.
+
+**11** Alcen la voz el desierto y sus ciudades, las aldeas donde habita Kedar; canten los moradores de Sela, y desde la cumbre de los montes den voces de júbilo.
+
+**12** Den gloria a YHWH, y anuncien sus loores en las costas.
+
+**13** YHWH saldrá como valiente, como hombre de guerra despertará celo; gritará, voceará, se esforzará sobre sus enemigos.
+
+**14** Desde el siglo he callado, he guardado silencio, me he detenido; daré voces como la que está de parto; asolaré y devoraré juntamente.
+
+**15** Tornaré en desierto montes y collados, haré secar toda su hierba; los ríos tornaré en islas, y secaré los estanques.
+
+**16** Y guiaré a los ciegos por camino que no sabían, les haré andar por sendas que no habían conocido; delante de ellos tornaré las tinieblas en luz, y los lugares torcidos en llanura. Estas cosas les haré, y no los desampararé.
+
+**17** Serán vueltos atrás, y en extremo confundidos los que confían en las esculturas, y dicen a las estatuas de fundición: vosotros sois nuestros dioses.
+
+**18** Sordos, oíd; y vosotros, ciegos, mirad para ver.
+
+**19** ¿Quién es ciego, sino mi siervo? ¿Quién es sordo, como mi mensajero que envié? ¿Quién es ciego como mi escogido, y ciego como el siervo de YHWH?
+
+**20** Que ve muchas cosas y no advierte; que abre los oídos y no oye.
+
+**21** YHWH se complació por amor de su justicia en engrandecer y glorificar la ley.
+
+**22** Mas este es pueblo saqueado y hollado, todos ellos enlazados en cavernas y escondidos en cárceles; son puestos para despojo, y no hay quien los libre; para presa, y no hay quien diga: restituid.
+
+**23** ¿Quién de vosotros oirá esto? ¿Quién atenderá y escuchará en orden al porvenir?
+
+**24** ¿Quién dio a Yaakov en despojo, y entregó a Israel a saqueadores? ¿No fue YHWH mismo, contra quien pecamos? Y no quisieron andar en sus caminos, ni oyeron su ley.
+
+**25** Por tanto, derramó sobre él el ardor de su ira, y fuerza de guerra; le puso fuego por todas partes, pero no entendió; y le encendió, mas no ha parado mientes.
+
+## 1QIsaa · Isaías 43
+
+**1** Ahora, pues, así dice YHWH, Creador tuyo, oh Yaakov, y Formador tuyo, oh Israel: no temas, porque yo te redimí; te puse nombre, mío eres tú.
+
+**2** Cuando pases por las aguas, yo estaré contigo; y si por los ríos, no te anegarán. Cuando pases por el fuego, no te quemarás, ni la llama arderá en ti.
+
+**3** Porque yo YHWH, Elohim tuyo, el Santo de Israel, soy tu redentor⁵¹; a Egipto he dado por tu rescate, a Cus y a Sebá por ti.
+
+**4** Porque a mis ojos fuiste de grande estima, fuiste honorable, y yo te amé; daré, pues, hombres por ti, y naciones por tu vida.
+
+**5** No temas, porque yo estoy contigo; del oriente traeré tu generación, y del occidente te recogeré.
+
+**6** Diré al norte: da acá; y al sur: no detengas; trae de lejos mis hijos, y mis hijas de los confines de la tierra,
+
+**7** todos los llamados de mi nombre; para gloria mía los he creado, los formé y los hice.
+
+**8** Sacad al pueblo ciego que tiene ojos, y a los sordos que tienen oídos.
+
+**9** Congréguense a una todas las naciones, y júntense todos los pueblos: ¿quién de ellos hay que nos dé nuevas de esto, y que nos haga oír las cosas primeras? Presenten sus testigos, y justifíquense; oigan, y digan: verdad es.
+
+**10** Vosotros sois mis testigos, dice YHWH, y mi siervo que yo escogí; para que me conozcáis y creáis, y entendáis que yo mismo soy; antes de mí no fue formado dios, ni lo será después de mí.
+
+**11** Yo, yo YHWH, y fuera de mí no hay quien salve.
+
+**12** Yo anuncié, y salvé, y os lo hice oír, y no hubo entre vosotros dios ajeno. Vosotros, pues, sois mis testigos, dice YHWH, que yo soy Elohim.
+
+**13** Aun antes que hubiera día, yo era; y no hay quien de mi mano libre; si yo hago, ¿quién lo estorbará?
+
+**14** Así dice YHWH, Redentor vuestro, el Santo de Israel: por vosotros envié a Babilonia, y a todos los hice huir, y a los caldeos, cuyo clamor se convierte en naves.
+
+**15** Yo YHWH, Santo vuestro, Creador de Israel, vuestro Rey.
+
+**16** Así dice YHWH, el que da camino en el mar, y senda en las aguas impetuosas;
+
+**17** el que saca carro y caballo, ejército y fuerza; caen juntamente para no levantarse; quedaron extinguidos, como pábilo quedaron apagados.
+
+**18** No os acordéis de las cosas pasadas, ni consideréis las antiguas.
+
+**19** He aquí que yo hago cosa nueva; pronto saldrá a luz; ¿no la conoceréis? Otra vez abriré camino en el desierto, y ríos en la soledad.
+
+**20** Las fieras del campo me honrarán, los chacales y los pollos del avestruz; porque daré aguas en el desierto, ríos en la soledad, para que beba mi pueblo, mi escogido.
+
+**21** Este pueblo he creado para mí, mis alabanzas publicará.
+
+**22** Y no me invocaste a mí, oh Yaakov, antes te cansaste de mí, oh Israel.
+
+**23** No me trajiste a mí los animales de tus holocaustos, ni a mí me honraste con tus sacrificios; no te hice servir con ofrenda, ni te hice fatigar con incienso.
+
+**24** No compraste para mí caña aromática por dinero, ni me saciaste con la grosura de tus sacrificios; antes me hiciste servir con tus pecados, me fatigaste con tus maldades.
+
+**25** Yo, yo soy el que borro tus rebeliones por amor de mí mismo, y no me acordaré de tus pecados.
+
+**26** Hazme recordar, entremos en juicio juntamente; habla tú para justificarte.
+
+**27** Tu primer padre pecó, y tus enseñadores prevaricaron contra mí.
+
+**28** Por tanto, profané los príncipes del santuario, y puse por anatema a Yaakov, y por oprobio a Israel.
+
+## 1QIsaa · Isaías 44
+
+**1-2** Ahora, pues, oye, Yaakov, siervo mío, y tú, Israel, a quien yo escogí. Así dice YHWH, Hacedor tuyo, y el que te formó desde el vientre, el cual te ayudará: no temas, siervo mío Yaakov, y tú, Yeshurún, a quien yo escogí.
+
+**3-4** Porque yo derramaré aguas sobre el sequedal, y ríos sobre la tierra árida; mi espíritu derramaré sobre tu generación, y mi bendición sobre tus renuevos. Y brotarán entre hierba, como sauces junto a las riberas de las aguas.
+
+**5** Este dirá: yo soy de YHWH; el otro se llamará del nombre de Yaakov; y otro escribirá de su mano: a YHWH; y se apellidará con el nombre de Israel.
+
+**6** Así dice YHWH, Rey de Israel, y su Redentor, YHWH de los ejércitos es su nombre: yo soy el primero, y yo soy el postrero, y fuera de mí no hay Elohim.
+
+**7** ¿Y quién llamará como yo, y anunciará esto, y lo pondrá en orden desde que establecí el pueblo antiguo? Anúncienles lo que viene, y lo que está por venir.
+
+**8** No temáis, ni os amedrentéis; ¿no te lo hice oír desde entonces, y te lo dije? Luego vosotros sois mis testigos. ¿Hay Elohim fuera de mí? No hay Fuerte; no conozco ninguno.
+
+**9** Los formadores de imágenes de talla, todos ellos son vanidad, y lo más precioso de ellos para nada es útil; y ellos mismos son testigos para su confusión, que no ven ni entienden.
+
+**10** ¿Quién forma un dios, o funde una imagen que para nada es de provecho?
+
+**11** He aquí que todos los suyos serán avergonzados, porque los artífices mismos son hombres; todos ellos se juntarán, se pondrán de pie, tendrán miedo, y serán avergonzados a una.
+
+**12** El herrero trabaja con el carbón, y forma con los martillos, y lo hace con la fuerza de su brazo; se fatiga con el hambre, y le falta el agua, y se desmaya.
+
+**13** El carpintero tiende la regla, lo señala con almagre, lo labra con los cepillos, lo señala con el compás, y lo hace a semejanza de un hombre, a la belleza de un hombre, para tenerlo en casa.
+
+**14** Corta cedros, y toma ciprés y encina, que crecieron entre los árboles del bosque; planta pino, que se cría con la lluvia.
+
+**15** Y servirá al hombre de leña, y de él tomará para calentarse; encenderá también el horno, y cocerá panes; hará además un dios, y lo adorará; fabricará un ídolo, y se arrodillará delante de él.
+
+**16** Parte del leño quema en el fuego; con parte come carne, hace asado, y se sacia; después se calienta, y dice: mirando el fuego, me he calentado.
+
+**17** Del sobrante hace un dios, un ídolo suyo; se arrodilla delante de él, lo adora, y le ruega diciendo: líbrame, porque mi dios eres tú.
+
+**18** No supieron ni entendieron; porque cerrados están sus ojos para no ver, y su corazón para no entender.
+
+**19** No cae en cuenta, no hay en él discernimiento ni entendimiento para decir: parte de él quemé en el fuego, y sobre sus brasas cocí pan, asé carne y la comí; ¿e haré del resto de él una abominación? ¿Ante un tronco de madera me postraré?
+
+**20** Se apacienta de ceniza; su corazón engañado lo desvía, para que no libre su alma, ni diga: ¿no hay una mentira en mi mano derecha?
+
+**21** Acuérdate de estas cosas, oh Yaakov, e Israel, porque mi siervo eres; yo te formé, siervo mío eres tú; Israel, no me olvidarás.
+
+**22** Yo deshice como una nube tus rebeliones, y como niebla tus pecados; vuélvete a mí, porque yo te redimí.
+
+**23** Cantad loores, oh cielos, porque YHWH lo hizo; gritad con júbilo, profundidades de la tierra; prorrumpid, montes, en alabanza, el bosque y todo árbol que en él está; porque YHWH redimió a Yaakov, y en Israel será glorificado.
+
+**24** Así dice YHWH, Redentor tuyo, que te formó desde el vientre: yo, YHWH, que lo hago todo, que extiendo los cielos yo solo, que extiendo la tierra por mí mismo;
+
+**25** que deshago las señales de los adivinos, y enloquezco a los agoreros; que hago volver atrás a los sabios, y desvanezco su sabiduría;
+
+**26** que confirmo la palabra de mi siervo, y cumplo el consejo de mis mensajeros; que digo a Yerushalaim: serás habitada; y a las ciudades de Yehudá: reedificadas serán, y sus ruinas yo levantaré;
+
+**27** que digo a lo profundo: sécate, y tus ríos haré secar;
+
+**28** que digo de Ciro: es mi pastor, y cumplirá todo lo que yo quiero, diciendo a Yerushalaim: serás edificada; y al templo: serás fundado.
+
+## 1QIsaa · Isaías 45
+
+**1** Así dice YHWH a su ungido, a Ciro, al cual tomé yo por su mano derecha, para sujetar naciones delante de él, y desatar lomos de reyes; para abrir delante de él puertas, y las puertas no se cerrarán:
+
+**2** yo iré delante de ti, y enderezaré los montes; quebrantaré puertas de bronce, y cerrojos de hierro haré pedazos;
+
+**3** y te daré los tesoros escondidos, y los secretos muy guardados, para que sepas que yo soy YHWH, el Elohim de Israel, que te pongo nombre.
+
+**4** Por amor de mi siervo Yaakov, y de Israel mi escogido, te llamé por tu nombre; te puse sobrenombre, aunque no me conociste.
+
+**5** Yo soy YHWH, y ninguno más hay; no hay Elohim fuera de mí; te ceñí, aunque no me conociste,
+
+**6** para que se sepa desde el nacimiento del sol, y hasta donde se pone, que no hay más que yo; yo YHWH, y ninguno más que yo,
+
+**7** que formo la luz y creo las tinieblas, que hago la paz y creo el mal. Yo YHWH soy el que hago todo esto.
+
+**8** Rociad, cielos, de arriba, y las nubes destilen la justicia; ábrase la tierra, y florezca la salvación, y la justicia se produzca juntamente⁵⁰.
+
+**9** ¡Ay del que pleitea con su Hacedor! ¡El tiesto con los tiestos de la tierra! ¿Dirá el barro al que lo forma: qué haces? Tu obra, dirá de ti, no tiene manos.
+
+**10** ¡Ay del que dice al padre: por qué engendraste? Y a la mujer: por qué diste a luz?
+
+**11** Así dice YHWH, el Santo de Israel, y su Formador: preguntadme de las cosas por venir; mandadme acerca de mis hijos, y acerca de la obra de mis manos.
+
+**12** Yo hice la tierra, y creé sobre ella al hombre. Yo, mis manos, extendieron los cielos, y a todo su ejército mandé.
+
+**13** Yo lo desperté en justicia, y enderezaré todos sus caminos; él edificará mi ciudad, y soltará mis cautivos, no por precio ni por dádiva, dice YHWH de los ejércitos.
+
+**14** Así dice YHWH: el trabajo de Egipto, y las mercaderías de Cus, y los sabeos hombres de gran estatura, pasarán a ti y serán tuyos; irán en pos de ti, pasarán con grillos; y ante ti se inclinarán, y a ti suplicarán diciendo: ciertamente en ti está Elohim, y no hay otro fuera de Elohim.
+
+**15** Verdaderamente tú eres Elohim que te encubres, Elohim de Israel, que salvas.
+
+**16** Confusos y avergonzados serán todos ellos; irán con vergüenza todos los fabricantes de imágenes.
+
+**17** Israel será salvo en YHWH con salvación eterna; no os avergonzaréis ni os afrentaréis, por todos los siglos.
+
+**18** Porque así dice YHWH, que creó los cielos; él es Elohim, el Formador de la tierra, el que la hizo y la compuso; no la creó en vano, para que fuese habitada la creó: yo soy YHWH, y no hay otro.
+
+**19** No hablé en secreto, en un lugar oscuro de la tierra; no dije a la simiente de Yaakov: en vano me buscáis; yo soy YHWH que hablo justicia, que anuncio rectitud.
+
+**20** Reuníos, y venid; juntaos todos los sobrevivientes de las naciones; no tienen conocimiento los que erigen el madero de su ídolo, y los que ruegan a un dios que no salva.
+
+**21** Proclamad, y hacedlos acercarse, y entren en consulta juntos; ¿quién hizo oír esto desde el principio, y lo tiene dicho desde entonces, sino yo YHWH? Y no hay más Elohim que yo; Elohim justo y Salvador; ningún otro fuera de mí.
+
+**22** Mirad a mí, y sed salvos, todos los términos de la tierra; porque yo soy Elohim, y no hay más.
+
+**23** Por mí mismo hice juramento, de mi boca salió palabra en justicia, y no será revocada: que a mí se doblará toda rodilla, y jurará toda lengua.
+
+**24** Y se dirá de mí: ciertamente en YHWH está la justicia y la fuerza; a él vendrán, y todos los que contra él se enardecen serán avergonzados.
+
+**25** En YHWH será justificada y se gloriará toda la simiente de Israel.
+
+## 1QIsaa · Isaías 46
+
+**1-2** Se postró Bel, se abatió Nebo; sus imágenes fueron puestas sobre bestias, sobre animales de carga; las que vosotros solíais llevar son cargadas, como carga pesada para la bestia cansada. Se abatieron, se postraron juntamente; no pudieron escaparse de la carga, sino que ellos mismos hubieron de ir en cautiverio.
+
+**3-4** Oídme, casa de Yaakov, y todo el resto de la casa de Israel, los que sois traídos por mí desde el vientre, los que sois llevados desde la matriz. Y hasta la vejez yo mismo, y hasta las canas os soportaré yo; yo hice, yo llevaré, yo soportaré y guardaré.
+
+**5** ¿A quién me haréis semejante, o me compararéis, o me haréis parecido, para que seamos semejantes?
+
+**6-7** Sacan oro de la bolsa, y pesan plata con balanzas, alquilan un platero para hacer un dios de ello; se postran y arrodillan ante él. Se lo echan sobre los hombros, lo llevan, y lo colocan en su lugar; allí se está, y no se mueve de su sitio; y aunque den voces a él, no responde, ni los libra de su tribulación.
+
+**8** Acordaos de esto, y tened vergüenza; volved en vosotros, prevaricadores.
+
+**9** Acordaos de las cosas pasadas desde tiempos antiguos; porque yo soy Elohim, y no hay otro Elohim, y nada hay semejante a mí,
+
+**10** que anuncio lo por venir desde el principio, y desde antiguo lo que aún no era hecho; que digo: mi consejo permanecerá, y haré todo lo que quisiere;
+
+**11** que llamo desde el oriente al ave, y de tierra lejana al varón de mi consejo. Yo hablé, y lo cumpliré; lo he pensado, y también lo haré.
+
+**12** Oídme, duros de corazón, que estáis lejos de la justicia:
+
+**13** haré llegar mi justicia; no se alejará, y mi salvación no se detendrá; y pondré salvación en Sión, y mi gloria en Israel.
+
+## 1QIsaa · Isaías 47
+
+**1** Desciende y siéntate en el polvo, virgen hija de Babilonia; siéntate en la tierra sin trono, hija de los caldeos; que nunca más te llamarán tierna y delicada.
+
+**2** Toma el molino, y muele harina; descubre tus guedejas, descubre los pies, descubre las piernas, pasa los ríos.
+
+**3** Descubierta será tu desnudez, y también se verá tu vergüenza; tomaré venganza, y no exceptuaré hombre.
+
+**4** Nuestro Redentor, YHWH de los ejércitos es su nombre, el Santo de Israel.
+
+**5** Siéntate, calla, y entra en tinieblas, hija de los caldeos; porque nunca más te llamarán señora de reinos.
+
+**6** Me enojé contra mi pueblo, profané mi heredad, y los entregué en tu mano; no les tuviste ninguna misericordia; sobre el anciano agravaste mucho tu yugo.
+
+**7** Y dijiste: para siempre seré señora; y no has pensado en esto, ni te acordaste de tu postrimería.
+
+**8** Oye, pues, ahora esto, mujer regalada, la que está sentada confiadamente, la que dice en su corazón: yo soy, y fuera de mí no hay más; no quedaré viuda, ni conoceré orfandad.
+
+**9** Estas dos cosas te vendrán de repente en un mismo día, orfandad y viudez; en toda su fuerza vendrán sobre ti, a pesar de la multitud de tus hechizos, y de la gran copia de tus encantamientos.
+
+**10** Porque confiaste en tu maldad, diciendo: nadie me ve. Tu sabiduría y tu misma ciencia te engañaron, y dijiste en tu corazón: yo, y nadie más.
+
+**11** Vendrá, pues, sobre ti mal, cuyo nacimiento no sabrás; caerá sobre ti quebrantamiento, el cual no podrás expiar; y destrucción que no sepas vendrá de repente sobre ti.
+
+**12** Estate ahora en tus encantamientos, y en la multitud de tus hechizos, en los cuales te trabajaste desde tu juventud hasta hoy,
+
+**13** por si quizás te podrás aprovechar, por si acaso podrás fortalecerte. Te has cansado en la multitud de tus consejos; comparezcan ahora, y te libren de las cosas que vendrán sobre ti, los contempladores de los cielos, los que observan las estrellas, los que en las lunas nuevas hacen pronósticos.
+
+**14** He aquí que serán como tamo; fuego los quemará, no salvarán sus vidas del poder de la llama; no quedará brasa para calentarse, ni lumbre a la cual se sienten.
+
+**15** Así te serán aquellos con quienes te fatigaste, los que traficaron contigo desde tu juventud; cada uno irá por su camino, no habrá quien te salve.
+
 ---
 ---
 
@@ -1240,6 +1560,14 @@ A diferencia de Génesis y Éxodo, acá el texto es fragmentario y el hallazgo c
 **46 — sin יען התרגזך אלי, "porque te airaste contra mí" (37:29).** El TM tiene esta cláusula completa al comienzo del verso 29, repitiendo casi la misma frase con que termina el verso 28 ("y tu furor/tu enfurecerte contra mí"). El rollo no la tiene: pasa directo de "tu furor contra mí" (fin del v. 28) a "tu arrogancia ha subido a mis oídos" (continuación del v. 29 en el TM). Es el quinto caso, dentro de los capítulos ya decodificados de este rollo, del mismo mecanismo de salto de copista por repetición de una frase muy cercana — cf. notas 13, 17, 32 y 36. E1 el dato de la omisión; D1 la lectura del salto de copista, coherente con el patrón ya bien establecido en este rollo.
 
 **47 — repetición del verso 19 al comienzo del verso 20 (38:19-20).** Caso inverso a los anteriores: en vez de saltarse una frase repetida, el copista del rollo vuelve a copiar, casi palabra por palabra, el contenido completo del verso 19 ("el que vive, el que vive, te dará alabanza... hará notoria tu verdad") al comienzo del verso 20, antes de continuar con lo que en el TM es efectivamente el texto de ese verso ("YHWH me salvará..."). Se marca aquí entre corchetes, no por tratarse de una reconstrucción de texto perdido, sino para señalar visualmente la duplicación real del propio copista antiguo — el mismo tipo de error de copia que en otros puntos de este rollo produce omisiones (notas 13, 17, 32, 36, 46), aquí produce el efecto contrario. E1.
+
+**48 — האלוהים, en vez de יהוה (42:5).** El TM tiene "כה אמר האל יהוה" ("así dice El, YHWH..." usando el nombre divino); el rollo tiene "כוה אמר האל האלוהים" ("así dice El, el Elohim..." usando el título genérico en vez del nombre propio). Es una nueva variante dentro del mismo patrón ya documentado en las notas 22, 35 y 40 — la alternancia entre el nombre divino propio y un título genérico o epíteto, aquí con una combinación distinta (אלהים en vez de יהוה). E1.
+
+**49 — ייייי, cinco yodim, corrección supralineal (42:6).** El TM tiene aquí יְהוָה, el tetragrámaton escrito de la forma habitual. El rollo tiene, en este punto exacto, una corrección antigua supralineal (letras agregadas arriba del renglón por un corrector antiguo, no por el copista original): cinco yodim seguidos (ייייי), una de las formas documentadas en textos de Qumrán para escribir el nombre divino de manera especial, distinta de la escritura ordinaria. No es una variante de contenido — el sentido es el mismo que el del TM ("yo, YHWH, te he llamado...") — sino un dato paleográfico distinto de todo lo visto hasta ahora en este rollo: un caso de escritura reverencial especial del nombre divino, añadida como corrección posterior. E1.
+
+**50 — sin יחד אני יהוה בראתיו, "junto; yo, YHWH, lo he creado" (45:8).** El TM cierra este verso —conocido en la liturgia cristiana de Adviento por su versión latina, "Rorate caeli"— con una declaración explícita en primera persona: "junto; yo, YHWH, lo he creado." El rollo no tiene esta cláusula final; termina el verso en "y la justicia brote", sin la afirmación divina en primera persona que sigue en el TM. E1 el dato de la omisión; E3 si se trata de una pérdida real de texto o de una forma más breve conservada por el rollo, ambigüedad no resuelta por este dato solo.
+
+**51 — גואל׳ך, "tu redentor," en vez de מושיעך, "tu salvador" (43:3).** El TM tiene מוֹשִׁיעֶךָ ("tu salvador", de la raíz ישע); el rollo tiene גואל׳ך ("tu redentor", de la raíz גאל) — sustitución real de raíz. La palabra גאל ("redentor/rescatador de parentesco") es el término dominante para describir a YHWH en el resto de esta sección del libro (43:1, 44:6, 44:24, entre otros); esta variante podría reflejar una armonización del vocabulario hacia el término más frecuente en el contexto inmediato. E1 el dato de la sustitución; D1 la lectura de que se trata de una armonización terminológica con el uso dominante en estos capítulos.
 
 ---
 ---

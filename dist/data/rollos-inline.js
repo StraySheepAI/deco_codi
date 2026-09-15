@@ -2684,829 +2684,779 @@ window.ROLLOS_DATA={
       {
         "number": "1",
         "hebrew": "החרישו אל׳י איים ולאומים יחליפו כוח יגושו אז ידברו יחדיו למשפט נקרבה׃",
-        "text": null
+        "text": "Escuchadme, costas, y esfuércense los pueblos; acérquense, y entonces hablen; juntamente vengamos al juicio."
       },
       {
-        "number": "2",
-        "hebrew": "מי העיר ממזרח צדק ויקרא׳הו לרגל׳יו ויתן לפני׳ו גואים ומלכים יוריד ויתן כעפר חרב׳ו כקש נודף קשת׳ו׃",
-        "text": null
-      },
-      {
-        "number": "3",
-        "hebrew": "וירדפ׳ם ויעבור שלום אורח ברגלי׳ו לוא יבינו׃",
-        "text": null
+        "number": "2-3",
+        "hebrew": "מי העיר ממזרח צדק ויקרא׳הו לרגל׳יו ויתן לפני׳ו גואים ומלכים יוריד ויתן כעפר חרב׳ו כקש נודף קשת׳ו׃ וירדפ׳ם ויעבור שלום אורח ברגלי׳ו לוא יבינו׃",
+        "text": "¿Quién despertó del oriente al justo, lo llamó para que lo siguiese, entregó delante de él naciones, y lo hizo enseñorear de reyes; los entregó a su espada como polvo, como hojarasca que su arco arrebata? Los siguió, pasó en paz, por camino que sus pies no habían conocido."
       },
       {
         "number": "4",
         "hebrew": "מיא פעל ועשה קורה הדורות מרואש אני יהוה רישון ואת אחרונים אני הואה׃",
-        "text": null
+        "text": "¿Quién hizo y realizó esto? ¿Quién llama a las generaciones desde el principio? Yo YHWH, el primero, y yo mismo con los postreros."
       },
       {
-        "number": "5",
-        "hebrew": "ראו איים ויראו קצאוות הארץ יחדו קרבו ואתיו׳ן׃",
-        "text": null
-      },
-      {
-        "number": "6",
-        "hebrew": "איש את רעי׳הו יעזורו לאחי׳הו יואמר חזק׃",
-        "text": null
+        "number": "5-6",
+        "hebrew": "ראו איים ויראו קצאוות הארץ יחדו קרבו ואתיו׳ן׃ איש את רעי׳הו יעזורו לאחי׳הו יואמר חזק׃",
+        "text": "Las costas vieron, y tuvieron temor; los confines de la tierra se espantaron; se congregaron, y vinieron. Cada cual ayudó a su vecino, y dijo a su hermano: esfuérzate."
       },
       {
         "number": "7",
         "hebrew": "ויחזק חרש את צורף מחליק פלטיש את אולם פעמ יואמר לדבק טוב הואה ויחזק׳הו במסמרים לוא ימוט׃",
-        "text": null
+        "text": "Y el artífice animó al platero, y el que alisaba con martillo al que batía en el yunque, diciendo: buena está la soldadura; y lo afirmó con clavos, para que no se moviese."
       },
       {
-        "number": "8",
-        "hebrew": "ואתה ישראל עבד׳י יעקוב אשר בחרתי׳כה זרע אברהם אוהב׳י׃",
-        "text": null
-      },
-      {
-        "number": "9",
-        "hebrew": "אשר החזקתי׳כה מקצוות הארץ ומאצילי׳הא קראתי׳כה ואומרה ל׳כה עבד׳י אתה בחרתי׳כה ולוא מאסתי׳כה׃",
-        "text": null
+        "number": "8-9",
+        "hebrew": "ואתה ישראל עבד׳י יעקוב אשר בחרתי׳כה זרע אברהם אוהב׳י׃ אשר החזקתי׳כה מקצוות הארץ ומאצילי׳הא קראתי׳כה ואומרה ל׳כה עבד׳י אתה בחרתי׳כה ולוא מאסתי׳כה׃",
+        "text": "Mas tú, Israel, siervo mío eres, Yaakov a quien yo escogí, simiente de Avraham mi amigo. Porque te tomé de los confines de la tierra, y de tierras lejanas te llamé, y te dije: mi siervo eres tú; te escogí, y no te deseché."
       },
       {
         "number": "10",
         "hebrew": "אל תירא כיא עמ׳כה אני אל תשתע כיא אני אלוהי׳כה אמצתי׳כה אפ עזרתי׳כה אפ תמכתי׳כה בימין צדק׳י׃",
-        "text": null
+        "text": "No temas, porque yo estoy contigo; no desmayes, porque yo soy tu Elohim que te esfuerzo; siempre te ayudaré, siempre te sustentaré con la diestra de mi justicia."
       },
       {
-        "number": "11",
-        "hebrew": "הן יבושו ויכלמו כול הנחרים ב׳כה יובדו כול אנשי ריב׳כה׃",
-        "text": null
-      },
-      {
-        "number": "12",
-        "hebrew": "ואנשי מצת׳כה יהיו כאין וכאפס אנשי מלחמת׳כה׃",
-        "text": null
+        "number": "11-12",
+        "hebrew": "הן יבושו ויכלמו כול הנחרים ב׳כה יובדו כול אנשי ריב׳כה׃ ואנשי מצת׳כה יהיו כאין וכאפס אנשי מלחמת׳כה׃",
+        "text": "He aquí que todos los que se enardecen contra ti serán avergonzados y confundidos; serán como nada y perecerán los que contienden contigo. Buscarás a los que tienen contienda contigo, y no los hallarás; serán como nada, y como cosa que no es, aquellos que te hacen guerra."
       },
       {
         "number": "13",
         "hebrew": "כיא אני יהוה אלוהי׳כה מחזיק ימינ׳כה האומר ל׳כה אל תירא אני עזרתי׳כה׃",
-        "text": null
+        "text": "Porque yo YHWH soy tu Elohim, quien te sostiene de tu mano derecha, y te dice: no temas, yo te ayudo."
       },
       {
         "number": "14",
         "hebrew": "אל תיראי תולעת יעקוב ומיתי ישראל אני עזרתי׳כה נאום יהוה וגואל׳כה קדוש ישראל׃",
-        "text": null
+        "text": "No temas, gusano de Yaakov, oh vosotros los pocos de Israel; yo te ayudo, dice YHWH; tu redentor es el Santo de Israel."
       },
       {
-        "number": "15",
-        "hebrew": "הנה שמתי׳כה למורג חרוץ חדש בעל פי פיות תדוש הרים ותדק וגבעות כמוצ תשים׃",
-        "text": null
-      },
-      {
-        "number": "16",
-        "hebrew": "תזר׳ם ורוח תשא׳ם וסערה תפיץ אות׳םה ואתה תגיל ביהוה ובקדוש ישראל תתהלל׃",
-        "text": null
+        "number": "15-16",
+        "hebrew": "הנה שמתי׳כה למורג חרוץ חדש בעל פי פיות תדוש הרים ותדק וגבעות כמוצ תשים׃ תזר׳ם ורוח תשא׳ם וסערה תפיץ אות׳םה ואתה תגיל ביהוה ובקדוש ישראל תתהלל׃",
+        "text": "He aquí que yo te he puesto por trillo, trillo nuevo, lleno de dientes; trillarás montes y los molerás, y collados reducirás a hojarasca. Los aventarás, y los llevará el viento, y los esparcirá el torbellino; tú, empero, te regocijarás en YHWH, en el Santo de Israel te gloriarás."
       },
       {
         "number": "17",
         "hebrew": "העניים האביונים המבקשים מים ואין לשונ׳מה בצמה נשתה אני יהוה אענ׳ם אלוהי ישראל לוא אעזוב׳ם׃",
-        "text": null
+        "text": "Los afligidos y menesterosos buscan las aguas, y no las hay; su lengua se secó de sed; yo YHWH los oiré, yo el Elohim de Israel no los desampararé."
       },
       {
         "number": "18",
         "hebrew": "אפתחה על שפאים נהרות ובתוך בקעות מעינים אשיםה המדבר לאגמ מים וארץ ציאה למוצאי מים׃",
-        "text": null
+        "text": "En las alturas abriré ríos, y manantiales en medio de los valles; abriré en el desierto estanques de aguas, y manantiales de aguas en la tierra seca."
       },
       {
         "number": "19",
         "hebrew": "אתנה במדבר ארז שטה והדס ועצ שמן אשימה בערבה בראוש תרהר ותאשור יחדו׃",
-        "text": null
+        "text": "Daré en el desierto cedros, acacias, arrayanes y olivos; pondré en la soledad hayas, olmos y bojes juntamente,"
       },
       {
         "number": "20",
         "hebrew": "למען יראו וידעו ויבינו וישכילו יחדיו כיא יד יהוה עשתה זואת וקדוש ישראל ברא׳ה׃",
-        "text": null
+        "text": "para que vean y conozcan, y adviertan y entiendan todos, que la mano de YHWH hace esto, y que el Santo de Israel lo creó."
       },
       {
         "number": "21",
         "hebrew": "קרבו ריב׳כמה יואמר יהוה הגישו עצמותי׳כמה יואמר מלך יעקוב׃",
-        "text": null
+        "text": "Alegad por vuestra causa, dice YHWH; traed vuestras pruebas fuertes, dice el Rey de Yaakov."
       },
       {
         "number": "22",
         "hebrew": "יגישו ויגידו ל׳נו את אשר תקראו׳ן הראישונות מה הנה הגידו ונשימה לב׳נו ונדעה או אחרונות או הבאות השמיעו׳נו׃",
-        "text": null
+        "text": "Traigan, y anúnciennos lo que ha de venir; dígannos lo que ha pasado desde el principio, y pondremos nuestro corazón en ello; sepamos también su postrimería, y hacednos entender lo que ha de venir."
       },
       {
         "number": "23",
         "hebrew": "הגידו האותיותלאחור ונדעה כיא אלוהים אתמה אף תיטיבו ותרעו ונשמעה ונראה יחדיו׃",
-        "text": null
+        "text": "Dad las señales de lo que ha de ser después, y sabremos que sois dioses; o a lo menos haced bien, o mal, para que tengamos qué contar, y juntamente nos maravillemos."
       },
       {
         "number": "24",
         "hebrew": "הנה אתמה מאין ופועל׳כמה תועבה יבחר ב׳כמה׃",
-        "text": null
+        "text": "He aquí que vosotros sois nada, y vuestras obras vanidad; abominación es el que os escogió."
       },
       {
         "number": "25",
         "hebrew": "העירות מצפון ויאתיו ממזרח שמש ויקרא בשמ׳ו ויבואו סגנים כמו חמר וכמו יוצר וירמוס טיט׃",
-        "text": null
+        "text": "Del norte desperté a uno, y vendrá; del oriente del sol invocará mi nombre; y hollará príncipes como lodo, y como pisa el barro el alfarero."
       },
       {
         "number": "26",
         "hebrew": "מיא הגיד מרוש ונדעה מלפנים ונאומרה צדק אפ אין מגיד אפ אין משמיע אפ אין שומע אמרי׳כמה׃",
-        "text": null
+        "text": "¿Quién lo anunció desde el principio, para que sepamos, o de antemano, y digamos: es justo? Cierto no hay quien anuncie, sí, no hay quien enseñe, ciertamente no hay quien oiga vuestras palabras."
       },
       {
         "number": "27",
         "hebrew": "רישון לציון הנה הנ׳ומה ולירושלים מבשר אתן׃",
-        "text": null
+        "text": "Yo soy el primero que he dicho a Sión: he aquí helos aquí; y a Yerushalaim daré un mensajero de alegres nuevas."
       },
       {
         "number": "28",
         "hebrew": "ואראה ואין איש ומאלה ואין יועץ אשאל׳ם וישיבו דבר׃",
-        "text": null
+        "text": "Miré, y no había ninguno; y pregunté de estas cosas, y ningún consejero hubo; les pregunté, y no respondieron palabra."
       },
       {
         "number": "29",
         "hebrew": "הנה כול׳ם אין ואפס מעשי׳המה רוח ותוהו נסיכי׳המה׃",
-        "text": null
+        "text": "He aquí que todos son vanidad, y la nada son sus obras; viento y confusión son sus imágenes fundidas."
       }
     ],
     "42": [
       {
         "number": "1",
         "hebrew": "הנה עבד׳י אתמוכה ב׳ו בחיר׳י רצתה נפש׳י נתתי רוח׳י עלי׳ו ומשפט׳ו לגואים יוציא׃",
-        "text": null
+        "text": "He aquí mi siervo, yo lo sostendré; mi escogido en quien mi alma tiene contentamiento; he puesto sobre él mi espíritu; él traerá justicia a las naciones."
       },
       {
         "number": "2",
         "hebrew": "לוא יזעק ולוא ישא ולוא ישמיע בחוץ קול׳ו׃",
-        "text": null
+        "text": "No clamará, ni alzará su voz, ni la hará oír en las calles."
       },
       {
         "number": "3",
         "hebrew": "קנה רצוץ לוא ישבור ופשתה כהה לוא יכבה לאמת יוציא משפט׃",
-        "text": null
+        "text": "No quebrará la caña cascada, ni apagará el pábilo que humea; por medio de la verdad traerá justicia."
       },
       {
         "number": "4",
         "hebrew": "ולוא יכהה ולוא ירוץ עד ישים בארץ משפט ולתורת׳יו איים ינחילו׃",
-        "text": null
+        "text": "No se cansará ni desmayará, hasta que establezca en la tierra justicia; y las costas esperarán su ley."
       },
       {
         "number": "5",
         "hebrew": "כוה אמר האל האלוהים בורה השמים ונוטי׳המה רוקע הארץ וצאצאי׳ה נותן נשמה לעם עלי׳הא ורוח להולכים ב׳ה׃",
-        "text": null
+        "text": "Así dice El, el Elohim⁴⁸, el Creador de los cielos, y el que los extiende; el que extendió la tierra y sus productos; el que da respiración al pueblo que mora sobre ella, y espíritu a los que por ella andan."
       },
       {
         "number": "6",
         "hebrew": "אני ייייי קרתי׳כה בצדק ואחזיקה ביד׳כה ואצור׳כה ואתנ׳כה לברית עם לאור גואים׃",
-        "text": null
+        "text": "Yo, YHWH⁴⁹, te he llamado en justicia, y te sostendré por la mano; te guardaré, y te pondré por pacto al pueblo, por luz de las naciones,"
       },
       {
         "number": "7",
         "hebrew": "לפקוח עינים עורות להוציא ממסגר אסור ומבית כלא יושבי חושך׃",
-        "text": null
+        "text": "para que abras los ojos de los ciegos, para que saques de la cárcel a los presos, y de casas de prisión a los que moran en tinieblas."
       },
       {
         "number": "8",
         "hebrew": "אני יהוה הואה ושמ׳י וכבוד׳י לאחר לוא אתן ותהלת׳י לפסילים׃",
-        "text": null
+        "text": "Yo, YHWH, este es mi nombre; y a otro no daré mi gloria, ni mi alabanza a esculturas."
       },
       {
         "number": "9",
         "hebrew": "הרישונות הנה באו והחדשות אני מגיד בטרם תצמחנה אשמיע את׳כמה׃",
-        "text": null
+        "text": "Las cosas primeras ya han venido, y yo anuncio las nuevas; antes que salgan a luz, yo os las haré notorias."
       },
       {
         "number": "10",
         "hebrew": "שירו ליהוה שיר חדש ותהלת׳ו מקצה הארץ יורדי הים ומלוא׳ו איים ויושבי׳הם׃",
-        "text": null
+        "text": "Cantad a YHWH un nuevo cántico, su alabanza desde el fin de la tierra; los que descendéis al mar, y lo que lo llena, las costas y los moradores de ellas."
       },
       {
         "number": "11",
         "hebrew": "ישא מדבר ערי׳ו וחצרים תשב קדר וירונו יושבי סלע מראוש הררים יצריחו׃",
-        "text": null
+        "text": "Alcen la voz el desierto y sus ciudades, las aldeas donde habita Kedar; canten los moradores de Sela, y desde la cumbre de los montes den voces de júbilo."
       },
       {
         "number": "12",
         "hebrew": "ישימו ליהוה כבוד ותהלת׳ו באיימ יגידו׃",
-        "text": null
+        "text": "Den gloria a YHWH, y anuncien sus loores en las costas."
       },
       {
         "number": "13",
         "hebrew": "יהוה כגבור יצא כאיש מלחמות יעיר קנאה יודיע אפ יצריח על אויבי׳ו יתגבר׃",
-        "text": null
+        "text": "YHWH saldrá como valiente, como hombre de guerra despertará celo; gritará, voceará, se esforzará sobre sus enemigos."
       },
       {
         "number": "14",
         "hebrew": "אחשיתי אך מעולם אחריש אתאפקה כיולדה אפעה אשמה ואשופה יחדיו׃",
-        "text": null
+        "text": "Desde el siglo he callado, he guardado silencio, me he detenido; daré voces como la que está de parto; asolaré y devoraré juntamente."
       },
       {
         "number": "15",
         "hebrew": "אחריבה הרים וגבעות וכול עשב׳ם אוביש ושמתי נהרות לאיים ואגמים אוביש׃",
-        "text": null
+        "text": "Tornaré en desierto montes y collados, haré secar toda su hierba; los ríos tornaré en islas, y secaré los estanques."
       },
       {
         "number": "16",
         "hebrew": "והוליכתי עורים בדרך ולוא ידעו בנתיבות לוא ידעו אדריכ׳ם אשימה מהשוכים לפני׳המה לאור ומעקשים למישור אלה הדברים עשיתי׳ם ולוא עזבתי׳ם׃",
-        "text": null
+        "text": "Y guiaré a los ciegos por camino que no sabían, les haré andar por sendas que no habían conocido; delante de ellos tornaré las tinieblas en luz, y los lugares torcidos en llanura. Estas cosas les haré, y no los desampararé."
       },
       {
         "number": "17",
         "hebrew": "נסגו אחור ובושו בושת הבוטחים בפסל האמרימ למסכה אתמה אלוהי׳נו׃",
-        "text": null
+        "text": "Serán vueltos atrás, y en extremo confundidos los que confían en las esculturas, y dicen a las estatuas de fundición: vosotros sois nuestros dioses."
       },
       {
         "number": "18",
         "hebrew": "החרשים שמעו והעורים הביטו לראות׃",
-        "text": null
+        "text": "Sordos, oíd; y vosotros, ciegos, mirad para ver."
       },
       {
         "number": "19",
         "hebrew": "מי עור כיא אמ עבד׳י וחרש כמלאכ׳י אשלח מי עואר כמשלם ו עואר כעבד יהוה׃",
-        "text": null
+        "text": "¿Quién es ciego, sino mi siervo? ¿Quién es sordo, como mi mensajero que envié? ¿Quién es ciego como mi escogido, y ciego como el siervo de YHWH?"
       },
       {
         "number": "20",
         "hebrew": "ראיתה רבות ולוא תשמור פתחו אוזנים ולוא ישמע׃",
-        "text": null
+        "text": "Que ve muchas cosas y no advierte; que abre los oídos y no oye."
       },
       {
         "number": "21",
         "hebrew": "יהוה חפץ למען צדק׳ו ויגדל תורה ויאדר׳הה׃",
-        "text": null
+        "text": "YHWH se complació por amor de su justicia en engrandecer y glorificar la ley."
       },
       {
         "number": "22",
         "hebrew": "והואה עמ בזוז ושסוי הפח בחורים כול׳ם ובבתי כלאים הוחבאו היו לבז ואין מציל למשוסה ואין אומר השב׃",
-        "text": null
+        "text": "Mas este es pueblo saqueado y hollado, todos ellos enlazados en cavernas y escondidos en cárceles; son puestos para despojo, y no hay quien los libre; para presa, y no hay quien diga: restituid."
       },
       {
         "number": "23",
         "hebrew": "מיא ב׳כמה ויאזין זואת ויקשב וישמע לאחור׃",
-        "text": null
+        "text": "¿Quién de vosotros oirá esto? ¿Quién atenderá y escuchará en orden al porvenir?"
       },
       {
         "number": "24",
         "hebrew": "מיא נתן למשוסה יעקוב וישראל לבוזזים הלוא יהוה זה חטאנו ל׳ו ולוא אבו בדרכי׳ו להלוך ולוא שמעו בתורת׳יו׃",
-        "text": null
+        "text": "¿Quién dio a Yaakov en despojo, y entregó a Israel a saqueadores? ¿No fue YHWH mismo, contra quien pecamos? Y no quisieron andar en sus caminos, ni oyeron su ley."
       },
       {
         "number": "25",
         "hebrew": "וישפוך עלי׳ו חמת אפ׳וא ועוזז מלחמה ותלהט׳הו מסביב ולוא ידע ותבער ב׳ו ולוא ישים על לב׃",
-        "text": null
+        "text": "Por tanto, derramó sobre él el ardor de su ira, y fuerza de guerra; le puso fuego por todas partes, pero no entendió; y le encendió, mas no ha parado mientes."
       }
     ],
     "43": [
       {
         "number": "1",
         "hebrew": "ועתה כוה אמר יהוה בוראי׳כה יעקוב ויוצרי׳כה ישראל אל תירא כיא גאלתי׳כה קראתי בשמ׳כה ל׳יא אתה׃",
-        "text": null
+        "text": "Ahora, pues, así dice YHWH, Creador tuyo, oh Yaakov, y Formador tuyo, oh Israel: no temas, porque yo te redimí; te puse nombre, mío eres tú."
       },
       {
         "number": "2",
         "hebrew": "כיא תעבור במים את׳כה אני ובנהרות לוא ישטפו׳ך כיא תלך במו אש לוא תכוה ולהבה לוא תבער ב׳כה׃",
-        "text": null
+        "text": "Cuando pases por las aguas, yo estaré contigo; y si por los ríos, no te anegarán. Cuando pases por el fuego, no te quemarás, ni la llama arderá en ti."
       },
       {
         "number": "3",
         "hebrew": "אני יהוה אלוהי׳כה קדוש ישראל גואל׳ך ונתתי מצרים כופר׳ך כוש וסבאים תחתי׳כה׃",
-        "text": null
+        "text": "Porque yo YHWH, Elohim tuyo, el Santo de Israel, soy tu redentor⁵¹; a Egipto he dado por tu rescate, a Cus y a Sebá por ti."
       },
       {
         "number": "4",
         "hebrew": "מאשר יקרתה בעינ׳י נכבדתה ואני אהבתי׳כה אתן האדם תחתי׳כה ולאומים תחת נפש׳כה׃",
-        "text": null
+        "text": "Porque a mis ojos fuiste de grande estima, fuiste honorable, y yo te amé; daré, pues, hombres por ti, y naciones por tu vida."
       },
       {
         "number": "5",
         "hebrew": "אל תירא כיא את׳כה אני ממזרח אביא זרע׳כה וממערב אקבצ׳כה׃",
-        "text": null
+        "text": "No temas, porque yo estoy contigo; del oriente traeré tu generación, y del occidente te recogeré."
       },
       {
         "number": "6",
         "hebrew": "אומר לצפון תני ולתימן אל תכלאי הביאו בנ׳י מרחוק ובנות׳י מקצוי הארץ׃",
-        "text": null
+        "text": "Diré al norte: da acá; y al sur: no detengas; trae de lejos mis hijos, y mis hijas de los confines de la tierra,"
       },
       {
         "number": "7",
         "hebrew": "כול הנקרא בשמ׳י ולכבוד׳י בראתי׳הו יצרתי׳הו אפ עשיתי׳הו׃",
-        "text": null
+        "text": "todos los llamados de mi nombre; para gloria mía los he creado, los formé y los hice."
       },
       {
         "number": "8",
         "hebrew": "הוציאו עמ עואר עינים יש וחרשים ואוזנים ל׳מו׃",
-        "text": null
+        "text": "Sacad al pueblo ciego que tiene ojos, y a los sordos que tienen oídos."
       },
       {
         "number": "9",
         "hebrew": "כול הגואים נקבצו יחדיו ויאספו לאומים מי ב׳המה ויגידו זואת ורישונות ישמיעו יתנו עדי׳המה ויצדקו וישמיעו ויואמרו אמת׃",
-        "text": null
+        "text": "Congréguense a una todas las naciones, y júntense todos los pueblos: ¿quién de ellos hay que nos dé nuevas de esto, y que nos haga oír las cosas primeras? Presenten sus testigos, y justifíquense; oigan, y digan: verdad es."
       },
       {
         "number": "10",
         "hebrew": "אתמה עד׳י נואמ יהוה עבד׳י אשר בחרתי למען תדעו ותאמינו ל׳יא ותבינו כיא אני הואה לפנ׳י לוא נוצר אל ואחר׳י לוא היה׃",
-        "text": null
+        "text": "Vosotros sois mis testigos, dice YHWH, y mi siervo que yo escogí; para que me conozcáis y creáis, y entendáis que yo mismo soy; antes de mí no fue formado dios, ni lo será después de mí."
       },
       {
         "number": "11",
         "hebrew": "אנוכי אנוכי יהוה ואין מבלעד׳י מושיע׃",
-        "text": null
+        "text": "Yo, yo YHWH, y fuera de mí no hay quien salve."
       },
       {
         "number": "12",
         "hebrew": "אנוכי הגדתי והושעתי והשמעתי ואין ב׳כמה זר ואתמה עד׳י נואמ יהוה אני אל׃",
-        "text": null
+        "text": "Yo anuncié, y salvé, y os lo hice oír, y no hubo entre vosotros dios ajeno. Vosotros, pues, sois mis testigos, dice YHWH, que yo soy Elohim."
       },
       {
         "number": "13",
         "hebrew": "גמ מיום אני הואה ואין מיד׳י מציל אפעולה ומי ישיב׳נה׃",
-        "text": null
+        "text": "Aun antes que hubiera día, yo era; y no hay quien de mi mano libre; si yo hago, ¿quién lo estorbará?"
       },
       {
         "number": "14",
         "hebrew": "כוה אמר יהוה גואל׳כמה קדוש ישראל למענ׳כמה שלחתי בבבל והורדתי בריחים כול׳ם וכשדיים באוניות רנת׳מה׃",
-        "text": null
+        "text": "Así dice YHWH, Redentor vuestro, el Santo de Israel: por vosotros envié a Babilonia, y a todos los hice huir, y a los caldeos, cuyo clamor se convierte en naves."
       },
       {
         "number": "15",
         "hebrew": "אני יהוה קדוש׳כמה בורא ישראל מלכ׳כמה׃",
-        "text": null
+        "text": "Yo YHWH, Santo vuestro, Creador de Israel, vuestro Rey."
       },
       {
         "number": "16",
         "hebrew": "כוה אמר יהוה הנותן בים דרך ובמים עזים נתיבה׃",
-        "text": null
+        "text": "Así dice YHWH, el que da camino en el mar, y senda en las aguas impetuosas;"
       },
       {
         "number": "17",
         "hebrew": "המוציא רכב וסוס וחיל ועוזוז יחדיו ישכובו בל יקומו דעכו כפשתה כבו׃",
-        "text": null
+        "text": "el que saca carro y caballo, ejército y fuerza; caen juntamente para no levantarse; quedaron extinguidos, como pábilo quedaron apagados."
       },
       {
         "number": "18",
         "hebrew": "אל תזכור רישונות וקדמוניות אל תתבוננו׃",
-        "text": null
+        "text": "No os acordéis de las cosas pasadas, ni consideréis las antiguas."
       },
       {
         "number": "19",
         "hebrew": "הנ׳ני עושה חדשה ועתה תצמח הלוא תדעו אף אשים במדבר דרך בישומון נתיבות׃",
-        "text": null
+        "text": "He aquí que yo hago cosa nueva; pronto saldrá a luz; ¿no la conoceréis? Otra vez abriré camino en el desierto, y ríos en la soledad."
       },
       {
         "number": "20",
         "hebrew": "תכבד׳ני חית השדה תנים ובנות יענה כיא אתן במדבר מים נהרות בישומון להשקות עמ׳י ובחיר׳י׃",
-        "text": null
+        "text": "Las fieras del campo me honrarán, los chacales y los pollos del avestruz; porque daré aguas en el desierto, ríos en la soledad, para que beba mi pueblo, mi escogido."
       },
       {
         "number": "21",
         "hebrew": "עמ זה יצרתי ל׳י ותהלת׳י יואמרו׃",
-        "text": null
+        "text": "Este pueblo he creado para mí, mis alabanzas publicará."
       },
       {
         "number": "22",
         "hebrew": "ולוא אות׳י קראתה יעקוב כיא יגעתה ב׳יא ישראל׃",
-        "text": null
+        "text": "Y no me invocaste a mí, oh Yaakov, antes te cansaste de mí, oh Israel."
       },
       {
         "number": "23",
         "hebrew": "לוא הביאותה ל׳י שה לעולה ובזבחי׳כה לוא כבדת׳ני ולוא עשיתה ל׳יא מנחה ולוא הוגעתי׳כה בלבונה׃",
-        "text": null
+        "text": "No me trajiste a mí los animales de tus holocaustos, ni a mí me honraste con tus sacrificios; no te hice servir con ofrenda, ni te hice fatigar con incienso."
       },
       {
         "number": "24",
         "hebrew": "לוא קניתה ל׳יא בכסף קנה וחלב זבחי׳כה לוא הרוית׳ני אך העבדת׳ני בחטאותי׳כה הוגעת׳ני בעונ׳כה׃",
-        "text": null
+        "text": "No compraste para mí caña aromática por dinero, ni me saciaste con la grosura de tus sacrificios; antes me hiciste servir con tus pecados, me fatigaste con tus maldades."
       },
       {
         "number": "25",
         "hebrew": "אנוכי אנוכי הואה מוחה פשע׳כה למענ׳י וחטאתי׳כה לוא אזכור עוד׃",
-        "text": null
+        "text": "Yo, yo soy el que borro tus rebeliones por amor de mí mismo, y no me acordaré de tus pecados."
       },
       {
         "number": "26",
         "hebrew": "הזכירו׳ני נשפטה יחדיו ספר אתה למען תצדק׃",
-        "text": null
+        "text": "Hazme recordar, entremos en juicio juntamente; habla tú para justificarte."
       },
       {
         "number": "27",
         "hebrew": "אבי׳כה הרישון חטא ומליצי׳כה פשעו ב׳יא׃",
-        "text": null
+        "text": "Tu primer padre pecó, y tus enseñadores prevaricaron contra mí."
       },
       {
         "number": "28",
         "hebrew": "ואחללה שרי קודש ואתן לחרם יעקוב וישראל לגודפים׃",
-        "text": null
+        "text": "Por tanto, profané los príncipes del santuario, y puse por anatema a Yaakov, y por oprobio a Israel."
       }
     ],
     "44": [
       {
-        "number": "1",
-        "hebrew": "ועתה שמע יעקוב עבד׳י וישראל בחרתי ב׳וא׃",
-        "text": null
+        "number": "1-2",
+        "hebrew": "ועתה שמע יעקוב עבד׳י וישראל בחרתי ב׳וא׃ כוה אמר יהוה עוש׳כה ויוצר׳כה מבטן ועוזר׳כה אל תירא עבד׳י יעקוב וישורון בחרתי ב׳וא׃",
+        "text": "Ahora, pues, oye, Yaakov, siervo mío, y tú, Israel, a quien yo escogí. Así dice YHWH, Hacedor tuyo, y el que te formó desde el vientre, el cual te ayudará: no temas, siervo mío Yaakov, y tú, Yeshurún, a quien yo escogí."
       },
       {
-        "number": "2",
-        "hebrew": "כוה אמר יהוה עוש׳כה ויוצר׳כה מבטן ועוזר׳כה אל תירא עבד׳י יעקוב וישורון בחרתי ב׳וא׃",
-        "text": null
-      },
-      {
-        "number": "3",
-        "hebrew": "כיא אצק מים על צמא ונוזלים על יבשה כן אצק רוח׳י על זרע׳כה וברכת׳י על צאצאי׳כה׃",
-        "text": null
-      },
-      {
-        "number": "4",
-        "hebrew": "יצמחו כבין חציר כערבים על יובלי מים׃",
-        "text": null
+        "number": "3-4",
+        "hebrew": "כיא אצק מים על צמא ונוזלים על יבשה כן אצק רוח׳י על זרע׳כה וברכת׳י על צאצאי׳כה׃ יצמחו כבין חציר כערבים על יובלי מים׃",
+        "text": "Porque yo derramaré aguas sobre el sequedal, y ríos sobre la tierra árida; mi espíritu derramaré sobre tu generación, y mi bendición sobre tus renuevos. Y brotarán entre hierba, como sauces junto a las riberas de las aguas."
       },
       {
         "number": "5",
         "hebrew": "זה יואמר ליהוה אני וזה יקרא בשמ יעקוב וזה יכתוב ידו׳הי ליהוה ובשם ישראל יכנה׃",
-        "text": null
+        "text": "Este dirá: yo soy de YHWH; el otro se llamará del nombre de Yaakov; y otro escribirá de su mano: a YHWH; y se apellidará con el nombre de Israel."
       },
       {
         "number": "6",
         "hebrew": "כוה אמר יהוה מלך ישראל וגואל׳יו יהוה צבאות שמ׳ו אני רישון ואני אחרון ומבלעד׳י אין אלוהים׃",
-        "text": null
+        "text": "Así dice YHWH, Rey de Israel, y su Redentor, YHWH de los ejércitos es su nombre: yo soy el primero, y yo soy el postrero, y fuera de mí no hay Elohim."
       },
       {
         "number": "7",
         "hebrew": "ומיא כמו׳ני יקרא ויגיד׳ה ויערוכ׳הה ל׳וא משימ׳ו עמ עולם ואותיות יואמר אשר תבואינה יגידו ל׳מו׃",
-        "text": null
+        "text": "¿Y quién llamará como yo, y anunciará esto, y lo pondrá en orden desde que establecí el pueblo antiguo? Anúncienles lo que viene, y lo que está por venir."
       },
       {
         "number": "8",
         "hebrew": "אל תפחדו ואל תיראו הלוא מאז השמעתי׳כה והגדתי ואתמה עד׳י היש אלוה מבלעד׳י ואין צור בל ידעתי׃",
-        "text": null
+        "text": "No temáis, ni os amedrentéis; ¿no te lo hice oír desde entonces, y te lo dije? Luego vosotros sois mis testigos. ¿Hay Elohim fuera de mí? No hay Fuerte; no conozco ninguno."
       },
       {
         "number": "9",
         "hebrew": "ויצר פסל כול׳מה תהו וחמודי׳המה בל יועילו ועדי׳המה המה בל יראו בל ידעו למען יבושו׃",
-        "text": null
+        "text": "Los formadores de imágenes de talla, todos ellos son vanidad, y lo más precioso de ellos para nada es útil; y ellos mismos son testigos para su confusión, que no ven ni entienden."
       },
       {
         "number": "10",
         "hebrew": "מי יצר אל ופסל נסך לבלתי הועיל׃",
-        "text": null
+        "text": "¿Quién forma un dios, o funde una imagen que para nada es de provecho?"
       },
       {
         "number": "11",
         "hebrew": "הנה כול חוברי׳ו יבושו וחרשים המה מאדם יתקבצו כול׳ם ועמודו ופחדו יבושו יחדיו׃",
-        "text": null
+        "text": "He aquí que todos los suyos serán avergonzados, porque los artífices mismos son hombres; todos ellos se juntarán, se pondrán de pie, tendrán miedo, y serán avergonzados a una."
       },
       {
         "number": "12",
         "hebrew": "חרש ברזל מעצד יפעל בפחם ובמקבות ויצור׳הו ויפעל׳הו בזרוע כוח׳וה גמ רעב ואין כוח לוא שותה מים ויועף׃",
-        "text": null
+        "text": "El herrero trabaja con el carbón, y forma con los martillos, y lo hace con la fuerza de su brazo; se fatiga con el hambre, y le falta el agua, y se desmaya."
       },
       {
         "number": "13",
         "hebrew": "חרש עצים נט׳הו קו יתאר׳הו בשרד ועש׳הו במקצעות ובמחגה יתאר׳הו ויעש׳הו כתבנית איש כתפארת אדם לשבת בית׃",
-        "text": null
+        "text": "El carpintero tiende la regla, lo señala con almagre, lo labra con los cepillos, lo señala con el compás, y lo hace a semejanza de un hombre, a la belleza de un hombre, para tenerlo en casa."
       },
       {
         "number": "14",
         "hebrew": "לכרות ל׳וא ארזים ויקח תרזה אלון ויאמץ ל׳וא בעצי יער נטע אורן וגשם יגדל׃",
-        "text": null
+        "text": "Corta cedros, y toma ciprés y encina, que crecieron entre los árboles del bosque; planta pino, que se cría con la lluvia."
       },
       {
         "number": "15",
         "hebrew": "והגה לאדם לבער ויקח מ׳המה ויחום אף ישיק ואפה לחם או יפעל אל וישתחו עש׳הו פסל ויסגוד ל׳מו׃",
-        "text": null
+        "text": "Y servirá al hombre de leña, y de él tomará para calentarse; encenderá también el horno, y cocerá panes; hará además un dios, y lo adorará; fabricará un ídolo, y se arrodillará delante de él."
       },
       {
         "number": "16",
         "hebrew": "חצי׳ו שרף במו אש ועל וחצי׳ו בשר ויאכל ועל גחלי׳ו ישב ויחם ויואמר האח חמותי נגד אור׃",
-        "text": null
+        "text": "Parte del leño quema en el fuego; con parte come carne, hace asado, y se sacia; después se calienta, y dice: mirando el fuego, me he calentado."
       },
       {
         "number": "17",
         "hebrew": "ושרית׳ו לאל עשה לבליו עצ יסגוד ל׳ו וישתחוה ויתפלל אלי׳ו ויואמר הציל׳ני כיא אל׳י אתה׃",
-        "text": null
+        "text": "Del sobrante hace un dios, un ídolo suyo; se arrodilla delante de él, lo adora, y le ruega diciendo: líbrame, porque mi dios eres tú."
       },
       {
         "number": "18",
         "hebrew": "לוא ידעו ולוא יבינו כיא טח מראות עיני׳המה מהשכל לבות׳םה׃",
-        "text": null
+        "text": "No supieron ni entendieron; porque cerrados están sus ojos para no ver, y su corazón para no entender."
       },
       {
         "number": "19",
         "hebrew": "ולוא ישיב אל לב׳ו ולוא דעת ולוא תבונה לאמור לאמור חצי׳ו שרפתי במו אש ואפ אפיתי על גחלי׳ו לחם ואצלה בשר ואוכלה ויתר׳ו לתועבות אעשה לבלוי עץ אסגוד׃",
-        "text": null
+        "text": "No cae en cuenta, no hay en él discernimiento ni entendimiento para decir: parte de él quemé en el fuego, y sobre sus brasas cocí pan, asé carne y la comí; ¿e haré del resto de él una abominación? ¿Ante un tronco de madera me postraré?"
       },
       {
         "number": "20",
         "hebrew": "רועה אפר לב הותל הט׳הו ולוא יוכיל נפש׳ו ולוא יואמר שקר בימינ׳י׃",
-        "text": null
+        "text": "Se apacienta de ceniza; su corazón engañado lo desvía, para que no libre su alma, ni diga: ¿no hay una mentira en mi mano derecha?"
       },
       {
         "number": "21",
         "hebrew": "זכור אלה יעקוב ישראל כיא עבד׳י אתה יצרתי׳כה עבד ל׳י אתה ישראל לוא תשא׳ני׃",
-        "text": null
+        "text": "Acuérdate de estas cosas, oh Yaakov, e Israel, porque mi siervo eres; yo te formé, siervo mío eres tú; Israel, no me olvidarás."
       },
       {
         "number": "22",
         "hebrew": "מחיתי כעב פשע׳כה וכענן חטאותי׳כה שוב׳ה אל׳י כיא גאלתי׳כה׃",
-        "text": null
+        "text": "Yo deshice como una nube tus rebeliones, y como niebla tus pecados; vuélvete a mí, porque yo te redimí."
       },
       {
         "number": "23",
         "hebrew": "רונו שמים כיא עשה יהוה הריעו תחתיות הארץ פצחו הרים רונה יער כול עץ ב׳ו כיא גאל יהוה יעקוב ובישראל יתפאר׃",
-        "text": null
+        "text": "Cantad loores, oh cielos, porque YHWH lo hizo; gritad con júbilo, profundidades de la tierra; prorrumpid, montes, en alabanza, el bosque y todo árbol que en él está; porque YHWH redimió a Yaakov, y en Israel será glorificado."
       },
       {
         "number": "24",
         "hebrew": "כוה אמר יהוה גואל׳כה ויוצר׳כה מבטן אנוכי יהוה עושה כול נוטה שמים לבד׳י רוקע הארץ מיא את׳י׃",
-        "text": null
+        "text": "Así dice YHWH, Redentor tuyo, que te formó desde el vientre: yo, YHWH, que lo hago todo, que extiendo los cielos yo solo, que extiendo la tierra por mí mismo;"
       },
       {
         "number": "25",
         "hebrew": "מפר אותות בדים וקסמים יהולל משיב חכמימ אחור ודעת׳ם יסכל׃",
-        "text": null
+        "text": "que deshago las señales de los adivinos, y enloquezco a los agoreros; que hago volver atrás a los sabios, y desvanezco su sabiduría;"
       },
       {
         "number": "26",
         "hebrew": "מקים דבר עבד׳ו ועצת מלאכי׳ו ישלים האומר לירושלים תשב ולערי יהודה תבנינה וחרבותי׳ה אקומם׃",
-        "text": null
+        "text": "que confirmo la palabra de mi siervo, y cumplo el consejo de mis mensajeros; que digo a Yerushalaim: serás habitada; y a las ciudades de Yehudá: reedificadas serán, y sus ruinas yo levantaré;"
       },
       {
         "number": "27",
         "hebrew": "האומר לצולה חרבי ונהרותי׳ך אוביש׃",
-        "text": null
+        "text": "que digo a lo profundo: sécate, y tus ríos haré secar;"
       },
       {
         "number": "28",
         "hebrew": "האומר לכורש רע׳י וכול חפצ׳י ישלים ולאמור לירושלים תבנה והיכל יתיסד׃",
-        "text": null
+        "text": "que digo de Ciro: es mi pastor, y cumplirá todo lo que yo quiero, diciendo a Yerushalaim: serás edificada; y al templo: serás fundado."
       }
     ],
     "45": [
       {
         "number": "1",
         "hebrew": "כוה אמר יהוה למשיח׳ו לכורש אשר החזקתי בימינ׳ו לרד לפני׳ו גואים ומתני מלכים אפתח לפתוח לפני׳ו דלתות ושערים לוא יסגרו׃",
-        "text": null
+        "text": "Así dice YHWH a su ungido, a Ciro, al cual tomé yo por su mano derecha, para sujetar naciones delante de él, y desatar lomos de reyes; para abrir delante de él puertas, y las puertas no se cerrarán:"
       },
       {
         "number": "2",
         "hebrew": "אני לפני׳כה אלך והררים יאושר דלתות נחושה אשבור ובריחי ברזל אגדע׃",
-        "text": null
+        "text": "yo iré delante de ti, y enderezaré los montes; quebrantaré puertas de bronce, y cerrojos de hierro haré pedazos;"
       },
       {
         "number": "3",
         "hebrew": "ונתתי ל׳כה אוצרות חושך ומטמוני מסתרים למען תדע כיא אני יהוה הקורה בשמ׳כה אלוהי ישראל׃",
-        "text": null
+        "text": "y te daré los tesoros escondidos, y los secretos muy guardados, para que sepas que yo soy YHWH, el Elohim de Israel, que te pongo nombre."
       },
       {
         "number": "4",
         "hebrew": "למען עבד׳י יעקוב ישראל בחיר׳י ואקרא ל׳כה ובשמ הכינ׳כה ולוא ידעת׳ני׃",
-        "text": null
+        "text": "Por amor de mi siervo Yaakov, y de Israel mi escogido, te llamé por tu nombre; te puse sobrenombre, aunque no me conociste."
       },
       {
         "number": "5",
         "hebrew": "אני יהוה ואין עוד זולת׳י ואין אלוהים אאזר׳כה ולוא ידעת׳ני׃",
-        "text": null
+        "text": "Yo soy YHWH, y ninguno más hay; no hay Elohim fuera de mí; te ceñí, aunque no me conociste,"
       },
       {
         "number": "6",
         "hebrew": "למען ידעו ממזרח שמש וממערב כיא אפס בלעד׳י אני יהוה ואין עוד׃",
-        "text": null
+        "text": "para que se sepa desde el nacimiento del sol, y hasta donde se pone, que no hay más que yo; yo YHWH, y ninguno más que yo,"
       },
       {
         "number": "7",
         "hebrew": "יוצר אור ובורה חושך עושה טוב ובורה רע אני יהוה עושה כול אלה׃",
-        "text": null
+        "text": "que formo la luz y creo las tinieblas, que hago la paz y creo el mal. Yo YHWH soy el que hago todo esto."
       },
       {
         "number": "8",
         "hebrew": "הריעו שמים ממעל׳ה ושחקים ייזל צדק האמר לארץ ויפרח ישע וצדקה תצמיח׃",
-        "text": null
+        "text": "Rociad, cielos, de arriba, y las nubes destilen la justicia; ábrase la tierra, y florezca la salvación, y la justicia se produzca juntamente⁵⁰."
       },
       {
         "number": "9",
         "hebrew": "הוי רב את יוצר׳יו חרש את חורשי האדמה הוי האומר ] וצר׳ו מה תעשה ופועל׳כה אין אדם ידים ל׳ו׃",
-        "text": null
+        "text": "¡Ay del que pleitea con su Hacedor! ¡El tiesto con los tiestos de la tierra! ¿Dirá el barro al que lo forma: qué haces? Tu obra, dirá de ti, no tiene manos."
       },
       {
         "number": "10",
         "hebrew": "הוי האומר לאב מה תוליד ולאשה מ[ ה ת ]חולי׳ן׃",
-        "text": null
+        "text": "¡Ay del que dice al padre: por qué engendraste? Y a la mujer: por qué diste a luz?"
       },
       {
         "number": "11",
         "hebrew": "כוה אמר יהוה קדוש ישראל יוצר האותות שאלו׳ני על בנ׳י ועל פועל [ יד׳י ת ]צוו׳ני׃",
-        "text": null
+        "text": "Así dice YHWH, el Santo de Israel, y su Formador: preguntadme de las cosas por venir; mandadme acerca de mis hijos, y acerca de la obra de mis manos."
       },
       {
         "number": "12",
         "hebrew": "אנוכי עשיתי ארץ ואדם עלי׳הא בראתי אני יד׳י נטו שמים וכול [ צבא׳ם ]צויתי׃",
-        "text": null
+        "text": "Yo hice la tierra, y creé sobre ella al hombre. Yo, mis manos, extendieron los cielos, y a todo su ejército mandé."
       },
       {
         "number": "13",
         "hebrew": "אנוכי העירותי׳הו בצדק וכול דרכי׳ו אישר הואה יבנה [ עיר׳י וג ]לת׳יא ישלח לוא במחיר ולוא בשוחוד אמר יהוה צבאות׃",
-        "text": null
+        "text": "Yo lo desperté en justicia, y enderezaré todos sus caminos; él edificará mi ciudad, y soltará mis cautivos, no por precio ni por dádiva, dice YHWH de los ejércitos."
       },
       {
         "number": "14",
         "hebrew": "כ[ וה אמר ]יהוה יגיע מצרים וסחר כוש סבאים אנשי מדות עלי׳ך יעבורו ול׳ך יהיו א[ חרי׳ך ]ילכו בזקים יעבורו ואלי׳כי ישתחווה ואלי׳כי יתפללו אך ב׳כי אל ואין עוד א[ פס אל ]והים׃",
-        "text": null
+        "text": "Así dice YHWH: el trabajo de Egipto, y las mercaderías de Cus, y los sabeos hombres de gran estatura, pasarán a ti y serán tuyos; irán en pos de ti, pasarán con grillos; y ante ti se inclinarán, y a ti suplicarán diciendo: ciertamente en ti está Elohim, y no hay otro fuera de Elohim."
       },
       {
         "number": "15",
         "hebrew": "אכן אתה אל מסתתר אלוהי ישראל מושיע׃",
-        "text": null
+        "text": "Verdaderamente tú eres Elohim que te encubres, Elohim de Israel, que salvas."
       },
       {
         "number": "16",
         "hebrew": "בושו וגמ נכלמו כול׳מה יחד[ יו ]וילכו בכלמה חורשי צורים׃",
-        "text": null
+        "text": "Confusos y avergonzados serán todos ellos; irán con vergüenza todos los fabricantes de imágenes."
       },
       {
         "number": "17",
         "hebrew": "ישראל נושע ביהוה תשועת עולמים לוא תבושו ולוא תכלמו עד עולמי עד׃",
-        "text": null
+        "text": "Israel será salvo en YHWH con salvación eterna; no os avergonzaréis ni os afrentaréis, por todos los siglos."
       },
       {
         "number": "18",
         "hebrew": "כיא כוה אמר יהוה בורה השמים הואה האלוהים ויוצר הארץ ועשי׳ה והואה כוננ׳ה לוא לתהו ברא׳ה לשבת יצר׳ה אני יהוה ואין עוד׃",
-        "text": null
+        "text": "Porque así dice YHWH, que creó los cielos; él es Elohim, el Formador de la tierra, el que la hizo y la compuso; no la creó en vano, para que fuese habitada la creó: yo soy YHWH, y no hay otro."
       },
       {
         "number": "19",
         "hebrew": "לוא בסתר דברתי במקום ארץ חושך לוא אמרתי לזרע יעקוב תהו בקשו׳ני אני יהוה דובר צדק מגיד מישרים׃",
-        "text": null
+        "text": "No hablé en secreto, en un lugar oscuro de la tierra; no dije a la simiente de Yaakov: en vano me buscáis; yo soy YHWH que hablo justicia, que anuncio rectitud."
       },
       {
         "number": "20",
         "hebrew": "הקבצו ובואו התנגשו ואתיו פליטי הגואים לוא ידעו הנושאים את עץ פסל׳םה ומתפללים אל אל לוא יושיע׃",
-        "text": null
+        "text": "Reuníos, y venid; juntaos todos los sobrevivientes de las naciones; no tienen conocimiento los que erigen el madero de su ídolo, y los que ruegan a un dios que no salva."
       },
       {
         "number": "21",
         "hebrew": "הגידו והגישו אפ יועצו יחדיו מיא השמיע זואת מקדם מאז הגיד׳ה הלוא אני יהוה ואין עוד אלוהים מבלעד׳י אל צדיק ומושיע ואין זולת׳י׃",
-        "text": null
+        "text": "Proclamad, y hacedlos acercarse, y entren en consulta juntos; ¿quién hizo oír esto desde el principio, y lo tiene dicho desde entonces, sino yo YHWH? Y no hay más Elohim que yo; Elohim justo y Salvador; ningún otro fuera de mí."
       },
       {
         "number": "22",
         "hebrew": "פנו אל׳י והושיעו כול אפסי ארץ כיא אני אל ואין עוד׃",
-        "text": null
+        "text": "Mirad a mí, y sed salvos, todos los términos de la tierra; porque yo soy Elohim, y no hay más."
       },
       {
         "number": "23",
         "hebrew": "ב׳יא נשבעתי יצא מפ׳יא צדקה דבר ולוא ישוב כיא ל׳יא תכרע כול בירך ותשבע כול לשון׃",
-        "text": null
+        "text": "Por mí mismo hice juramento, de mi boca salió palabra en justicia, y no será revocada: que a mí se doblará toda rodilla, y jurará toda lengua."
       },
       {
         "number": "24",
         "hebrew": "אך ביהוה ל׳יא יאמר צדקות ועוז עדי׳ו יבואו יבושו כול הנחרים ב׳ו׃",
-        "text": null
+        "text": "Y se dirá de mí: ciertamente en YHWH está la justicia y la fuerza; a él vendrán, y todos los que contra él se enardecen serán avergonzados."
       },
       {
         "number": "25",
         "hebrew": "ביהוה יצדקו ויתהללו כול זרע ישראל׃",
-        "text": null
+        "text": "En YHWH será justificada y se gloriará toda la simiente de Israel."
       }
     ],
     "46": [
       {
-        "number": "1",
-        "hebrew": "כרע בל קרס נבו היו עצבי׳המה לחיה לבהמה נשאותי׳כמה עמוסות משמועי׳המה׃",
-        "text": null
+        "number": "1-2",
+        "hebrew": "כרע בל קרס נבו היו עצבי׳המה לחיה לבהמה נשאותי׳כמה עמוסות משמועי׳המה׃ קרסו כרעו יחדיו ולוא יוכלו מלט משא ונפש׳מה בשבי הלכו׃",
+        "text": "Se postró Bel, se abatió Nebo; sus imágenes fueron puestas sobre bestias, sobre animales de carga; las que vosotros solíais llevar son cargadas, como carga pesada para la bestia cansada. Se abatieron, se postraron juntamente; no pudieron escaparse de la carga, sino que ellos mismos hubieron de ir en cautiverio."
       },
       {
-        "number": "2",
-        "hebrew": "קרסו כרעו יחדיו ולוא יוכלו מלט משא ונפש׳מה בשבי הלכו׃",
-        "text": null
-      },
-      {
-        "number": "3",
-        "hebrew": "שמע אל׳י בית יעקוב וכול שארית בית ישראל עומסים ממ׳ני בטן ונושאים מני רחם׃",
-        "text": null
-      },
-      {
-        "number": "4",
-        "hebrew": "עד זקנה אני הואה ועד שיבה אני אסבול אני עשיתי ואני אשא ואנוכי אסבול ואמלטה׃",
-        "text": null
+        "number": "3-4",
+        "hebrew": "שמע אל׳י בית יעקוב וכול שארית בית ישראל עומסים ממ׳ני בטן ונושאים מני רחם׃ עד זקנה אני הואה ועד שיבה אני אסבול אני עשיתי ואני אשא ואנוכי אסבול ואמלטה׃",
+        "text": "Oídme, casa de Yaakov, y todo el resto de la casa de Israel, los que sois traídos por mí desde el vientre, los que sois llevados desde la matriz. Y hasta la vejez yo mismo, y hasta las canas os soportaré yo; yo hice, yo llevaré, yo soportaré y guardaré."
       },
       {
         "number": "5",
         "hebrew": "למי תדמיו׳ני ותשוי ותמשלו׳ני ואדמה׃",
-        "text": null
+        "text": "¿A quién me haréis semejante, o me compararéis, o me haréis parecido, para que seamos semejantes?"
       },
       {
-        "number": "6",
-        "hebrew": "הזלים זהב בכיס וכסף בקנה ישקולו ישכורו צורף ויעשה אל ויסגודו אף ישתחו׃",
-        "text": null
-      },
-      {
-        "number": "7",
-        "hebrew": "וישאו׳הי על כתף יסבלו׳הי ויניחו׳הי תחתי׳ו ויעמוד ממקומ׳ו לוא ימוש אפ יזעק עלי׳ו ולוא יענה מצרת׳ו לוא יושיע׳נו׃",
-        "text": null
+        "number": "6-7",
+        "hebrew": "הזלים זהב בכיס וכסף בקנה ישקולו ישכורו צורף ויעשה אל ויסגודו אף ישתחו׃ וישאו׳הי על כתף יסבלו׳הי ויניחו׳הי תחתי׳ו ויעמוד ממקומ׳ו לוא ימוש אפ יזעק עלי׳ו ולוא יענה מצרת׳ו לוא יושיע׳נו׃",
+        "text": "Sacan oro de la bolsa, y pesan plata con balanzas, alquilan un platero para hacer un dios de ello; se postran y arrodillan ante él. Se lo echan sobre los hombros, lo llevan, y lo colocan en su lugar; allí se está, y no se mueve de su sitio; y aunque den voces a él, no responde, ni los libra de su tribulación."
       },
       {
         "number": "8",
         "hebrew": "זכורו זואת והתאוששו השיבו פושעים על לב׃",
-        "text": null
+        "text": "Acordaos de esto, y tened vergüenza; volved en vosotros, prevaricadores."
       },
       {
         "number": "9",
         "hebrew": "זכורו רישונות מעולם כיא אני אל ואין עוד אלוהים ואפס כמו׳ני׃",
-        "text": null
+        "text": "Acordaos de las cosas pasadas desde tiempos antiguos; porque yo soy Elohim, y no hay otro Elohim, y nada hay semejante a mí,"
       },
       {
         "number": "10",
         "hebrew": "מגיד מראישית אחרות ומקדם אשר לוא נעשו אמר עצת׳י תקום וכול חפצ׳י יעשה׃",
-        "text": null
+        "text": "que anuncio lo por venir desde el principio, y desde antiguo lo que aún no era hecho; que digo: mi consejo permanecerá, y haré todo lo que quisiere;"
       },
       {
         "number": "11",
         "hebrew": "קורה ממזרח עיט מארץ מרחק איש עצת׳ו אף דברתי אף אביא׳נה יצרתי׳ה אף אעש׳נה׃",
-        "text": null
+        "text": "que llamo desde el oriente al ave, y de tierra lejana al varón de mi consejo. Yo hablé, y lo cumpliré; lo he pensado, y también lo haré."
       },
       {
         "number": "12",
         "hebrew": "שמעו אל׳י אבירי לב הרחוקים מצדקה׃",
-        "text": null
+        "text": "Oídme, duros de corazón, que estáis lejos de la justicia:"
       },
       {
         "number": "13",
         "hebrew": "קרובה צדקת׳י ולוא תרחק ותשועת׳י ולוא תאחר נתתי בציון תשועה ולישראל תפארת׳י׃",
-        "text": null
+        "text": "haré llegar mi justicia; no se alejará, y mi salvación no se detendrá; y pondré salvación en Sión, y mi gloria en Israel."
       }
     ],
     "47": [
       {
         "number": "1",
         "hebrew": "רדי ושבי על עפר בתולת בת בבל שבי על הארץ אין כסא בת כשדיים כיא לוא תוסיפי וקראו ל׳ך רכה וענוגה׃",
-        "text": null
+        "text": "Desciende y siéntate en el polvo, virgen hija de Babilonia; siéntate en la tierra sin trono, hija de los caldeos; que nunca más te llamarán tierna y delicada."
       },
       {
         "number": "2",
         "hebrew": "קחי רחים וטחני קמח גלי צמת׳ך חשופי שולי׳ך גלי שוק עבורי נהרות׃",
-        "text": null
+        "text": "Toma el molino, y muele harina; descubre tus guedejas, descubre los pies, descubre las piernas, pasa los ríos."
       },
       {
         "number": "3",
         "hebrew": "תגלה ערות׳ך גמ תראה חרפת׳ך נקם אקח ולוא אפגע אדם׃",
-        "text": null
+        "text": "Descubierta será tu desnudez, y también se verá tu vergüenza; tomaré venganza, y no exceptuaré hombre."
       },
       {
         "number": "4",
         "hebrew": "גאל׳נו יהוה צבאות שמ׳ו קדוש ישראל׃",
-        "text": null
+        "text": "Nuestro Redentor, YHWH de los ejércitos es su nombre, el Santo de Israel."
       },
       {
         "number": "5",
         "hebrew": "שבי דממה ובואי בחושך בת כשדיים כיא לוא תוסיפי וקראו ל׳ך גבורת ממלכות׃",
-        "text": null
+        "text": "Siéntate, calla, y entra en tinieblas, hija de los caldeos; porque nunca más te llamarán señora de reinos."
       },
       {
         "number": "6",
         "hebrew": "קצפתי על עמ׳י וחללתי נחלת׳י ואתנ׳ם ביד׳ך לוא שמתי ל׳המה רחמים על זקן הכבדתי עול׳ך מואד׳ה׃",
-        "text": null
+        "text": "Me enojé contra mi pueblo, profané mi heredad, y los entregué en tu mano; no les tuviste ninguna misericordia; sobre el anciano agravaste mucho tu yugo."
       },
       {
         "number": "7",
         "hebrew": "ותואמרי לעולם אהיה גבורת עוד לוא שמתי אלה על לב׳כי לוא זכרתי אחרונה׃",
-        "text": null
+        "text": "Y dijiste: para siempre seré señora; y no has pensado en esto, ni te acordaste de tu postrimería."
       },
       {
         "number": "8",
         "hebrew": "ועתה שמעי זואת עוד׳נה היושבת לבטח האומרה בלבב׳ה אני ואפס׳י עוד לוא אשב עלמנה ולוא אראה שכול׃",
-        "text": null
+        "text": "Oye, pues, ahora esto, mujer regalada, la que está sentada confiadamente, la que dice en su corazón: yo soy, y fuera de mí no hay más; no quedaré viuda, ni conoceré orfandad."
       },
       {
         "number": "9",
         "hebrew": "ותבואינה ל׳ך שתי אלה רגע ביום אחד שכול ואלמנה כתומ׳מ באו עלי׳ך ברוב כשפי׳ך בעצמת חוברי׳ך מואד׳ה׃",
-        "text": null
+        "text": "Estas dos cosas te vendrán de repente en un mismo día, orfandad y viudez; en toda su fuerza vendrán sobre ti, a pesar de la multitud de tus hechizos, y de la gran copia de tus encantamientos."
       },
       {
         "number": "10",
         "hebrew": "ותבטחי בדעת׳ך אמרתי אין רוא׳ני חכמת׳ך ודעת׳ך היאה שובבת׳ך ותואמרי בלבב׳ך אני ואפס׳י עוד׃",
-        "text": null
+        "text": "Porque confiaste en tu maldad, diciendo: nadie me ve. Tu sabiduría y tu misma ciencia te engañaron, y dijiste en tu corazón: yo, y nadie más."
       },
       {
         "number": "11",
         "hebrew": "ובאה עלי׳ך רעה ולוא תדעי שחר׳ה ותפול עלי׳ך הויה לוא תוכלי לכפר׳ה ותבוא עלי׳ך פתאום שאה ולוא תדעי׃",
-        "text": null
+        "text": "Vendrá, pues, sobre ti mal, cuyo nacimiento no sabrás; caerá sobre ti quebrantamiento, el cual no podrás expiar; y destrucción que no sepas vendrá de repente sobre ti."
       },
       {
         "number": "12",
         "hebrew": "ועמודינא בחוברי׳ך וברוב כשפי׳ך באשר יגעתי מנעורי׳ך ועד היום׃",
-        "text": null
+        "text": "Estate ahora en tus encantamientos, y en la multitud de tus hechizos, en los cuales te trabajaste desde tu juventud hasta hoy,"
       },
       {
         "number": "13",
         "hebrew": "כרוב עצת׳ך יעמודו נא ויושיעו׳ך חוברי שמים והחוזים בכוכבים מודעים לחרדים מאשר יבוא עלי׳המה׃",
-        "text": null
+        "text": "por si quizás te podrás aprovechar, por si acaso podrás fortalecerte. Te has cansado en la multitud de tus consejos; comparezcan ahora, y te libren de las cosas que vendrán sobre ti, los contempladores de los cielos, los que observan las estrellas, los que en las lunas nuevas hacen pronósticos."
       },
       {
         "number": "14",
         "hebrew": "הנה היו כקש אש שרפת׳ם לוא הצילו את נפש׳ם מיד להבה אין גחלת לחוממ אור לשבת נגד׳ו׃",
-        "text": null
+        "text": "He aquí que serán como tamo; fuego los quemará, no salvarán sus vidas del poder de la llama; no quedará brasa para calentarse, ni lumbre a la cual se sienten."
       },
       {
         "number": "15",
         "hebrew": "כן היו ל׳ך אשר יגעתי סוחרי׳ך מנעורי׳ך איש לעבר׳ו תעו אין מושיע׳ך׃",
-        "text": null
+        "text": "Así te serán aquellos con quienes te fatigaste, los que traficaron contigo desde tu juventud; cada uno irá por su camino, no habrá quien te salve."
       }
     ],
     "48": [
@@ -5749,6 +5699,52 @@ window.ROLLOS_DATA={
       ],
       "hebrew": "חַי חַי הוּא יוֹדֶךָ",
       "teaser": "El caso inverso: el copista repite, no salta, un verso entero."
+    },
+    {
+      "id": 48,
+      "chapter": 42,
+      "title": "האלוהים, en vez de יהוה",
+      "body": "El TM tiene \"כה אמר האל יהוה\" (\"así dice El, YHWH...\" usando el nombre divino); el rollo tiene \"כוה אמר האל האלוהים\" (\"así dice El, el Elohim...\" usando el título genérico en vez del nombre propio). Es una nueva variante dentro del mismo patrón ya documentado en las notas 22, 35 y 40 — la alternancia entre el nombre divino propio y un título genérico o epíteto, aquí con una combinación distinta (אלהים en vez de יהוה). E1.",
+      "evidence": [
+        "E1"
+      ],
+      "hebrew": "יְהוָה / הָאֱלֹהִים",
+      "teaser": "Cuarta variante del mismo patrón: nombre divino por título genérico."
+    },
+    {
+      "id": 49,
+      "chapter": 42,
+      "title": "ייייי, cinco yodim, corrección supralineal",
+      "body": "El TM tiene aquí יְהוָה, el tetragrámaton escrito de la forma habitual. El rollo tiene, en este punto exacto, una corrección antigua supralineal (letras agregadas arriba del renglón por un corrector antiguo, no por el copista original): cinco yodim seguidos (ייייי), una de las formas documentadas en textos de Qumrán para escribir el nombre divino de manera especial, distinta de la escritura ordinaria. No es una variante de contenido — el sentido es el mismo que el del TM (\"yo, YHWH, te he llamado...\") — sino un dato paleográfico distinto de todo lo visto hasta ahora en este rollo: un caso de escritura reverencial especial del nombre divino, añadida como corrección posterior. E1.",
+      "evidence": [
+        "E1"
+      ],
+      "hebrew": "יְהוָה / ייייי",
+      "teaser": "Una corrección antigua escribe el nombre divino con cinco yodim."
+    },
+    {
+      "id": 50,
+      "chapter": 45,
+      "title": "sin יחד אני יהוה בראתיו, \"junto; yo, YHWH, lo he creado\"",
+      "body": "El TM cierra este verso —conocido en la liturgia cristiana de Adviento por su versión latina, \"Rorate caeli\"— con una declaración explícita en primera persona: \"junto; yo, YHWH, lo he creado.\" El rollo no tiene esta cláusula final; termina el verso en \"y la justicia brote\", sin la afirmación divina en primera persona que sigue en el TM. E1 el dato de la omisión; E3 si se trata de una pérdida real de texto o de una forma más breve conservada por el rollo, ambigüedad no resuelta por este dato solo.",
+      "evidence": [
+        "E1",
+        "E3"
+      ],
+      "hebrew": "יַחַד אֲנִי יְהוָה בְּרָאתִיו",
+      "teaser": "La frase final de \"Rorate caeli\", ausente en el rollo."
+    },
+    {
+      "id": 51,
+      "chapter": 43,
+      "title": "גואל׳ך, \"tu redentor,\" en vez de מושיעך, \"tu salvador\"",
+      "body": "El TM tiene מוֹשִׁיעֶךָ (\"tu salvador\", de la raíz ישע); el rollo tiene גואל׳ך (\"tu redentor\", de la raíz גאל) — sustitución real de raíz. La palabra גאל (\"redentor/rescatador de parentesco\") es el término dominante para describir a YHWH en el resto de esta sección del libro (43:1, 44:6, 44:24, entre otros); esta variante podría reflejar una armonización del vocabulario hacia el término más frecuente en el contexto inmediato. E1 el dato de la sustitución; D1 la lectura de que se trata de una armonización terminológica con el uso dominante en estos capítulos.",
+      "evidence": [
+        "E1",
+        "D1"
+      ],
+      "hebrew": "מוֹשִׁיעֶךָ / גואל׳ך",
+      "teaser": "\"Redentor\" donde el TM dice \"salvador\" — la raíz dominante del pasaje."
     }
   ],
   "meta": {
@@ -5796,8 +5792,15 @@ window.ROLLOS_DATA={
       37,
       38,
       39,
-      40
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47
     ],
-    "verseCount": 1014
+    "verseCount": 1004
   }
 };
