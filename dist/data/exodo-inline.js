@@ -1580,1231 +1580,391 @@ window.EXODO_DATA={
     ],
     "25": [
       {
-        "number": "1",
-        "hebrew": "וַיְדַבֵּ֥ר יְהוָ֖ה אֶל־ מֹשֶׁ֥ה לֵּאמֹֽר׃",
-        "text": null
+        "number": "1-2",
+        "hebrew": "וַיְדַבֵּ֥ר יְהוָ֖ה אֶל־ מֹשֶׁ֥ה לֵּאמֹֽר׃ דַּבֵּר֙ אֶל־ בְּנֵ֣י יִשְׂרָאֵ֔ל וְיִקְחוּ־ לִ֖י תְּרוּמָ֑ה מֵאֵ֤ת כָּל־ אִישׁ֙ אֲשֶׁ֣ר יִדְּבֶ֣נּוּ לִבּ֔וֹ תִּקְח֖וּ אֶת־ תְּרוּמָתִֽי׃",
+        "text": "Habló YHWH a Moshé, diciendo: di a los hijos de Israel que tomen para mí ofrenda; de todo varón que la diere de su voluntad, de corazón, tomaréis mi ofrenda."
       },
       {
-        "number": "2",
-        "hebrew": "דַּבֵּר֙ אֶל־ בְּנֵ֣י יִשְׂרָאֵ֔ל וְיִקְחוּ־ לִ֖י תְּרוּמָ֑ה מֵאֵ֤ת כָּל־ אִישׁ֙ אֲשֶׁ֣ר יִדְּבֶ֣נּוּ לִבּ֔וֹ תִּקְח֖וּ אֶת־ תְּרוּמָתִֽי׃",
-        "text": null
+        "number": "3-7",
+        "hebrew": "וְזֹאת֙ הַתְּרוּמָ֔ה אֲשֶׁ֥ר תִּקְח֖וּ מֵאִתָּ֑ם זָהָ֥ב וָכֶ֖סֶף וּנְחֹֽשֶׁת׃ וּתְכֵ֧לֶת וְאַרְגָּמָ֛ן וְתוֹלַ֥עַת שָׁנִ֖י וְשֵׁ֥שׁ וְעִזִּֽים׃ וְעֹרֹ֨ת אֵילִ֧ם מְאָדָּמִ֛ים וְעֹרֹ֥ת תְּחָשִׁ֖ים וַעֲצֵ֥י שִׁטִּֽים׃ שֶׁ֖מֶן לַמָּאֹ֑ר בְּשָׂמִים֙ לְשֶׁ֣מֶן הַמִּשְׁחָ֔ה וְלִקְטֹ֖רֶת הַסַּמִּֽים׃ אַבְנֵי־ שֹׁ֕הַם וְאַבְנֵ֖י מִלֻּאִ֑ים לָאֵפֹ֖ד וְלַחֹֽשֶׁן׃",
+        "text": "Y esta es la ofrenda que tomaréis de ellos: oro, plata, bronce; azul, púrpura, carmesí, lino fino, pelo de cabras; pieles de carneros teñidas de rojo, pieles de tejones, madera de acacia; aceite para el candelero, especias para el aceite de la unción y para el incienso aromático; piedras de ónice, y piedras de engaste para el efod y para el pectoral."
       },
       {
-        "number": "3",
-        "hebrew": "וְזֹאת֙ הַתְּרוּמָ֔ה אֲשֶׁ֥ר תִּקְח֖וּ מֵאִתָּ֑ם זָהָ֥ב וָכֶ֖סֶף וּנְחֹֽשֶׁת׃",
-        "text": null
+        "number": "8-9",
+        "hebrew": "וְעָ֥שׂוּ לִ֖י מִקְדָּ֑שׁ וְשָׁכַנְתִּ֖י בְּתוֹכָֽם׃ כְּכֹ֗ל אֲשֶׁ֤ר אֲנִי֙ מַרְאֶ֣ה אוֹתְךָ֔ אֵ֚ת תַּבְנִ֣ית הַמִּשְׁכָּ֔ן וְאֵ֖ת תַּבְנִ֣ית כָּל־ כֵּלָ֑יו וְכֵ֖ן תַּעֲשֽׂוּ׃ ס",
+        "text": "Y me harán un santuario, y habitaré en medio de ellos¹¹³. Conforme a todo lo que yo te muestre, el diseño del tabernáculo, y el diseño de todos sus utensilios, así lo haréis¹¹⁴."
       },
       {
-        "number": "4",
-        "hebrew": "וּתְכֵ֧לֶת וְאַרְגָּמָ֛ן וְתוֹלַ֥עַת שָׁנִ֖י וְשֵׁ֥שׁ וְעִזִּֽים׃",
-        "text": null
+        "number": "10-11",
+        "hebrew": "וְעָשׂ֥וּ אֲר֖וֹן עֲצֵ֣י שִׁטִּ֑ים אַמָּתַ֨יִם וָחֵ֜צִי אָרְכּ֗וֹ וְאַמָּ֤ה וָחֵ֨צִי֙ רָחְבּ֔וֹ וְאַמָּ֥ה וָחֵ֖צִי קֹמָתֽוֹ׃ וְצִפִּיתָ֤ אֹתוֹ֙ זָהָ֣ב טָה֔וֹר מִבַּ֥יִת וּמִח֖וּץ תְּצַפֶּ֑נּוּ וְעָשִׂ֧יתָ עָלָ֛יו זֵ֥ר זָהָ֖ב סָבִֽיב׃",
+        "text": "Harán también un arca de madera de acacia, cuya longitud será de dos codos y medio, su anchura de codo y medio, y su altura de codo y medio. Y la cubrirás de oro puro; por dentro y por fuera la cubrirás; y harás sobre ella una cornisa de oro alrededor."
       },
       {
-        "number": "5",
-        "hebrew": "וְעֹרֹ֨ת אֵילִ֧ם מְאָדָּמִ֛ים וְעֹרֹ֥ת תְּחָשִׁ֖ים וַעֲצֵ֥י שִׁטִּֽים׃",
-        "text": null
+        "number": "12-14",
+        "hebrew": "וְיָצַ֣קְתָּ לּ֗וֹ אַרְבַּע֙ טַבְּעֹ֣ת זָהָ֔ב וְנָ֣תַתָּ֔ה עַ֖ל אַרְבַּ֣ע פַּעֲמֹתָ֑יו וּשְׁתֵּ֣י טַבָּעֹ֗ת עַל־ צַלְעוֹ֙ הָֽאֶחָ֔ת וּשְׁתֵּי֙ טַבָּעֹ֔ת עַל־ צַלְע֖וֹ הַשֵּׁנִֽית׃ וְעָשִׂ֥יתָ בַדֵּ֖י עֲצֵ֣י שִׁטִּ֑ים וְצִפִּיתָ֥ אֹתָ֖ם זָהָֽב׃ וְהֵֽבֵאתָ֤ אֶת־ הַבַּדִּים֙ בַּטַּבָּעֹ֔ת עַ֖ל צַלְעֹ֣ת הָאָרֹ֑ן לָשֵׂ֥את אֶת־ הָאָרֹ֖ן בָּהֶֽם׃",
+        "text": "Y fundirás para ella cuatro anillos de oro, que pondrás en sus cuatro esquinas; dos anillos a un lado de ella, y dos anillos al otro lado. Y harás varas de madera de acacia, las cuales cubrirás de oro. Y meterás las varas por los anillos a los lados del arca, para llevar el arca con ellas."
       },
       {
-        "number": "6",
-        "hebrew": "שֶׁ֖מֶן לַמָּאֹ֑ר בְּשָׂמִים֙ לְשֶׁ֣מֶן הַמִּשְׁחָ֔ה וְלִקְטֹ֖רֶת הַסַּמִּֽים׃",
-        "text": null
+        "number": "15-16",
+        "hebrew": "בְּטַבְּעֹת֙ הָאָרֹ֔ן יִהְי֖וּ הַבַּדִּ֑ים לֹ֥א יָסֻ֖רוּ מִמֶּֽנּוּ׃ וְנָתַתָּ֖ אֶל־ הָאָרֹ֑ן אֵ֚ת הָעֵדֻ֔ת אֲשֶׁ֥ר אֶתֵּ֖ן אֵלֶֽיךָ׃",
+        "text": "Las varas quedarán en los anillos del arca; no se quitarán de ella. Y pondrás en el arca el testimonio que yo te daré."
       },
       {
-        "number": "7",
-        "hebrew": "אַבְנֵי־ שֹׁ֕הַם וְאַבְנֵ֖י מִלֻּאִ֑ים לָאֵפֹ֖ד וְלַחֹֽשֶׁן׃",
-        "text": null
+        "number": "17-19",
+        "hebrew": "וְעָשִׂ֥יתָ כַפֹּ֖רֶת זָהָ֣ב טָה֑וֹר אַמָּתַ֤יִם וָחֵ֨צִי֙ אָרְכָּ֔הּ וְאַמָּ֥ה וָחֵ֖צִי רָחְבָּֽהּ׃ וְעָשִׂ֛יתָ שְׁנַ֥יִם כְּרֻבִ֖ים זָהָ֑ב מִקְשָׁה֙ תַּעֲשֶׂ֣ה אֹתָ֔ם מִשְּׁנֵ֖י קְצ֥וֹת הַכַּפֹּֽרֶת׃ וַ֠עֲשֵׂה כְּר֨וּב אֶחָ֤ד מִקָּצָה֙ מִזֶּ֔ה וּכְרוּב־ אֶחָ֥ד מִקָּצָ֖ה מִזֶּ֑ה מִן־ הַכַּפֹּ֛רֶת תַּעֲשׂ֥וּ אֶת־ הַכְּרֻבִ֖ים עַל־ שְׁנֵ֥י קְצוֹתָֽיו׃",
+        "text": "Y harás un propiciatorio¹¹⁵ de oro fino, cuya longitud será de dos codos y medio, y su anchura de codo y medio. Y harás dos querubines¹¹⁶ de oro, labrados a martillo, en los dos extremos del propiciatorio. Harás, pues, un querubín en un extremo, y un querubín en el otro extremo; de una pieza con el propiciatorio harás los querubines en sus dos extremos."
       },
       {
-        "number": "8",
-        "hebrew": "וְעָ֥שׂוּ לִ֖י מִקְדָּ֑שׁ וְשָׁכַנְתִּ֖י בְּתוֹכָֽם׃",
-        "text": null
+        "number": "20-22",
+        "hebrew": "וְהָי֣וּ הַכְּרֻבִים֩ פֹּרְשֵׂ֨י כְנָפַ֜יִם לְמַ֗עְלָה סֹכְכִ֤ים בְּכַנְפֵיהֶם֙ עַל־ הַכַּפֹּ֔רֶת וּפְנֵיהֶ֖ם אִ֣ישׁ אֶל־ אָחִ֑יו אֶל־ הַכַּפֹּ֔רֶת יִהְי֖וּ פְּנֵ֥י הַכְּרֻבִֽים׃ וְנָתַתָּ֧ אֶת־ הַכַּפֹּ֛רֶת עַל־ הָאָרֹ֖ן מִלְמָ֑עְלָה וְאֶל־ הָ֣אָרֹ֔ן תִּתֵּן֙ אֶת־ הָ֣עֵדֻ֔ת אֲשֶׁ֥ר אֶתֵּ֖ן אֵלֶֽיךָ׃ וְנוֹעַדְתִּ֣י לְךָ֮ שָׁם֒ וְדִבַּרְתִּ֨י אִתְּךָ֜ מֵעַ֣ל הַכַּפֹּ֗רֶת מִבֵּין֙ שְׁנֵ֣י הַכְּרֻבִ֔ים אֲשֶׁ֖ר עַל־ אֲרֹ֣ן הָעֵדֻ֑ת אֵ֣ת כָּל־ אֲשֶׁ֧ר אֲצַוֶּ֛ה אוֹתְךָ֖ אֶל־ בְּנֵ֥י יִשְׂרָאֵֽל׃ פ",
+        "text": "Y los querubines extenderán sus alas por encima, cubriendo con ellas el propiciatorio; sus rostros el uno hacia el otro, mirando al propiciatorio los rostros de los querubines. Y pondrás el propiciatorio encima del arca, y en el arca pondrás el testimonio que yo te daré. Y de allí me encontraré contigo, y hablaré contigo de sobre el propiciatorio, de entre los dos querubines que están sobre el arca del testimonio, todo lo que yo te mande para los hijos de Israel."
       },
       {
-        "number": "9",
-        "hebrew": "כְּכֹ֗ל אֲשֶׁ֤ר אֲנִי֙ מַרְאֶ֣ה אוֹתְךָ֔ אֵ֚ת תַּבְנִ֣ית הַמִּשְׁכָּ֔ן וְאֵ֖ת תַּבְנִ֣ית כָּל־ כֵּלָ֑יו וְכֵ֖ן תַּעֲשֽׂוּ׃ ס",
-        "text": null
+        "number": "23-24",
+        "hebrew": "וְעָשִׂ֥יתָ שֻׁלְחָ֖ן עֲצֵ֣י שִׁטִּ֑ים אַמָּתַ֤יִם אָרְכּוֹ֙ וְאַמָּ֣ה רָחְבּ֔וֹ וְאַמָּ֥ה וָחֵ֖צִי קֹמָתֽוֹ׃ וְצִפִּיתָ֥ אֹת֖וֹ זָהָ֣ב טָה֑וֹר וְעָשִׂ֥יתָ לּ֛וֹ זֵ֥ר זָהָ֖ב סָבִֽיב׃",
+        "text": "Harás asimismo una mesa de madera de acacia; su longitud de dos codos, y de un codo su anchura, y su altura de codo y medio. Y la cubrirás de oro puro, y le harás una cornisa de oro alrededor."
       },
       {
-        "number": "10",
-        "hebrew": "וְעָשׂ֥וּ אֲר֖וֹן עֲצֵ֣י שִׁטִּ֑ים אַמָּתַ֨יִם וָחֵ֜צִי אָרְכּ֗וֹ וְאַמָּ֤ה וָחֵ֨צִי֙ רָחְבּ֔וֹ וְאַמָּ֥ה וָחֵ֖צִי קֹמָתֽוֹ׃",
-        "text": null
+        "number": "25-28",
+        "hebrew": "וְעָשִׂ֨יתָ לּ֥וֹ מִסְגֶּ֛רֶת טֹ֖פַח סָבִ֑יב וְעָשִׂ֧יתָ זֵר־ זָהָ֛ב לְמִסְגַּרְתּ֖וֹ סָבִֽיב׃ וְעָשִׂ֣יתָ לּ֔וֹ אַרְבַּ֖ע טַבְּעֹ֣ת זָהָ֑ב וְנָתַתָּ֙ אֶת־ הַטַּבָּעֹ֔ת עַ֚ל אַרְבַּ֣ע הַפֵּאֹ֔ת אֲשֶׁ֖ר לְאַרְבַּ֥ע רַגְלָֽיו׃ לְעֻמַּת֙ הַמִּסְגֶּ֔רֶת תִּהְיֶ֖יןָ הַטַּבָּעֹ֑ת לְבָתִּ֣ים לְבַדִּ֔ים לָשֵׂ֖את אֶת־ הַשֻּׁלְחָֽן׃ וְעָשִׂ֤יתָ אֶת־ הַבַּדִּים֙ עֲצֵ֣י שִׁטִּ֔ים וְצִפִּיתָ֥ אֹתָ֖ם זָהָ֑ב וְנִשָּׂא־ בָ֖ם אֶת־ הַשֻּׁלְחָֽן׃",
+        "text": "Le harás también una moldura alrededor, de un palmo menor de anchura, y harás a la moldura una cornisa de oro alrededor. Y le harás cuatro anillos de oro, los cuales pondrás en las cuatro esquinas que corresponden a sus cuatro patas. Los anillos estarán junto a la moldura, por lugares de las varas, para llevar la mesa. Y harás las varas de madera de acacia, y las cubrirás de oro, y con ellas será llevada la mesa."
       },
       {
-        "number": "11",
-        "hebrew": "וְצִפִּיתָ֤ אֹתוֹ֙ זָהָ֣ב טָה֔וֹר מִבַּ֥יִת וּמִח֖וּץ תְּצַפֶּ֑נּוּ וְעָשִׂ֧יתָ עָלָ֛יו זֵ֥ר זָהָ֖ב סָבִֽיב׃",
-        "text": null
+        "number": "29-30",
+        "hebrew": "וְעָשִׂ֨יתָ קְּעָרֹתָ֜יו וְכַפֹּתָ֗יו וּקְשׂוֹתָיו֙ וּמְנַקִּיֹּתָ֔יו אֲשֶׁ֥ר יֻסַּ֖ךְ בָּהֵ֑ן זָהָ֥ב טָה֖וֹר תַּעֲשֶׂ֥ה אֹתָֽם׃ וְנָתַתָּ֧ עַֽל־ הַשֻּׁלְחָ֛ן לֶ֥חֶם פָּנִ֖ים לְפָנַ֥י תָּמִֽיד׃ פ",
+        "text": "Harás también sus platos, sus cucharas, sus cubiertas y sus tazones, con que se libará; de oro fino los harás. Y pondrás sobre la mesa el pan de la presencia¹¹⁷ delante de mí continuamente."
       },
       {
-        "number": "12",
-        "hebrew": "וְיָצַ֣קְתָּ לּ֗וֹ אַרְבַּע֙ טַבְּעֹ֣ת זָהָ֔ב וְנָ֣תַתָּ֔ה עַ֖ל אַרְבַּ֣ע פַּעֲמֹתָ֑יו וּשְׁתֵּ֣י טַבָּעֹ֗ת עַל־ צַלְעוֹ֙ הָֽאֶחָ֔ת וּשְׁתֵּי֙ טַבָּעֹ֔ת עַל־ צַלְע֖וֹ הַשֵּׁנִֽית׃",
-        "text": null
+        "number": "31-33",
+        "hebrew": "וְעָשִׂ֥יתָ מְנֹרַ֖ת זָהָ֣ב טָה֑וֹר מִקְשָׁ֞ה תֵּעָשֶׂ֤ה הַמְּנוֹרָה֙ יְרֵכָ֣הּ וְקָנָ֔הּ גְּבִיעֶ֛יהָ כַּפְתֹּרֶ֥יהָ וּפְרָחֶ֖יהָ מִמֶּ֥נָּה יִהְיֽוּ׃ וְשִׁשָּׁ֣ה קָנִ֔ים יֹצְאִ֖ים מִצִּדֶּ֑יהָ שְׁלֹשָׁ֣ה ׀ קְנֵ֣י מְנֹרָ֗ה מִצִּדָּהּ֙ הָאֶחָ֔ד וּשְׁלֹשָׁה֙ קְנֵ֣י מְנֹרָ֔ה מִצִּדָּ֖הּ הַשֵּׁנִֽי׃ שְׁלֹשָׁ֣ה גְ֠בִעִים מְֽשֻׁקָּדִ֞ים בַּקָּנֶ֣ה הָאֶחָד֮ כַּפְתֹּ֣ר וָפֶרַח֒ וּשְׁלֹשָׁ֣ה גְבִעִ֗ים מְשֻׁקָּדִ֛ים בַּקָּנֶ֥ה הָאֶחָ֖ד כַּפְתֹּ֣ר וָפָ֑רַח כֵּ֚ן לְשֵׁ֣שֶׁת הַקָּנִ֔ים הַיֹּצְאִ֖ים מִן־ הַמְּנֹרָֽה׃",
+        "text": "Harás además un candelero de oro puro; labrado a martillo se hará el candelero; su pie, su caña, sus copas, sus manzanas y sus flores, serán de lo mismo. Y saldrán seis brazos de sus lados: tres brazos del candelero a un lado, y tres brazos del candelero al otro lado. Tres copas en forma de flor de almendro en un brazo, una manzana y una flor; y tres copas en forma de flor de almendro en otro brazo, una manzana y una flor; así los seis brazos que salen del candelero."
       },
       {
-        "number": "13",
-        "hebrew": "וְעָשִׂ֥יתָ בַדֵּ֖י עֲצֵ֣י שִׁטִּ֑ים וְצִפִּיתָ֥ אֹתָ֖ם זָהָֽב׃",
-        "text": null
+        "number": "34-36",
+        "hebrew": "וּבַמְּנֹרָ֖ה אַרְבָּעָ֣ה גְבִעִ֑ים מְשֻׁקָּדִ֔ים כַּפְתֹּרֶ֖יהָ וּפְרָחֶֽיהָ׃ וְכַפְתֹּ֡ר תַּחַת֩ שְׁנֵ֨י הַקָּנִ֜ים מִמֶּ֗נָּה וְכַפְתֹּר֙ תַּ֣חַת שְׁנֵ֤י הַקָּנִים֙ מִמֶּ֔נָּה וְכַפְתֹּ֕ר תַּחַת־ שְׁנֵ֥י הַקָּנִ֖ים מִמֶּ֑נָּה לְשֵׁ֨שֶׁת֙ הַקָּנִ֔ים הַיֹּצְאִ֖ים מִן־ הַמְּנֹרָֽה׃ כַּפְתֹּרֵיהֶ֥ם וּקְנֹתָ֖ם מִמֶּ֣נָּה יִהְי֑וּ כֻּלָּ֛הּ מִקְשָׁ֥ה אַחַ֖ת זָהָ֥ב טָהֽוֹר׃",
+        "text": "Y en el candelero mismo cuatro copas en forma de flor de almendro, sus manzanas y sus flores. Y una manzana debajo de los dos brazos de la misma pieza, y una manzana debajo de otros dos brazos de la misma pieza, y una manzana debajo de otros dos brazos de la misma pieza, así para los seis brazos que salen del candelero. Sus manzanas y sus brazos serán de una pieza, todo ello una pieza labrada a martillo, de oro puro."
       },
       {
-        "number": "14",
-        "hebrew": "וְהֵֽבֵאתָ֤ אֶת־ הַבַּדִּים֙ בַּטַּבָּעֹ֔ת עַ֖ל צַלְעֹ֣ת הָאָרֹ֑ן לָשֵׂ֥את אֶת־ הָאָרֹ֖ן בָּהֶֽם׃",
-        "text": null
-      },
-      {
-        "number": "15",
-        "hebrew": "בְּטַבְּעֹת֙ הָאָרֹ֔ן יִהְי֖וּ הַבַּדִּ֑ים לֹ֥א יָסֻ֖רוּ מִמֶּֽנּוּ׃",
-        "text": null
-      },
-      {
-        "number": "16",
-        "hebrew": "וְנָתַתָּ֖ אֶל־ הָאָרֹ֑ן אֵ֚ת הָעֵדֻ֔ת אֲשֶׁ֥ר אֶתֵּ֖ן אֵלֶֽיךָ׃",
-        "text": null
-      },
-      {
-        "number": "17",
-        "hebrew": "וְעָשִׂ֥יתָ כַפֹּ֖רֶת זָהָ֣ב טָה֑וֹר אַמָּתַ֤יִם וָחֵ֨צִי֙ אָרְכָּ֔הּ וְאַמָּ֥ה וָחֵ֖צִי רָחְבָּֽהּ׃",
-        "text": null
-      },
-      {
-        "number": "18",
-        "hebrew": "וְעָשִׂ֛יתָ שְׁנַ֥יִם כְּרֻבִ֖ים זָהָ֑ב מִקְשָׁה֙ תַּעֲשֶׂ֣ה אֹתָ֔ם מִשְּׁנֵ֖י קְצ֥וֹת הַכַּפֹּֽרֶת׃",
-        "text": null
-      },
-      {
-        "number": "19",
-        "hebrew": "וַ֠עֲשֵׂה כְּר֨וּב אֶחָ֤ד מִקָּצָה֙ מִזֶּ֔ה וּכְרוּב־ אֶחָ֥ד מִקָּצָ֖ה מִזֶּ֑ה מִן־ הַכַּפֹּ֛רֶת תַּעֲשׂ֥וּ אֶת־ הַכְּרֻבִ֖ים עַל־ שְׁנֵ֥י קְצוֹתָֽיו׃",
-        "text": null
-      },
-      {
-        "number": "20",
-        "hebrew": "וְהָי֣וּ הַכְּרֻבִים֩ פֹּרְשֵׂ֨י כְנָפַ֜יִם לְמַ֗עְלָה סֹכְכִ֤ים בְּכַנְפֵיהֶם֙ עַל־ הַכַּפֹּ֔רֶת וּפְנֵיהֶ֖ם אִ֣ישׁ אֶל־ אָחִ֑יו אֶל־ הַכַּפֹּ֔רֶת יִהְי֖וּ פְּנֵ֥י הַכְּרֻבִֽים׃",
-        "text": null
-      },
-      {
-        "number": "21",
-        "hebrew": "וְנָתַתָּ֧ אֶת־ הַכַּפֹּ֛רֶת עַל־ הָאָרֹ֖ן מִלְמָ֑עְלָה וְאֶל־ הָ֣אָרֹ֔ן תִּתֵּן֙ אֶת־ הָ֣עֵדֻ֔ת אֲשֶׁ֥ר אֶתֵּ֖ן אֵלֶֽיךָ׃",
-        "text": null
-      },
-      {
-        "number": "22",
-        "hebrew": "וְנוֹעַדְתִּ֣י לְךָ֮ שָׁם֒ וְדִבַּרְתִּ֨י אִתְּךָ֜ מֵעַ֣ל הַכַּפֹּ֗רֶת מִבֵּין֙ שְׁנֵ֣י הַכְּרֻבִ֔ים אֲשֶׁ֖ר עַל־ אֲרֹ֣ן הָעֵדֻ֑ת אֵ֣ת כָּל־ אֲשֶׁ֧ר אֲצַוֶּ֛ה אוֹתְךָ֖ אֶל־ בְּנֵ֥י יִשְׂרָאֵֽל׃ פ",
-        "text": null
-      },
-      {
-        "number": "23",
-        "hebrew": "וְעָשִׂ֥יתָ שֻׁלְחָ֖ן עֲצֵ֣י שִׁטִּ֑ים אַמָּתַ֤יִם אָרְכּוֹ֙ וְאַמָּ֣ה רָחְבּ֔וֹ וְאַמָּ֥ה וָחֵ֖צִי קֹמָתֽוֹ׃",
-        "text": null
-      },
-      {
-        "number": "24",
-        "hebrew": "וְצִפִּיתָ֥ אֹת֖וֹ זָהָ֣ב טָה֑וֹר וְעָשִׂ֥יתָ לּ֛וֹ זֵ֥ר זָהָ֖ב סָבִֽיב׃",
-        "text": null
-      },
-      {
-        "number": "25",
-        "hebrew": "וְעָשִׂ֨יתָ לּ֥וֹ מִסְגֶּ֛רֶת טֹ֖פַח סָבִ֑יב וְעָשִׂ֧יתָ זֵר־ זָהָ֛ב לְמִסְגַּרְתּ֖וֹ סָבִֽיב׃",
-        "text": null
-      },
-      {
-        "number": "26",
-        "hebrew": "וְעָשִׂ֣יתָ לּ֔וֹ אַרְבַּ֖ע טַבְּעֹ֣ת זָהָ֑ב וְנָתַתָּ֙ אֶת־ הַטַּבָּעֹ֔ת עַ֚ל אַרְבַּ֣ע הַפֵּאֹ֔ת אֲשֶׁ֖ר לְאַרְבַּ֥ע רַגְלָֽיו׃",
-        "text": null
-      },
-      {
-        "number": "27",
-        "hebrew": "לְעֻמַּת֙ הַמִּסְגֶּ֔רֶת תִּהְיֶ֖יןָ הַטַּבָּעֹ֑ת לְבָתִּ֣ים לְבַדִּ֔ים לָשֵׂ֖את אֶת־ הַשֻּׁלְחָֽן׃",
-        "text": null
-      },
-      {
-        "number": "28",
-        "hebrew": "וְעָשִׂ֤יתָ אֶת־ הַבַּדִּים֙ עֲצֵ֣י שִׁטִּ֔ים וְצִפִּיתָ֥ אֹתָ֖ם זָהָ֑ב וְנִשָּׂא־ בָ֖ם אֶת־ הַשֻּׁלְחָֽן׃",
-        "text": null
-      },
-      {
-        "number": "29",
-        "hebrew": "וְעָשִׂ֨יתָ קְּעָרֹתָ֜יו וְכַפֹּתָ֗יו וּקְשׂוֹתָיו֙ וּמְנַקִּיֹּתָ֔יו אֲשֶׁ֥ר יֻסַּ֖ךְ בָּהֵ֑ן זָהָ֥ב טָה֖וֹר תַּעֲשֶׂ֥ה אֹתָֽם׃",
-        "text": null
-      },
-      {
-        "number": "30",
-        "hebrew": "וְנָתַתָּ֧ עַֽל־ הַשֻּׁלְחָ֛ן לֶ֥חֶם פָּנִ֖ים לְפָנַ֥י תָּמִֽיד׃ פ",
-        "text": null
-      },
-      {
-        "number": "31",
-        "hebrew": "וְעָשִׂ֥יתָ מְנֹרַ֖ת זָהָ֣ב טָה֑וֹר מִקְשָׁ֞ה תֵּעָשֶׂ֤ה הַמְּנוֹרָה֙ יְרֵכָ֣הּ וְקָנָ֔הּ גְּבִיעֶ֛יהָ כַּפְתֹּרֶ֥יהָ וּפְרָחֶ֖יהָ מִמֶּ֥נָּה יִהְיֽוּ׃",
-        "text": null
-      },
-      {
-        "number": "32",
-        "hebrew": "וְשִׁשָּׁ֣ה קָנִ֔ים יֹצְאִ֖ים מִצִּדֶּ֑יהָ שְׁלֹשָׁ֣ה ׀ קְנֵ֣י מְנֹרָ֗ה מִצִּדָּהּ֙ הָאֶחָ֔ד וּשְׁלֹשָׁה֙ קְנֵ֣י מְנֹרָ֔ה מִצִּדָּ֖הּ הַשֵּׁנִֽי׃",
-        "text": null
-      },
-      {
-        "number": "33",
-        "hebrew": "שְׁלֹשָׁ֣ה גְ֠בִעִים מְֽשֻׁקָּדִ֞ים בַּקָּנֶ֣ה הָאֶחָד֮ כַּפְתֹּ֣ר וָפֶרַח֒ וּשְׁלֹשָׁ֣ה גְבִעִ֗ים מְשֻׁקָּדִ֛ים בַּקָּנֶ֥ה הָאֶחָ֖ד כַּפְתֹּ֣ר וָפָ֑רַח כֵּ֚ן לְשֵׁ֣שֶׁת הַקָּנִ֔ים הַיֹּצְאִ֖ים מִן־ הַמְּנֹרָֽה׃",
-        "text": null
-      },
-      {
-        "number": "34",
-        "hebrew": "וּבַמְּנֹרָ֖ה אַרְבָּעָ֣ה גְבִעִ֑ים מְשֻׁקָּדִ֔ים כַּפְתֹּרֶ֖יהָ וּפְרָחֶֽיהָ׃",
-        "text": null
-      },
-      {
-        "number": "35",
-        "hebrew": "וְכַפְתֹּ֡ר תַּחַת֩ שְׁנֵ֨י הַקָּנִ֜ים מִמֶּ֗נָּה וְכַפְתֹּר֙ תַּ֣חַת שְׁנֵ֤י הַקָּנִים֙ מִמֶּ֔נָּה וְכַפְתֹּ֕ר תַּחַת־ שְׁנֵ֥י הַקָּנִ֖ים מִמֶּ֑נָּה לְשֵׁ֨שֶׁת֙ הַקָּנִ֔ים הַיֹּצְאִ֖ים מִן־ הַמְּנֹרָֽה׃",
-        "text": null
-      },
-      {
-        "number": "36",
-        "hebrew": "כַּפְתֹּרֵיהֶ֥ם וּקְנֹתָ֖ם מִמֶּ֣נָּה יִהְי֑וּ כֻּלָּ֛הּ מִקְשָׁ֥ה אַחַ֖ת זָהָ֥ב טָהֽוֹר׃",
-        "text": null
-      },
-      {
-        "number": "37",
-        "hebrew": "וְעָשִׂ֥יתָ אֶת־ נֵרֹתֶ֖יהָ שִׁבְעָ֑ה וְהֶֽעֱלָה֙ אֶת־ נֵ֣רֹתֶ֔יהָ וְהֵאִ֖יר עַל־ עֵ֥בֶר פָּנֶֽיהָ׃",
-        "text": null
-      },
-      {
-        "number": "38",
-        "hebrew": "וּמַלְקָחֶ֥יהָ וּמַחְתֹּתֶ֖יהָ זָהָ֥ב טָהֽוֹר׃",
-        "text": null
-      },
-      {
-        "number": "39",
-        "hebrew": "כִּכָּ֛ר זָהָ֥ב טָה֖וֹר יַעֲשֶׂ֣ה אֹתָ֑הּ אֵ֥ת כָּל־ הַכֵּלִ֖ים הָאֵֽלֶּה׃",
-        "text": null
-      },
-      {
-        "number": "40",
-        "hebrew": "וּרְאֵ֖ה וַעֲשֵׂ֑ה בְּתַ֨בְנִיתָ֔ם אֲשֶׁר־ אַתָּ֥ה מָרְאֶ֖ה בָּהָֽר׃ ס",
-        "text": null
+        "number": "37-40",
+        "hebrew": "וְעָשִׂ֥יתָ אֶת־ נֵרֹתֶ֖יהָ שִׁבְעָ֑ה וְהֶֽעֱלָה֙ אֶת־ נֵ֣רֹתֶ֔יהָ וְהֵאִ֖יר עַל־ עֵ֥בֶר פָּנֶֽיהָ׃ וּמַלְקָחֶ֥יהָ וּמַחְתֹּתֶ֖יהָ זָהָ֥ב טָהֽוֹר׃ כִּכָּ֛ר זָהָ֥ב טָה֖וֹר יַעֲשֶׂ֣ה אֹתָ֑הּ אֵ֥ת כָּל־ הַכֵּלִ֖ים הָאֵֽלֶּה׃ וּרְאֵ֖ה וַעֲשֵׂ֑ה בְּתַ֨בְנִיתָ֔ם אֲשֶׁר־ אַתָּ֥ה מָרְאֶ֖ה בָּהָֽר׃ ס",
+        "text": "Y le harás siete lámparas, las cuales encenderás para que alumbren hacia adelante. También sus despabiladeras y sus platillos, de oro puro. De un talento de oro fino lo harás, con todos estos utensilios. Mira, y hazlos conforme al modelo que te ha sido mostrado en el monte."
       }
     ],
     "26": [
       {
-        "number": "1",
-        "hebrew": "וְאֶת־ הַמִּשְׁכָּ֥ן תַּעֲשֶׂ֖ה עֶ֣שֶׂר יְרִיעֹ֑ת שֵׁ֣שׁ מָשְׁזָ֗ר וּתְכֵ֤לֶת וְאַרְגָּמָן֙ וְתֹלַ֣עַת שָׁנִ֔י כְּרֻבִ֛ים מַעֲשֵׂ֥ה חֹשֵׁ֖ב תַּעֲשֶׂ֥ה אֹתָֽם׃",
-        "text": null
+        "number": "1-3",
+        "hebrew": "וְאֶת־ הַמִּשְׁכָּ֥ן תַּעֲשֶׂ֖ה עֶ֣שֶׂר יְרִיעֹ֑ת שֵׁ֣שׁ מָשְׁזָ֗ר וּתְכֵ֤לֶת וְאַרְגָּמָן֙ וְתֹלַ֣עַת שָׁנִ֔י כְּרֻבִ֛ים מַעֲשֵׂ֥ה חֹשֵׁ֖ב תַּעֲשֶׂ֥ה אֹתָֽם׃ אֹ֣רֶךְ ׀ הַיְרִיעָ֣ה הָֽאַחַ֗ת שְׁמֹנֶ֤ה וְעֶשְׂרִים֙ בָּֽאַמָּ֔ה וְרֹ֨חַב֙ אַרְבַּ֣ע בָּאַמָּ֔ה הַיְרִיעָ֖ה הָאֶחָ֑ת מִדָּ֥ה אַחַ֖ת לְכָל־ הַיְרִיעֹֽת׃ חֲמֵ֣שׁ הַיְרִיעֹ֗ת תִּֽהְיֶ֨יןָ֙ חֹֽבְרֹ֔ת אִשָּׁ֖ה אֶל־ אֲחֹתָ֑הּ וְחָמֵ֤שׁ יְרִיעֹת֙ חֹֽבְרֹ֔ת אִשָּׁ֖ה אֶל־ אֲחֹתָֽהּ׃",
+        "text": "Harás además el tabernáculo de diez cortinas de lino torcido, azul, púrpura y carmesí; y harás querubines de obra primorosa. La longitud de una cortina será de veintiocho codos, y su ancho de cuatro codos; todas las cortinas tendrán una misma medida. Cinco cortinas estarán unidas la una con la otra, y las otras cinco cortinas unidas la una con la otra."
       },
       {
-        "number": "2",
-        "hebrew": "אֹ֣רֶךְ ׀ הַיְרִיעָ֣ה הָֽאַחַ֗ת שְׁמֹנֶ֤ה וְעֶשְׂרִים֙ בָּֽאַמָּ֔ה וְרֹ֨חַב֙ אַרְבַּ֣ע בָּאַמָּ֔ה הַיְרִיעָ֖ה הָאֶחָ֑ת מִדָּ֥ה אַחַ֖ת לְכָל־ הַיְרִיעֹֽת׃",
-        "text": null
+        "number": "4-6",
+        "hebrew": "וְעָשִׂ֜יתָ לֻֽלְאֹ֣ת תְּכֵ֗לֶת עַ֣ל שְׂפַ֤ת הַיְרִיעָה֙ הָאֶחָ֔ת מִקָּצָ֖ה בַּחֹבָ֑רֶת וְכֵ֤ן תַּעֲשֶׂה֙ בִּשְׂפַ֣ת הַיְרִיעָ֔ה הַקִּ֣יצוֹנָ֔ה בַּמַּחְבֶּ֖רֶת הַשֵּׁנִֽית׃ חֲמִשִּׁ֣ים לֻֽלָאֹ֗ת תַּעֲשֶׂה֮ בַּיְרִיעָ֣ה הָאֶחָת֒ וַחֲמִשִּׁ֣ים לֻֽלָאֹ֗ת תַּעֲשֶׂה֙ בִּקְצֵ֣ה הַיְרִיעָ֔ה אֲשֶׁ֖ר בַּמַּחְבֶּ֣רֶת הַשֵּׁנִ֑ית מַקְבִּילֹת֙ הַלֻּ֣לָאֹ֔ת אִשָּׁ֖ה אֶל־ אֲחֹתָֽהּ׃ וְעָשִׂ֕יתָ חֲמִשִּׁ֖ים קַרְסֵ֣י זָהָ֑ב וְחִבַּרְתָּ֨ אֶת־ הַיְרִיעֹ֜ת אִשָּׁ֤ה אֶל־ אֲחֹתָהּ֙ בַּקְּרָסִ֔ים וְהָיָ֥ה הַמִּשְׁכָּ֖ן אֶחָֽד׃ פ",
+        "text": "Y harás lazadas de azul en la orilla de la última cortina de la primera unión, y otro tanto harás en la orilla de la cortina en la segunda unión. Cincuenta lazadas harás en la primera cortina, y cincuenta lazadas harás en la orilla de la cortina que está en la segunda unión, para que las lazadas se correspondan la una con la otra. Harás también cincuenta corchetes de oro, con los cuales enlazarás las cortinas la una con la otra, y se formará un tabernáculo."
       },
       {
-        "number": "3",
-        "hebrew": "חֲמֵ֣שׁ הַיְרִיעֹ֗ת תִּֽהְיֶ֨יןָ֙ חֹֽבְרֹ֔ת אִשָּׁ֖ה אֶל־ אֲחֹתָ֑הּ וְחָמֵ֤שׁ יְרִיעֹת֙ חֹֽבְרֹ֔ת אִשָּׁ֖ה אֶל־ אֲחֹתָֽהּ׃",
-        "text": null
+        "number": "7-9",
+        "hebrew": "וְעָשִׂ֨יתָ֙ יְרִיעֹ֣ת עִזִּ֔ים לְאֹ֖הֶל עַל־ הַמִּשְׁכָּ֑ן עַשְׁתֵּי־ עֶשְׂרֵ֥ה יְרִיעֹ֖ת תַּעֲשֶׂ֥ה אֹתָֽם׃ אֹ֣רֶךְ ׀ הַיְרִיעָ֣ה הָֽאַחַ֗ת שְׁלֹשִׁים֙ בָּֽאַמָּ֔ה וְרֹ֨חַב֙ אַרְבַּ֣ע בָּאַמָּ֔ה הַיְרִיעָ֖ה הָאֶחָ֑ת מִדָּ֣ה אַחַ֔ת לְעַשְׁתֵּ֥י עֶשְׂרֵ֖ה יְרִיעֹֽת׃ וְחִבַּרְתָּ֞ אֶת־ חֲמֵ֤שׁ הַיְרִיעֹת֙ לְבָ֔ד וְאֶת־ שֵׁ֥שׁ הַיְרִיעֹ֖ת לְבָ֑ד וְכָפַלְתָּ֙ אֶת־ הַיְרִיעָ֣ה הַשִּׁשִּׁ֔ית אֶל־ מ֖וּל פְּנֵ֥י הָאֹֽהֶל׃",
+        "text": "Harás asimismo cortinas de pelo de cabras para una cubierta sobre el tabernáculo; once cortinas harás. La longitud de cada cortina de treinta codos, y la anchura de cada cortina de cuatro codos; las once cortinas tendrán una misma medida. Y unirás las cinco cortinas aparte, y las otras seis cortinas aparte; y doblarás la sexta cortina en el frente del tabernáculo."
       },
       {
-        "number": "4",
-        "hebrew": "וְעָשִׂ֜יתָ לֻֽלְאֹ֣ת תְּכֵ֗לֶת עַ֣ל שְׂפַ֤ת הַיְרִיעָה֙ הָאֶחָ֔ת מִקָּצָ֖ה בַּחֹבָ֑רֶת וְכֵ֤ן תַּעֲשֶׂה֙ בִּשְׂפַ֣ת הַיְרִיעָ֔ה הַקִּ֣יצוֹנָ֔ה בַּמַּחְבֶּ֖רֶת הַשֵּׁנִֽית׃",
-        "text": null
+        "number": "10-14",
+        "hebrew": "וְעָשִׂ֜יתָ חֲמִשִּׁ֣ים לֻֽלָאֹ֗ת עַ֣ל שְׂפַ֤ת הַיְרִיעָה֙ הָֽאֶחָ֔ת הַקִּיצֹנָ֖ה בַּחֹבָ֑רֶת וַחֲמִשִּׁ֣ים לֻֽלָאֹ֗ת עַ֚ל שְׂפַ֣ת הַיְרִיעָ֔ה הַחֹבֶ֖רֶת הַשֵּׁנִֽית׃ וְעָשִׂ֛יתָ קַרְסֵ֥י נְחֹ֖שֶׁת חֲמִשִּׁ֑ים וְהֵבֵאתָ֤ אֶת־ הַקְּרָסִים֙ בַּלֻּ֣לָאֹ֔ת וְחִבַּרְתָּ֥ אֶת־ הָאֹ֖הֶל וְהָיָ֥ה אֶחָֽד׃ וְסֶ֨רַח֙ הָעֹדֵ֔ף בִּירִיעֹ֖ת הָאֹ֑הֶל חֲצִ֤י הַיְרִיעָה֙ הָעֹדֶ֔פֶת תִּסְרַ֕ח עַ֖ל אֲחֹרֵ֥י הַמִּשְׁכָּֽן׃ וְהָאַמָּ֨ה מִזֶּ֜ה וְהָאַמָּ֤ה מִזֶּה֙ בָּעֹדֵ֔ף בְּאֹ֖רֶךְ יְרִיעֹ֣ת הָאֹ֑הֶל יִהְיֶ֨ה סָר֜וּחַ עַל־ צִדֵּ֧י הַמִּשְׁכָּ֛ן מִזֶּ֥ה וּמִזֶּ֖ה לְכַסֹּתֽוֹ׃ וְעָשִׂ֤יתָ מִכְסֶה֙ לָאֹ֔הֶל עֹרֹ֥ת אֵילִ֖ם מְאָדָּמִ֑ים וּמִכְסֵ֛ה עֹרֹ֥ת תְּחָשִׁ֖ים מִלְמָֽעְלָה׃ פ",
+        "text": "Y harás cincuenta lazadas en la orilla de la cortina, en el borde de la primera unión, y cincuenta lazadas en la orilla de la cortina de la segunda unión. Harás asimismo cincuenta corchetes de bronce, los cuales meterás en las lazadas, y enlazarás las uniones para que se haga un cuerpo. Y el resto que sobra de las cortinas de la tienda, la mitad de la cortina que sobra, colgará a las espaldas del tabernáculo. Y un codo de un lado, y otro codo del otro que sobra en la longitud de las cortinas de la tienda, colgará sobre los lados del tabernáculo a un lado y al otro, para cubrirlo. Harás también a la tienda una cubierta de pieles de carneros teñidas de rojo, y una cubierta de pieles de tejones encima."
       },
       {
-        "number": "5",
-        "hebrew": "חֲמִשִּׁ֣ים לֻֽלָאֹ֗ת תַּעֲשֶׂה֮ בַּיְרִיעָ֣ה הָאֶחָת֒ וַחֲמִשִּׁ֣ים לֻֽלָאֹ֗ת תַּעֲשֶׂה֙ בִּקְצֵ֣ה הַיְרִיעָ֔ה אֲשֶׁ֖ר בַּמַּחְבֶּ֣רֶת הַשֵּׁנִ֑ית מַקְבִּילֹת֙ הַלֻּ֣לָאֹ֔ת אִשָּׁ֖ה אֶל־ אֲחֹתָֽהּ׃",
-        "text": null
+        "number": "15-17",
+        "hebrew": "וְעָשִׂ֥יתָ אֶת־ הַקְּרָשִׁ֖ים לַמִּשְׁכָּ֑ן עֲצֵ֥י שִׁטִּ֖ים עֹמְדִֽים׃ עֶ֥שֶׂר אַמּ֖וֹת אֹ֣רֶךְ הַקָּ֑רֶשׁ וְאַמָּה֙ וַחֲצִ֣י הָֽאַמָּ֔ה רֹ֖חַב הַקֶּ֥רֶשׁ הָאֶחָֽד׃ שְׁתֵּ֣י יָד֗וֹת לַקֶּ֨רֶשׁ֙ הָאֶחָ֔ד מְשֻׁלָּבֹ֔ת אִשָּׁ֖ה אֶל־ אֲחֹתָ֑הּ כֵּ֣ן תַּעֲשֶׂ֔ה לְכֹ֖ל קַרְשֵׁ֥י הַמִּשְׁכָּֽן׃",
+        "text": "Y harás para el tabernáculo tablas de madera de acacia, que estén derechas. La longitud de cada tabla será de diez codos, y de codo y medio la anchura. Dos espigas tendrá cada tabla, para ensamblarse una con otra; así harás todas las tablas del tabernáculo."
       },
       {
-        "number": "6",
-        "hebrew": "וְעָשִׂ֕יתָ חֲמִשִּׁ֖ים קַרְסֵ֣י זָהָ֑ב וְחִבַּרְתָּ֨ אֶת־ הַיְרִיעֹ֜ת אִשָּׁ֤ה אֶל־ אֲחֹתָהּ֙ בַּקְּרָסִ֔ים וְהָיָ֥ה הַמִּשְׁכָּ֖ן אֶחָֽד׃ פ",
-        "text": null
+        "number": "18-21",
+        "hebrew": "וְעָשִׂ֥יתָ אֶת־ הַקְּרָשִׁ֖ים לַמִּשְׁכָּ֑ן עֶשְׂרִ֣ים קֶ֔רֶשׁ לִפְאַ֖ת נֶ֥גְבָּה תֵימָֽנָה׃ וְאַרְבָּעִים֙ אַדְנֵי־ כֶ֔סֶף תַּעֲשֶׂ֕ה תַּ֖חַת עֶשְׂרִ֣ים הַקָּ֑רֶשׁ שְׁנֵ֨י אֲדָנִ֜ים תַּֽחַת־ הַקֶּ֤רֶשׁ הָאֶחָד֙ לִשְׁתֵּ֣י יְדֹתָ֔יו וּשְׁנֵ֧י אֲדָנִ֛ים תַּֽחַת־ הַקֶּ֥רֶשׁ הָאֶחָ֖ד לִשְׁתֵּ֥י יְדֹתָֽיו׃ וּלְצֶ֧לַע הַמִּשְׁכָּ֛ן הַשֵּׁנִ֖ית לִפְאַ֣ת צָפ֑וֹן עֶשְׂרִ֖ים קָֽרֶשׁ׃ וְאַרְבָּעִ֥ים אַדְנֵיהֶ֖ם כָּ֑סֶף שְׁנֵ֣י אֲדָנִ֗ים תַּ֚חַת הַקֶּ֣רֶשׁ הָֽאֶחָ֔ד וּשְׁנֵ֣י אֲדָנִ֔ים תַּ֖חַת הַקֶּ֥רֶשׁ הָאֶחָֽד׃",
+        "text": "Harás, pues, las tablas del tabernáculo: veinte tablas al lado del mediodía, al sur. Y harás cuarenta basas de plata debajo de las veinte tablas; dos basas debajo de cada tabla para sus dos espigas. Y las otras veinte tablas al otro lado, al lado norte, y sus cuarenta basas de plata; dos basas debajo de cada tabla, y dos basas debajo de la otra tabla."
       },
       {
-        "number": "7",
-        "hebrew": "וְעָשִׂ֨יתָ֙ יְרִיעֹ֣ת עִזִּ֔ים לְאֹ֖הֶל עַל־ הַמִּשְׁכָּ֑ן עַשְׁתֵּי־ עֶשְׂרֵ֥ה יְרִיעֹ֖ת תַּעֲשֶׂ֥ה אֹתָֽם׃",
-        "text": null
+        "number": "22-25",
+        "hebrew": "וּֽלְיַרְכְּתֵ֥י הַמִּשְׁכָּ֖ן יָ֑מָּה תַּעֲשֶׂ֖ה שִׁשָּׁ֥ה קְרָשִֽׁים׃ וּשְׁנֵ֤י קְרָשִׁים֙ תַּעֲשֶׂ֔ה לִמְקֻצְעֹ֖ת הַמִּשְׁכָּ֑ן בַּיַּרְכָתָֽיִם׃ וְיִֽהְי֣וּ תֹֽאֲמִים֮ מִלְּמַטָּה֒ וְיַחְדָּ֗ו יִהְי֤וּ תַמִּים֙ עַל־ רֹאשׁ֔וֹ אֶל־ הַטַּבַּ֖עַת הָאֶחָ֑ת כֵּ֚ן יִהְיֶ֣ה לִשְׁנֵיהֶ֔ם לִשְׁנֵ֥י הַמִּקְצֹעֹ֖ת יִהְיֽוּ׃ וְהָיוּ֙ שְׁמֹנָ֣ה קְרָשִׁ֔ים וְאַדְנֵיהֶ֣ם כֶּ֔סֶף שִׁשָּׁ֥ה עָשָׂ֖ר אֲדָנִ֑ים שְׁנֵ֣י אֲדָנִ֗ים תַּ֚חַת הַקֶּ֣רֶשׁ הָאֶחָ֔ד וּשְׁנֵ֣י אֲדָנִ֔ים תַּ֖חַת הַקֶּ֥רֶשׁ הָאֶחָֽד׃",
+        "text": "Y para el lado posterior del tabernáculo, al occidente, harás seis tablas. Harás además dos tablas para las esquinas del tabernáculo en los dos ángulos posteriores; las cuales se unirán desde abajo, y asimismo se juntarán por su alto a un gozne; así será para las dos, que serán para las dos esquinas. Serán, pues, ocho tablas, con sus basas de plata, dieciséis basas; dos basas debajo de cada tabla."
       },
       {
-        "number": "8",
-        "hebrew": "אֹ֣רֶךְ ׀ הַיְרִיעָ֣ה הָֽאַחַ֗ת שְׁלֹשִׁים֙ בָּֽאַמָּ֔ה וְרֹ֨חַב֙ אַרְבַּ֣ע בָּאַמָּ֔ה הַיְרִיעָ֖ה הָאֶחָ֑ת מִדָּ֣ה אַחַ֔ת לְעַשְׁתֵּ֥י עֶשְׂרֵ֖ה יְרִיעֹֽת׃",
-        "text": null
+        "number": "26-30",
+        "hebrew": "וְעָשִׂ֥יתָ בְרִיחִ֖ם עֲצֵ֣י שִׁטִּ֑ים חֲמִשָּׁ֕ה לְקַרְשֵׁ֥י צֶֽלַע־ הַמִּשְׁכָּ֖ן הָאֶחָֽד׃ וַחֲמִשָּׁ֣ה בְרִיחִ֔ם לְקַרְשֵׁ֥י צֶֽלַע־ הַמִּשְׁכָּ֖ן הַשֵּׁנִ֑ית וַחֲמִשָּׁ֣ה בְרִיחִ֗ם לְקַרְשֵׁי֙ צֶ֣לַע הַמִּשְׁכָּ֔ן לַיַּרְכָתַ֖יִם יָֽמָּה׃ וְהַבְּרִ֥יחַ הַתִּיכֹ֖ן בְּת֣וֹךְ הַקְּרָשִׁ֑ים מַבְרִ֕חַ מִן־ הַקָּצֶ֖ה אֶל־ הַקָּצֶֽה׃ וְֽאֶת־ הַקְּרָשִׁ֞ים תְּצַפֶּ֣ה זָהָ֗ב וְאֶת־ טַבְּעֹֽתֵיהֶם֙ תַּעֲשֶׂ֣ה זָהָ֔ב בָּתִּ֖ים לַבְּרִיחִ֑ם וְצִפִּיתָ֥ אֶת־ הַבְּרִיחִ֖ם זָהָֽב׃ וַהֲקֵמֹתָ֖ אֶת־ הַמִּשְׁכָּ֑ן כְּמִ֨שְׁפָּט֔וֹ אֲשֶׁ֥ר הָרְאֵ֖יתָ בָּהָֽר׃ ס",
+        "text": "Harás también cinco barras de madera de acacia, para las tablas de un lado del tabernáculo, y otras cinco barras para las tablas del otro lado, y cinco barras para las tablas del lado posterior del tabernáculo, hacia el occidente. Y la barra de en medio pasará por en medio de las tablas, de un extremo al otro. Y cubrirás las tablas de oro, y harás sus anillos de oro para meter por ellos las barras; también cubrirás las barras de oro. Y levantarás el tabernáculo conforme a su diseño que te fue mostrado en el monte."
       },
       {
-        "number": "9",
-        "hebrew": "וְחִבַּרְתָּ֞ אֶת־ חֲמֵ֤שׁ הַיְרִיעֹת֙ לְבָ֔ד וְאֶת־ שֵׁ֥שׁ הַיְרִיעֹ֖ת לְבָ֑ד וְכָפַלְתָּ֙ אֶת־ הַיְרִיעָ֣ה הַשִּׁשִּׁ֔ית אֶל־ מ֖וּל פְּנֵ֥י הָאֹֽהֶל׃",
-        "text": null
+        "number": "31-33",
+        "hebrew": "וְעָשִׂ֣יתָ פָרֹ֗כֶת תְּכֵ֧לֶת וְאַרְגָּמָ֛ן וְתוֹלַ֥עַת שָׁנִ֖י וְשֵׁ֣שׁ מָשְׁזָ֑ר מַעֲשֵׂ֥ה חֹשֵׁ֛ב יַעֲשֶׂ֥ה אֹתָ֖הּ כְּרֻבִֽים׃ וְנָתַתָּ֣ה אֹתָ֗הּ עַל־ אַרְבָּעָה֙ עַמּוּדֵ֣י שִׁטִּ֔ים מְצֻפִּ֣ים זָהָ֔ב וָוֵיהֶ֖ם זָהָ֑ב עַל־ אַרְבָּעָ֖ה אַדְנֵי־ כָֽסֶף׃ וְנָתַתָּ֣ה אֶת־ הַפָּרֹכֶת֮ תַּ֣חַת הַקְּרָסִים֒ וְהֵבֵאתָ֥ שָׁ֨מָּה֙ מִבֵּ֣ית לַפָּרֹ֔כֶת אֵ֖ת אֲר֣וֹן הָעֵד֑וּת וְהִבְדִּילָ֤ה הַפָּרֹ֨כֶת֙ לָכֶ֔ם בֵּ֣ין הַקֹּ֔דֶשׁ וּבֵ֖ין קֹ֥דֶשׁ הַקֳּדָשִֽׁים׃",
+        "text": "Y harás también un velo de azul, púrpura, carmesí y lino torcido; será hecho de obra primorosa, con querubines. Y lo pondrás sobre cuatro columnas de madera de acacia cubiertas de oro; sus capiteles de oro, sobre basas de plata. Y pondrás el velo debajo de los corchetes, y meterás allí, del velo adentro, el arca del testimonio; y aquel velo os hará separación entre el lugar santo y el santísimo¹¹⁸."
       },
       {
-        "number": "10",
-        "hebrew": "וְעָשִׂ֜יתָ חֲמִשִּׁ֣ים לֻֽלָאֹ֗ת עַ֣ל שְׂפַ֤ת הַיְרִיעָה֙ הָֽאֶחָ֔ת הַקִּיצֹנָ֖ה בַּחֹבָ֑רֶת וַחֲמִשִּׁ֣ים לֻֽלָאֹ֗ת עַ֚ל שְׂפַ֣ת הַיְרִיעָ֔ה הַחֹבֶ֖רֶת הַשֵּׁנִֽית׃",
-        "text": null
-      },
-      {
-        "number": "11",
-        "hebrew": "וְעָשִׂ֛יתָ קַרְסֵ֥י נְחֹ֖שֶׁת חֲמִשִּׁ֑ים וְהֵבֵאתָ֤ אֶת־ הַקְּרָסִים֙ בַּלֻּ֣לָאֹ֔ת וְחִבַּרְתָּ֥ אֶת־ הָאֹ֖הֶל וְהָיָ֥ה אֶחָֽד׃",
-        "text": null
-      },
-      {
-        "number": "12",
-        "hebrew": "וְסֶ֨רַח֙ הָעֹדֵ֔ף בִּירִיעֹ֖ת הָאֹ֑הֶל חֲצִ֤י הַיְרִיעָה֙ הָעֹדֶ֔פֶת תִּסְרַ֕ח עַ֖ל אֲחֹרֵ֥י הַמִּשְׁכָּֽן׃",
-        "text": null
-      },
-      {
-        "number": "13",
-        "hebrew": "וְהָאַמָּ֨ה מִזֶּ֜ה וְהָאַמָּ֤ה מִזֶּה֙ בָּעֹדֵ֔ף בְּאֹ֖רֶךְ יְרִיעֹ֣ת הָאֹ֑הֶל יִהְיֶ֨ה סָר֜וּחַ עַל־ צִדֵּ֧י הַמִּשְׁכָּ֛ן מִזֶּ֥ה וּמִזֶּ֖ה לְכַסֹּתֽוֹ׃",
-        "text": null
-      },
-      {
-        "number": "14",
-        "hebrew": "וְעָשִׂ֤יתָ מִכְסֶה֙ לָאֹ֔הֶל עֹרֹ֥ת אֵילִ֖ם מְאָדָּמִ֑ים וּמִכְסֵ֛ה עֹרֹ֥ת תְּחָשִׁ֖ים מִלְמָֽעְלָה׃ פ",
-        "text": null
-      },
-      {
-        "number": "15",
-        "hebrew": "וְעָשִׂ֥יתָ אֶת־ הַקְּרָשִׁ֖ים לַמִּשְׁכָּ֑ן עֲצֵ֥י שִׁטִּ֖ים עֹמְדִֽים׃",
-        "text": null
-      },
-      {
-        "number": "16",
-        "hebrew": "עֶ֥שֶׂר אַמּ֖וֹת אֹ֣רֶךְ הַקָּ֑רֶשׁ וְאַמָּה֙ וַחֲצִ֣י הָֽאַמָּ֔ה רֹ֖חַב הַקֶּ֥רֶשׁ הָאֶחָֽד׃",
-        "text": null
-      },
-      {
-        "number": "17",
-        "hebrew": "שְׁתֵּ֣י יָד֗וֹת לַקֶּ֨רֶשׁ֙ הָאֶחָ֔ד מְשֻׁלָּבֹ֔ת אִשָּׁ֖ה אֶל־ אֲחֹתָ֑הּ כֵּ֣ן תַּעֲשֶׂ֔ה לְכֹ֖ל קַרְשֵׁ֥י הַמִּשְׁכָּֽן׃",
-        "text": null
-      },
-      {
-        "number": "18",
-        "hebrew": "וְעָשִׂ֥יתָ אֶת־ הַקְּרָשִׁ֖ים לַמִּשְׁכָּ֑ן עֶשְׂרִ֣ים קֶ֔רֶשׁ לִפְאַ֖ת נֶ֥גְבָּה תֵימָֽנָה׃",
-        "text": null
-      },
-      {
-        "number": "19",
-        "hebrew": "וְאַרְבָּעִים֙ אַדְנֵי־ כֶ֔סֶף תַּעֲשֶׂ֕ה תַּ֖חַת עֶשְׂרִ֣ים הַקָּ֑רֶשׁ שְׁנֵ֨י אֲדָנִ֜ים תַּֽחַת־ הַקֶּ֤רֶשׁ הָאֶחָד֙ לִשְׁתֵּ֣י יְדֹתָ֔יו וּשְׁנֵ֧י אֲדָנִ֛ים תַּֽחַת־ הַקֶּ֥רֶשׁ הָאֶחָ֖ד לִשְׁתֵּ֥י יְדֹתָֽיו׃",
-        "text": null
-      },
-      {
-        "number": "20",
-        "hebrew": "וּלְצֶ֧לַע הַמִּשְׁכָּ֛ן הַשֵּׁנִ֖ית לִפְאַ֣ת צָפ֑וֹן עֶשְׂרִ֖ים קָֽרֶשׁ׃",
-        "text": null
-      },
-      {
-        "number": "21",
-        "hebrew": "וְאַרְבָּעִ֥ים אַדְנֵיהֶ֖ם כָּ֑סֶף שְׁנֵ֣י אֲדָנִ֗ים תַּ֚חַת הַקֶּ֣רֶשׁ הָֽאֶחָ֔ד וּשְׁנֵ֣י אֲדָנִ֔ים תַּ֖חַת הַקֶּ֥רֶשׁ הָאֶחָֽד׃",
-        "text": null
-      },
-      {
-        "number": "22",
-        "hebrew": "וּֽלְיַרְכְּתֵ֥י הַמִּשְׁכָּ֖ן יָ֑מָּה תַּעֲשֶׂ֖ה שִׁשָּׁ֥ה קְרָשִֽׁים׃",
-        "text": null
-      },
-      {
-        "number": "23",
-        "hebrew": "וּשְׁנֵ֤י קְרָשִׁים֙ תַּעֲשֶׂ֔ה לִמְקֻצְעֹ֖ת הַמִּשְׁכָּ֑ן בַּיַּרְכָתָֽיִם׃",
-        "text": null
-      },
-      {
-        "number": "24",
-        "hebrew": "וְיִֽהְי֣וּ תֹֽאֲמִים֮ מִלְּמַטָּה֒ וְיַחְדָּ֗ו יִהְי֤וּ תַמִּים֙ עַל־ רֹאשׁ֔וֹ אֶל־ הַטַּבַּ֖עַת הָאֶחָ֑ת כֵּ֚ן יִהְיֶ֣ה לִשְׁנֵיהֶ֔ם לִשְׁנֵ֥י הַמִּקְצֹעֹ֖ת יִהְיֽוּ׃",
-        "text": null
-      },
-      {
-        "number": "25",
-        "hebrew": "וְהָיוּ֙ שְׁמֹנָ֣ה קְרָשִׁ֔ים וְאַדְנֵיהֶ֣ם כֶּ֔סֶף שִׁשָּׁ֥ה עָשָׂ֖ר אֲדָנִ֑ים שְׁנֵ֣י אֲדָנִ֗ים תַּ֚חַת הַקֶּ֣רֶשׁ הָאֶחָ֔ד וּשְׁנֵ֣י אֲדָנִ֔ים תַּ֖חַת הַקֶּ֥רֶשׁ הָאֶחָֽד׃",
-        "text": null
-      },
-      {
-        "number": "26",
-        "hebrew": "וְעָשִׂ֥יתָ בְרִיחִ֖ם עֲצֵ֣י שִׁטִּ֑ים חֲמִשָּׁ֕ה לְקַרְשֵׁ֥י צֶֽלַע־ הַמִּשְׁכָּ֖ן הָאֶחָֽד׃",
-        "text": null
-      },
-      {
-        "number": "27",
-        "hebrew": "וַחֲמִשָּׁ֣ה בְרִיחִ֔ם לְקַרְשֵׁ֥י צֶֽלַע־ הַמִּשְׁכָּ֖ן הַשֵּׁנִ֑ית וַחֲמִשָּׁ֣ה בְרִיחִ֗ם לְקַרְשֵׁי֙ צֶ֣לַע הַמִּשְׁכָּ֔ן לַיַּרְכָתַ֖יִם יָֽמָּה׃",
-        "text": null
-      },
-      {
-        "number": "28",
-        "hebrew": "וְהַבְּרִ֥יחַ הַתִּיכֹ֖ן בְּת֣וֹךְ הַקְּרָשִׁ֑ים מַבְרִ֕חַ מִן־ הַקָּצֶ֖ה אֶל־ הַקָּצֶֽה׃",
-        "text": null
-      },
-      {
-        "number": "29",
-        "hebrew": "וְֽאֶת־ הַקְּרָשִׁ֞ים תְּצַפֶּ֣ה זָהָ֗ב וְאֶת־ טַבְּעֹֽתֵיהֶם֙ תַּעֲשֶׂ֣ה זָהָ֔ב בָּתִּ֖ים לַבְּרִיחִ֑ם וְצִפִּיתָ֥ אֶת־ הַבְּרִיחִ֖ם זָהָֽב׃",
-        "text": null
-      },
-      {
-        "number": "30",
-        "hebrew": "וַהֲקֵמֹתָ֖ אֶת־ הַמִּשְׁכָּ֑ן כְּמִ֨שְׁפָּט֔וֹ אֲשֶׁ֥ר הָרְאֵ֖יתָ בָּהָֽר׃ ס",
-        "text": null
-      },
-      {
-        "number": "31",
-        "hebrew": "וְעָשִׂ֣יתָ פָרֹ֗כֶת תְּכֵ֧לֶת וְאַרְגָּמָ֛ן וְתוֹלַ֥עַת שָׁנִ֖י וְשֵׁ֣שׁ מָשְׁזָ֑ר מַעֲשֵׂ֥ה חֹשֵׁ֛ב יַעֲשֶׂ֥ה אֹתָ֖הּ כְּרֻבִֽים׃",
-        "text": null
-      },
-      {
-        "number": "32",
-        "hebrew": "וְנָתַתָּ֣ה אֹתָ֗הּ עַל־ אַרְבָּעָה֙ עַמּוּדֵ֣י שִׁטִּ֔ים מְצֻפִּ֣ים זָהָ֔ב וָוֵיהֶ֖ם זָהָ֑ב עַל־ אַרְבָּעָ֖ה אַדְנֵי־ כָֽסֶף׃",
-        "text": null
-      },
-      {
-        "number": "33",
-        "hebrew": "וְנָתַתָּ֣ה אֶת־ הַפָּרֹכֶת֮ תַּ֣חַת הַקְּרָסִים֒ וְהֵבֵאתָ֥ שָׁ֨מָּה֙ מִבֵּ֣ית לַפָּרֹ֔כֶת אֵ֖ת אֲר֣וֹן הָעֵד֑וּת וְהִבְדִּילָ֤ה הַפָּרֹ֨כֶת֙ לָכֶ֔ם בֵּ֣ין הַקֹּ֔דֶשׁ וּבֵ֖ין קֹ֥דֶשׁ הַקֳּדָשִֽׁים׃",
-        "text": null
-      },
-      {
-        "number": "34",
-        "hebrew": "וְנָתַתָּ֙ אֶת־ הַכַּפֹּ֔רֶת עַ֖ל אֲר֣וֹן הָעֵדֻ֑ת בְּקֹ֖דֶשׁ הַקֳּדָשִֽׁים׃",
-        "text": null
-      },
-      {
-        "number": "35",
-        "hebrew": "וְשַׂמְתָּ֤ אֶת־ הַשֻּׁלְחָן֙ מִח֣וּץ לַפָּרֹ֔כֶת וְאֶת־ הַמְּנֹרָה֙ נֹ֣כַח הַשֻּׁלְחָ֔ן עַ֛ל צֶ֥לַע הַמִּשְׁכָּ֖ן תֵּימָ֑נָה וְהַ֨שֻּׁלְחָ֔ן תִּתֵּ֖ן עַל־ צֶ֥לַע צָפֽוֹן׃",
-        "text": null
-      },
-      {
-        "number": "36",
-        "hebrew": "וְעָשִׂ֤יתָ מָסָךְ֙ לְפֶ֣תַח הָאֹ֔הֶל תְּכֵ֧לֶת וְאַרְגָּמָ֛ן וְתוֹלַ֥עַת שָׁנִ֖י וְשֵׁ֣שׁ מָשְׁזָ֑ר מַעֲשֵׂ֖ה רֹקֵֽם׃",
-        "text": null
-      },
-      {
-        "number": "37",
-        "hebrew": "וְעָשִׂ֣יתָ לַמָּסָ֗ךְ חֲמִשָּׁה֙ עַמּוּדֵ֣י שִׁטִּ֔ים וְצִפִּיתָ֤ אֹתָם֙ זָהָ֔ב וָוֵיהֶ֖ם זָהָ֑ב וְיָצַקְתָּ֣ לָהֶ֔ם חֲמִשָּׁ֖ה אַדְנֵ֥י נְחֹֽשֶׁת׃ ס",
-        "text": null
+        "number": "34-37",
+        "hebrew": "וְנָתַתָּ֙ אֶת־ הַכַּפֹּ֔רֶת עַ֖ל אֲר֣וֹן הָעֵדֻ֑ת בְּקֹ֖דֶשׁ הַקֳּדָשִֽׁים׃ וְשַׂמְתָּ֤ אֶת־ הַשֻּׁלְחָן֙ מִח֣וּץ לַפָּרֹ֔כֶת וְאֶת־ הַמְּנֹרָה֙ נֹ֣כַח הַשֻּׁלְחָ֔ן עַ֛ל צֶ֥לַע הַמִּשְׁכָּ֖ן תֵּימָ֑נָה וְהַ֨שֻּׁלְחָ֔ן תִּתֵּ֖ן עַל־ צֶ֥לַע צָפֽוֹן׃ וְעָשִׂ֤יתָ מָסָךְ֙ לְפֶ֣תַח הָאֹ֔הֶל תְּכֵ֧לֶת וְאַרְגָּמָ֛ן וְתוֹלַ֥עַת שָׁנִ֖י וְשֵׁ֣שׁ מָשְׁזָ֑ר מַעֲשֵׂ֖ה רֹקֵֽם׃ וְעָשִׂ֣יתָ לַמָּסָ֗ךְ חֲמִשָּׁה֙ עַמּוּדֵ֣י שִׁטִּ֔ים וְצִפִּיתָ֤ אֹתָם֙ זָהָ֔ב וָוֵיהֶ֖ם זָהָ֑ב וְיָצַקְתָּ֣ לָהֶ֔ם חֲמִשָּׁ֖ה אַדְנֵ֥י נְחֹֽשֶׁת׃ ס",
+        "text": "Y pondrás el propiciatorio sobre el arca del testimonio en el lugar santísimo. Y pondrás la mesa fuera del velo, y el candelero enfrente de la mesa al lado sur del tabernáculo; y pondrás la mesa al lado norte. Y harás para la puerta del tabernáculo una cortina de azul, púrpura, carmesí y lino torcido, obra de recamador. Y harás para la cortina cinco columnas de madera de acacia, las cuales cubrirás de oro, con sus capiteles de oro; y fundirás para ellas cinco basas de bronce."
       }
     ],
     "27": [
       {
-        "number": "1",
-        "hebrew": "וְעָשִׂ֥יתָ אֶת־ הַמִּזְבֵּ֖חַ עֲצֵ֣י שִׁטִּ֑ים חָמֵשׁ֩ אַמּ֨וֹת אֹ֜רֶךְ וְחָמֵ֧שׁ אַמּ֣וֹת רֹ֗חַב רָב֤וּעַ יִהְיֶה֙ הַמִּזְבֵּ֔חַ וְשָׁלֹ֥שׁ אַמּ֖וֹת קֹמָתֽוֹ׃",
-        "text": null
+        "number": "1-3",
+        "hebrew": "וְעָשִׂ֥יתָ אֶת־ הַמִּזְבֵּ֖חַ עֲצֵ֣י שִׁטִּ֑ים חָמֵשׁ֩ אַמּ֨וֹת אֹ֜רֶךְ וְחָמֵ֧שׁ אַמּ֣וֹת רֹ֗חַב רָב֤וּעַ יִהְיֶה֙ הַמִּזְבֵּ֔חַ וְשָׁלֹ֥שׁ אַמּ֖וֹת קֹמָתֽוֹ׃ וְעָשִׂ֣יתָ קַרְנֹתָ֗יו עַ֚ל אַרְבַּ֣ע פִּנֹּתָ֔יו מִמֶּ֖נּוּ תִּהְיֶ֣יןָ קַרְנֹתָ֑יו וְצִפִּיתָ֥ אֹת֖וֹ נְחֹֽשֶׁת׃ וְעָשִׂ֤יתָ סִּֽירֹתָיו֙ לְדַשְּׁנ֔וֹ וְיָעָיו֙ וּמִזְרְקֹתָ֔יו וּמִזְלְגֹתָ֖יו וּמַחְתֹּתָ֑יו לְכָל־ כֵּלָ֖יו תַּעֲשֶׂ֥ה נְחֹֽשֶׁת׃",
+        "text": "Harás también un altar de madera de acacia, de cinco codos de longitud y de cinco codos de anchura; será cuadrado el altar, y su altura de tres codos. Y le harás cuernos¹¹⁹ en sus cuatro esquinas; los cuernos serán de la misma pieza, y lo cubrirás de bronce. Harás también sus calderos para recoger la ceniza, y sus paletas, sus tazones, sus garfios y sus braseros; todos sus utensilios harás de bronce."
       },
       {
-        "number": "2",
-        "hebrew": "וְעָשִׂ֣יתָ קַרְנֹתָ֗יו עַ֚ל אַרְבַּ֣ע פִּנֹּתָ֔יו מִמֶּ֖נּוּ תִּהְיֶ֣יןָ קַרְנֹתָ֑יו וְצִפִּיתָ֥ אֹת֖וֹ נְחֹֽשֶׁת׃",
-        "text": null
+        "number": "4-8",
+        "hebrew": "וְעָשִׂ֤יתָ לּוֹ֙ מִכְבָּ֔ר מַעֲשֵׂ֖ה רֶ֣שֶׁת נְחֹ֑שֶׁת וְעָשִׂ֣יתָ עַל־ הָרֶ֗שֶׁת אַרְבַּע֙ טַבְּעֹ֣ת נְחֹ֔שֶׁת עַ֖ל אַרְבַּ֥ע קְצוֹתָֽיו׃ וְנָתַתָּ֣ה אֹתָ֗הּ תַּ֛חַת כַּרְכֹּ֥ב הַמִּזְבֵּ֖חַ מִלְּמָ֑טָּה וְהָיְתָ֣ה הָרֶ֔שֶׁת עַ֖ד חֲצִ֥י הַמִּזְבֵּֽחַ׃ וְעָשִׂ֤יתָ בַדִּים֙ לַמִּזְבֵּ֔חַ בַּדֵּ֖י עֲצֵ֣י שִׁטִּ֑ים וְצִפִּיתָ֥ אֹתָ֖ם נְחֹֽשֶׁת׃ וְהוּבָ֥א אֶת־ בַּדָּ֖יו בַּטַּבָּעֹ֑ת וְהָי֣וּ הַבַּדִּ֗ים עַל־ שְׁתֵּ֛י צַלְעֹ֥ת הַמִּזְבֵּ֖חַ בִּשְׂאֵ֥ת אֹתֽוֹ׃ נְב֥וּב לֻחֹ֖ת תַּעֲשֶׂ֣ה אֹת֑וֹ כַּאֲשֶׁ֨ר הֶרְאָ֥ה אֹתְךָ֛ בָּהָ֖ר כֵּ֥ן יַעֲשֽׂוּ׃ ס",
+        "text": "Y le harás un enrejado de bronce en forma de red, y sobre la red harás cuatro anillos de bronce a sus cuatro esquinas. Y la pondrás dentro del cerco del altar hacia abajo; y llegará la red hasta el medio del altar. Harás también varas para el altar, varas de madera de acacia, las cuales cubrirás de bronce. Y las varas se meterán por los anillos, y estarán aquellas varas a ambos lados del altar cuando sea llevado. Lo harás hueco, de tablas; de la manera que te fue mostrado en el monte, así lo harás."
       },
       {
-        "number": "3",
-        "hebrew": "וְעָשִׂ֤יתָ סִּֽירֹתָיו֙ לְדַשְּׁנ֔וֹ וְיָעָיו֙ וּמִזְרְקֹתָ֔יו וּמִזְלְגֹתָ֖יו וּמַחְתֹּתָ֑יו לְכָל־ כֵּלָ֖יו תַּעֲשֶׂ֥ה נְחֹֽשֶׁת׃",
-        "text": null
+        "number": "9-12",
+        "hebrew": "וְעָשִׂ֕יתָ אֵ֖ת חֲצַ֣ר הַמִּשְׁכָּ֑ן לִפְאַ֣ת נֶֽגֶב־ תֵּ֠ימָנָה קְלָעִ֨ים לֶחָצֵ֜ר שֵׁ֣שׁ מָשְׁזָ֗ר מֵאָ֤ה בָֽאַמָּה֙ אֹ֔רֶךְ לַפֵּאָ֖ה הָאֶחָֽת׃ וְעַמֻּדָ֣יו עֶשְׂרִ֔ים וְאַדְנֵיהֶ֥ם עֶשְׂרִ֖ים נְחֹ֑שֶׁת וָוֵ֧י הָעַמֻּדִ֛ים וַחֲשֻׁקֵיהֶ֖ם כָּֽסֶף׃ וְכֵ֨ן לִפְאַ֤ת צָפוֹן֙ בָּאֹ֔רֶךְ קְלָעִ֖ים מֵ֣אָה אֹ֑רֶךְ ועמדו עֶשְׂרִ֗ים וְאַדְנֵיהֶ֤ם עֶשְׂרִים֙ נְחֹ֔שֶׁת וָוֵ֧י הָֽעַמֻּדִ֛ים וַחֲשֻׁקֵיהֶ֖ם כָּֽסֶף׃ וְרֹ֤חַב הֶֽחָצֵר֙ לִפְאַת־ יָ֔ם קְלָעִ֖ים חֲמִשִּׁ֣ים אַמָּ֑ה עַמֻּדֵיהֶ֣ם עֲשָׂרָ֔ה וְאַדְנֵיהֶ֖ם עֲשָׂרָֽה׃",
+        "text": "Asimismo harás el atrio del tabernáculo. Al lado sur del mediodía, cortinas de lino torcido tendrá el atrio, de cien codos de longitud para un lado. Sus veinte columnas y sus veinte basas serán de bronce; los capiteles de las columnas y sus molduras, de plata. De la misma manera al lado norte, en su longitud, habrá cortinas de cien codos de longitud, y sus veinte columnas con sus veinte basas de bronce; los capiteles de las columnas y sus molduras, de plata. Y en el ancho del atrio, por el lado occidental, cortinas de cincuenta codos; sus columnas diez, con sus diez basas."
       },
       {
-        "number": "4",
-        "hebrew": "וְעָשִׂ֤יתָ לּוֹ֙ מִכְבָּ֔ר מַעֲשֵׂ֖ה רֶ֣שֶׁת נְחֹ֑שֶׁת וְעָשִׂ֣יתָ עַל־ הָרֶ֗שֶׁת אַרְבַּע֙ טַבְּעֹ֣ת נְחֹ֔שֶׁת עַ֖ל אַרְבַּ֥ע קְצוֹתָֽיו׃",
-        "text": null
+        "number": "13-16",
+        "hebrew": "וְרֹ֣חַב הֶֽחָצֵ֗ר לִפְאַ֛ת קֵ֥דְמָה מִזְרָ֖חָה חֲמִשִּׁ֥ים אַמָּֽה׃ וַחֲמֵ֨שׁ עֶשְׂרֵ֥ה אַמָּ֛ה קְלָעִ֖ים לַכָּתֵ֑ף עַמֻּדֵיהֶ֣ם שְׁלֹשָׁ֔ה וְאַדְנֵיהֶ֖ם שְׁלֹשָֽׁה׃ וְלַכָּתֵף֙ הַשֵּׁנִ֔ית חְמֵ֥שׁ עֶשְׂרֵ֖ה קְלָעִ֑ים עַמֻּדֵיהֶ֣ם שְׁלֹשָׁ֔ה וְאַדְנֵיהֶ֖ם שְׁלֹשָֽׁה׃ וּלְשַׁ֨עַר הֶֽחָצֵ֜ר מָסָ֣ךְ ׀ עֶשְׂרִ֣ים אַמָּ֗ה תְּכֵ֨לֶת וְאַרְגָּמָ֜ן וְתוֹלַ֧עַת שָׁנִ֛י וְשֵׁ֥שׁ מָשְׁזָ֖ר מַעֲשֵׂ֣ה רֹקֵ֑ם עַמֻּֽדֵיהֶם֙ אַרְבָּעָ֔ה וְאַדְנֵיהֶ֖ם אַרְבָּעָֽה׃",
+        "text": "Y en el ancho del atrio por el lado oriental, al levante, habrá cincuenta codos. Y las cortinas a un lado de la entrada serán de quince codos; sus columnas tres, con sus tres basas. Y al otro lado, quince codos de cortinas; sus columnas tres, con sus tres basas. Y para la puerta del atrio habrá una cortina de veinte codos, de azul, púrpura, carmesí y lino torcido, obra de recamador; sus columnas cuatro, con sus cuatro basas."
       },
       {
-        "number": "5",
-        "hebrew": "וְנָתַתָּ֣ה אֹתָ֗הּ תַּ֛חַת כַּרְכֹּ֥ב הַמִּזְבֵּ֖חַ מִלְּמָ֑טָּה וְהָיְתָ֣ה הָרֶ֔שֶׁת עַ֖ד חֲצִ֥י הַמִּזְבֵּֽחַ׃",
-        "text": null
+        "number": "17-19",
+        "hebrew": "כָּל־ עַמּוּדֵ֨י הֶֽחָצֵ֤ר סָבִיב֙ מְחֻשָּׁקִ֣ים כֶּ֔סֶף וָוֵיהֶ֖ם כָּ֑סֶף וְאַדְנֵיהֶ֖ם נְחֹֽשֶׁת׃ אֹ֣רֶךְ הֶֽחָצֵר֩ מֵאָ֨ה בָֽאַמָּ֜ה וְרֹ֣חַב ׀ חֲמִשִּׁ֣ים בַּחֲמִשִּׁ֗ים וְקֹמָ֛ה חָמֵ֥שׁ אַמּ֖וֹת שֵׁ֣שׁ מָשְׁזָ֑ר וְאַדְנֵיהֶ֖ם נְחֹֽשֶׁת׃ לְכֹל֙ כְּלֵ֣י הַמִּשְׁכָּ֔ן בְּכֹ֖ל עֲבֹדָת֑וֹ וְכָל־ יְתֵדֹתָ֛יו וְכָל־ יִתְדֹ֥ת הֶחָצֵ֖ר נְחֹֽשֶׁת׃ ס",
+        "text": "Todas las columnas alrededor del atrio estarán ceñidas de plata; sus capiteles de plata, mas sus basas de bronce. La longitud del atrio será de cien codos, y la anchura cincuenta por cada lado, y la altura de cinco codos; sus cortinas de lino torcido, y sus basas de bronce. Todos los utensilios del tabernáculo en todo su servicio, y todas sus estacas, y todas las estacas del atrio, serán de bronce."
       },
       {
-        "number": "6",
-        "hebrew": "וְעָשִׂ֤יתָ בַדִּים֙ לַמִּזְבֵּ֔חַ בַּדֵּ֖י עֲצֵ֣י שִׁטִּ֑ים וְצִפִּיתָ֥ אֹתָ֖ם נְחֹֽשֶׁת׃",
-        "text": null
-      },
-      {
-        "number": "7",
-        "hebrew": "וְהוּבָ֥א אֶת־ בַּדָּ֖יו בַּטַּבָּעֹ֑ת וְהָי֣וּ הַבַּדִּ֗ים עַל־ שְׁתֵּ֛י צַלְעֹ֥ת הַמִּזְבֵּ֖חַ בִּשְׂאֵ֥ת אֹתֽוֹ׃",
-        "text": null
-      },
-      {
-        "number": "8",
-        "hebrew": "נְב֥וּב לֻחֹ֖ת תַּעֲשֶׂ֣ה אֹת֑וֹ כַּאֲשֶׁ֨ר הֶרְאָ֥ה אֹתְךָ֛ בָּהָ֖ר כֵּ֥ן יַעֲשֽׂוּ׃ ס",
-        "text": null
-      },
-      {
-        "number": "9",
-        "hebrew": "וְעָשִׂ֕יתָ אֵ֖ת חֲצַ֣ר הַמִּשְׁכָּ֑ן לִפְאַ֣ת נֶֽגֶב־ תֵּ֠ימָנָה קְלָעִ֨ים לֶחָצֵ֜ר שֵׁ֣שׁ מָשְׁזָ֗ר מֵאָ֤ה בָֽאַמָּה֙ אֹ֔רֶךְ לַפֵּאָ֖ה הָאֶחָֽת׃",
-        "text": null
-      },
-      {
-        "number": "10",
-        "hebrew": "וְעַמֻּדָ֣יו עֶשְׂרִ֔ים וְאַדְנֵיהֶ֥ם עֶשְׂרִ֖ים נְחֹ֑שֶׁת וָוֵ֧י הָעַמֻּדִ֛ים וַחֲשֻׁקֵיהֶ֖ם כָּֽסֶף׃",
-        "text": null
-      },
-      {
-        "number": "11",
-        "hebrew": "וְכֵ֨ן לִפְאַ֤ת צָפוֹן֙ בָּאֹ֔רֶךְ קְלָעִ֖ים מֵ֣אָה אֹ֑רֶךְ ועמדו עֶשְׂרִ֗ים וְאַדְנֵיהֶ֤ם עֶשְׂרִים֙ נְחֹ֔שֶׁת וָוֵ֧י הָֽעַמֻּדִ֛ים וַחֲשֻׁקֵיהֶ֖ם כָּֽסֶף׃",
-        "text": null
-      },
-      {
-        "number": "12",
-        "hebrew": "וְרֹ֤חַב הֶֽחָצֵר֙ לִפְאַת־ יָ֔ם קְלָעִ֖ים חֲמִשִּׁ֣ים אַמָּ֑ה עַמֻּדֵיהֶ֣ם עֲשָׂרָ֔ה וְאַדְנֵיהֶ֖ם עֲשָׂרָֽה׃",
-        "text": null
-      },
-      {
-        "number": "13",
-        "hebrew": "וְרֹ֣חַב הֶֽחָצֵ֗ר לִפְאַ֛ת קֵ֥דְמָה מִזְרָ֖חָה חֲמִשִּׁ֥ים אַמָּֽה׃",
-        "text": null
-      },
-      {
-        "number": "14",
-        "hebrew": "וַחֲמֵ֨שׁ עֶשְׂרֵ֥ה אַמָּ֛ה קְלָעִ֖ים לַכָּתֵ֑ף עַמֻּדֵיהֶ֣ם שְׁלֹשָׁ֔ה וְאַדְנֵיהֶ֖ם שְׁלֹשָֽׁה׃",
-        "text": null
-      },
-      {
-        "number": "15",
-        "hebrew": "וְלַכָּתֵף֙ הַשֵּׁנִ֔ית חְמֵ֥שׁ עֶשְׂרֵ֖ה קְלָעִ֑ים עַמֻּדֵיהֶ֣ם שְׁלֹשָׁ֔ה וְאַדְנֵיהֶ֖ם שְׁלֹשָֽׁה׃",
-        "text": null
-      },
-      {
-        "number": "16",
-        "hebrew": "וּלְשַׁ֨עַר הֶֽחָצֵ֜ר מָסָ֣ךְ ׀ עֶשְׂרִ֣ים אַמָּ֗ה תְּכֵ֨לֶת וְאַרְגָּמָ֜ן וְתוֹלַ֧עַת שָׁנִ֛י וְשֵׁ֥שׁ מָשְׁזָ֖ר מַעֲשֵׂ֣ה רֹקֵ֑ם עַמֻּֽדֵיהֶם֙ אַרְבָּעָ֔ה וְאַדְנֵיהֶ֖ם אַרְבָּעָֽה׃",
-        "text": null
-      },
-      {
-        "number": "17",
-        "hebrew": "כָּל־ עַמּוּדֵ֨י הֶֽחָצֵ֤ר סָבִיב֙ מְחֻשָּׁקִ֣ים כֶּ֔סֶף וָוֵיהֶ֖ם כָּ֑סֶף וְאַדְנֵיהֶ֖ם נְחֹֽשֶׁת׃",
-        "text": null
-      },
-      {
-        "number": "18",
-        "hebrew": "אֹ֣רֶךְ הֶֽחָצֵר֩ מֵאָ֨ה בָֽאַמָּ֜ה וְרֹ֣חַב ׀ חֲמִשִּׁ֣ים בַּחֲמִשִּׁ֗ים וְקֹמָ֛ה חָמֵ֥שׁ אַמּ֖וֹת שֵׁ֣שׁ מָשְׁזָ֑ר וְאַדְנֵיהֶ֖ם נְחֹֽשֶׁת׃",
-        "text": null
-      },
-      {
-        "number": "19",
-        "hebrew": "לְכֹל֙ כְּלֵ֣י הַמִּשְׁכָּ֔ן בְּכֹ֖ל עֲבֹדָת֑וֹ וְכָל־ יְתֵדֹתָ֛יו וְכָל־ יִתְדֹ֥ת הֶחָצֵ֖ר נְחֹֽשֶׁת׃ ס",
-        "text": null
-      },
-      {
-        "number": "20",
-        "hebrew": "וְאַתָּ֞ה תְּצַוֶּ֣ה ׀ אֶת־ בְּנֵ֣י יִשְׂרָאֵ֗ל וְיִקְח֨וּ אֵלֶ֜יךָ שֶׁ֣מֶן זַ֥יִת זָ֛ךְ כָּתִ֖ית לַמָּא֑וֹר לְהַעֲלֹ֥ת נֵ֖ר תָּמִֽיד׃",
-        "text": null
-      },
-      {
-        "number": "21",
-        "hebrew": "בְּאֹ֣הֶל מוֹעֵד֩ מִח֨וּץ לַפָּרֹ֜כֶת אֲשֶׁ֣ר עַל־ הָעֵדֻ֗ת יַעֲרֹךְ֩ אֹת֨וֹ אַהֲרֹ֧ן וּבָנָ֛יו מֵעֶ֥רֶב עַד־ בֹּ֖קֶר לִפְנֵ֣י יְהוָ֑ה חֻקַּ֤ת עוֹלָם֙ לְדֹ֣רֹתָ֔ם מֵאֵ֖ת בְּנֵ֥י יִשְׂרָאֵֽל׃ ס",
-        "text": null
+        "number": "20-21",
+        "hebrew": "וְאַתָּ֞ה תְּצַוֶּ֣ה ׀ אֶת־ בְּנֵ֣י יִשְׂרָאֵ֗ל וְיִקְח֨וּ אֵלֶ֜יךָ שֶׁ֣מֶן זַ֥יִת זָ֛ךְ כָּתִ֖ית לַמָּא֑וֹר לְהַעֲלֹ֥ת נֵ֖ר תָּמִֽיד׃ בְּאֹ֣הֶל מוֹעֵד֩ מִח֨וּץ לַפָּרֹ֜כֶת אֲשֶׁ֣ר עַל־ הָעֵדֻ֗ת יַעֲרֹךְ֩ אֹת֨וֹ אַהֲרֹ֧ן וּבָנָ֛יו מֵעֶ֥רֶב עַד־ בֹּ֖קֶר לִפְנֵ֣י יְהוָ֑ה חֻקַּ֤ת עוֹלָם֙ לְדֹ֣רֹתָ֔ם מֵאֵ֖ת בְּנֵ֥י יִשְׂרָאֵֽל׃ ס",
+        "text": "Y mandarás a los hijos de Israel que te traigan aceite puro de olivas, machacadas, para el alumbrado, para hacer arder continuamente las lámparas¹²⁰. En el tabernáculo de reunión, afuera del velo que está delante del testimonio, las pondrá en orden Aarón y sus hijos, delante de YHWH, desde la tarde hasta la mañana, como estatuto perpetuo por sus generaciones, a cargo de los hijos de Israel."
       }
     ],
     "28": [
       {
-        "number": "1",
-        "hebrew": "וְאַתָּ֡ה הַקְרֵ֣ב אֵלֶיךָ֩ אֶת־ אַהֲרֹ֨ן אָחִ֜יךָ וְאֶת־ בָּנָ֣יו אִתּ֔וֹ מִתּ֛וֹךְ בְּנֵ֥י יִשְׂרָאֵ֖ל לְכַהֲנוֹ־ לִ֑י אַהֲרֹ֕ן נָדָ֧ב וַאֲבִיה֛וּא אֶלְעָזָ֥ר וְאִיתָמָ֖ר בְּנֵ֥י אַהֲרֹֽן׃",
-        "text": null
+        "number": "1-3",
+        "hebrew": "וְאַתָּ֡ה הַקְרֵ֣ב אֵלֶיךָ֩ אֶת־ אַהֲרֹ֨ן אָחִ֜יךָ וְאֶת־ בָּנָ֣יו אִתּ֔וֹ מִתּ֛וֹךְ בְּנֵ֥י יִשְׂרָאֵ֖ל לְכַהֲנוֹ־ לִ֑י אַהֲרֹ֕ן נָדָ֧ב וַאֲבִיה֛וּא אֶלְעָזָ֥ר וְאִיתָמָ֖ר בְּנֵ֥י אַהֲרֹֽן׃ וְעָשִׂ֥יתָ בִגְדֵי־ קֹ֖דֶשׁ לְאַהֲרֹ֣ן אָחִ֑יךָ לְכָב֖וֹד וּלְתִפְאָֽרֶת׃ וְאַתָּ֗ה תְּדַבֵּר֙ אֶל־ כָּל־ חַכְמֵי־ לֵ֔ב אֲשֶׁ֥ר מִלֵּאתִ֖יו ר֣וּחַ חָכְמָ֑ה וְעָשׂ֞וּ אֶת־ בִּגְדֵ֧י אַהֲרֹ֛ן לְקַדְּשׁ֖וֹ לְכַהֲנוֹ־ לִֽי׃",
+        "text": "Y tú acerca a ti a Aarón tu hermano, y a sus hijos con él, de entre los hijos de Israel, para que sean mis sacerdotes: Aarón, Nadab y Abihú, Eleazar e Itamar, hijos de Aarón. Y harás vestiduras sagradas a Aarón tu hermano, para honra y hermosura¹²¹. Y hablarás a todos los sabios de corazón, a quienes yo he llenado de espíritu de sabiduría, para que hagan las vestiduras de Aarón, para consagrarlo, para que sea mi sacerdote."
       },
       {
-        "number": "2",
-        "hebrew": "וְעָשִׂ֥יתָ בִגְדֵי־ קֹ֖דֶשׁ לְאַהֲרֹ֣ן אָחִ֑יךָ לְכָב֖וֹד וּלְתִפְאָֽרֶת׃",
-        "text": null
+        "number": "4-5",
+        "hebrew": "וְאֵ֨לֶּה הַבְּגָדִ֜ים אֲשֶׁ֣ר יַעֲשׂ֗וּ חֹ֤שֶׁן וְאֵפוֹד֙ וּמְעִ֔יל וּכְתֹ֥נֶת תַּשְׁבֵּ֖ץ מִצְנֶ֣פֶת וְאַבְנֵ֑ט וְעָשׂ֨וּ בִגְדֵי־ קֹ֜דֶשׁ לְאַהֲרֹ֥ן אָחִ֛יךָ וּלְבָנָ֖יו לְכַהֲנוֹ־ לִֽי׃ וְהֵם֙ יִקְח֣וּ אֶת־ הַזָּהָ֔ב וְאֶת־ הַתְּכֵ֖לֶת וְאֶת־ הָֽאַרְגָּמָ֑ן וְאֶת־ תּוֹלַ֥עַת הַשָּׁנִ֖י וְאֶת־ הַשֵּֽׁשׁ׃ פ",
+        "text": "Estas serán las vestiduras que harán: el pectoral, el efod, el manto, la túnica bordada, la mitra y el cinturón. Hagan, pues, las vestiduras sagradas para Aarón tu hermano y para sus hijos, para que sean mis sacerdotes. Tomarán oro, azul, púrpura, carmesí y lino torcido."
       },
       {
-        "number": "3",
-        "hebrew": "וְאַתָּ֗ה תְּדַבֵּר֙ אֶל־ כָּל־ חַכְמֵי־ לֵ֔ב אֲשֶׁ֥ר מִלֵּאתִ֖יו ר֣וּחַ חָכְמָ֑ה וְעָשׂ֞וּ אֶת־ בִּגְדֵ֧י אַהֲרֹ֛ן לְקַדְּשׁ֖וֹ לְכַהֲנוֹ־ לִֽי׃",
-        "text": null
+        "number": "6-8",
+        "hebrew": "וְעָשׂ֖וּ אֶת־ הָאֵפֹ֑ד זָ֠הָב תְּכֵ֨לֶת וְאַרְגָּמָ֜ן תּוֹלַ֧עַת שָׁנִ֛י וְשֵׁ֥שׁ מָשְׁזָ֖ר מַעֲשֵׂ֥ה חֹשֵֽׁב׃ שְׁתֵּ֧י כְתֵפֹ֣ת חֹֽבְרֹ֗ת יִֽהְיֶה־ לּ֛וֹ אֶל־ שְׁנֵ֥י קְצוֹתָ֖יו וְחֻבָּֽר׃ וְחֵ֤שֶׁב אֲפֻדָּתוֹ֙ אֲשֶׁ֣ר עָלָ֔יו כְּמַעֲשֵׂ֖הוּ מִמֶּ֣נּוּ יִהְיֶ֑ה זָהָ֗ב תְּכֵ֧לֶת וְאַרְגָּמָ֛ן וְתוֹלַ֥עַת שָׁנִ֖י וְשֵׁ֥שׁ מָשְׁזָֽר׃",
+        "text": "Y harán el efod de oro, azul, púrpura, carmesí y lino torcido, de obra primorosa. Tendrá dos hombreras que se junten a sus dos extremos, y así se unirá. Y su cinto de obra primorosa que estará sobre él, será de su misma hechura y de lo mismo: de oro, azul, púrpura, carmesí y lino torcido."
       },
       {
-        "number": "4",
-        "hebrew": "וְאֵ֨לֶּה הַבְּגָדִ֜ים אֲשֶׁ֣ר יַעֲשׂ֗וּ חֹ֤שֶׁן וְאֵפוֹד֙ וּמְעִ֔יל וּכְתֹ֥נֶת תַּשְׁבֵּ֖ץ מִצְנֶ֣פֶת וְאַבְנֵ֑ט וְעָשׂ֨וּ בִגְדֵי־ קֹ֜דֶשׁ לְאַהֲרֹ֥ן אָחִ֛יךָ וּלְבָנָ֖יו לְכַהֲנוֹ־ לִֽי׃",
-        "text": null
+        "number": "9-12",
+        "hebrew": "וְלָ֣קַחְתָּ֔ אֶת־ שְׁתֵּ֖י אַבְנֵי־ שֹׁ֑הַם וּפִתַּחְתָּ֣ עֲלֵיהֶ֔ם שְׁמ֖וֹת בְּנֵ֥י יִשְׂרָאֵֽל׃ שִׁשָּׁה֙ מִשְּׁמֹתָ֔ם עַ֖ל הָאֶ֣בֶן הָאֶחָ֑ת וְאֶת־ שְׁמ֞וֹת הַשִּׁשָּׁ֧ה הַנּוֹתָרִ֛ים עַל־ הָאֶ֥בֶן הַשֵּׁנִ֖ית כְּתוֹלְדֹתָֽם׃ מַעֲשֵׂ֣ה חָרַשׁ֮ אֶבֶן֒ פִּתּוּחֵ֣י חֹתָ֗ם תְּפַתַּח֙ אֶת־ שְׁתֵּ֣י הָאֲבָנִ֔ים עַל־ שְׁמֹ֖ת בְּנֵ֣י יִשְׂרָאֵ֑ל מֻסַבֹּ֛ת מִשְׁבְּצ֥וֹת זָהָ֖ב תַּעֲשֶׂ֥ה אֹתָֽם׃ וְשַׂמְתָּ֞ אֶת־ שְׁתֵּ֣י הָאֲבָנִ֗ים עַ֚ל כִּתְפֹ֣ת הָֽאֵפֹ֔ד אַבְנֵ֥י זִכָּרֹ֖ן לִבְנֵ֣י יִשְׂרָאֵ֑ל וְנָשָׂא֩ אַהֲרֹ֨ן אֶת־ שְׁמוֹתָ֜ם לִפְנֵ֧י יְהוָ֛ה עַל־ שְׁתֵּ֥י כְתֵפָ֖יו לְזִכָּרֹֽן׃ ס",
+        "text": "Y tomarás dos piedras de ónice, y grabarás en ellas los nombres de los hijos de Israel; seis de sus nombres en una piedra, y los otros seis en la otra piedra, conforme al orden de su nacimiento. De obra de grabador en piedra, como grabaduras de sello, harás grabar las dos piedras con los nombres de los hijos de Israel; las harás engastadas en engastes de oro. Y pondrás las dos piedras sobre las hombreras del efod, como piedras memoriales¹²² para los hijos de Israel; y llevará Aarón los nombres de ellos sobre sus dos hombros delante de YHWH, para memoria."
       },
       {
-        "number": "5",
-        "hebrew": "וְהֵם֙ יִקְח֣וּ אֶת־ הַזָּהָ֔ב וְאֶת־ הַתְּכֵ֖לֶת וְאֶת־ הָֽאַרְגָּמָ֑ן וְאֶת־ תּוֹלַ֥עַת הַשָּׁנִ֖י וְאֶת־ הַשֵּֽׁשׁ׃ פ",
-        "text": null
-      },
-      {
-        "number": "6",
-        "hebrew": "וְעָשׂ֖וּ אֶת־ הָאֵפֹ֑ד זָ֠הָב תְּכֵ֨לֶת וְאַרְגָּמָ֜ן תּוֹלַ֧עַת שָׁנִ֛י וְשֵׁ֥שׁ מָשְׁזָ֖ר מַעֲשֵׂ֥ה חֹשֵֽׁב׃",
-        "text": null
-      },
-      {
-        "number": "7",
-        "hebrew": "שְׁתֵּ֧י כְתֵפֹ֣ת חֹֽבְרֹ֗ת יִֽהְיֶה־ לּ֛וֹ אֶל־ שְׁנֵ֥י קְצוֹתָ֖יו וְחֻבָּֽר׃",
-        "text": null
-      },
-      {
-        "number": "8",
-        "hebrew": "וְחֵ֤שֶׁב אֲפֻדָּתוֹ֙ אֲשֶׁ֣ר עָלָ֔יו כְּמַעֲשֵׂ֖הוּ מִמֶּ֣נּוּ יִהְיֶ֑ה זָהָ֗ב תְּכֵ֧לֶת וְאַרְגָּמָ֛ן וְתוֹלַ֥עַת שָׁנִ֖י וְשֵׁ֥שׁ מָשְׁזָֽר׃",
-        "text": null
-      },
-      {
-        "number": "9",
-        "hebrew": "וְלָ֣קַחְתָּ֔ אֶת־ שְׁתֵּ֖י אַבְנֵי־ שֹׁ֑הַם וּפִתַּחְתָּ֣ עֲלֵיהֶ֔ם שְׁמ֖וֹת בְּנֵ֥י יִשְׂרָאֵֽל׃",
-        "text": null
-      },
-      {
-        "number": "10",
-        "hebrew": "שִׁשָּׁה֙ מִשְּׁמֹתָ֔ם עַ֖ל הָאֶ֣בֶן הָאֶחָ֑ת וְאֶת־ שְׁמ֞וֹת הַשִּׁשָּׁ֧ה הַנּוֹתָרִ֛ים עַל־ הָאֶ֥בֶן הַשֵּׁנִ֖ית כְּתוֹלְדֹתָֽם׃",
-        "text": null
-      },
-      {
-        "number": "11",
-        "hebrew": "מַעֲשֵׂ֣ה חָרַשׁ֮ אֶבֶן֒ פִּתּוּחֵ֣י חֹתָ֗ם תְּפַתַּח֙ אֶת־ שְׁתֵּ֣י הָאֲבָנִ֔ים עַל־ שְׁמֹ֖ת בְּנֵ֣י יִשְׂרָאֵ֑ל מֻסַבֹּ֛ת מִשְׁבְּצ֥וֹת זָהָ֖ב תַּעֲשֶׂ֥ה אֹתָֽם׃",
-        "text": null
-      },
-      {
-        "number": "12",
-        "hebrew": "וְשַׂמְתָּ֞ אֶת־ שְׁתֵּ֣י הָאֲבָנִ֗ים עַ֚ל כִּתְפֹ֣ת הָֽאֵפֹ֔ד אַבְנֵ֥י זִכָּרֹ֖ן לִבְנֵ֣י יִשְׂרָאֵ֑ל וְנָשָׂא֩ אַהֲרֹ֨ן אֶת־ שְׁמוֹתָ֜ם לִפְנֵ֧י יְהוָ֛ה עַל־ שְׁתֵּ֥י כְתֵפָ֖יו לְזִכָּרֹֽן׃ ס",
-        "text": null
-      },
-      {
-        "number": "13",
-        "hebrew": "וְעָשִׂ֥יתָ מִשְׁבְּצֹ֖ת זָהָֽב׃",
-        "text": null
-      },
-      {
-        "number": "14",
-        "hebrew": "וּשְׁתֵּ֤י שַׁרְשְׁרֹת֙ זָהָ֣ב טָה֔וֹר מִגְבָּלֹ֛ת תַּעֲשֶׂ֥ה אֹתָ֖ם מַעֲשֵׂ֣ה עֲבֹ֑ת וְנָתַתָּ֛ה אֶת־ שַׁרְשְׁרֹ֥ת הָעֲבֹתֹ֖ת עַל־ הַֽמִּשְׁבְּצֹֽת׃ ס",
-        "text": null
+        "number": "13-14",
+        "hebrew": "וְעָשִׂ֥יתָ מִשְׁבְּצֹ֖ת זָהָֽב׃ וּשְׁתֵּ֤י שַׁרְשְׁרֹת֙ זָהָ֣ב טָה֔וֹר מִגְבָּלֹ֛ת תַּעֲשֶׂ֥ה אֹתָ֖ם מַעֲשֵׂ֣ה עֲבֹ֑ת וְנָתַתָּ֛ה אֶת־ שַׁרְשְׁרֹ֥ת הָעֲבֹתֹ֖ת עַל־ הַֽמִּשְׁבְּצֹֽת׃ ס",
+        "text": "Harás, pues, los engastes de oro, y dos cadenillas de oro fino que harás en forma de trenza, y fijarás las cadenillas de forma de trenza en los engastes."
       },
       {
         "number": "15",
         "hebrew": "וְעָשִׂ֜יתָ חֹ֤שֶׁן מִשְׁפָּט֙ מַעֲשֵׂ֣ה חֹשֵׁ֔ב כְּמַעֲשֵׂ֥ה אֵפֹ֖ד תַּעֲשֶׂ֑נּוּ זָ֠הָב תְּכֵ֨לֶת וְאַרְגָּמָ֜ן וְתוֹלַ֧עַת שָׁנִ֛י וְשֵׁ֥שׁ מָשְׁזָ֖ר תַּעֲשֶׂ֥ה אֹתֽוֹ׃",
-        "text": null
+        "text": "Harás asimismo el pectoral del juicio de obra primorosa, lo harás conforme a la obra del efod: de oro, azul, púrpura, carmesí y lino torcido lo harás."
       },
       {
-        "number": "16",
-        "hebrew": "רָב֥וּעַ יִֽהְיֶ֖ה כָּפ֑וּל זֶ֥רֶת אָרְכּ֖וֹ וְזֶ֥רֶת רָחְבּֽוֹ׃",
-        "text": null
+        "number": "16-20",
+        "hebrew": "רָב֥וּעַ יִֽהְיֶ֖ה כָּפ֑וּל זֶ֥רֶת אָרְכּ֖וֹ וְזֶ֥רֶת רָחְבּֽוֹ׃ וּמִלֵּאתָ֥ בוֹ֙ מִלֻּ֣אַת אֶ֔בֶן אַרְבָּעָ֖ה טוּרִ֣ים אָ֑בֶן ט֗וּר אֹ֤דֶם פִּטְדָה֙ וּבָרֶ֔קֶת הַטּ֖וּר הָאֶחָֽד׃ וְהַטּ֖וּר הַשֵּׁנִ֑י נֹ֥פֶךְ סַפִּ֖יר וְיָהֲלֹֽם׃ וְהַטּ֖וּר הַשְּׁלִישִׁ֑י לֶ֥שֶׁם שְׁב֖וֹ וְאַחְלָֽמָה׃ וְהַטּוּר֙ הָרְבִיעִ֔י תַּרְשִׁ֥ישׁ וְשֹׁ֖הַם וְיָשְׁפֵ֑ה מְשֻׁבָּצִ֥ים זָהָ֛ב יִהְי֖וּ בְּמִלּוּאֹתָֽם׃",
+        "text": "Será cuadrado y doble, de un palmo su longitud, y de un palmo su anchura. Y lo llenarás de pedrería con cuatro hileras de piedras: una hilera de una piedra sárdica, un topacio y un carbunclo; la segunda hilera, una esmeralda, un zafiro y un diamante; la tercera hilera, un jacinto, una ágata y una amatista; y la cuarta hilera, un berilo, un ónice y un jaspe; todas estarán montadas en engastes de oro."
       },
       {
-        "number": "17",
-        "hebrew": "וּמִלֵּאתָ֥ בוֹ֙ מִלֻּ֣אַת אֶ֔בֶן אַרְבָּעָ֖ה טוּרִ֣ים אָ֑בֶן ט֗וּר אֹ֤דֶם פִּטְדָה֙ וּבָרֶ֔קֶת הַטּ֖וּר הָאֶחָֽד׃",
-        "text": null
+        "number": "21-24",
+        "hebrew": "וְ֠הָאֲבָנִים תִּֽהְיֶ֜יןָ עַל־ שְׁמֹ֧ת בְּנֵֽי־ יִשְׂרָאֵ֛ל שְׁתֵּ֥ים עֶשְׂרֵ֖ה עַל־ שְׁמֹתָ֑ם פִּתּוּחֵ֤י חוֹתָם֙ אִ֣ישׁ עַל־ שְׁמ֔וֹ תִּֽהְיֶ֕יןָ לִשְׁנֵ֥י עָשָׂ֖ר שָֽׁבֶט׃ וְעָשִׂ֧יתָ עַל־ הַחֹ֛שֶׁן שַֽׁרְשֹׁ֥ת גַּבְלֻ֖ת מַעֲשֵׂ֣ה עֲבֹ֑ת זָהָ֖ב טָהֽוֹר׃ וְעָשִׂ֨יתָ֙ עַל־ הַחֹ֔שֶׁן שְׁתֵּ֖י טַבְּע֣וֹת זָהָ֑ב וְנָתַתָּ֗ אֶת־ שְׁתֵּי֙ הַטַּבָּע֔וֹת עַל־ שְׁנֵ֖י קְצ֥וֹת הַחֹֽשֶׁן׃ וְנָתַתָּ֗ה אֶת־ שְׁתֵּי֙ עֲבֹתֹ֣ת הַזָּהָ֔ב עַל־ שְׁתֵּ֖י הַטַּבָּעֹ֑ת אֶל־ קְצ֖וֹת הַחֹֽשֶׁן׃",
+        "text": "Y las piedras serán según los nombres de los hijos de Israel, doce según sus nombres; como grabaduras de sello, cada una con su nombre, según las doce tribus. Harás también en el pectoral cadenillas iguales, de hechura de trenzas, de oro puro. Y harás en el pectoral dos anillos de oro, los cuales pondrás a los dos extremos del pectoral. Luego pondrás las dos cadenillas de oro en los dos anillos a los extremos del pectoral."
       },
       {
-        "number": "18",
-        "hebrew": "וְהַטּ֖וּר הַשֵּׁנִ֑י נֹ֥פֶךְ סַפִּ֖יר וְיָהֲלֹֽם׃",
-        "text": null
+        "number": "25-28",
+        "hebrew": "וְאֵ֨ת שְׁתֵּ֤י קְצוֹת֙ שְׁתֵּ֣י הָעֲבֹתֹ֔ת תִּתֵּ֖ן עַל־ שְׁתֵּ֣י הַֽמִּשְׁבְּצ֑וֹת וְנָתַתָּ֛ה עַל־ כִּתְפ֥וֹת הָאֵפֹ֖ד אֶל־ מ֥וּל פָּנָֽיו׃ וְעָשִׂ֗יתָ שְׁתֵּי֙ טַבְּע֣וֹת זָהָ֔ב וְשַׂמְתָּ֣ אֹתָ֔ם עַל־ שְׁנֵ֖י קְצ֣וֹת הַחֹ֑שֶׁן עַל־ שְׂפָת֕וֹ אֲשֶׁ֛ר אֶל־ עֵ֥בֶר הָאֵפֹ֖ד בָּֽיְתָה׃ וְעָשִׂיתָ֮ שְׁתֵּ֣י טַבְּע֣וֹת זָהָב֒ וְנָתַתָּ֣ה אֹתָ֡ם עַל־ שְׁתֵּי֩ כִתְפ֨וֹת הָאֵפ֤וֹד מִלְּמַ֨טָּה֙ מִמּ֣וּל פָּנָ֔יו לְעֻמַּ֖ת מֶחְבַּרְתּ֑וֹ מִמַּ֕עַל לְחֵ֖שֶׁב הָאֵפֽוֹד׃ וְיִרְכְּס֣וּ אֶת־ הַ֠חֹשֶׁן מטבעתו אֶל־ טַבְּעֹ֤ת הָאֵפֹד֙ בִּפְתִ֣יל תְּכֵ֔לֶת לִֽהְי֖וֹת עַל־ חֵ֣שֶׁב הָאֵפ֑וֹד וְלֹֽא־ יִזַּ֣ח הַחֹ֔שֶׁן מֵעַ֖ל הָאֵפֽוֹד׃",
+        "text": "Y los dos extremos de las dos cadenillas los fijarás en los dos engastes, que los pondrás en las hombreras del efod en su parte delantera. Harás también dos anillos de oro, los cuales pondrás en los dos extremos del pectoral, en su orilla que está al lado del efod hacia dentro. Harás asimismo dos anillos de oro, los cuales pondrás en las dos hombreras del efod, abajo en la parte delantera, delante de su juntura sobre el cinto del efod. Y juntarán el pectoral por sus anillos a los anillos del efod con un cordón de azul, para que esté sobre el cinto del efod y no se separe el pectoral del efod."
       },
       {
-        "number": "19",
-        "hebrew": "וְהַטּ֖וּר הַשְּׁלִישִׁ֑י לֶ֥שֶׁם שְׁב֖וֹ וְאַחְלָֽמָה׃",
-        "text": null
+        "number": "29-30",
+        "hebrew": "וְנָשָׂ֣א אַ֠הֲרֹן אֶת־ שְׁמ֨וֹת בְּנֵֽי־ יִשְׂרָאֵ֜ל בְּחֹ֧שֶׁן הַמִּשְׁפָּ֛ט עַל־ לִבּ֖וֹ בְּבֹא֣וֹ אֶל־ הַקֹּ֑דֶשׁ לְזִכָּרֹ֥ן לִפְנֵֽי־ יְהוָ֖ה תָּמִֽיד׃ וְנָתַתָּ֞ אֶל־ חֹ֣שֶׁן הַמִּשְׁפָּ֗ט אֶת־ הָאוּרִים֙ וְאֶת־ הַתֻּמִּ֔ים וְהָיוּ֙ עַל־ לֵ֣ב אַהֲרֹ֔ן בְּבֹא֖וֹ לִפְנֵ֣י יְהוָ֑ה וְנָשָׂ֣א אַ֠הֲרֹן אֶת־ מִשְׁפַּ֨ט בְּנֵי־ יִשְׂרָאֵ֧ל עַל־ לִבּ֛וֹ לִפְנֵ֥י יְהוָ֖ה תָּמִֽיד׃ ס",
+        "text": "Y llevará Aarón los nombres de los hijos de Israel en el pectoral del juicio sobre su corazón, cuando entre en el santuario, para memoria delante de YHWH continuamente. Y pondrás en el pectoral del juicio Urim y Tumim¹²³, para que estén sobre el corazón de Aarón cuando entre delante de YHWH; y llevará siempre Aarón el juicio de los hijos de Israel sobre su corazón delante de YHWH."
       },
       {
-        "number": "20",
-        "hebrew": "וְהַטּוּר֙ הָרְבִיעִ֔י תַּרְשִׁ֥ישׁ וְשֹׁ֖הַם וְיָשְׁפֵ֑ה מְשֻׁבָּצִ֥ים זָהָ֛ב יִהְי֖וּ בְּמִלּוּאֹתָֽם׃",
-        "text": null
+        "number": "31-32",
+        "hebrew": "וְעָשִׂ֛יתָ אֶת־ מְעִ֥יל הָאֵפ֖וֹד כְּלִ֥יל תְּכֵֽלֶת׃ וְהָיָ֥ה פִֽי־ רֹאשׁ֖וֹ בְּתוֹכ֑וֹ שָׂפָ֡ה יִֽהְיֶה֩ לְפִ֨יו סָבִ֜יב מַעֲשֵׂ֣ה אֹרֵ֗ג כְּפִ֥י תַחְרָ֛א יִֽהְיֶה־ לּ֖וֹ לֹ֥א יִקָּרֵֽעַ׃",
+        "text": "Harás el manto del efod todo de azul; y en medio de él por arriba habrá una abertura, la cual tendrá un borde alrededor de obra tejida, como el cuello de un coselete, para que no se rompa."
       },
       {
-        "number": "21",
-        "hebrew": "וְ֠הָאֲבָנִים תִּֽהְיֶ֜יןָ עַל־ שְׁמֹ֧ת בְּנֵֽי־ יִשְׂרָאֵ֛ל שְׁתֵּ֥ים עֶשְׂרֵ֖ה עַל־ שְׁמֹתָ֑ם פִּתּוּחֵ֤י חוֹתָם֙ אִ֣ישׁ עַל־ שְׁמ֔וֹ תִּֽהְיֶ֕יןָ לִשְׁנֵ֥י עָשָׂ֖ר שָֽׁבֶט׃",
-        "text": null
+        "number": "33-35",
+        "hebrew": "וְעָשִׂ֣יתָ עַל־ שׁוּלָ֗יו רִמֹּנֵי֙ תְּכֵ֤לֶת וְאַרְגָּמָן֙ וְתוֹלַ֣עַת שָׁנִ֔י עַל־ שׁוּלָ֖יו סָבִ֑יב וּפַעֲמֹנֵ֥י זָהָ֛ב בְּתוֹכָ֖ם סָבִֽיב׃ פַּעֲמֹ֤ן זָהָב֙ וְרִמּ֔וֹן פַּֽעֲמֹ֥ן זָהָ֖ב וְרִמּ֑וֹן עַל־ שׁוּלֵ֥י הַמְּעִ֖יל סָבִֽיב׃ וְהָיָ֥ה עַֽל־ אַהֲרֹ֖ן לְשָׁרֵ֑ת וְנִשְׁמַ֣ע ק֠וֹלוֹ בְּבֹא֨וֹ אֶל־ הַקֹּ֜דֶשׁ לִפְנֵ֧י יְהוָ֛ה וּבְצֵאת֖וֹ וְלֹ֥א יָמֽוּת׃ ס",
+        "text": "Y en sus orlas harás granadas de azul, púrpura y carmesí, alrededor de sus orlas, y entre ellas campanillas de oro alrededor. Una campanilla de oro y una granada, otra campanilla de oro y otra granada, así alrededor en las orlas del manto. Y estará sobre Aarón cuando ministre; y se oirá su sonido cuando él entre en el santuario delante de YHWH, y cuando salga, para que no muera¹²⁴."
       },
       {
-        "number": "22",
-        "hebrew": "וְעָשִׂ֧יתָ עַל־ הַחֹ֛שֶׁן שַֽׁרְשֹׁ֥ת גַּבְלֻ֖ת מַעֲשֵׂ֣ה עֲבֹ֑ת זָהָ֖ב טָהֽוֹר׃",
-        "text": null
+        "number": "36-38",
+        "hebrew": "וְעָשִׂ֥יתָ צִּ֖יץ זָהָ֣ב טָה֑וֹר וּפִתַּחְתָּ֤ עָלָיו֙ פִּתּוּחֵ֣י חֹתָ֔ם קֹ֖דֶשׁ לַֽיהוָֽה׃ וְשַׂמְתָּ֤ אֹתוֹ֙ עַל־ פְּתִ֣יל תְּכֵ֔לֶת וְהָיָ֖ה עַל־ הַמִּצְנָ֑פֶת אֶל־ מ֥וּל פְּנֵֽי־ הַמִּצְנֶ֖פֶת יִהְיֶֽה׃ וְהָיָה֮ עַל־ מֵ֣צַח אַהֲרֹן֒ וְנָשָׂ֨א אַהֲרֹ֜ן אֶת־ עֲוֺ֣ן הַקֳּדָשִׁ֗ים אֲשֶׁ֤ר יַקְדִּ֨ישׁוּ֙ בְּנֵ֣י יִשְׂרָאֵ֔ל לְכָֽל־ מַתְּנֹ֖ת קָדְשֵׁיהֶ֑ם וְהָיָ֤ה עַל־ מִצְחוֹ֙ תָּמִ֔יד לְרָצ֥וֹן לָהֶ֖ם לִפְנֵ֥י יְהוָֽה׃",
+        "text": "Harás además una lámina de oro puro, y grabarás en ella como grabadura de sello: Consagrado a YHWH. Y la pondrás con un cordón de azul, y estará sobre la mitra; por la parte delantera de la mitra estará. Y estará sobre la frente de Aarón, y llevará Aarón el pecado de las cosas consagradas que los hijos de Israel hubieren consagrado en todas sus santas ofrendas¹²⁵; y sobre su frente estará continuamente, para que obtengan gracia delante de YHWH."
       },
       {
-        "number": "23",
-        "hebrew": "וְעָשִׂ֨יתָ֙ עַל־ הַחֹ֔שֶׁן שְׁתֵּ֖י טַבְּע֣וֹת זָהָ֑ב וְנָתַתָּ֗ אֶת־ שְׁתֵּי֙ הַטַּבָּע֔וֹת עַל־ שְׁנֵ֖י קְצ֥וֹת הַחֹֽשֶׁן׃",
-        "text": null
+        "number": "39-40",
+        "hebrew": "וְשִׁבַּצְתָּ֙ הַכְּתֹ֣נֶת שֵׁ֔שׁ וְעָשִׂ֖יתָ מִצְנֶ֣פֶת שֵׁ֑שׁ וְאַבְנֵ֥ט תַּעֲשֶׂ֖ה מַעֲשֵׂ֥ה רֹקֵֽם׃ וְלִבְנֵ֤י אַהֲרֹן֙ תַּעֲשֶׂ֣ה כֻתֳּנֹ֔ת וְעָשִׂ֥יתָ לָהֶ֖ם אַבְנֵטִ֑ים וּמִגְבָּעוֹת֙ תַּעֲשֶׂ֣ה לָהֶ֔ם לְכָב֖וֹד וּלְתִפְאָֽרֶת׃",
+        "text": "Y bordarás una túnica de lino, y harás una mitra de lino; harás también un cinturón de obra de recamador. Y para los hijos de Aarón harás túnicas; también les harás cinturones, y les harás tiaras para honra y hermosura."
       },
       {
-        "number": "24",
-        "hebrew": "וְנָתַתָּ֗ה אֶת־ שְׁתֵּי֙ עֲבֹתֹ֣ת הַזָּהָ֔ב עַל־ שְׁתֵּ֖י הַטַּבָּעֹ֑ת אֶל־ קְצ֖וֹת הַחֹֽשֶׁן׃",
-        "text": null
-      },
-      {
-        "number": "25",
-        "hebrew": "וְאֵ֨ת שְׁתֵּ֤י קְצוֹת֙ שְׁתֵּ֣י הָעֲבֹתֹ֔ת תִּתֵּ֖ן עַל־ שְׁתֵּ֣י הַֽמִּשְׁבְּצ֑וֹת וְנָתַתָּ֛ה עַל־ כִּתְפ֥וֹת הָאֵפֹ֖ד אֶל־ מ֥וּל פָּנָֽיו׃",
-        "text": null
-      },
-      {
-        "number": "26",
-        "hebrew": "וְעָשִׂ֗יתָ שְׁתֵּי֙ טַבְּע֣וֹת זָהָ֔ב וְשַׂמְתָּ֣ אֹתָ֔ם עַל־ שְׁנֵ֖י קְצ֣וֹת הַחֹ֑שֶׁן עַל־ שְׂפָת֕וֹ אֲשֶׁ֛ר אֶל־ עֵ֥בֶר הָאֵפֹ֖ד בָּֽיְתָה׃",
-        "text": null
-      },
-      {
-        "number": "27",
-        "hebrew": "וְעָשִׂיתָ֮ שְׁתֵּ֣י טַבְּע֣וֹת זָהָב֒ וְנָתַתָּ֣ה אֹתָ֡ם עַל־ שְׁתֵּי֩ כִתְפ֨וֹת הָאֵפ֤וֹד מִלְּמַ֨טָּה֙ מִמּ֣וּל פָּנָ֔יו לְעֻמַּ֖ת מֶחְבַּרְתּ֑וֹ מִמַּ֕עַל לְחֵ֖שֶׁב הָאֵפֽוֹד׃",
-        "text": null
-      },
-      {
-        "number": "28",
-        "hebrew": "וְיִרְכְּס֣וּ אֶת־ הַ֠חֹשֶׁן מטבעתו אֶל־ טַבְּעֹ֤ת הָאֵפֹד֙ בִּפְתִ֣יל תְּכֵ֔לֶת לִֽהְי֖וֹת עַל־ חֵ֣שֶׁב הָאֵפ֑וֹד וְלֹֽא־ יִזַּ֣ח הַחֹ֔שֶׁן מֵעַ֖ל הָאֵפֽוֹד׃",
-        "text": null
-      },
-      {
-        "number": "29",
-        "hebrew": "וְנָשָׂ֣א אַ֠הֲרֹן אֶת־ שְׁמ֨וֹת בְּנֵֽי־ יִשְׂרָאֵ֜ל בְּחֹ֧שֶׁן הַמִּשְׁפָּ֛ט עַל־ לִבּ֖וֹ בְּבֹא֣וֹ אֶל־ הַקֹּ֑דֶשׁ לְזִכָּרֹ֥ן לִפְנֵֽי־ יְהוָ֖ה תָּמִֽיד׃",
-        "text": null
-      },
-      {
-        "number": "30",
-        "hebrew": "וְנָתַתָּ֞ אֶל־ חֹ֣שֶׁן הַמִּשְׁפָּ֗ט אֶת־ הָאוּרִים֙ וְאֶת־ הַתֻּמִּ֔ים וְהָיוּ֙ עַל־ לֵ֣ב אַהֲרֹ֔ן בְּבֹא֖וֹ לִפְנֵ֣י יְהוָ֑ה וְנָשָׂ֣א אַ֠הֲרֹן אֶת־ מִשְׁפַּ֨ט בְּנֵי־ יִשְׂרָאֵ֧ל עַל־ לִבּ֛וֹ לִפְנֵ֥י יְהוָ֖ה תָּמִֽיד׃ ס",
-        "text": null
-      },
-      {
-        "number": "31",
-        "hebrew": "וְעָשִׂ֛יתָ אֶת־ מְעִ֥יל הָאֵפ֖וֹד כְּלִ֥יל תְּכֵֽלֶת׃",
-        "text": null
-      },
-      {
-        "number": "32",
-        "hebrew": "וְהָיָ֥ה פִֽי־ רֹאשׁ֖וֹ בְּתוֹכ֑וֹ שָׂפָ֡ה יִֽהְיֶה֩ לְפִ֨יו סָבִ֜יב מַעֲשֵׂ֣ה אֹרֵ֗ג כְּפִ֥י תַחְרָ֛א יִֽהְיֶה־ לּ֖וֹ לֹ֥א יִקָּרֵֽעַ׃",
-        "text": null
-      },
-      {
-        "number": "33",
-        "hebrew": "וְעָשִׂ֣יתָ עַל־ שׁוּלָ֗יו רִמֹּנֵי֙ תְּכֵ֤לֶת וְאַרְגָּמָן֙ וְתוֹלַ֣עַת שָׁנִ֔י עַל־ שׁוּלָ֖יו סָבִ֑יב וּפַעֲמֹנֵ֥י זָהָ֛ב בְּתוֹכָ֖ם סָבִֽיב׃",
-        "text": null
-      },
-      {
-        "number": "34",
-        "hebrew": "פַּעֲמֹ֤ן זָהָב֙ וְרִמּ֔וֹן פַּֽעֲמֹ֥ן זָהָ֖ב וְרִמּ֑וֹן עַל־ שׁוּלֵ֥י הַמְּעִ֖יל סָבִֽיב׃",
-        "text": null
-      },
-      {
-        "number": "35",
-        "hebrew": "וְהָיָ֥ה עַֽל־ אַהֲרֹ֖ן לְשָׁרֵ֑ת וְנִשְׁמַ֣ע ק֠וֹלוֹ בְּבֹא֨וֹ אֶל־ הַקֹּ֜דֶשׁ לִפְנֵ֧י יְהוָ֛ה וּבְצֵאת֖וֹ וְלֹ֥א יָמֽוּת׃ ס",
-        "text": null
-      },
-      {
-        "number": "36",
-        "hebrew": "וְעָשִׂ֥יתָ צִּ֖יץ זָהָ֣ב טָה֑וֹר וּפִתַּחְתָּ֤ עָלָיו֙ פִּתּוּחֵ֣י חֹתָ֔ם קֹ֖דֶשׁ לַֽיהוָֽה׃",
-        "text": null
-      },
-      {
-        "number": "37",
-        "hebrew": "וְשַׂמְתָּ֤ אֹתוֹ֙ עַל־ פְּתִ֣יל תְּכֵ֔לֶת וְהָיָ֖ה עַל־ הַמִּצְנָ֑פֶת אֶל־ מ֥וּל פְּנֵֽי־ הַמִּצְנֶ֖פֶת יִהְיֶֽה׃",
-        "text": null
-      },
-      {
-        "number": "38",
-        "hebrew": "וְהָיָה֮ עַל־ מֵ֣צַח אַהֲרֹן֒ וְנָשָׂ֨א אַהֲרֹ֜ן אֶת־ עֲוֺ֣ן הַקֳּדָשִׁ֗ים אֲשֶׁ֤ר יַקְדִּ֨ישׁוּ֙ בְּנֵ֣י יִשְׂרָאֵ֔ל לְכָֽל־ מַתְּנֹ֖ת קָדְשֵׁיהֶ֑ם וְהָיָ֤ה עַל־ מִצְחוֹ֙ תָּמִ֔יד לְרָצ֥וֹן לָהֶ֖ם לִפְנֵ֥י יְהוָֽה׃",
-        "text": null
-      },
-      {
-        "number": "39",
-        "hebrew": "וְשִׁבַּצְתָּ֙ הַכְּתֹ֣נֶת שֵׁ֔שׁ וְעָשִׂ֖יתָ מִצְנֶ֣פֶת שֵׁ֑שׁ וְאַבְנֵ֥ט תַּעֲשֶׂ֖ה מַעֲשֵׂ֥ה רֹקֵֽם׃",
-        "text": null
-      },
-      {
-        "number": "40",
-        "hebrew": "וְלִבְנֵ֤י אַהֲרֹן֙ תַּעֲשֶׂ֣ה כֻתֳּנֹ֔ת וְעָשִׂ֥יתָ לָהֶ֖ם אַבְנֵטִ֑ים וּמִגְבָּעוֹת֙ תַּעֲשֶׂ֣ה לָהֶ֔ם לְכָב֖וֹד וּלְתִפְאָֽרֶת׃",
-        "text": null
-      },
-      {
-        "number": "41",
-        "hebrew": "וְהִלְבַּשְׁתָּ֤ אֹתָם֙ אֶת־ אַהֲרֹ֣ן אָחִ֔יךָ וְאֶת־ בָּנָ֖יו אִתּ֑וֹ וּמָשַׁחְתָּ֨ אֹתָ֜ם וּמִלֵּאתָ֧ אֶת־ יָדָ֛ם וְקִדַּשְׁתָּ֥ אֹתָ֖ם וְכִהֲנ֥וּ לִֽי׃",
-        "text": null
-      },
-      {
-        "number": "42",
-        "hebrew": "וַעֲשֵׂ֤ה לָהֶם֙ מִכְנְסֵי־ בָ֔ד לְכַסּ֖וֹת בְּשַׂ֣ר עֶרְוָ֑ה מִמָּתְנַ֥יִם וְעַד־ יְרֵכַ֖יִם יִהְיֽוּ׃",
-        "text": null
-      },
-      {
-        "number": "43",
-        "hebrew": "וְהָיוּ֩ עַל־ אַהֲרֹ֨ן וְעַל־ בָּנָ֜יו בְּבֹאָ֣ם ׀ אֶל־ אֹ֣הֶל מוֹעֵ֗ד א֣וֹ בְגִשְׁתָּ֤ם אֶל־ הַמִּזְבֵּ֨חַ֙ לְשָׁרֵ֣ת בַּקֹּ֔דֶשׁ וְלֹא־ יִשְׂא֥וּ עָוֺ֖ן וָמֵ֑תוּ חֻקַּ֥ת עוֹלָ֛ם ל֖וֹ וּלְזַרְע֥וֹ אַחֲרָֽיו׃ ס",
-        "text": null
+        "number": "41-43",
+        "hebrew": "וְהִלְבַּשְׁתָּ֤ אֹתָם֙ אֶת־ אַהֲרֹ֣ן אָחִ֔יךָ וְאֶת־ בָּנָ֖יו אִתּ֑וֹ וּמָשַׁחְתָּ֨ אֹתָ֜ם וּמִלֵּאתָ֧ אֶת־ יָדָ֛ם וְקִדַּשְׁתָּ֥ אֹתָ֖ם וְכִהֲנ֥וּ לִֽי׃ וַעֲשֵׂ֤ה לָהֶם֙ מִכְנְסֵי־ בָ֔ד לְכַסּ֖וֹת בְּשַׂ֣ר עֶרְוָ֑ה מִמָּתְנַ֥יִם וְעַד־ יְרֵכַ֖יִם יִהְיֽוּ׃ וְהָיוּ֩ עַל־ אַהֲרֹ֨ן וְעַל־ בָּנָ֜יו בְּבֹאָ֣ם ׀ אֶל־ אֹ֣הֶל מוֹעֵ֗ד א֣וֹ בְגִשְׁתָּ֤ם אֶל־ הַמִּזְבֵּ֨חַ֙ לְשָׁרֵ֣ת בַּקֹּ֔דֶשׁ וְלֹא־ יִשְׂא֥וּ עָוֺ֖ן וָמֵ֑תוּ חֻקַּ֥ת עוֹלָ֛ם ל֖וֹ וּלְזַרְע֥וֹ אַחֲרָֽיו׃ ס",
+        "text": "Y con ellas vestirás a Aarón tu hermano, y a sus hijos con él; y los ungirás, y los consagrarás, y los santificarás, para que sean mis sacerdotes. Y les harás calzoncillos de lino para cubrir su desnudez; serán desde los lomos hasta los muslos¹²⁶. Y estarán sobre Aarón y sobre sus hijos cuando entren en el tabernáculo de reunión, o cuando se acerquen al altar para servir en el santuario, para que no lleven pecado y mueran. Estatuto perpetuo para él, y para su descendencia después de él."
       }
     ],
     "29": [
       {
-        "number": "1",
-        "hebrew": "וְזֶ֨ה הַדָּבָ֜ר אֲשֶֽׁר־ תַּעֲשֶׂ֥ה לָהֶ֛ם לְקַדֵּ֥שׁ אֹתָ֖ם לְכַהֵ֣ן לִ֑י לְ֠קַח פַּ֣ר אֶחָ֧ד בֶּן־ בָּקָ֛ר וְאֵילִ֥ם שְׁנַ֖יִם תְּמִימִֽם׃",
-        "text": null
+        "number": "1-3",
+        "hebrew": "וְזֶ֨ה הַדָּבָ֜ר אֲשֶֽׁר־ תַּעֲשֶׂ֥ה לָהֶ֛ם לְקַדֵּ֥שׁ אֹתָ֖ם לְכַהֵ֣ן לִ֑י לְ֠קַח פַּ֣ר אֶחָ֧ד בֶּן־ בָּקָ֛ר וְאֵילִ֥ם שְׁנַ֖יִם תְּמִימִֽם׃ וְלֶ֣חֶם מַצּ֗וֹת וְחַלֹּ֤ת מַצֹּת֙ בְּלוּלֹ֣ת בַּשֶּׁ֔מֶן וּרְקִיקֵ֥י מַצּ֖וֹת מְשֻׁחִ֣ים בַּשָּׁ֑מֶן סֹ֥לֶת חִטִּ֖ים תַּעֲשֶׂ֥ה אֹתָֽם׃ וְנָתַתָּ֤ אוֹתָם֙ עַל־ סַ֣ל אֶחָ֔ד וְהִקְרַבְתָּ֥ אֹתָ֖ם בַּסָּ֑ל וְאֶ֨ת־ הַפָּ֔ר וְאֵ֖ת שְׁנֵ֥י הָאֵילִֽם׃",
+        "text": "Esto es lo que les harás para consagrarlos, para que sean mis sacerdotes: toma un novillo y dos carneros sin defecto, y panes sin levadura, y tortas sin levadura amasadas con aceite, y hojaldres sin levadura untadas con aceite; las harás de flor de harina de trigo. Y las pondrás en un canastillo, y las ofrecerás en el canastillo, con el novillo y los dos carneros."
       },
       {
-        "number": "2",
-        "hebrew": "וְלֶ֣חֶם מַצּ֗וֹת וְחַלֹּ֤ת מַצֹּת֙ בְּלוּלֹ֣ת בַּשֶּׁ֔מֶן וּרְקִיקֵ֥י מַצּ֖וֹת מְשֻׁחִ֣ים בַּשָּׁ֑מֶן סֹ֥לֶת חִטִּ֖ים תַּעֲשֶׂ֥ה אֹתָֽם׃",
-        "text": null
+        "number": "4-9",
+        "hebrew": "וְאֶת־ אַהֲרֹ֤ן וְאֶת־ בָּנָיו֙ תַּקְרִ֔יב אֶל־ פֶּ֖תַח אֹ֣הֶל מוֹעֵ֑ד וְרָחַצְתָּ֥ אֹתָ֖ם בַּמָּֽיִם׃ וְלָקַחְתָּ֣ אֶת־ הַבְּגָדִ֗ים וְהִלְבַּשְׁתָּ֤ אֶֽת־ אַהֲרֹן֙ אֶת־ הַכֻּתֹּ֔נֶת וְאֵת֙ מְעִ֣יל הָאֵפֹ֔ד וְאֶת־ הָאֵפֹ֖ד וְאֶת־ הַחֹ֑שֶׁן וְאָפַדְתָּ֣ ל֔וֹ בְּחֵ֖שֶׁב הָאֵפֹֽד׃ וְשַׂמְתָּ֥ הַמִּצְנֶ֖פֶת עַל־ רֹאשׁ֑וֹ וְנָתַתָּ֛ אֶת־ נֵ֥זֶר הַקֹּ֖דֶשׁ עַל־ הַמִּצְנָֽפֶת׃ וְלָֽקַחְתָּ֙ אֶת־ שֶׁ֣מֶן הַמִּשְׁחָ֔ה וְיָצַקְתָּ֖ עַל־ רֹאשׁ֑וֹ וּמָשַׁחְתָּ֖ אֹתֽוֹ׃ וְאֶת־ בָּנָ֖יו תַּקְרִ֑יב וְהִלְבַּשְׁתָּ֖ם כֻּתֳּנֹֽת׃ וְחָגַרְתָּ֩ אֹתָ֨ם אַבְנֵ֜ט אַהֲרֹ֣ן וּבָנָ֗יו וְחָבַשְׁתָּ֤ לָהֶם֙ מִגְבָּעֹ֔ת וְהָיְתָ֥ה לָהֶ֛ם כְּהֻנָּ֖ה לְחֻקַּ֣ת עוֹלָ֑ם וּמִלֵּאתָ֥ יַֽד־ אַהֲרֹ֖ן וְיַד־ בָּנָֽיו׃",
+        "text": "Y llevarás a Aarón y a sus hijos a la puerta del tabernáculo de reunión, y los lavarás con agua. Y tomarás las vestiduras, y vestirás a Aarón la túnica, el manto del efod, el efod mismo y el pectoral, y le ceñirás con el cinto del efod. Y pondrás la mitra sobre su cabeza, y sobre la mitra pondrás la diadema santa. Y tomarás el aceite de la unción, y lo derramarás sobre su cabeza, y lo ungirás. Y harás llegar a sus hijos, y les vestirás las túnicas. Y les ceñirás el cinturón a Aarón y a sus hijos, y les atarás las tiaras, y tendrán el sacerdocio por derecho perpetuo. Así consagrarás a Aarón y a sus hijos."
       },
       {
-        "number": "3",
-        "hebrew": "וְנָתַתָּ֤ אוֹתָם֙ עַל־ סַ֣ל אֶחָ֔ד וְהִקְרַבְתָּ֥ אֹתָ֖ם בַּסָּ֑ל וְאֶ֨ת־ הַפָּ֔ר וְאֵ֖ת שְׁנֵ֥י הָאֵילִֽם׃",
-        "text": null
+        "number": "10-14",
+        "hebrew": "וְהִקְרַבְתָּ֙ אֶת־ הַפָּ֔ר לִפְנֵ֖י אֹ֣הֶל מוֹעֵ֑ד וְסָמַ֨ךְ אַהֲרֹ֧ן וּבָנָ֛יו אֶת־ יְדֵיהֶ֖ם עַל־ רֹ֥אשׁ הַפָּֽר׃ וְשָׁחַטְתָּ֥ אֶת־ הַפָּ֖ר לִפְנֵ֣י יְהוָ֑ה פֶּ֖תַח אֹ֥הֶל מוֹעֵֽד׃ וְלָֽקַחְתָּ֙ מִדַּ֣ם הַפָּ֔ר וְנָתַתָּ֛ה עַל־ קַרְנֹ֥ת הַמִּזְבֵּ֖חַ בְּאֶצְבָּעֶ֑ךָ וְאֶת־ כָּל־ הַדָּ֣ם תִּשְׁפֹּ֔ךְ אֶל־ יְס֖וֹד הַמִּזְבֵּֽחַ׃ וְלָֽקַחְתָּ֗ אֶֽת־ כָּל־ הַחֵלֶב֮ הַֽמְכַסֶּ֣ה אֶת־ הַקֶּרֶב֒ וְאֵ֗ת הַיֹּתֶ֨רֶת֙ עַל־ הַכָּבֵ֔ד וְאֵת֙ שְׁתֵּ֣י הַכְּלָיֹ֔ת וְאֶת־ הַחֵ֖לֶב אֲשֶׁ֣ר עֲלֵיהֶ֑ן וְהִקְטַרְתָּ֖ הַמִּזְבֵּֽחָה׃ וְאֶת־ בְּשַׂ֤ר הַפָּר֙ וְאֶת־ עֹר֣וֹ וְאֶת־ פִּרְשׁ֔וֹ תִּשְׂרֹ֣ף בָּאֵ֔שׁ מִח֖וּץ לַֽמַּחֲנֶ֑ה חַטָּ֖את הֽוּא׃",
+        "text": "Y harás que se acerque el novillo delante del tabernáculo de reunión, y Aarón y sus hijos pondrán sus manos sobre la cabeza del novillo. Y matarás el novillo delante de YHWH, a la puerta del tabernáculo de reunión. Y tomarás de la sangre del novillo, y la pondrás sobre los cuernos del altar con tu dedo, y derramarás toda la demás sangre al pie del altar. Y tomarás toda la grosura que cubre los intestinos, y el redaño de sobre el hígado, y los dos riñones, y la grosura que está sobre ellos, y los quemarás sobre el altar. Mas la carne del novillo, su piel y su estiércol, los quemarás a fuego fuera del campamento; es ofrenda por el pecado."
       },
       {
-        "number": "4",
-        "hebrew": "וְאֶת־ אַהֲרֹ֤ן וְאֶת־ בָּנָיו֙ תַּקְרִ֔יב אֶל־ פֶּ֖תַח אֹ֣הֶל מוֹעֵ֑ד וְרָחַצְתָּ֥ אֹתָ֖ם בַּמָּֽיִם׃",
-        "text": null
+        "number": "15-18",
+        "hebrew": "וְאֶת־ הָאַ֥יִל הָאֶחָ֖ד תִּקָּ֑ח וְסָ֨מְכ֜וּ אַהֲרֹ֧ן וּבָנָ֛יו אֶת־ יְדֵיהֶ֖ם עַל־ רֹ֥אשׁ הָאָֽיִל׃ וְשָׁחַטְתָּ֖ אֶת־ הָאָ֑יִל וְלָֽקַחְתָּ֙ אֶת־ דָּמ֔וֹ וְזָרַקְתָּ֥ עַל־ הַמִּזְבֵּ֖חַ סָבִֽיב׃ וְאֶ֨ת־ הָאַ֔יִל תְּנַתֵּ֖חַ לִנְתָחָ֑יו וְרָחַצְתָּ֤ קִרְבּוֹ֙ וּכְרָעָ֔יו וְנָתַתָּ֥ עַל־ נְתָחָ֖יו וְעַל־ רֹאשֽׁוֹ׃ וְהִקְטַרְתָּ֤ אֶת־ כָּל־ הָאַ֨יִל֙ הַמִּזְבֵּ֔חָה עֹלָ֥ה ה֖וּא לַֽיהוָ֑ה רֵ֣יחַ נִיח֔וֹחַ אִשֶּׁ֥ה לַיהוָ֖ה הֽוּא׃",
+        "text": "Asimismo tomarás uno de los carneros, y Aarón y sus hijos pondrán sus manos sobre la cabeza del carnero. Y matarás el carnero, y recogerás su sangre, y la rociarás sobre el altar alrededor. Y cortarás el carnero en pedazos, y lavarás sus intestinos y sus piernas, y las pondrás sobre sus trozos y sobre su cabeza. Y quemarás todo el carnero sobre el altar; es holocausto de olor grato para YHWH, ofrenda encendida es a YHWH."
       },
       {
-        "number": "5",
-        "hebrew": "וְלָקַחְתָּ֣ אֶת־ הַבְּגָדִ֗ים וְהִלְבַּשְׁתָּ֤ אֶֽת־ אַהֲרֹן֙ אֶת־ הַכֻּתֹּ֔נֶת וְאֵת֙ מְעִ֣יל הָאֵפֹ֔ד וְאֶת־ הָאֵפֹ֖ד וְאֶת־ הַחֹ֑שֶׁן וְאָפַדְתָּ֣ ל֔וֹ בְּחֵ֖שֶׁב הָאֵפֹֽד׃",
-        "text": null
+        "number": "19-21",
+        "hebrew": "וְלָ֣קַחְתָּ֔ אֵ֖ת הָאַ֣יִל הַשֵּׁנִ֑י וְסָמַ֨ךְ אַהֲרֹ֧ן וּבָנָ֛יו אֶת־ יְדֵיהֶ֖ם עַל־ רֹ֥אשׁ הָאָֽיִל׃ וְשָׁחַטְתָּ֣ אֶת־ הָאַ֗יִל וְלָקַחְתָּ֤ מִדָּמוֹ֙ וְנָֽתַתָּ֡ה עַל־ תְּנוּךְ֩ אֹ֨זֶן אַהֲרֹ֜ן וְעַל־ תְּנ֨וּךְ אֹ֤זֶן בָּנָיו֙ הַיְמָנִ֔ית וְעַל־ בֹּ֤הֶן יָדָם֙ הַיְמָנִ֔ית וְעַל־ בֹּ֥הֶן רַגְלָ֖ם הַיְמָנִ֑ית וְזָרַקְתָּ֧ אֶת־ הַדָּ֛ם עַל־ הַמִּזְבֵּ֖חַ סָבִֽיב׃ וְלָקַחְתָּ֞ מִן־ הַדָּ֨ם אֲשֶׁ֥ר עַֽל־ הַמִּזְבֵּחַ֮ וּמִשֶּׁ֣מֶן הַמִּשְׁחָה֒ וְהִזֵּיתָ֤ עַֽל־ אַהֲרֹן֙ וְעַל־ בְּגָדָ֔יו וְעַל־ בָּנָ֛יו וְעַל־ בִּגְדֵ֥י בָנָ֖יו אִתּ֑וֹ וְקָדַ֥שׁ הוּא֙ וּבְגָדָ֔יו וּבָנָ֛יו וּבִגְדֵ֥י בָנָ֖יו אִתּֽוֹ׃",
+        "text": "Tomarás luego el otro carnero, y Aarón y sus hijos pondrán sus manos sobre la cabeza del carnero. Y matarás el carnero, y tomarás de su sangre, y la pondrás sobre el lóbulo de la oreja derecha de Aarón, y sobre el lóbulo de la oreja derecha de sus hijos, y sobre el pulgar de sus manos derechas, y sobre el pulgar de sus pies derechos¹²⁷; y rociarás la sangre sobre el altar alrededor. Y tomarás de la sangre que está sobre el altar, y del aceite de la unción, y rociarás sobre Aarón y sobre sus vestiduras, y sobre sus hijos y sobre las vestiduras de sus hijos con él; y él será santificado, y sus vestiduras, y sus hijos, y las vestiduras de sus hijos con él."
       },
       {
-        "number": "6",
-        "hebrew": "וְשַׂמְתָּ֥ הַמִּצְנֶ֖פֶת עַל־ רֹאשׁ֑וֹ וְנָתַתָּ֛ אֶת־ נֵ֥זֶר הַקֹּ֖דֶשׁ עַל־ הַמִּצְנָֽפֶת׃",
-        "text": null
+        "number": "22-25",
+        "hebrew": "וְלָקַחְתָּ֣ מִן־ הָ֠אַיִל הַחֵ֨לֶב וְהָֽאַלְיָ֜ה וְאֶת־ הַחֵ֣לֶב ׀ הַֽמְכַסֶּ֣ה אֶת־ הַקֶּ֗רֶב וְאֵ֨ת יֹתֶ֤רֶת הַכָּבֵד֙ וְאֵ֣ת ׀ שְׁתֵּ֣י הַכְּלָיֹ֗ת וְאֶת־ הַחֵ֨לֶב֙ אֲשֶׁ֣ר עֲלֵהֶ֔ן וְאֵ֖ת שׁ֣וֹק הַיָּמִ֑ין כִּ֛י אֵ֥יל מִלֻּאִ֖ים הֽוּא׃ וְכִכַּ֨ר לֶ֜חֶם אַחַ֗ת וַֽחַלַּ֨ת לֶ֥חֶם שֶׁ֛מֶן אַחַ֖ת וְרָקִ֣יק אֶחָ֑ד מִסַּל֙ הַמַּצּ֔וֹת אֲשֶׁ֖ר לִפְנֵ֥י יְהוָֽה׃ וְשַׂמְתָּ֣ הַכֹּ֔ל עַ֚ל כַּפֵּ֣י אַהֲרֹ֔ן וְעַ֖ל כַּפֵּ֣י בָנָ֑יו וְהֵנַפְתָּ֥ אֹתָ֛ם תְּנוּפָ֖ה לִפְנֵ֥י יְהוָֽה׃ וְלָקַחְתָּ֤ אֹתָם֙ מִיָּדָ֔ם וְהִקְטַרְתָּ֥ הַמִּזְבֵּ֖חָה עַל־ הָעֹלָ֑ה לְרֵ֤יחַ נִיח֨וֹחַ֙ לִפְנֵ֣י יְהוָ֔ה אִשֶּׁ֥ה ה֖וּא לַיהוָֽה׃",
+        "text": "Después tomarás del carnero la grosura, y la cola, y la grosura que cubre los intestinos, y el redaño del hígado, y los dos riñones, y la grosura que está sobre ellos, y la espaldilla derecha, porque es carnero de consagración; y una torta grande de pan, y una torta de pan de aceite, y una hojaldre del canastillo de los panes sin levadura que está delante de YHWH; y lo pondrás todo en las manos de Aarón y en las manos de sus hijos, y lo mecerás como ofrenda mecida delante de YHWH. Después lo tomarás de sus manos, y lo quemarás en el altar sobre el holocausto, por olor grato delante de YHWH; es ofrenda encendida a YHWH."
       },
       {
-        "number": "7",
-        "hebrew": "וְלָֽקַחְתָּ֙ אֶת־ שֶׁ֣מֶן הַמִּשְׁחָ֔ה וְיָצַקְתָּ֖ עַל־ רֹאשׁ֑וֹ וּמָשַׁחְתָּ֖ אֹתֽוֹ׃",
-        "text": null
+        "number": "26-28",
+        "hebrew": "וְלָקַחְתָּ֣ אֶת־ הֶֽחָזֶ֗ה מֵאֵ֤יל הַמִּלֻּאִים֙ אֲשֶׁ֣ר לְאַהֲרֹ֔ן וְהֵנַפְתָּ֥ אֹת֛וֹ תְּנוּפָ֖ה לִפְנֵ֣י יְהוָ֑ה וְהָיָ֥ה לְךָ֖ לְמָנָֽה׃ וְקִדַּשְׁתָּ֞ אֵ֣ת ׀ חֲזֵ֣ה הַתְּנוּפָ֗ה וְאֵת֙ שׁ֣וֹק הַתְּרוּמָ֔ה אֲשֶׁ֥ר הוּנַ֖ף וַאֲשֶׁ֣ר הוּרָ֑ם מֵאֵיל֙ הַמִּלֻּאִ֔ים מֵאֲשֶׁ֥ר לְאַהֲרֹ֖ן וּמֵאֲשֶׁ֥ר לְבָנָֽיו׃ וְהָיָה֩ לְאַהֲרֹ֨ן וּלְבָנָ֜יו לְחָק־ עוֹלָ֗ם מֵאֵת֙ בְּנֵ֣י יִשְׂרָאֵ֔ל כִּ֥י תְרוּמָ֖ה ה֑וּא וּתְרוּמָ֞ה יִהְיֶ֨ה מֵאֵ֤ת בְּנֵֽי־ יִשְׂרָאֵל֙ מִזִּבְחֵ֣י שַׁלְמֵיהֶ֔ם תְּרוּמָתָ֖ם לַיהוָֽה׃",
+        "text": "Y tomarás el pecho del carnero de las consagraciones que es de Aarón, y lo mecerás por ofrenda mecida delante de YHWH; y será porción tuya. Y consagrarás el pecho mecido, y la espaldilla elevada en ofrenda, aquello con que fue mecido y aquello con que fue elevado, del carnero de las consagraciones, de lo que es de Aarón y de sus hijos. Y será para Aarón y para sus hijos por derecho perpetuo de los hijos de Israel, porque es ofrenda alzada; y será ofrenda alzada de los hijos de Israel, de sus sacrificios de paz, ofrenda de ellos alzada a YHWH."
       },
       {
-        "number": "8",
-        "hebrew": "וְאֶת־ בָּנָ֖יו תַּקְרִ֑יב וְהִלְבַּשְׁתָּ֖ם כֻּתֳּנֹֽת׃",
-        "text": null
+        "number": "29-32",
+        "hebrew": "וּבִגְדֵ֤י הַקֹּ֨דֶשׁ֙ אֲשֶׁ֣ר לְאַהֲרֹ֔ן יִהְי֥וּ לְבָנָ֖יו אַחֲרָ֑יו לְמָשְׁחָ֣ה בָהֶ֔ם וּלְמַלֵּא־ בָ֖ם אֶת־ יָדָֽם׃ שִׁבְעַ֣ת יָמִ֗ים יִלְבָּשָׁ֧ם הַכֹּהֵ֛ן תַּחְתָּ֖יו מִבָּנָ֑יו אֲשֶׁ֥ר יָבֹ֛א אֶל־ אֹ֥הֶל מוֹעֵ֖ד לְשָׁרֵ֥ת בַּקֹּֽדֶשׁ׃ וְאֵ֛ת אֵ֥יל הַמִּלֻּאִ֖ים תִּקָּ֑ח וּבִשַּׁלְתָּ֥ אֶת־ בְּשָׂר֖וֹ בְּמָקֹ֥ם קָדֹֽשׁ׃ וְאָכַ֨ל אַהֲרֹ֤ן וּבָנָיו֙ אֶת־ בְּשַׂ֣ר הָאַ֔יִל וְאֶת־ הַלֶּ֖חֶם אֲשֶׁ֣ר בַּסָּ֑ל פֶּ֖תַח אֹ֥הֶל מוֹעֵֽד׃",
+        "text": "Y las vestiduras santas, que son de Aarón, serán de sus hijos después de él, para ser ungidos con ellas, y para ser con ellas consagrados. Por siete días las vestirá el sacerdote que en su lugar fuere de sus hijos, cuando entrare en el tabernáculo de reunión para servir en el santuario. Y tomarás el carnero de las consagraciones, y cocerás su carne en lugar santo. Y Aarón y sus hijos comerán la carne del carnero, y el pan que está en el canastillo, a la puerta del tabernáculo de reunión."
       },
       {
-        "number": "9",
-        "hebrew": "וְחָגַרְתָּ֩ אֹתָ֨ם אַבְנֵ֜ט אַהֲרֹ֣ן וּבָנָ֗יו וְחָבַשְׁתָּ֤ לָהֶם֙ מִגְבָּעֹ֔ת וְהָיְתָ֥ה לָהֶ֛ם כְּהֻנָּ֖ה לְחֻקַּ֣ת עוֹלָ֑ם וּמִלֵּאתָ֥ יַֽד־ אַהֲרֹ֖ן וְיַד־ בָּנָֽיו׃",
-        "text": null
+        "number": "33-35",
+        "hebrew": "וְאָכְל֤וּ אֹתָם֙ אֲשֶׁ֣ר כֻּפַּ֣ר בָּהֶ֔ם לְמַלֵּ֥א אֶת־ יָדָ֖ם לְקַדֵּ֣שׁ אֹתָ֑ם וְזָ֥ר לֹא־ יֹאכַ֖ל כִּי־ קֹ֥דֶשׁ הֵֽם׃ וְֽאִם־ יִוָּתֵ֞ר מִבְּשַׂ֧ר הַמִּלֻּאִ֛ים וּמִן־ הַלֶּ֖חֶם עַד־ הַבֹּ֑קֶר וְשָׂרַפְתָּ֤ אֶת־ הַנּוֹתָר֙ בָּאֵ֔שׁ לֹ֥א יֵאָכֵ֖ל כִּי־ קֹ֥דֶשׁ הֽוּא׃ וְעָשִׂ֜יתָ לְאַהֲרֹ֤ן וּלְבָנָיו֙ כָּ֔כָה כְּכֹ֥ל אֲשֶׁר־ צִוִּ֖יתִי אֹתָ֑כָה שִׁבְעַ֥ת יָמִ֖ים תְּמַלֵּ֥א יָדָֽם׃",
+        "text": "Y comerán aquellas cosas con las cuales se hizo expiación, para consagrarlos y santificarlos; mas el extraño no comerá de ellas, porque son sagradas. Y si sobrare algo de la carne de las consagraciones y del pan hasta la mañana, quemarás al fuego lo que hubiere sobrado; no se comerá, porque es cosa sagrada. Así, pues, harás a Aarón y a sus hijos, conforme a todo lo que yo te he mandado; por siete días los consagrarás."
       },
       {
-        "number": "10",
-        "hebrew": "וְהִקְרַבְתָּ֙ אֶת־ הַפָּ֔ר לִפְנֵ֖י אֹ֣הֶל מוֹעֵ֑ד וְסָמַ֨ךְ אַהֲרֹ֧ן וּבָנָ֛יו אֶת־ יְדֵיהֶ֖ם עַל־ רֹ֥אשׁ הַפָּֽר׃",
-        "text": null
+        "number": "36-37",
+        "hebrew": "וּפַ֨ר חַטָּ֜את תַּעֲשֶׂ֤ה לַיּוֹם֙ עַל־ הַכִּפֻּרִ֔ים וְחִטֵּאתָ֙ עַל־ הַמִּזְבֵּ֔חַ בְּכַפֶּרְךָ֖ עָלָ֑יו וּמָֽשַׁחְתָּ֥ אֹת֖וֹ לְקַדְּשֽׁוֹ׃ שִׁבְעַ֣ת יָמִ֗ים תְּכַפֵּר֙ עַל־ הַמִּזְבֵּ֔חַ וְקִדַּשְׁתָּ֖ אֹת֑וֹ וְהָיָ֤ה הַמִּזְבֵּ֨חַ֙ קֹ֣דֶשׁ קָֽדָשִׁ֔ים כָּל־ הַנֹּגֵ֥עַ בַּמִּזְבֵּ֖חַ יִקְדָּֽשׁ׃ ס",
+        "text": "Cada día ofrecerás el novillo del sacrificio por el pecado, para las expiaciones; y purificarás el altar cuando hagas expiación por él, y lo ungirás para santificarlo. Por siete días harás expiación por el altar, y lo santificarás, y será un altar santísimo; cualquiera cosa que tocare el altar, será santificada."
       },
       {
-        "number": "11",
-        "hebrew": "וְשָׁחַטְתָּ֥ אֶת־ הַפָּ֖ר לִפְנֵ֣י יְהוָ֑ה פֶּ֖תַח אֹ֥הֶל מוֹעֵֽד׃",
-        "text": null
+        "number": "38-41",
+        "hebrew": "וְזֶ֕ה אֲשֶׁ֥ר תַּעֲשֶׂ֖ה עַל־ הַמִּזְבֵּ֑חַ כְּבָשִׂ֧ים בְּנֵֽי־ שָׁנָ֛ה שְׁנַ֥יִם לַיּ֖וֹם תָּמִֽיד׃ אֶת־ הַכֶּ֥בֶשׂ הָאֶחָ֖ד תַּעֲשֶׂ֣ה בַבֹּ֑קֶר וְאֵת֙ הַכֶּ֣בֶשׂ הַשֵּׁנִ֔י תַּעֲשֶׂ֖ה בֵּ֥ין הָעַרְבָּֽיִם׃ וְעִשָּׂרֹ֨ן סֹ֜לֶת בָּל֨וּל בְּשֶׁ֤מֶן כָּתִית֙ רֶ֣בַע הַהִ֔ין וְנֵ֕סֶךְ רְבִעִ֥ית הַהִ֖ין יָ֑יִן לַכֶּ֖בֶשׂ הָאֶחָֽד׃ וְאֵת֙ הַכֶּ֣בֶשׂ הַשֵּׁנִ֔י תַּעֲשֶׂ֖ה בֵּ֣ין הָעַרְבָּ֑יִם כְּמִנְחַ֨ת הַבֹּ֤קֶר וּכְנִסְכָּהּ֙ תַּֽעֲשֶׂה־ לָּ֔הּ לְרֵ֣יחַ נִיחֹ֔חַ אִשֶּׁ֖ה לַיהוָֽה׃",
+        "text": "Esto es lo que ofrecerás sobre el altar¹²⁸: dos corderos de un año, cada día, continuamente. Ofrecerás el un cordero por la mañana, y el otro cordero ofrecerás a la caída de la tarde; además, una décima parte de un efa de flor de harina amasada con una cuarta parte de un hin de aceite de olivas machacadas, y para la libación, la cuarta parte de un hin de vino, para cada cordero. Y ofrecerás el otro cordero a la caída de la tarde, haciendo conforme a la ofrenda de la mañana, y conforme a su libación, en olor grato; ofrenda encendida a YHWH."
       },
       {
-        "number": "12",
-        "hebrew": "וְלָֽקַחְתָּ֙ מִדַּ֣ם הַפָּ֔ר וְנָתַתָּ֛ה עַל־ קַרְנֹ֥ת הַמִּזְבֵּ֖חַ בְּאֶצְבָּעֶ֑ךָ וְאֶת־ כָּל־ הַדָּ֣ם תִּשְׁפֹּ֔ךְ אֶל־ יְס֖וֹד הַמִּזְבֵּֽחַ׃",
-        "text": null
+        "number": "42-43",
+        "hebrew": "עֹלַ֤ת תָּמִיד֙ לְדֹרֹ֣תֵיכֶ֔ם פֶּ֥תַח אֹֽהֶל־ מוֹעֵ֖ד לִפְנֵ֣י יְהוָ֑ה אֲשֶׁ֨ר אִוָּעֵ֤ד לָכֶם֙ שָׁ֔מָּה לְדַבֵּ֥ר אֵלֶ֖יךָ שָֽׁם׃ וְנֹעַדְתִּ֥י שָׁ֖מָּה לִבְנֵ֣י יִשְׂרָאֵ֑ל וְנִקְדַּ֖שׁ בִּכְבֹדִֽי׃",
+        "text": "Esto será el holocausto continuo por vuestras generaciones, a la puerta del tabernáculo de reunión delante de YHWH, en el cual me reuniré con vosotros, para hablaros allí. Allí me reuniré con los hijos de Israel; y el lugar será santificado con mi gloria."
       },
       {
-        "number": "13",
-        "hebrew": "וְלָֽקַחְתָּ֗ אֶֽת־ כָּל־ הַחֵלֶב֮ הַֽמְכַסֶּ֣ה אֶת־ הַקֶּרֶב֒ וְאֵ֗ת הַיֹּתֶ֨רֶת֙ עַל־ הַכָּבֵ֔ד וְאֵת֙ שְׁתֵּ֣י הַכְּלָיֹ֔ת וְאֶת־ הַחֵ֖לֶב אֲשֶׁ֣ר עֲלֵיהֶ֑ן וְהִקְטַרְתָּ֖ הַמִּזְבֵּֽחָה׃",
-        "text": null
-      },
-      {
-        "number": "14",
-        "hebrew": "וְאֶת־ בְּשַׂ֤ר הַפָּר֙ וְאֶת־ עֹר֣וֹ וְאֶת־ פִּרְשׁ֔וֹ תִּשְׂרֹ֣ף בָּאֵ֔שׁ מִח֖וּץ לַֽמַּחֲנֶ֑ה חַטָּ֖את הֽוּא׃",
-        "text": null
-      },
-      {
-        "number": "15",
-        "hebrew": "וְאֶת־ הָאַ֥יִל הָאֶחָ֖ד תִּקָּ֑ח וְסָ֨מְכ֜וּ אַהֲרֹ֧ן וּבָנָ֛יו אֶת־ יְדֵיהֶ֖ם עַל־ רֹ֥אשׁ הָאָֽיִל׃",
-        "text": null
-      },
-      {
-        "number": "16",
-        "hebrew": "וְשָׁחַטְתָּ֖ אֶת־ הָאָ֑יִל וְלָֽקַחְתָּ֙ אֶת־ דָּמ֔וֹ וְזָרַקְתָּ֥ עַל־ הַמִּזְבֵּ֖חַ סָבִֽיב׃",
-        "text": null
-      },
-      {
-        "number": "17",
-        "hebrew": "וְאֶ֨ת־ הָאַ֔יִל תְּנַתֵּ֖חַ לִנְתָחָ֑יו וְרָחַצְתָּ֤ קִרְבּוֹ֙ וּכְרָעָ֔יו וְנָתַתָּ֥ עַל־ נְתָחָ֖יו וְעַל־ רֹאשֽׁוֹ׃",
-        "text": null
-      },
-      {
-        "number": "18",
-        "hebrew": "וְהִקְטַרְתָּ֤ אֶת־ כָּל־ הָאַ֨יִל֙ הַמִּזְבֵּ֔חָה עֹלָ֥ה ה֖וּא לַֽיהוָ֑ה רֵ֣יחַ נִיח֔וֹחַ אִשֶּׁ֥ה לַיהוָ֖ה הֽוּא׃",
-        "text": null
-      },
-      {
-        "number": "19",
-        "hebrew": "וְלָ֣קַחְתָּ֔ אֵ֖ת הָאַ֣יִל הַשֵּׁנִ֑י וְסָמַ֨ךְ אַהֲרֹ֧ן וּבָנָ֛יו אֶת־ יְדֵיהֶ֖ם עַל־ רֹ֥אשׁ הָאָֽיִל׃",
-        "text": null
-      },
-      {
-        "number": "20",
-        "hebrew": "וְשָׁחַטְתָּ֣ אֶת־ הָאַ֗יִל וְלָקַחְתָּ֤ מִדָּמוֹ֙ וְנָֽתַתָּ֡ה עַל־ תְּנוּךְ֩ אֹ֨זֶן אַהֲרֹ֜ן וְעַל־ תְּנ֨וּךְ אֹ֤זֶן בָּנָיו֙ הַיְמָנִ֔ית וְעַל־ בֹּ֤הֶן יָדָם֙ הַיְמָנִ֔ית וְעַל־ בֹּ֥הֶן רַגְלָ֖ם הַיְמָנִ֑ית וְזָרַקְתָּ֧ אֶת־ הַדָּ֛ם עַל־ הַמִּזְבֵּ֖חַ סָבִֽיב׃",
-        "text": null
-      },
-      {
-        "number": "21",
-        "hebrew": "וְלָקַחְתָּ֞ מִן־ הַדָּ֨ם אֲשֶׁ֥ר עַֽל־ הַמִּזְבֵּחַ֮ וּמִשֶּׁ֣מֶן הַמִּשְׁחָה֒ וְהִזֵּיתָ֤ עַֽל־ אַהֲרֹן֙ וְעַל־ בְּגָדָ֔יו וְעַל־ בָּנָ֛יו וְעַל־ בִּגְדֵ֥י בָנָ֖יו אִתּ֑וֹ וְקָדַ֥שׁ הוּא֙ וּבְגָדָ֔יו וּבָנָ֛יו וּבִגְדֵ֥י בָנָ֖יו אִתּֽוֹ׃",
-        "text": null
-      },
-      {
-        "number": "22",
-        "hebrew": "וְלָקַחְתָּ֣ מִן־ הָ֠אַיִל הַחֵ֨לֶב וְהָֽאַלְיָ֜ה וְאֶת־ הַחֵ֣לֶב ׀ הַֽמְכַסֶּ֣ה אֶת־ הַקֶּ֗רֶב וְאֵ֨ת יֹתֶ֤רֶת הַכָּבֵד֙ וְאֵ֣ת ׀ שְׁתֵּ֣י הַכְּלָיֹ֗ת וְאֶת־ הַחֵ֨לֶב֙ אֲשֶׁ֣ר עֲלֵהֶ֔ן וְאֵ֖ת שׁ֣וֹק הַיָּמִ֑ין כִּ֛י אֵ֥יל מִלֻּאִ֖ים הֽוּא׃",
-        "text": null
-      },
-      {
-        "number": "23",
-        "hebrew": "וְכִכַּ֨ר לֶ֜חֶם אַחַ֗ת וַֽחַלַּ֨ת לֶ֥חֶם שֶׁ֛מֶן אַחַ֖ת וְרָקִ֣יק אֶחָ֑ד מִסַּל֙ הַמַּצּ֔וֹת אֲשֶׁ֖ר לִפְנֵ֥י יְהוָֽה׃",
-        "text": null
-      },
-      {
-        "number": "24",
-        "hebrew": "וְשַׂמְתָּ֣ הַכֹּ֔ל עַ֚ל כַּפֵּ֣י אַהֲרֹ֔ן וְעַ֖ל כַּפֵּ֣י בָנָ֑יו וְהֵנַפְתָּ֥ אֹתָ֛ם תְּנוּפָ֖ה לִפְנֵ֥י יְהוָֽה׃",
-        "text": null
-      },
-      {
-        "number": "25",
-        "hebrew": "וְלָקַחְתָּ֤ אֹתָם֙ מִיָּדָ֔ם וְהִקְטַרְתָּ֥ הַמִּזְבֵּ֖חָה עַל־ הָעֹלָ֑ה לְרֵ֤יחַ נִיח֨וֹחַ֙ לִפְנֵ֣י יְהוָ֔ה אִשֶּׁ֥ה ה֖וּא לַיהוָֽה׃",
-        "text": null
-      },
-      {
-        "number": "26",
-        "hebrew": "וְלָקַחְתָּ֣ אֶת־ הֶֽחָזֶ֗ה מֵאֵ֤יל הַמִּלֻּאִים֙ אֲשֶׁ֣ר לְאַהֲרֹ֔ן וְהֵנַפְתָּ֥ אֹת֛וֹ תְּנוּפָ֖ה לִפְנֵ֣י יְהוָ֑ה וְהָיָ֥ה לְךָ֖ לְמָנָֽה׃",
-        "text": null
-      },
-      {
-        "number": "27",
-        "hebrew": "וְקִדַּשְׁתָּ֞ אֵ֣ת ׀ חֲזֵ֣ה הַתְּנוּפָ֗ה וְאֵת֙ שׁ֣וֹק הַתְּרוּמָ֔ה אֲשֶׁ֥ר הוּנַ֖ף וַאֲשֶׁ֣ר הוּרָ֑ם מֵאֵיל֙ הַמִּלֻּאִ֔ים מֵאֲשֶׁ֥ר לְאַהֲרֹ֖ן וּמֵאֲשֶׁ֥ר לְבָנָֽיו׃",
-        "text": null
-      },
-      {
-        "number": "28",
-        "hebrew": "וְהָיָה֩ לְאַהֲרֹ֨ן וּלְבָנָ֜יו לְחָק־ עוֹלָ֗ם מֵאֵת֙ בְּנֵ֣י יִשְׂרָאֵ֔ל כִּ֥י תְרוּמָ֖ה ה֑וּא וּתְרוּמָ֞ה יִהְיֶ֨ה מֵאֵ֤ת בְּנֵֽי־ יִשְׂרָאֵל֙ מִזִּבְחֵ֣י שַׁלְמֵיהֶ֔ם תְּרוּמָתָ֖ם לַיהוָֽה׃",
-        "text": null
-      },
-      {
-        "number": "29",
-        "hebrew": "וּבִגְדֵ֤י הַקֹּ֨דֶשׁ֙ אֲשֶׁ֣ר לְאַהֲרֹ֔ן יִהְי֥וּ לְבָנָ֖יו אַחֲרָ֑יו לְמָשְׁחָ֣ה בָהֶ֔ם וּלְמַלֵּא־ בָ֖ם אֶת־ יָדָֽם׃",
-        "text": null
-      },
-      {
-        "number": "30",
-        "hebrew": "שִׁבְעַ֣ת יָמִ֗ים יִלְבָּשָׁ֧ם הַכֹּהֵ֛ן תַּחְתָּ֖יו מִבָּנָ֑יו אֲשֶׁ֥ר יָבֹ֛א אֶל־ אֹ֥הֶל מוֹעֵ֖ד לְשָׁרֵ֥ת בַּקֹּֽדֶשׁ׃",
-        "text": null
-      },
-      {
-        "number": "31",
-        "hebrew": "וְאֵ֛ת אֵ֥יל הַמִּלֻּאִ֖ים תִּקָּ֑ח וּבִשַּׁלְתָּ֥ אֶת־ בְּשָׂר֖וֹ בְּמָקֹ֥ם קָדֹֽשׁ׃",
-        "text": null
-      },
-      {
-        "number": "32",
-        "hebrew": "וְאָכַ֨ל אַהֲרֹ֤ן וּבָנָיו֙ אֶת־ בְּשַׂ֣ר הָאַ֔יִל וְאֶת־ הַלֶּ֖חֶם אֲשֶׁ֣ר בַּסָּ֑ל פֶּ֖תַח אֹ֥הֶל מוֹעֵֽד׃",
-        "text": null
-      },
-      {
-        "number": "33",
-        "hebrew": "וְאָכְל֤וּ אֹתָם֙ אֲשֶׁ֣ר כֻּפַּ֣ר בָּהֶ֔ם לְמַלֵּ֥א אֶת־ יָדָ֖ם לְקַדֵּ֣שׁ אֹתָ֑ם וְזָ֥ר לֹא־ יֹאכַ֖ל כִּי־ קֹ֥דֶשׁ הֵֽם׃",
-        "text": null
-      },
-      {
-        "number": "34",
-        "hebrew": "וְֽאִם־ יִוָּתֵ֞ר מִבְּשַׂ֧ר הַמִּלֻּאִ֛ים וּמִן־ הַלֶּ֖חֶם עַד־ הַבֹּ֑קֶר וְשָׂרַפְתָּ֤ אֶת־ הַנּוֹתָר֙ בָּאֵ֔שׁ לֹ֥א יֵאָכֵ֖ל כִּי־ קֹ֥דֶשׁ הֽוּא׃",
-        "text": null
-      },
-      {
-        "number": "35",
-        "hebrew": "וְעָשִׂ֜יתָ לְאַהֲרֹ֤ן וּלְבָנָיו֙ כָּ֔כָה כְּכֹ֥ל אֲשֶׁר־ צִוִּ֖יתִי אֹתָ֑כָה שִׁבְעַ֥ת יָמִ֖ים תְּמַלֵּ֥א יָדָֽם׃",
-        "text": null
-      },
-      {
-        "number": "36",
-        "hebrew": "וּפַ֨ר חַטָּ֜את תַּעֲשֶׂ֤ה לַיּוֹם֙ עַל־ הַכִּפֻּרִ֔ים וְחִטֵּאתָ֙ עַל־ הַמִּזְבֵּ֔חַ בְּכַפֶּרְךָ֖ עָלָ֑יו וּמָֽשַׁחְתָּ֥ אֹת֖וֹ לְקַדְּשֽׁוֹ׃",
-        "text": null
-      },
-      {
-        "number": "37",
-        "hebrew": "שִׁבְעַ֣ת יָמִ֗ים תְּכַפֵּר֙ עַל־ הַמִּזְבֵּ֔חַ וְקִדַּשְׁתָּ֖ אֹת֑וֹ וְהָיָ֤ה הַמִּזְבֵּ֨חַ֙ קֹ֣דֶשׁ קָֽדָשִׁ֔ים כָּל־ הַנֹּגֵ֥עַ בַּמִּזְבֵּ֖חַ יִקְדָּֽשׁ׃ ס",
-        "text": null
-      },
-      {
-        "number": "38",
-        "hebrew": "וְזֶ֕ה אֲשֶׁ֥ר תַּעֲשֶׂ֖ה עַל־ הַמִּזְבֵּ֑חַ כְּבָשִׂ֧ים בְּנֵֽי־ שָׁנָ֛ה שְׁנַ֥יִם לַיּ֖וֹם תָּמִֽיד׃",
-        "text": null
-      },
-      {
-        "number": "39",
-        "hebrew": "אֶת־ הַכֶּ֥בֶשׂ הָאֶחָ֖ד תַּעֲשֶׂ֣ה בַבֹּ֑קֶר וְאֵת֙ הַכֶּ֣בֶשׂ הַשֵּׁנִ֔י תַּעֲשֶׂ֖ה בֵּ֥ין הָעַרְבָּֽיִם׃",
-        "text": null
-      },
-      {
-        "number": "40",
-        "hebrew": "וְעִשָּׂרֹ֨ן סֹ֜לֶת בָּל֨וּל בְּשֶׁ֤מֶן כָּתִית֙ רֶ֣בַע הַהִ֔ין וְנֵ֕סֶךְ רְבִעִ֥ית הַהִ֖ין יָ֑יִן לַכֶּ֖בֶשׂ הָאֶחָֽד׃",
-        "text": null
-      },
-      {
-        "number": "41",
-        "hebrew": "וְאֵת֙ הַכֶּ֣בֶשׂ הַשֵּׁנִ֔י תַּעֲשֶׂ֖ה בֵּ֣ין הָעַרְבָּ֑יִם כְּמִנְחַ֨ת הַבֹּ֤קֶר וּכְנִסְכָּהּ֙ תַּֽעֲשֶׂה־ לָּ֔הּ לְרֵ֣יחַ נִיחֹ֔חַ אִשֶּׁ֖ה לַיהוָֽה׃",
-        "text": null
-      },
-      {
-        "number": "42",
-        "hebrew": "עֹלַ֤ת תָּמִיד֙ לְדֹרֹ֣תֵיכֶ֔ם פֶּ֥תַח אֹֽהֶל־ מוֹעֵ֖ד לִפְנֵ֣י יְהוָ֑ה אֲשֶׁ֨ר אִוָּעֵ֤ד לָכֶם֙ שָׁ֔מָּה לְדַבֵּ֥ר אֵלֶ֖יךָ שָֽׁם׃",
-        "text": null
-      },
-      {
-        "number": "43",
-        "hebrew": "וְנֹעַדְתִּ֥י שָׁ֖מָּה לִבְנֵ֣י יִשְׂרָאֵ֑ל וְנִקְדַּ֖שׁ בִּכְבֹדִֽי׃",
-        "text": null
-      },
-      {
-        "number": "44",
-        "hebrew": "וְקִדַּשְׁתִּ֛י אֶת־ אֹ֥הֶל מוֹעֵ֖ד וְאֶת־ הַמִּזְבֵּ֑חַ וְאֶת־ אַהֲרֹ֧ן וְאֶת־ בָּנָ֛יו אֲקַדֵּ֖שׁ לְכַהֵ֥ן לִֽי׃",
-        "text": null
-      },
-      {
-        "number": "45",
-        "hebrew": "וְשָׁ֣כַנְתִּ֔י בְּת֖וֹךְ בְּנֵ֣י יִשְׂרָאֵ֑ל וְהָיִ֥יתִי לָהֶ֖ם לֵאלֹהִֽים׃",
-        "text": null
-      },
-      {
-        "number": "46",
-        "hebrew": "וְיָדְע֗וּ כִּ֣י אֲנִ֤י יְהוָה֙ אֱלֹ֣הֵיהֶ֔ם אֲשֶׁ֨ר הוֹצֵ֧אתִי אֹתָ֛ם מֵאֶ֥רֶץ מִצְרַ֖יִם לְשָׁכְנִ֣י בְתוֹכָ֑ם אֲנִ֖י יְהוָ֥ה אֱלֹהֵיהֶֽם׃ פ",
-        "text": null
+        "number": "44-46",
+        "hebrew": "וְקִדַּשְׁתִּ֛י אֶת־ אֹ֥הֶל מוֹעֵ֖ד וְאֶת־ הַמִּזְבֵּ֑חַ וְאֶת־ אַהֲרֹ֧ן וְאֶת־ בָּנָ֛יו אֲקַדֵּ֖שׁ לְכַהֵ֥ן לִֽי׃ וְשָׁ֣כַנְתִּ֔י בְּת֖וֹךְ בְּנֵ֣י יִשְׂרָאֵ֑ל וְהָיִ֥יתִי לָהֶ֖ם לֵאלֹהִֽים׃ וְיָדְע֗וּ כִּ֣י אֲנִ֤י יְהוָה֙ אֱלֹ֣הֵיהֶ֔ם אֲשֶׁ֨ר הוֹצֵ֧אתִי אֹתָ֛ם מֵאֶ֥רֶץ מִצְרַ֖יִם לְשָׁכְנִ֣י בְתוֹכָ֑ם אֲנִ֖י יְהוָ֥ה אֱלֹהֵיהֶֽם׃ פ",
+        "text": "Y santificaré el tabernáculo de reunión y el altar; santificaré asimismo a Aarón y a sus hijos, para que sean mis sacerdotes. Y habitaré entre los hijos de Israel, y seré su Elohim. Y conocerán que yo soy YHWH su Elohim, que los saqué de la tierra de Egipto, para habitar en medio de ellos¹²⁹. Yo soy YHWH su Elohim."
       }
     ],
     "30": [
       {
-        "number": "1",
-        "hebrew": "וְעָשִׂ֥יתָ מִזְבֵּ֖חַ מִקְטַ֣ר קְטֹ֑רֶת עֲצֵ֥י שִׁטִּ֖ים תַּעֲשֶׂ֥ה אֹתֽוֹ׃",
-        "text": null
+        "number": "1-3",
+        "hebrew": "וְעָשִׂ֥יתָ מִזְבֵּ֖חַ מִקְטַ֣ר קְטֹ֑רֶת עֲצֵ֥י שִׁטִּ֖ים תַּעֲשֶׂ֥ה אֹתֽוֹ׃ אַמָּ֨ה אָרְכּ֜וֹ וְאַמָּ֤ה רָחְבּוֹ֙ רָב֣וּעַ יִהְיֶ֔ה וְאַמָּתַ֖יִם קֹמָת֑וֹ מִמֶּ֖נּוּ קַרְנֹתָֽיו׃ וְצִפִּיתָ֨ אֹת֜וֹ זָהָ֣ב טָה֗וֹר אֶת־ גַּגּ֧וֹ וְאֶת־ קִירֹתָ֛יו סָבִ֖יב וְאֶת־ קַרְנֹתָ֑יו וְעָשִׂ֥יתָ לּ֛וֹ זֵ֥ר זָהָ֖ב סָבִֽיב׃",
+        "text": "Harás asimismo un altar para quemar el incienso; de madera de acacia lo harás. Su longitud de un codo, y su anchura de un codo; será cuadrado; y su altura de dos codos; y sus cuernos serán parte del mismo. Y lo cubrirás de oro puro, su techado, sus paredes en derredor y sus cuernos; y le harás una cornisa de oro alrededor."
       },
       {
-        "number": "2",
-        "hebrew": "אַמָּ֨ה אָרְכּ֜וֹ וְאַמָּ֤ה רָחְבּוֹ֙ רָב֣וּעַ יִהְיֶ֔ה וְאַמָּתַ֖יִם קֹמָת֑וֹ מִמֶּ֖נּוּ קַרְנֹתָֽיו׃",
-        "text": null
+        "number": "4-6",
+        "hebrew": "וּשְׁתֵּי֩ טַבְּעֹ֨ת זָהָ֜ב תַּֽעֲשֶׂה־ לּ֣וֹ ׀ מִתַּ֣חַת לְזֵר֗וֹ עַ֚ל שְׁתֵּ֣י צַלְעֹתָ֔יו תַּעֲשֶׂ֖ה עַל־ שְׁנֵ֣י צִדָּ֑יו וְהָיָה֙ לְבָתִּ֣ים לְבַדִּ֔ים לָשֵׂ֥את אֹת֖וֹ בָּהֵֽמָּה׃ וְעָשִׂ֥יתָ אֶת־ הַבַּדִּ֖ים עֲצֵ֣י שִׁטִּ֑ים וְצִפִּיתָ֥ אֹתָ֖ם זָהָֽב׃ וְנָתַתָּ֤ה אֹתוֹ֙ לִפְנֵ֣י הַפָּרֹ֔כֶת אֲשֶׁ֖ר עַל־ אֲרֹ֣ן הָעֵדֻ֑ת לִפְנֵ֣י הַכַּפֹּ֗רֶת אֲשֶׁר֙ עַל־ הָ֣עֵדֻ֔ת אֲשֶׁ֛ר אִוָּעֵ֥ד לְךָ֖ שָֽׁמָּה׃",
+        "text": "Le harás también dos anillos de oro debajo de la cornisa, en las dos esquinas a ambos lados, para meter las varas con que será conducido. Harás las varas de madera de acacia, y las cubrirás de oro. Y lo pondrás delante del velo que está junto al arca del testimonio, delante del propiciatorio que está sobre el testimonio, donde me encontraré contigo."
       },
       {
-        "number": "3",
-        "hebrew": "וְצִפִּיתָ֨ אֹת֜וֹ זָהָ֣ב טָה֗וֹר אֶת־ גַּגּ֧וֹ וְאֶת־ קִירֹתָ֛יו סָבִ֖יב וְאֶת־ קַרְנֹתָ֑יו וְעָשִׂ֥יתָ לּ֛וֹ זֵ֥ר זָהָ֖ב סָבִֽיב׃",
-        "text": null
-      },
-      {
-        "number": "4",
-        "hebrew": "וּשְׁתֵּי֩ טַבְּעֹ֨ת זָהָ֜ב תַּֽעֲשֶׂה־ לּ֣וֹ ׀ מִתַּ֣חַת לְזֵר֗וֹ עַ֚ל שְׁתֵּ֣י צַלְעֹתָ֔יו תַּעֲשֶׂ֖ה עַל־ שְׁנֵ֣י צִדָּ֑יו וְהָיָה֙ לְבָתִּ֣ים לְבַדִּ֔ים לָשֵׂ֥את אֹת֖וֹ בָּהֵֽמָּה׃",
-        "text": null
-      },
-      {
-        "number": "5",
-        "hebrew": "וְעָשִׂ֥יתָ אֶת־ הַבַּדִּ֖ים עֲצֵ֣י שִׁטִּ֑ים וְצִפִּיתָ֥ אֹתָ֖ם זָהָֽב׃",
-        "text": null
-      },
-      {
-        "number": "6",
-        "hebrew": "וְנָתַתָּ֤ה אֹתוֹ֙ לִפְנֵ֣י הַפָּרֹ֔כֶת אֲשֶׁ֖ר עַל־ אֲרֹ֣ן הָעֵדֻ֑ת לִפְנֵ֣י הַכַּפֹּ֗רֶת אֲשֶׁר֙ עַל־ הָ֣עֵדֻ֔ת אֲשֶׁ֛ר אִוָּעֵ֥ד לְךָ֖ שָֽׁמָּה׃",
-        "text": null
-      },
-      {
-        "number": "7",
-        "hebrew": "וְהִקְטִ֥יר עָלָ֛יו אַהֲרֹ֖ן קְטֹ֣רֶת סַמִּ֑ים בַּבֹּ֣קֶר בַּבֹּ֗קֶר בְּהֵיטִיב֛וֹ אֶת־ הַנֵּרֹ֖ת יַקְטִירֶֽנָּה׃",
-        "text": null
-      },
-      {
-        "number": "8",
-        "hebrew": "וּבְהַעֲלֹ֨ת אַהֲרֹ֧ן אֶת־ הַנֵּרֹ֛ת בֵּ֥ין הָעֲרְבַּ֖יִם יַקְטִירֶ֑נָּה קְטֹ֧רֶת תָּמִ֛יד לִפְנֵ֥י יְהוָ֖ה לְדֹרֹתֵיכֶֽם׃",
-        "text": null
-      },
-      {
-        "number": "9",
-        "hebrew": "לֹא־ תַעֲל֥וּ עָלָ֛יו קְטֹ֥רֶת זָרָ֖ה וְעֹלָ֣ה וּמִנְחָ֑ה וְנֵ֕סֶךְ לֹ֥א תִסְּכ֖וּ עָלָֽיו׃",
-        "text": null
+        "number": "7-9",
+        "hebrew": "וְהִקְטִ֥יר עָלָ֛יו אַהֲרֹ֖ן קְטֹ֣רֶת סַמִּ֑ים בַּבֹּ֣קֶר בַּבֹּ֗קֶר בְּהֵיטִיב֛וֹ אֶת־ הַנֵּרֹ֖ת יַקְטִירֶֽנָּה׃ וּבְהַעֲלֹ֨ת אַהֲרֹ֧ן אֶת־ הַנֵּרֹ֛ת בֵּ֥ין הָעֲרְבַּ֖יִם יַקְטִירֶ֑נָּה קְטֹ֧רֶת תָּמִ֛יד לִפְנֵ֥י יְהוָ֖ה לְדֹרֹתֵיכֶֽם׃ לֹא־ תַעֲל֥וּ עָלָ֛יו קְטֹ֥רֶת זָרָ֖ה וְעֹלָ֣ה וּמִנְחָ֑ה וְנֵ֕סֶךְ לֹ֥א תִסְּכ֖וּ עָלָֽיו׃",
+        "text": "Y Aarón quemará incienso aromático sobre él; cada mañana cuando componga las lámparas lo quemará. Y cuando Aarón encienda las lámparas al caer la tarde, quemará el incienso; rito perpetuo delante de YHWH por vuestras generaciones. No ofreceréis sobre él incienso extraño, ni holocausto, ni ofrenda; ni tampoco derramaréis sobre él libación."
       },
       {
         "number": "10",
         "hebrew": "וְכִפֶּ֤ר אַהֲרֹן֙ עַל־ קַרְנֹתָ֔יו אַחַ֖ת בַּשָּׁנָ֑ה מִדַּ֞ם חַטַּ֣את הַכִּפֻּרִ֗ים אַחַ֤ת בַּשָּׁנָה֙ יְכַפֵּ֤ר עָלָיו֙ לְדֹרֹ֣תֵיכֶ֔ם קֹֽדֶשׁ־ קָֽדָשִׁ֥ים ה֖וּא לַיהוָֽה׃ פ",
-        "text": null
+        "text": "Y sobre sus cuernos hará Aarón expiación una vez en el año con la sangre del sacrificio por el pecado para las expiaciones; una vez en el año hará expiación sobre él por vuestras generaciones; será muy santo a YHWH."
       },
       {
-        "number": "11",
-        "hebrew": "וַיְדַבֵּ֥ר יְהוָ֖ה אֶל־ מֹשֶׁ֥ה לֵּאמֹֽר׃",
-        "text": null
+        "number": "11-13",
+        "hebrew": "וַיְדַבֵּ֥ר יְהוָ֖ה אֶל־ מֹשֶׁ֥ה לֵּאמֹֽר׃ כִּ֣י תִשָּׂ֞א אֶת־ רֹ֥אשׁ בְּנֵֽי־ יִשְׂרָאֵ֘ל לִפְקֻדֵיהֶם֒ וְנָ֨תְנ֜וּ אִ֣ישׁ כֹּ֧פֶר נַפְשׁ֛וֹ לַיהוָ֖ה בִּפְקֹ֣ד אֹתָ֑ם וְלֹא־ יִהְיֶ֥ה בָהֶ֛ם נֶ֖גֶף בִּפְקֹ֥ד אֹתָֽם׃ זֶ֣ה ׀ יִתְּנ֗וּ כָּל־ הָעֹבֵר֙ עַל־ הַפְּקֻדִ֔ים מַחֲצִ֥ית הַשֶּׁ֖קֶל בְּשֶׁ֣קֶל הַקֹּ֑דֶשׁ עֶשְׂרִ֤ים גֵּרָה֙ הַשֶּׁ֔קֶל מַחֲצִ֣ית הַשֶּׁ֔קֶל תְּרוּמָ֖ה לַֽיהוָֽה׃",
+        "text": "Habló también YHWH a Moshé, diciendo: cuando tomes el número de los hijos de Israel conforme a la cuenta de ellos, cada uno dará a YHWH el rescate de su vida cuando los contares, para que no haya en ellos mortandad al contarlos. Esto dará todo aquel que sea contado, del número: medio siclo, conforme al siclo del santuario, el cual siclo es de veinte geras; la mitad de un siclo será la ofrenda a YHWH¹³⁰."
       },
       {
-        "number": "12",
-        "hebrew": "כִּ֣י תִשָּׂ֞א אֶת־ רֹ֥אשׁ בְּנֵֽי־ יִשְׂרָאֵ֘ל לִפְקֻדֵיהֶם֒ וְנָ֨תְנ֜וּ אִ֣ישׁ כֹּ֧פֶר נַפְשׁ֛וֹ לַיהוָ֖ה בִּפְקֹ֣ד אֹתָ֑ם וְלֹא־ יִהְיֶ֥ה בָהֶ֛ם נֶ֖גֶף בִּפְקֹ֥ד אֹתָֽם׃",
-        "text": null
+        "number": "14-16",
+        "hebrew": "כֹּ֗ל הָעֹבֵר֙ עַל־ הַפְּקֻדִ֔ים מִבֶּ֛ן עֶשְׂרִ֥ים שָׁנָ֖ה וָמָ֑עְלָה יִתֵּ֖ן תְּרוּמַ֥ת יְהוָֽה׃ הֶֽעָשִׁ֣יר לֹֽא־ יַרְבֶּ֗ה וְהַדַּל֙ לֹ֣א יַמְעִ֔יט מִֽמַּחֲצִ֖ית הַשָּׁ֑קֶל לָתֵת֙ אֶת־ תְּרוּמַ֣ת יְהוָ֔ה לְכַפֵּ֖ר עַל־ נַפְשֹׁתֵיכֶֽם׃ וְלָקַחְתָּ֞ אֶת־ כֶּ֣סֶף הַכִּפֻּרִ֗ים מֵאֵת֙ בְּנֵ֣י יִשְׂרָאֵ֔ל וְנָתַתָּ֣ אֹת֔וֹ עַל־ עֲבֹדַ֖ת אֹ֣הֶל מוֹעֵ֑ד וְהָיָה֩ לִבְנֵ֨י יִשְׂרָאֵ֤ל לְזִכָּרוֹן֙ לִפְנֵ֣י יְהוָ֔ה לְכַפֵּ֖ר עַל־ נַפְשֹׁתֵיכֶֽם׃ פ",
+        "text": "Todo el que sea contado, de veinte años arriba, dará la ofrenda a YHWH. Ni el rico aumentará, ni el pobre disminuirá del medio siclo, cuando dieren la ofrenda a YHWH para hacer expiación por vuestras personas. Y tomarás de los hijos de Israel el dinero de las expiaciones, y lo darás para el servicio del tabernáculo de reunión; y será por memorial a los hijos de Israel delante de YHWH, para hacer expiación por vuestras personas."
       },
       {
-        "number": "13",
-        "hebrew": "זֶ֣ה ׀ יִתְּנ֗וּ כָּל־ הָעֹבֵר֙ עַל־ הַפְּקֻדִ֔ים מַחֲצִ֥ית הַשֶּׁ֖קֶל בְּשֶׁ֣קֶל הַקֹּ֑דֶשׁ עֶשְׂרִ֤ים גֵּרָה֙ הַשֶּׁ֔קֶל מַחֲצִ֣ית הַשֶּׁ֔קֶל תְּרוּמָ֖ה לַֽיהוָֽה׃",
-        "text": null
+        "number": "17-21",
+        "hebrew": "וַיְדַבֵּ֥ר יְהוָ֖ה אֶל־ מֹשֶׁ֥ה לֵּאמֹֽר׃ וְעָשִׂ֜יתָ כִּיּ֥וֹר נְחֹ֛שֶׁת וְכַנּ֥וֹ נְחֹ֖שֶׁת לְרָחְצָ֑ה וְנָתַתָּ֣ אֹת֗וֹ בֵּֽין־ אֹ֤הֶל מוֹעֵד֙ וּבֵ֣ין הַמִּזְבֵּ֔חַ וְנָתַתָּ֥ שָׁ֖מָּה מָֽיִם׃ וְרָחֲצ֛וּ אַהֲרֹ֥ן וּבָנָ֖יו מִמֶּ֑נּוּ אֶת־ יְדֵיהֶ֖ם וְאֶת־ רַגְלֵיהֶֽם׃ בְּבֹאָ֞ם אֶל־ אֹ֧הֶל מוֹעֵ֛ד יִרְחֲצוּ־ מַ֖יִם וְלֹ֣א יָמֻ֑תוּ א֣וֹ בְגִשְׁתָּ֤ם אֶל־ הַמִּזְבֵּ֨חַ֙ לְשָׁרֵ֔ת לְהַקְטִ֥יר אִשֶּׁ֖ה לַֽיהוָֽה׃ וְרָחֲצ֛וּ יְדֵיהֶ֥ם וְרַגְלֵיהֶ֖ם וְלֹ֣א יָמֻ֑תוּ וְהָיְתָ֨ה לָהֶ֧ם חָק־ עוֹלָ֛ם ל֥וֹ וּלְזַרְע֖וֹ לְדֹרֹתָֽם׃ פ",
+        "text": "Habló más YHWH a Moshé, diciendo: harás también una fuente de bronce, con su base de bronce, para lavar; y la pondrás entre el tabernáculo de reunión y el altar, y pondrás en ella agua. Y de ella se lavarán Aarón y sus hijos las manos y los pies. Cuando entren en el tabernáculo de reunión, se lavarán con agua, para que no mueran; y cuando se acerquen al altar para ministrar, para quemar la ofrenda encendida para YHWH, también se lavarán las manos y los pies, para que no mueran. Y lo tendrán por estatuto perpetuo él y su descendencia por sus generaciones."
       },
       {
-        "number": "14",
-        "hebrew": "כֹּ֗ל הָעֹבֵר֙ עַל־ הַפְּקֻדִ֔ים מִבֶּ֛ן עֶשְׂרִ֥ים שָׁנָ֖ה וָמָ֑עְלָה יִתֵּ֖ן תְּרוּמַ֥ת יְהוָֽה׃",
-        "text": null
+        "number": "22-25",
+        "hebrew": "וַיְדַבֵּ֥ר יְהוָ֖ה אֶל־ מֹשֶׁ֥ה לֵּאמֹֽר׃ וְאַתָּ֣ה קַח־ לְךָ֮ בְּשָׂמִ֣ים רֹאשׁ֒ מָר־ דְּרוֹר֙ חֲמֵ֣שׁ מֵא֔וֹת וְקִנְּמָן־ בֶּ֥שֶׂם מַחֲצִית֖וֹ חֲמִשִּׁ֣ים וּמָאתָ֑יִם וּקְנֵה־ בֹ֖שֶׂם חֲמִשִּׁ֥ים וּמָאתָֽיִם׃ וְקִדָּ֕ה חֲמֵ֥שׁ מֵא֖וֹת בְּשֶׁ֣קֶל הַקֹּ֑דֶשׁ וְשֶׁ֥מֶן זַ֖יִת הִֽין׃ וְעָשִׂ֣יתָ אֹת֗וֹ שֶׁ֚מֶן מִשְׁחַת־ קֹ֔דֶשׁ רֹ֥קַח מִרְקַ֖חַת מַעֲשֵׂ֣ה רֹקֵ֑חַ שֶׁ֥מֶן מִשְׁחַת־ קֹ֖דֶשׁ יִהְיֶֽה׃",
+        "text": "Habló más YHWH a Moshé, diciendo: toma especias finas, de mirra excelente quinientos siclos, y de canela aromática la mitad, esto es, doscientos cincuenta, de cálamo aromático doscientos cincuenta, y de casia quinientos, según el siclo del santuario, y de aceite de olivas un hin. Y harás de ello el aceite de la santa unción, superior ungüento, según arte de perfumador, el cual será el aceite de la unción santa."
       },
       {
-        "number": "15",
-        "hebrew": "הֶֽעָשִׁ֣יר לֹֽא־ יַרְבֶּ֗ה וְהַדַּל֙ לֹ֣א יַמְעִ֔יט מִֽמַּחֲצִ֖ית הַשָּׁ֑קֶל לָתֵת֙ אֶת־ תְּרוּמַ֣ת יְהוָ֔ה לְכַפֵּ֖ר עַל־ נַפְשֹׁתֵיכֶֽם׃",
-        "text": null
+        "number": "26-29",
+        "hebrew": "וּמָשַׁחְתָּ֥ ב֖וֹ אֶת־ אֹ֣הֶל מוֹעֵ֑ד וְאֵ֖ת אֲר֥וֹן הָעֵדֻֽת׃ וְאֶת־ הַשֻּׁלְחָן֙ וְאֶת־ כָּל־ כֵּלָ֔יו וְאֶת־ הַמְּנֹרָ֖ה וְאֶת־ כֵּלֶ֑יהָ וְאֵ֖ת מִזְבַּ֥ח הַקְּטֹֽרֶת׃ וְאֶת־ מִזְבַּ֥ח הָעֹלָ֖ה וְאֶת־ כָּל־ כֵּלָ֑יו וְאֶת־ הַכִּיֹּ֖ר וְאֶת־ כַּנּֽוֹ׃ וְקִדַּשְׁתָּ֣ אֹתָ֔ם וְהָי֖וּ קֹ֣דֶשׁ קָֽדָשִׁ֑ים כָּל־ הַנֹּגֵ֥עַ בָּהֶ֖ם יִקְדָּֽשׁ׃",
+        "text": "Con él ungirás el tabernáculo de reunión, el arca del testimonio, la mesa con todos sus utensilios, el candelero con todos sus utensilios, el altar del incienso, el altar del holocausto con todos sus utensilios, y la fuente con su base. Así los consagrarás, y serán cosas santísimas; todo lo que tocare en ellos, será santificado."
       },
       {
-        "number": "16",
-        "hebrew": "וְלָקַחְתָּ֞ אֶת־ כֶּ֣סֶף הַכִּפֻּרִ֗ים מֵאֵת֙ בְּנֵ֣י יִשְׂרָאֵ֔ל וְנָתַתָּ֣ אֹת֔וֹ עַל־ עֲבֹדַ֖ת אֹ֣הֶל מוֹעֵ֑ד וְהָיָה֩ לִבְנֵ֨י יִשְׂרָאֵ֤ל לְזִכָּרוֹן֙ לִפְנֵ֣י יְהוָ֔ה לְכַפֵּ֖ר עַל־ נַפְשֹׁתֵיכֶֽם׃ פ",
-        "text": null
+        "number": "30-33",
+        "hebrew": "וְאֶת־ אַהֲרֹ֥ן וְאֶת־ בָּנָ֖יו תִּמְשָׁ֑ח וְקִדַּשְׁתָּ֥ אֹתָ֖ם לְכַהֵ֥ן לִֽי׃ וְאֶל־ בְּנֵ֥י יִשְׂרָאֵ֖ל תְּדַבֵּ֣ר לֵאמֹ֑ר שֶׁ֠מֶן מִשְׁחַת־ קֹ֨דֶשׁ יִהְיֶ֥ה זֶ֛ה לִ֖י לְדֹרֹתֵיכֶֽם׃ עַל־ בְּשַׂ֤ר אָדָם֙ לֹ֣א יִיסָ֔ךְ וּבְמַ֨תְכֻּנְתּ֔וֹ לֹ֥א תַעֲשׂ֖וּ כָּמֹ֑הוּ קֹ֣דֶשׁ ה֔וּא קֹ֖דֶשׁ יִהְיֶ֥ה לָכֶֽם׃ אִ֚ישׁ אֲשֶׁ֣ר יִרְקַ֣ח כָּמֹ֔הוּ וַאֲשֶׁ֥ר יִתֵּ֛ן מִמֶּ֖נּוּ עַל־ זָ֑ר וְנִכְרַ֖ת מֵעַמָּֽיו׃ ס",
+        "text": "Ungirás también a Aarón y a sus hijos, y los consagrarás para que sean mis sacerdotes. Y hablarás a los hijos de Israel, diciendo: este será mi aceite de la santa unción por vuestras generaciones. Sobre carne de hombre no será derramado, ni haréis otro semejante, conforme a su composición; santo es, y por santo lo tendréis vosotros. Cualquiera que compusiere ungüento semejante, y que pusiere de él sobre extraño, será cortado de su pueblo."
       },
       {
-        "number": "17",
-        "hebrew": "וַיְדַבֵּ֥ר יְהוָ֖ה אֶל־ מֹשֶׁ֥ה לֵּאמֹֽר׃",
-        "text": null
+        "number": "34-36",
+        "hebrew": "וַיֹּאמֶר֩ יְהוָ֨ה אֶל־ מֹשֶׁ֜ה קַח־ לְךָ֣ סַמִּ֗ים נָטָ֤ף ׀ וּשְׁחֵ֨לֶת֙ וְחֶלְבְּנָ֔ה סַמִּ֖ים וּלְבֹנָ֣ה זַכָּ֑ה בַּ֥ד בְּבַ֖ד יִהְיֶֽה׃ וְעָשִׂ֤יתָ אֹתָהּ֙ קְטֹ֔רֶת רֹ֖קַח מַעֲשֵׂ֣ה רוֹקֵ֑חַ מְמֻלָּ֖ח טָה֥וֹר קֹֽדֶשׁ׃ וְשָֽׁחַקְתָּ֣ מִמֶּנָּה֮ הָדֵק֒ וְנָתַתָּ֨ה מִמֶּ֜נָּה לִפְנֵ֤י הָעֵדֻת֙ בְּאֹ֣הֶל מוֹעֵ֔ד אֲשֶׁ֛ר אִוָּעֵ֥ד לְךָ֖ שָׁ֑מָּה קֹ֥דֶשׁ קָֽדָשִׁ֖ים תִּהְיֶ֥ה לָכֶֽם׃",
+        "text": "Dijo aún YHWH a Moshé: toma especias aromáticas, estacte y uña aromática y gálbano aromático e incienso puro; de todo en igual peso. Y harás de ello el incienso, un perfume según el arte del perfumador, bien mezclado, puro y santo. Y molerás parte de él en polvo fino, y lo pondrás delante del testimonio en el tabernáculo de reunión, donde yo me mostraré a ti; os será cosa santísima."
       },
       {
-        "number": "18",
-        "hebrew": "וְעָשִׂ֜יתָ כִּיּ֥וֹר נְחֹ֛שֶׁת וְכַנּ֥וֹ נְחֹ֖שֶׁת לְרָחְצָ֑ה וְנָתַתָּ֣ אֹת֗וֹ בֵּֽין־ אֹ֤הֶל מוֹעֵד֙ וּבֵ֣ין הַמִּזְבֵּ֔חַ וְנָתַתָּ֥ שָׁ֖מָּה מָֽיִם׃",
-        "text": null
-      },
-      {
-        "number": "19",
-        "hebrew": "וְרָחֲצ֛וּ אַהֲרֹ֥ן וּבָנָ֖יו מִמֶּ֑נּוּ אֶת־ יְדֵיהֶ֖ם וְאֶת־ רַגְלֵיהֶֽם׃",
-        "text": null
-      },
-      {
-        "number": "20",
-        "hebrew": "בְּבֹאָ֞ם אֶל־ אֹ֧הֶל מוֹעֵ֛ד יִרְחֲצוּ־ מַ֖יִם וְלֹ֣א יָמֻ֑תוּ א֣וֹ בְגִשְׁתָּ֤ם אֶל־ הַמִּזְבֵּ֨חַ֙ לְשָׁרֵ֔ת לְהַקְטִ֥יר אִשֶּׁ֖ה לַֽיהוָֽה׃",
-        "text": null
-      },
-      {
-        "number": "21",
-        "hebrew": "וְרָחֲצ֛וּ יְדֵיהֶ֥ם וְרַגְלֵיהֶ֖ם וְלֹ֣א יָמֻ֑תוּ וְהָיְתָ֨ה לָהֶ֧ם חָק־ עוֹלָ֛ם ל֥וֹ וּלְזַרְע֖וֹ לְדֹרֹתָֽם׃ פ",
-        "text": null
-      },
-      {
-        "number": "22",
-        "hebrew": "וַיְדַבֵּ֥ר יְהוָ֖ה אֶל־ מֹשֶׁ֥ה לֵּאמֹֽר׃",
-        "text": null
-      },
-      {
-        "number": "23",
-        "hebrew": "וְאַתָּ֣ה קַח־ לְךָ֮ בְּשָׂמִ֣ים רֹאשׁ֒ מָר־ דְּרוֹר֙ חֲמֵ֣שׁ מֵא֔וֹת וְקִנְּמָן־ בֶּ֥שֶׂם מַחֲצִית֖וֹ חֲמִשִּׁ֣ים וּמָאתָ֑יִם וּקְנֵה־ בֹ֖שֶׂם חֲמִשִּׁ֥ים וּמָאתָֽיִם׃",
-        "text": null
-      },
-      {
-        "number": "24",
-        "hebrew": "וְקִדָּ֕ה חֲמֵ֥שׁ מֵא֖וֹת בְּשֶׁ֣קֶל הַקֹּ֑דֶשׁ וְשֶׁ֥מֶן זַ֖יִת הִֽין׃",
-        "text": null
-      },
-      {
-        "number": "25",
-        "hebrew": "וְעָשִׂ֣יתָ אֹת֗וֹ שֶׁ֚מֶן מִשְׁחַת־ קֹ֔דֶשׁ רֹ֥קַח מִרְקַ֖חַת מַעֲשֵׂ֣ה רֹקֵ֑חַ שֶׁ֥מֶן מִשְׁחַת־ קֹ֖דֶשׁ יִהְיֶֽה׃",
-        "text": null
-      },
-      {
-        "number": "26",
-        "hebrew": "וּמָשַׁחְתָּ֥ ב֖וֹ אֶת־ אֹ֣הֶל מוֹעֵ֑ד וְאֵ֖ת אֲר֥וֹן הָעֵדֻֽת׃",
-        "text": null
-      },
-      {
-        "number": "27",
-        "hebrew": "וְאֶת־ הַשֻּׁלְחָן֙ וְאֶת־ כָּל־ כֵּלָ֔יו וְאֶת־ הַמְּנֹרָ֖ה וְאֶת־ כֵּלֶ֑יהָ וְאֵ֖ת מִזְבַּ֥ח הַקְּטֹֽרֶת׃",
-        "text": null
-      },
-      {
-        "number": "28",
-        "hebrew": "וְאֶת־ מִזְבַּ֥ח הָעֹלָ֖ה וְאֶת־ כָּל־ כֵּלָ֑יו וְאֶת־ הַכִּיֹּ֖ר וְאֶת־ כַּנּֽוֹ׃",
-        "text": null
-      },
-      {
-        "number": "29",
-        "hebrew": "וְקִדַּשְׁתָּ֣ אֹתָ֔ם וְהָי֖וּ קֹ֣דֶשׁ קָֽדָשִׁ֑ים כָּל־ הַנֹּגֵ֥עַ בָּהֶ֖ם יִקְדָּֽשׁ׃",
-        "text": null
-      },
-      {
-        "number": "30",
-        "hebrew": "וְאֶת־ אַהֲרֹ֥ן וְאֶת־ בָּנָ֖יו תִּמְשָׁ֑ח וְקִדַּשְׁתָּ֥ אֹתָ֖ם לְכַהֵ֥ן לִֽי׃",
-        "text": null
-      },
-      {
-        "number": "31",
-        "hebrew": "וְאֶל־ בְּנֵ֥י יִשְׂרָאֵ֖ל תְּדַבֵּ֣ר לֵאמֹ֑ר שֶׁ֠מֶן מִשְׁחַת־ קֹ֨דֶשׁ יִהְיֶ֥ה זֶ֛ה לִ֖י לְדֹרֹתֵיכֶֽם׃",
-        "text": null
-      },
-      {
-        "number": "32",
-        "hebrew": "עַל־ בְּשַׂ֤ר אָדָם֙ לֹ֣א יִיסָ֔ךְ וּבְמַ֨תְכֻּנְתּ֔וֹ לֹ֥א תַעֲשׂ֖וּ כָּמֹ֑הוּ קֹ֣דֶשׁ ה֔וּא קֹ֖דֶשׁ יִהְיֶ֥ה לָכֶֽם׃",
-        "text": null
-      },
-      {
-        "number": "33",
-        "hebrew": "אִ֚ישׁ אֲשֶׁ֣ר יִרְקַ֣ח כָּמֹ֔הוּ וַאֲשֶׁ֥ר יִתֵּ֛ן מִמֶּ֖נּוּ עַל־ זָ֑ר וְנִכְרַ֖ת מֵעַמָּֽיו׃ ס",
-        "text": null
-      },
-      {
-        "number": "34",
-        "hebrew": "וַיֹּאמֶר֩ יְהוָ֨ה אֶל־ מֹשֶׁ֜ה קַח־ לְךָ֣ סַמִּ֗ים נָטָ֤ף ׀ וּשְׁחֵ֨לֶת֙ וְחֶלְבְּנָ֔ה סַמִּ֖ים וּלְבֹנָ֣ה זַכָּ֑ה בַּ֥ד בְּבַ֖ד יִהְיֶֽה׃",
-        "text": null
-      },
-      {
-        "number": "35",
-        "hebrew": "וְעָשִׂ֤יתָ אֹתָהּ֙ קְטֹ֔רֶת רֹ֖קַח מַעֲשֵׂ֣ה רוֹקֵ֑חַ מְמֻלָּ֖ח טָה֥וֹר קֹֽדֶשׁ׃",
-        "text": null
-      },
-      {
-        "number": "36",
-        "hebrew": "וְשָֽׁחַקְתָּ֣ מִמֶּנָּה֮ הָדֵק֒ וְנָתַתָּ֨ה מִמֶּ֜נָּה לִפְנֵ֤י הָעֵדֻת֙ בְּאֹ֣הֶל מוֹעֵ֔ד אֲשֶׁ֛ר אִוָּעֵ֥ד לְךָ֖ שָׁ֑מָּה קֹ֥דֶשׁ קָֽדָשִׁ֖ים תִּהְיֶ֥ה לָכֶֽם׃",
-        "text": null
-      },
-      {
-        "number": "37",
-        "hebrew": "וְהַקְּטֹ֨רֶת֙ אֲשֶׁ֣ר תַּעֲשֶׂ֔ה בְּמַ֨תְכֻּנְתָּ֔הּ לֹ֥א תַעֲשׂ֖וּ לָכֶ֑ם קֹ֛דֶשׁ תִּהְיֶ֥ה לְךָ֖ לַיהוָֽה׃",
-        "text": null
-      },
-      {
-        "number": "38",
-        "hebrew": "אִ֛ישׁ אֲשֶׁר־ יַעֲשֶׂ֥ה כָמ֖וֹהָ לְהָרִ֣יחַ בָּ֑הּ וְנִכְרַ֖ת מֵעַמָּֽיו׃ ס",
-        "text": null
+        "number": "37-38",
+        "hebrew": "וְהַקְּטֹ֨רֶת֙ אֲשֶׁ֣ר תַּעֲשֶׂ֔ה בְּמַ֨תְכֻּנְתָּ֔הּ לֹ֥א תַעֲשׂ֖וּ לָכֶ֑ם קֹ֛דֶשׁ תִּהְיֶ֥ה לְךָ֖ לַיהוָֽה׃ אִ֛ישׁ אֲשֶׁר־ יַעֲשֶׂ֥ה כָמ֖וֹהָ לְהָרִ֣יחַ בָּ֑הּ וְנִכְרַ֖ת מֵעַמָּֽיו׃ ס",
+        "text": "Como este incienso que harás, no os haréis otro según su composición; te será cosa sagrada para YHWH¹³¹. Cualquiera que hiciere otro como él para olerlo, será cortado de su pueblo."
       }
     ],
     "31": [
       {
-        "number": "1",
-        "hebrew": "וַיְדַבֵּ֥ר יְהוָ֖ה אֶל־ מֹשֶׁ֥ה לֵּאמֹֽר׃",
-        "text": null
+        "number": "1-6",
+        "hebrew": "וַיְדַבֵּ֥ר יְהוָ֖ה אֶל־ מֹשֶׁ֥ה לֵּאמֹֽר׃ רְאֵ֖ה קָרָ֣אתִֽי בְשֵׁ֑ם בְּצַלְאֵ֛ל בֶּן־ אוּרִ֥י בֶן־ ח֖וּר לְמַטֵּ֥ה יְהוּדָֽה׃ וָאֲמַלֵּ֥א אֹת֖וֹ ר֣וּחַ אֱלֹהִ֑ים בְּחָכְמָ֛ה וּבִתְבוּנָ֥ה וּבְדַ֖עַת וּבְכָל־ מְלָאכָֽה׃ לַחְשֹׁ֖ב מַחֲשָׁבֹ֑ת לַעֲשׂ֛וֹת בַּזָּהָ֥ב וּבַכֶּ֖סֶף וּבַנְּחֹֽשֶׁת׃ וּבַחֲרֹ֥שֶׁת אֶ֛בֶן לְמַלֹּ֖את וּבַחֲרֹ֣שֶׁת עֵ֑ץ לַעֲשׂ֖וֹת בְּכָל־ מְלָאכָֽה׃ וַאֲנִ֞י הִנֵּ֧ה נָתַ֣תִּי אִתּ֗וֹ אֵ֣ת אָהֳלִיאָ֞ב בֶּן־ אֲחִֽיסָמָךְ֙ לְמַטֵּה־ דָ֔ן וּבְלֵ֥ב כָּל־ חֲכַם־ לֵ֖ב נָתַ֣תִּי חָכְמָ֑ה וְעָשׂ֕וּ אֵ֖ת כָּל־ אֲשֶׁ֥ר צִוִּיתִֽךָ׃",
+        "text": "Habló YHWH a Moshé, diciendo: mira, yo he llamado por nombre a Bezalel hijo de Uri, hijo de Hur, de la tribu de Judá; y lo he llenado del Espíritu de Elohim, en sabiduría, en inteligencia, en ciencia y en todo arte, para proyectar diseños, para trabajar en oro, en plata y en bronce, y en talla de piedras de engaste, y en obra de madera, para trabajar en toda clase de labor¹³². Y he aquí que yo he puesto con él a Aholiab hijo de Ahisamac, de la tribu de Dan; y he puesto sabiduría en el corazón de todo sabio de corazón, para que hagan todo lo que te he mandado."
       },
       {
-        "number": "2",
-        "hebrew": "רְאֵ֖ה קָרָ֣אתִֽי בְשֵׁ֑ם בְּצַלְאֵ֛ל בֶּן־ אוּרִ֥י בֶן־ ח֖וּר לְמַטֵּ֥ה יְהוּדָֽה׃",
-        "text": null
+        "number": "7-11",
+        "hebrew": "אֵ֣ת ׀ אֹ֣הֶל מוֹעֵ֗ד וְאֶת־ הָֽאָרֹן֙ לָֽעֵדֻ֔ת וְאֶת־ הַכַּפֹּ֖רֶת אֲשֶׁ֣ר עָלָ֑יו וְאֵ֖ת כָּל־ כְּלֵ֥י הָאֹֽהֶל׃ וְאֶת־ הַשֻּׁלְחָן֙ וְאֶת־ כֵּלָ֔יו וְאֶת־ הַמְּנֹרָ֥ה הַטְּהֹרָ֖ה וְאֶת־ כָּל־ כֵּלֶ֑יהָ וְאֵ֖ת מִזְבַּ֥ח הַקְּטֹֽרֶת׃ וְאֶת־ מִזְבַּ֥ח הָעֹלָ֖ה וְאֶת־ כָּל־ כֵּלָ֑יו וְאֶת־ הַכִּיּ֖וֹר וְאֶת־ כַּנּֽוֹ׃ וְאֵ֖ת בִּגְדֵ֣י הַשְּׂרָ֑ד וְאֶת־ בִּגְדֵ֤י הַקֹּ֨דֶשׁ֙ לְאַהֲרֹ֣ן הַכֹּהֵ֔ן וְאֶת־ בִּגְדֵ֥י בָנָ֖יו לְכַהֵֽן׃ וְאֵ֨ת שֶׁ֧מֶן הַמִּשְׁחָ֛ה וְאֶת־ קְטֹ֥רֶת הַסַּמִּ֖ים לַקֹּ֑דֶשׁ כְּכֹ֥ל אֲשֶׁר־ צִוִּיתִ֖ךָ יַעֲשֽׂוּ׃ פ",
+        "text": "El tabernáculo de reunión, el arca del testimonio, el propiciatorio que está sobre ella, todos los enseres del tabernáculo; también la mesa y sus enseres, el candelero limpio y todos sus enseres, el altar del incienso, el altar del holocausto y todos sus enseres, la fuente y su base, las vestiduras del servicio, las vestiduras santas para Aarón el sacerdote, las vestiduras de sus hijos para que ejerzan el sacerdocio, el aceite de la unción, y el incienso aromático para el santuario; harán conforme a todo lo que te he mandado."
       },
       {
-        "number": "3",
-        "hebrew": "וָאֲמַלֵּ֥א אֹת֖וֹ ר֣וּחַ אֱלֹהִ֑ים בְּחָכְמָ֛ה וּבִתְבוּנָ֥ה וּבְדַ֖עַת וּבְכָל־ מְלָאכָֽה׃",
-        "text": null
+        "number": "12-14",
+        "hebrew": "וַיֹּ֥אמֶר יְהוָ֖ה אֶל־ מֹשֶׁ֥ה לֵּאמֹֽר׃ וְאַתָּ֞ה דַּבֵּ֨ר אֶל־ בְּנֵ֤י יִשְׂרָאֵל֙ לֵאמֹ֔ר אַ֥ךְ אֶת־ שַׁבְּתֹתַ֖י תִּשְׁמֹ֑רוּ כִּי֩ א֨וֹת הִ֜וא בֵּינִ֤י וּבֵֽינֵיכֶם֙ לְדֹרֹ֣תֵיכֶ֔ם לָדַ֕עַת כִּ֛י אֲנִ֥י יְהוָ֖ה מְקַדִּשְׁכֶֽם׃ וּשְׁמַרְתֶּם֙ אֶת־ הַשַּׁבָּ֔ת כִּ֛י קֹ֥דֶשׁ הִ֖וא לָכֶ֑ם מְחַֽלְלֶ֨יהָ֙ מ֣וֹת יוּמָ֔ת כִּ֗י כָּל־ הָעֹשֶׂ֥ה בָהּ֙ מְלָאכָ֔ה וְנִכְרְתָ֛ה הַנֶּ֥פֶשׁ הַהִ֖וא מִקֶּ֥רֶב עַמֶּֽיהָ׃",
+        "text": "Habló además YHWH a Moshé, diciendo: y tú hablarás a los hijos de Israel, diciendo: en verdad vosotros guardaréis mis sábados; porque es señal entre mí y vosotros por vuestras generaciones, para que sepáis que yo soy YHWH que os santifico¹³³. Así que guardaréis el sábado, porque santo es a vosotros; el que lo profanare, de cierto morirá; porque cualquiera que hiciere obra alguna en él, esa persona será cortada de en medio de su pueblo."
       },
       {
-        "number": "4",
-        "hebrew": "לַחְשֹׁ֖ב מַחֲשָׁבֹ֑ת לַעֲשׂ֛וֹת בַּזָּהָ֥ב וּבַכֶּ֖סֶף וּבַנְּחֹֽשֶׁת׃",
-        "text": null
-      },
-      {
-        "number": "5",
-        "hebrew": "וּבַחֲרֹ֥שֶׁת אֶ֛בֶן לְמַלֹּ֖את וּבַחֲרֹ֣שֶׁת עֵ֑ץ לַעֲשׂ֖וֹת בְּכָל־ מְלָאכָֽה׃",
-        "text": null
-      },
-      {
-        "number": "6",
-        "hebrew": "וַאֲנִ֞י הִנֵּ֧ה נָתַ֣תִּי אִתּ֗וֹ אֵ֣ת אָהֳלִיאָ֞ב בֶּן־ אֲחִֽיסָמָךְ֙ לְמַטֵּה־ דָ֔ן וּבְלֵ֥ב כָּל־ חֲכַם־ לֵ֖ב נָתַ֣תִּי חָכְמָ֑ה וְעָשׂ֕וּ אֵ֖ת כָּל־ אֲשֶׁ֥ר צִוִּיתִֽךָ׃",
-        "text": null
-      },
-      {
-        "number": "7",
-        "hebrew": "אֵ֣ת ׀ אֹ֣הֶל מוֹעֵ֗ד וְאֶת־ הָֽאָרֹן֙ לָֽעֵדֻ֔ת וְאֶת־ הַכַּפֹּ֖רֶת אֲשֶׁ֣ר עָלָ֑יו וְאֵ֖ת כָּל־ כְּלֵ֥י הָאֹֽהֶל׃",
-        "text": null
-      },
-      {
-        "number": "8",
-        "hebrew": "וְאֶת־ הַשֻּׁלְחָן֙ וְאֶת־ כֵּלָ֔יו וְאֶת־ הַמְּנֹרָ֥ה הַטְּהֹרָ֖ה וְאֶת־ כָּל־ כֵּלֶ֑יהָ וְאֵ֖ת מִזְבַּ֥ח הַקְּטֹֽרֶת׃",
-        "text": null
-      },
-      {
-        "number": "9",
-        "hebrew": "וְאֶת־ מִזְבַּ֥ח הָעֹלָ֖ה וְאֶת־ כָּל־ כֵּלָ֑יו וְאֶת־ הַכִּיּ֖וֹר וְאֶת־ כַּנּֽוֹ׃",
-        "text": null
-      },
-      {
-        "number": "10",
-        "hebrew": "וְאֵ֖ת בִּגְדֵ֣י הַשְּׂרָ֑ד וְאֶת־ בִּגְדֵ֤י הַקֹּ֨דֶשׁ֙ לְאַהֲרֹ֣ן הַכֹּהֵ֔ן וְאֶת־ בִּגְדֵ֥י בָנָ֖יו לְכַהֵֽן׃",
-        "text": null
-      },
-      {
-        "number": "11",
-        "hebrew": "וְאֵ֨ת שֶׁ֧מֶן הַמִּשְׁחָ֛ה וְאֶת־ קְטֹ֥רֶת הַסַּמִּ֖ים לַקֹּ֑דֶשׁ כְּכֹ֥ל אֲשֶׁר־ צִוִּיתִ֖ךָ יַעֲשֽׂוּ׃ פ",
-        "text": null
-      },
-      {
-        "number": "12",
-        "hebrew": "וַיֹּ֥אמֶר יְהוָ֖ה אֶל־ מֹשֶׁ֥ה לֵּאמֹֽר׃",
-        "text": null
-      },
-      {
-        "number": "13",
-        "hebrew": "וְאַתָּ֞ה דַּבֵּ֨ר אֶל־ בְּנֵ֤י יִשְׂרָאֵל֙ לֵאמֹ֔ר אַ֥ךְ אֶת־ שַׁבְּתֹתַ֖י תִּשְׁמֹ֑רוּ כִּי֩ א֨וֹת הִ֜וא בֵּינִ֤י וּבֵֽינֵיכֶם֙ לְדֹרֹ֣תֵיכֶ֔ם לָדַ֕עַת כִּ֛י אֲנִ֥י יְהוָ֖ה מְקַדִּשְׁכֶֽם׃",
-        "text": null
-      },
-      {
-        "number": "14",
-        "hebrew": "וּשְׁמַרְתֶּם֙ אֶת־ הַשַּׁבָּ֔ת כִּ֛י קֹ֥דֶשׁ הִ֖וא לָכֶ֑ם מְחַֽלְלֶ֨יהָ֙ מ֣וֹת יוּמָ֔ת כִּ֗י כָּל־ הָעֹשֶׂ֥ה בָהּ֙ מְלָאכָ֔ה וְנִכְרְתָ֛ה הַנֶּ֥פֶשׁ הַהִ֖וא מִקֶּ֥רֶב עַמֶּֽיהָ׃",
-        "text": null
-      },
-      {
-        "number": "15",
-        "hebrew": "שֵׁ֣שֶׁת יָמִים֮ יֵעָשֶׂ֣ה מְלָאכָה֒ וּבַיּ֣וֹם הַשְּׁבִיעִ֗י שַׁבַּ֧ת שַׁבָּת֛וֹן קֹ֖דֶשׁ לַיהוָ֑ה כָּל־ הָעֹשֶׂ֧ה מְלָאכָ֛ה בְּי֥וֹם הַשַּׁבָּ֖ת מ֥וֹת יוּמָֽת׃",
-        "text": null
-      },
-      {
-        "number": "16",
-        "hebrew": "וְשָׁמְר֥וּ בְנֵֽי־ יִשְׂרָאֵ֖ל אֶת־ הַשַּׁבָּ֑ת לַעֲשׂ֧וֹת אֶת־ הַשַּׁבָּ֛ת לְדֹרֹתָ֖ם בְּרִ֥ית עוֹלָֽם׃",
-        "text": null
-      },
-      {
-        "number": "17",
-        "hebrew": "בֵּינִ֗י וּבֵין֙ בְּנֵ֣י יִשְׂרָאֵ֔ל א֥וֹת הִ֖וא לְעֹלָ֑ם כִּי־ שֵׁ֣שֶׁת יָמִ֗ים עָשָׂ֤ה יְהוָה֙ אֶת־ הַשָּׁמַ֣יִם וְאֶת־ הָאָ֔רֶץ וּבַיּוֹם֙ הַשְּׁבִיעִ֔י שָׁבַ֖ת וַיִּנָּפַֽשׁ׃ ס",
-        "text": null
+        "number": "15-17",
+        "hebrew": "שֵׁ֣שֶׁת יָמִים֮ יֵעָשֶׂ֣ה מְלָאכָה֒ וּבַיּ֣וֹם הַשְּׁבִיעִ֗י שַׁבַּ֧ת שַׁבָּת֛וֹן קֹ֖דֶשׁ לַיהוָ֑ה כָּל־ הָעֹשֶׂ֧ה מְלָאכָ֛ה בְּי֥וֹם הַשַּׁבָּ֖ת מ֥וֹת יוּמָֽת׃ וְשָׁמְר֥וּ בְנֵֽי־ יִשְׂרָאֵ֖ל אֶת־ הַשַּׁבָּ֑ת לַעֲשׂ֧וֹת אֶת־ הַשַּׁבָּ֛ת לְדֹרֹתָ֖ם בְּרִ֥ית עוֹלָֽם׃ בֵּינִ֗י וּבֵין֙ בְּנֵ֣י יִשְׂרָאֵ֔ל א֥וֹת הִ֖וא לְעֹלָ֑ם כִּי־ שֵׁ֣שֶׁת יָמִ֗ים עָשָׂ֤ה יְהוָה֙ אֶת־ הַשָּׁמַ֣יִם וְאֶת־ הָאָ֔רֶץ וּבַיּוֹם֙ הַשְּׁבִיעִ֔י שָׁבַ֖ת וַיִּנָּפַֽשׁ׃ ס",
+        "text": "Seis días se trabajará, mas el día séptimo es día de reposo consagrado a YHWH; cualquiera que trabajare en el día de reposo, morirá ciertamente. Guardarán, pues, el sábado los hijos de Israel; celebrándolo por sus generaciones por pacto perpetuo. Es señal para siempre entre mí y los hijos de Israel; porque en seis días hizo YHWH los cielos y la tierra, y en el séptimo día cesó y reposó."
       },
       {
         "number": "18",
         "hebrew": "וַיִּתֵּ֣ן אֶל־ מֹשֶׁ֗ה כְּכַלֹּתוֹ֙ לְדַבֵּ֤ר אִתּוֹ֙ בְּהַ֣ר סִינַ֔י שְׁנֵ֖י לֻחֹ֣ת הָעֵדֻ֑ת לֻחֹ֣ת אֶ֔בֶן כְּתֻבִ֖ים בְּאֶצְבַּ֥ע אֱלֹהִֽים׃",
-        "text": null
+        "text": "Y dio a Moshé, cuando acabó de hablar con él en el monte de Sinaí, dos tablas del testimonio, tablas de piedra escritas con el dedo de Elohim¹³⁴."
       }
     ],
     "32": [
@@ -5647,6 +4807,251 @@ window.EXODO_DATA={
       ],
       "hebrew": "וַיֶּחֱזוּ אֶת־הָאֱלֹהִים וַיֹּאכְלוּ וַיִּשְׁתּוּ",
       "teaser": "Ven a Elohim y sobreviven, contra la premisa de otros pasajes."
+    },
+    {
+      "id": 113,
+      "chapter": 25,
+      "title": "ve'asu li miqdash veshachanti betocham / me harán un santuario, y habitaré en medio de ellos",
+      "body": "El propio versículo no dice \"habitaré en él\" (el edificio), dice \"habitaré entre ellos\" (el pueblo) — el santuario es ocasión de una presencia que se aloja en la comunidad, no en la arquitectura misma. E1, dato gramatical (el pronombre plural remite a personas, no al singular del edificio).",
+      "evidence": [
+        "E1"
+      ],
+      "hebrew": "וְעָשׂוּ לִי מִקְדָּשׁ וְשָׁכַנְתִּי בְּתוֹכָם",
+      "teaser": "El santuario habita entre las personas, no al revés."
+    },
+    {
+      "id": 114,
+      "chapter": 25,
+      "title": "tavnit hamishkan / el diseño del tabernáculo",
+      "body": "Moshé no diseña el santuario: se le muestra un \"modelo/diseño\" (tavnit) que debe reproducir con exactitud — el mismo verbo de \"mostrar\" se repite varias veces en estos capítulos (25:40, 26:30, 27:8) como recordatorio de que la construcción sigue un patrón ya dado, no una invención humana. E1.",
+      "evidence": [
+        "E1"
+      ],
+      "hebrew": "תַּבְנִית הַמִּשְׁכָּן",
+      "teaser": "Moshé no inventa el diseño: lo reproduce."
+    },
+    {
+      "id": 115,
+      "chapter": 25,
+      "title": "kaporet / propiciatorio",
+      "body": "Misma raíz que el verbo kipper (\"expiar/cubrir\"), la que da también la palabra Yom Kipur — la pieza que cubre el arca lleva, en su propio nombre, la función que allí se ejerce: cubrir/expiar. E1.",
+      "evidence": [
+        "E1"
+      ],
+      "hebrew": "כַּפֹּרֶת",
+      "teaser": "El nombre de la pieza es también su función: cubrir."
+    },
+    {
+      "id": 116,
+      "chapter": 25,
+      "title": "keruvim / querubines",
+      "body": "Mismas figuras guardianas ya mencionadas en Génesis 3:24, custodiando la entrada al Edén tras la expulsión — acá no custodian una salida sino que enmarcan el lugar exacto de encuentro entre YHWH y Moshé, con las alas extendidas sobre el propiciatorio. E1 el dato léxico compartido; D1 la lectura del contraste entre custodiar una puerta cerrada y enmarcar un punto de encuentro abierto.",
+      "evidence": [
+        "E1",
+        "D1"
+      ],
+      "hebrew": "כְּרֻבִים",
+      "teaser": "Las mismas figuras que custodiaban la salida del Edén."
+    },
+    {
+      "id": 117,
+      "chapter": 25,
+      "title": "lechem panim / pan de la presencia",
+      "body": "Literalmente \"pan del rostro\" — doce panes puestos permanentemente sobre la mesa, delante de YHWH. Primera aparición de esta ofrenda alimentaria continua, distinta de los sacrificios de sangre. E1.",
+      "evidence": [
+        "E1"
+      ],
+      "hebrew": "לֶחֶם פָּנִים",
+      "teaser": "Una ofrenda de pan, permanente, sin sangre."
+    },
+    {
+      "id": 118,
+      "chapter": 26,
+      "title": "bein haqodesh uvein qodesh haqodashim / entre el lugar santo y el santísimo",
+      "body": "El velo (parochet) no separa lo sagrado de lo profano — separa dos grados distintos dentro de lo mismo sagrado. La santidad, en el diseño del tabernáculo, no es binaria sino graduada en el espacio. E1, dato estructural del propio diseño.",
+      "evidence": [
+        "E1"
+      ],
+      "hebrew": "בֵּין הַקֹּדֶשׁ וּבֵין קֹדֶשׁ הַקֳּדָשִׁים",
+      "teaser": "La santidad no es binaria: tiene grados."
+    },
+    {
+      "id": 119,
+      "chapter": 27,
+      "title": "qarnotav / sus cuernos",
+      "body": "Primera aparición de los \"cuernos del altar\" — proyecciones en las cuatro esquinas que reciben la sangre del sacrificio (cf. 29:12) y que, en otros libros del Tanaj, funcionarán como lugar de asilo para quien se aferre a ellos. E1.",
+      "evidence": [
+        "E1"
+      ],
+      "hebrew": "קַרְנֹתָיו",
+      "teaser": "El origen del lugar de asilo de libros posteriores."
+    },
+    {
+      "id": 120,
+      "chapter": 27,
+      "title": "ner tamid / para hacer arder continuamente las lámparas",
+      "body": "Primera mención del régimen de luz perpetua a cargo de Aarón y sus hijos, \"de la tarde hasta la mañana\" — ritmo continuo que se suma al del pan de la presencia (nota 117) como servicio ininterrumpido del santuario. E1.",
+      "evidence": [
+        "E1"
+      ],
+      "hebrew": "נֵר תָּמִיד",
+      "teaser": "La luz que nunca se apaga, a cargo de Aarón."
+    },
+    {
+      "id": 121,
+      "chapter": 28,
+      "title": "lechavod uletif'eret / para honra y hermosura",
+      "body": "La belleza de las vestiduras sacerdotales se manda explícitamente, con esta frase, como parte del propósito ritual — no es adorno incidental, es mandato con la misma autoridad que las medidas y los materiales. E1.",
+      "evidence": [
+        "E1"
+      ],
+      "hebrew": "לְכָבוֹד וּלְתִפְאָרֶת",
+      "teaser": "La belleza, mandada con la misma autoridad que las medidas."
+    },
+    {
+      "id": 122,
+      "chapter": 28,
+      "title": "avnei zikaron / piedras memoriales",
+      "body": "Los nombres de las doce tribus, grabados en dos piedras sobre los hombros del efod, convierten a Aarón en portador físico de la identidad colectiva de Israel cada vez que entra al servicio — la memoria del pueblo entero descansa, literalmente, sobre su cuerpo. E1.",
+      "evidence": [
+        "E1"
+      ],
+      "hebrew": "אַבְנֵי זִכָּרוֹן",
+      "teaser": "Doce nombres grabados sobre los hombros de un solo hombre."
+    },
+    {
+      "id": 123,
+      "chapter": 28,
+      "title": "Urim veTumim",
+      "body": "Objeto ritual de función exacta desconocida, colocado dentro del pectoral del juicio — se usaba de algún modo para obtener decisiones o respuestas divinas (cf. su uso narrado en libros posteriores del Tanaj, fuera de este corpus), pero ni su forma física, ni el mecanismo preciso de consulta, están descritos en ningún lugar de la Torá. Es uno de los objetos más discutidos de todo el culto israelita antiguo. E1 el dato de su existencia y ubicación; E3 su forma y funcionamiento exactos, disputa académica real y no resuelta por falta de datos.",
+      "evidence": [
+        "E1",
+        "E3"
+      ],
+      "hebrew": "אוּרִים וְתֻמִּים",
+      "teaser": "El objeto más discutido de todo el culto antiguo."
+    },
+    {
+      "id": 124,
+      "chapter": 28,
+      "title": "velo yamut / para que no muera",
+      "body": "El sonido de las campanillas en el borde del manto, al entrar y salir Aarón del santuario, tiene una función declarada: evitar su muerte. El texto no explica el mecanismo, pero deja clara la gravedad del acceso al espacio sagrado sin el protocolo correcto. E1.",
+      "evidence": [
+        "E1"
+      ],
+      "hebrew": "וְלֹא יָמוּת",
+      "teaser": "Un sonido que decide si el sacerdote vive o muere."
+    },
+    {
+      "id": 125,
+      "chapter": 28,
+      "title": "venasa Aharon et avon haqodashim / llevará Aarón el pecado de las cosas consagradas",
+      "body": "La lámina frontal con la inscripción \"Consagrado a YHWH\" no es solo insignia: el propio texto le atribuye una función activa, cargar con la culpa que pudiera adherirse a las ofrendas del pueblo, para que estas sean aceptadas. El sacerdote, mediante una pieza de su vestimenta, ejerce una función mediadora concreta. E1.",
+      "evidence": [
+        "E1"
+      ],
+      "hebrew": "וְנָשָׂא אַהֲרֹן אֶת־עֲוֺן הַקֳּדָשִׁים",
+      "teaser": "Una pieza de la vestimenta que carga con la culpa ajena."
+    },
+    {
+      "id": 126,
+      "chapter": 28,
+      "title": "mijnesei vad lechasot besar ervah / calzoncillos de lino para cubrir su desnudez",
+      "body": "Mismo tipo de preocupación por la desnudez ritual ya visto en la ley del altar sin gradas (nota 94, 20:26) — acá aplicada directamente a la vestimenta sacerdotal, no a la arquitectura. E1.",
+      "evidence": [
+        "E1"
+      ],
+      "hebrew": "מִכְנְסֵי־בָד לְכַסּוֹת בְּשַׂר עֶרְוָה",
+      "teaser": "La misma preocupación por la desnudez, ahora en la ropa."
+    },
+    {
+      "id": 127,
+      "chapter": 29,
+      "title": "tenuch ozen... bohen yadam... bohen raglam / lóbulo de la oreja... pulgar de la mano... pulgar del pie",
+      "body": "Rito de consagración que unge tres puntos extremos del cuerpo del sacerdote (oído, mano, pie) con la sangre del sacrificio — gesto que algunos comentaristas leen como consagración de la totalidad del cuerpo activo (lo que se oye, lo que se hace, adónde se va) a través de sus puntos más periféricos. E1 el dato ritual; D1 la lectura simbólica de la elección de esos tres puntos.",
+      "evidence": [
+        "E1",
+        "D1"
+      ],
+      "hebrew": "תְּנוּךְ אֹזֶן · בֹּהֶן יָד · בֹּהֶן רֶגֶל",
+      "teaser": "Tres puntos del cuerpo, ungidos con sangre."
+    },
+    {
+      "id": 128,
+      "chapter": 29,
+      "title": "olat tamid / el holocausto continuo",
+      "body": "Primera institución del sacrificio diario fijo, mañana y tarde, que se convertirá en el ritmo base de todo el culto del tabernáculo — no depende de ninguna ofrenda voluntaria ni ocasión especial, es obligación continua \"por vuestras generaciones\". E1.",
+      "evidence": [
+        "E1"
+      ],
+      "hebrew": "עֹלַת תָּמִיד",
+      "teaser": "El sacrificio diario que sostendrá todo el culto."
+    },
+    {
+      "id": 129,
+      "chapter": 29,
+      "title": "veshachanti betoch bnei Yisrael / habitaré entre los hijos de Israel",
+      "body": "Cierre explícito del arco abierto en 25:8 (nota 113): todo el diseño y la consagración del tabernáculo, del altar y de los sacerdotes tiene como única finalidad declarada esta frase, que además retoma casi palabra por palabra la promesa ya dada en 6:7 (\"os tomaré por mi pueblo, y seré vuestro Elohim\"). E1, dato estructural que enlaza tres momentos distintos del libro.",
+      "evidence": [
+        "E1"
+      ],
+      "hebrew": "וְשָׁכַנְתִּי בְּתוֹךְ בְּנֵי יִשְׂרָאֵל",
+      "teaser": "La promesa de habitar entre ellos, cerrando el arco de 25:8."
+    },
+    {
+      "id": 130,
+      "chapter": 30,
+      "title": "kofer nafsho / rescate de su vida",
+      "body": "El censo de Israel no puede hacerse sin que cada persona pague un rescate simbólico — contar personas, en este sistema, es un acto que requiere compensación ritual para no generar plaga. El monto es fijo e igual para todos: \"ni el rico aumentará, ni el pobre disminuirá\" — única tasa del corpus explícitamente diseñada para no variar según la riqueza de quien la paga. E1.",
+      "evidence": [
+        "E1"
+      ],
+      "hebrew": "כֹּפֶר נַפְשׁוֹ",
+      "teaser": "Contar personas exige, en este sistema, pagar un rescate."
+    },
+    {
+      "id": 131,
+      "chapter": 30,
+      "title": "qetoret hasamim / el incienso aromático",
+      "body": "Fórmula de incienso reservada exclusivamente para el culto, con la misma pena de karet (\"cortado de su pueblo\") ya establecida para el aceite de unción no autorizado (30:33) y para la transgresión del shabbat (Éxodo 31:14) — reutilizar una fórmula sagrada para uso privado o personal se castiga con la misma severidad que otras transgresiones rituales graves. E1.",
+      "evidence": [
+        "E1"
+      ],
+      "hebrew": "קְטֹרֶת הַסַּמִּים",
+      "teaser": "Una fórmula de incienso, prohibida para uso privado."
+    },
+    {
+      "id": 132,
+      "chapter": 31,
+      "title": "ruach Elohim... bechochmah uvitvunah uvda'at / espíritu de Elohim... en sabiduría, inteligencia y ciencia",
+      "body": "Betzalel es el primer artesano nombrado del corpus, y su capacidad técnica concreta —trabajar metales, piedras, madera— se describe explícitamente como resultado de estar \"lleno del espíritu de Elohim\", no como talento natural o aprendizaje humano. El oficio manual recibe acá el mismo tipo de descripción que en otros lugares se reserva para la profecía o el liderazgo. E1.",
+      "evidence": [
+        "E1"
+      ],
+      "hebrew": "רוּחַ אֱלֹהִים בְּחָכְמָה וּבִתְבוּנָה וּבְדַעַת",
+      "teaser": "El primer artesano nombrado, lleno del espíritu de Elohim."
+    },
+    {
+      "id": 133,
+      "chapter": 31,
+      "title": "ot hi beini uvein bnei Yisrael... berit olam / señal es entre mí y los hijos de Israel... pacto perpetuo",
+      "body": "El shabbat se declara \"señal\" del pacto y \"pacto perpetuo\" en sí mismo — mismo fundamento en la creación ya citado en 20:11 (cf. Génesis 2:2-3), repetido acá con la fórmula adicional de \"señal para siempre\", como cierre del bloque completo de instrucciones del tabernáculo antes de la entrega de las tablas. E1.",
+      "evidence": [
+        "E1"
+      ],
+      "hebrew": "אוֹת הִוא בֵּינִי וּבֵין בְּנֵי יִשְׂרָאֵל · בְּרִית עוֹלָם",
+      "teaser": "El shabbat, declarado señal y pacto perpetuo."
+    },
+    {
+      "id": 134,
+      "chapter": 31,
+      "title": "ketuvim be'etzba Elohim / escritas con el dedo de Elohim",
+      "body": "Misma expresión, \"dedo de Elohim\", que los hechiceros egipcios usaron para nombrar la plaga de los piojos que no pudieron replicar (cf. 8:15) — acá aplicada, sin ironía, a la autoría directa de las tablas de piedra. El mismo giro idiomático nombra, en dos contextos completamente distintos, una acción que escapa a la capacidad humana. E1.",
+      "evidence": [
+        "E1"
+      ],
+      "hebrew": "כְּתֻבִים בְּאֶצְבַּע אֱלֹהִים",
+      "teaser": "La misma expresión que los hechiceros egipcios no pudieron igualar."
     }
   ],
   "meta": {
@@ -5678,8 +5083,15 @@ window.EXODO_DATA={
       21,
       22,
       23,
-      24
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31
     ],
-    "verseCount": 856
+    "verseCount": 688
   }
 };

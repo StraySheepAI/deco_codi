@@ -1,4 +1,4 @@
-# Coding the Bible — Éxodo 1 a 24
+# Coding the Bible — Éxodo 1 a 31
 ### Lectura DIMA. Motor sobre datos reales (OSHB / Códice de Leningrado).
 
 ---
@@ -667,6 +667,170 @@
 
 **15-18** Entonces Moshé subió al monte, y una nube cubrió el monte. Y la gloria de YHWH reposó sobre el monte Sinaí, y la nube lo cubrió por seis días; y al séptimo día llamó a Moshé de en medio de la nube. Y el parecer de la gloria de YHWH era como un fuego abrasador en la cumbre del monte, a los ojos de los hijos de Israel. Y entró Moshé en medio de la nube, y subió al monte; y estuvo Moshé en el monte cuarenta días y cuarenta noches.
 
+## Éxodo 25
+
+**1-2** Habló YHWH a Moshé, diciendo: di a los hijos de Israel que tomen para mí ofrenda; de todo varón que la diere de su voluntad, de corazón, tomaréis mi ofrenda.
+
+**3-7** Y esta es la ofrenda que tomaréis de ellos: oro, plata, bronce; azul, púrpura, carmesí, lino fino, pelo de cabras; pieles de carneros teñidas de rojo, pieles de tejones, madera de acacia; aceite para el candelero, especias para el aceite de la unción y para el incienso aromático; piedras de ónice, y piedras de engaste para el efod y para el pectoral.
+
+**8-9** Y me harán un santuario, y habitaré en medio de ellos¹¹³. Conforme a todo lo que yo te muestre, el diseño del tabernáculo, y el diseño de todos sus utensilios, así lo haréis¹¹⁴.
+
+**10-11** Harán también un arca de madera de acacia, cuya longitud será de dos codos y medio, su anchura de codo y medio, y su altura de codo y medio. Y la cubrirás de oro puro; por dentro y por fuera la cubrirás; y harás sobre ella una cornisa de oro alrededor.
+
+**12-14** Y fundirás para ella cuatro anillos de oro, que pondrás en sus cuatro esquinas; dos anillos a un lado de ella, y dos anillos al otro lado. Y harás varas de madera de acacia, las cuales cubrirás de oro. Y meterás las varas por los anillos a los lados del arca, para llevar el arca con ellas.
+
+**15-16** Las varas quedarán en los anillos del arca; no se quitarán de ella. Y pondrás en el arca el testimonio que yo te daré.
+
+**17-19** Y harás un propiciatorio¹¹⁵ de oro fino, cuya longitud será de dos codos y medio, y su anchura de codo y medio. Y harás dos querubines¹¹⁶ de oro, labrados a martillo, en los dos extremos del propiciatorio. Harás, pues, un querubín en un extremo, y un querubín en el otro extremo; de una pieza con el propiciatorio harás los querubines en sus dos extremos.
+
+**20-22** Y los querubines extenderán sus alas por encima, cubriendo con ellas el propiciatorio; sus rostros el uno hacia el otro, mirando al propiciatorio los rostros de los querubines. Y pondrás el propiciatorio encima del arca, y en el arca pondrás el testimonio que yo te daré. Y de allí me encontraré contigo, y hablaré contigo de sobre el propiciatorio, de entre los dos querubines que están sobre el arca del testimonio, todo lo que yo te mande para los hijos de Israel.
+
+**23-24** Harás asimismo una mesa de madera de acacia; su longitud de dos codos, y de un codo su anchura, y su altura de codo y medio. Y la cubrirás de oro puro, y le harás una cornisa de oro alrededor.
+
+**25-28** Le harás también una moldura alrededor, de un palmo menor de anchura, y harás a la moldura una cornisa de oro alrededor. Y le harás cuatro anillos de oro, los cuales pondrás en las cuatro esquinas que corresponden a sus cuatro patas. Los anillos estarán junto a la moldura, por lugares de las varas, para llevar la mesa. Y harás las varas de madera de acacia, y las cubrirás de oro, y con ellas será llevada la mesa.
+
+**29-30** Harás también sus platos, sus cucharas, sus cubiertas y sus tazones, con que se libará; de oro fino los harás. Y pondrás sobre la mesa el pan de la presencia¹¹⁷ delante de mí continuamente.
+
+**31-33** Harás además un candelero de oro puro; labrado a martillo se hará el candelero; su pie, su caña, sus copas, sus manzanas y sus flores, serán de lo mismo. Y saldrán seis brazos de sus lados: tres brazos del candelero a un lado, y tres brazos del candelero al otro lado. Tres copas en forma de flor de almendro en un brazo, una manzana y una flor; y tres copas en forma de flor de almendro en otro brazo, una manzana y una flor; así los seis brazos que salen del candelero.
+
+**34-36** Y en el candelero mismo cuatro copas en forma de flor de almendro, sus manzanas y sus flores. Y una manzana debajo de los dos brazos de la misma pieza, y una manzana debajo de otros dos brazos de la misma pieza, y una manzana debajo de otros dos brazos de la misma pieza, así para los seis brazos que salen del candelero. Sus manzanas y sus brazos serán de una pieza, todo ello una pieza labrada a martillo, de oro puro.
+
+**37-40** Y le harás siete lámparas, las cuales encenderás para que alumbren hacia adelante. También sus despabiladeras y sus platillos, de oro puro. De un talento de oro fino lo harás, con todos estos utensilios. Mira, y hazlos conforme al modelo que te ha sido mostrado en el monte.
+
+## Éxodo 26
+
+**1-3** Harás además el tabernáculo de diez cortinas de lino torcido, azul, púrpura y carmesí; y harás querubines de obra primorosa. La longitud de una cortina será de veintiocho codos, y su ancho de cuatro codos; todas las cortinas tendrán una misma medida. Cinco cortinas estarán unidas la una con la otra, y las otras cinco cortinas unidas la una con la otra.
+
+**4-6** Y harás lazadas de azul en la orilla de la última cortina de la primera unión, y otro tanto harás en la orilla de la cortina en la segunda unión. Cincuenta lazadas harás en la primera cortina, y cincuenta lazadas harás en la orilla de la cortina que está en la segunda unión, para que las lazadas se correspondan la una con la otra. Harás también cincuenta corchetes de oro, con los cuales enlazarás las cortinas la una con la otra, y se formará un tabernáculo.
+
+**7-9** Harás asimismo cortinas de pelo de cabras para una cubierta sobre el tabernáculo; once cortinas harás. La longitud de cada cortina de treinta codos, y la anchura de cada cortina de cuatro codos; las once cortinas tendrán una misma medida. Y unirás las cinco cortinas aparte, y las otras seis cortinas aparte; y doblarás la sexta cortina en el frente del tabernáculo.
+
+**10-14** Y harás cincuenta lazadas en la orilla de la cortina, en el borde de la primera unión, y cincuenta lazadas en la orilla de la cortina de la segunda unión. Harás asimismo cincuenta corchetes de bronce, los cuales meterás en las lazadas, y enlazarás las uniones para que se haga un cuerpo. Y el resto que sobra de las cortinas de la tienda, la mitad de la cortina que sobra, colgará a las espaldas del tabernáculo. Y un codo de un lado, y otro codo del otro que sobra en la longitud de las cortinas de la tienda, colgará sobre los lados del tabernáculo a un lado y al otro, para cubrirlo. Harás también a la tienda una cubierta de pieles de carneros teñidas de rojo, y una cubierta de pieles de tejones encima.
+
+**15-17** Y harás para el tabernáculo tablas de madera de acacia, que estén derechas. La longitud de cada tabla será de diez codos, y de codo y medio la anchura. Dos espigas tendrá cada tabla, para ensamblarse una con otra; así harás todas las tablas del tabernáculo.
+
+**18-21** Harás, pues, las tablas del tabernáculo: veinte tablas al lado del mediodía, al sur. Y harás cuarenta basas de plata debajo de las veinte tablas; dos basas debajo de cada tabla para sus dos espigas. Y las otras veinte tablas al otro lado, al lado norte, y sus cuarenta basas de plata; dos basas debajo de cada tabla, y dos basas debajo de la otra tabla.
+
+**22-25** Y para el lado posterior del tabernáculo, al occidente, harás seis tablas. Harás además dos tablas para las esquinas del tabernáculo en los dos ángulos posteriores; las cuales se unirán desde abajo, y asimismo se juntarán por su alto a un gozne; así será para las dos, que serán para las dos esquinas. Serán, pues, ocho tablas, con sus basas de plata, dieciséis basas; dos basas debajo de cada tabla.
+
+**26-30** Harás también cinco barras de madera de acacia, para las tablas de un lado del tabernáculo, y otras cinco barras para las tablas del otro lado, y cinco barras para las tablas del lado posterior del tabernáculo, hacia el occidente. Y la barra de en medio pasará por en medio de las tablas, de un extremo al otro. Y cubrirás las tablas de oro, y harás sus anillos de oro para meter por ellos las barras; también cubrirás las barras de oro. Y levantarás el tabernáculo conforme a su diseño que te fue mostrado en el monte.
+
+**31-33** Y harás también un velo de azul, púrpura, carmesí y lino torcido; será hecho de obra primorosa, con querubines. Y lo pondrás sobre cuatro columnas de madera de acacia cubiertas de oro; sus capiteles de oro, sobre basas de plata. Y pondrás el velo debajo de los corchetes, y meterás allí, del velo adentro, el arca del testimonio; y aquel velo os hará separación entre el lugar santo y el santísimo¹¹⁸.
+
+**34-37** Y pondrás el propiciatorio sobre el arca del testimonio en el lugar santísimo. Y pondrás la mesa fuera del velo, y el candelero enfrente de la mesa al lado sur del tabernáculo; y pondrás la mesa al lado norte. Y harás para la puerta del tabernáculo una cortina de azul, púrpura, carmesí y lino torcido, obra de recamador. Y harás para la cortina cinco columnas de madera de acacia, las cuales cubrirás de oro, con sus capiteles de oro; y fundirás para ellas cinco basas de bronce.
+
+## Éxodo 27
+
+**1-3** Harás también un altar de madera de acacia, de cinco codos de longitud y de cinco codos de anchura; será cuadrado el altar, y su altura de tres codos. Y le harás cuernos¹¹⁹ en sus cuatro esquinas; los cuernos serán de la misma pieza, y lo cubrirás de bronce. Harás también sus calderos para recoger la ceniza, y sus paletas, sus tazones, sus garfios y sus braseros; todos sus utensilios harás de bronce.
+
+**4-8** Y le harás un enrejado de bronce en forma de red, y sobre la red harás cuatro anillos de bronce a sus cuatro esquinas. Y la pondrás dentro del cerco del altar hacia abajo; y llegará la red hasta el medio del altar. Harás también varas para el altar, varas de madera de acacia, las cuales cubrirás de bronce. Y las varas se meterán por los anillos, y estarán aquellas varas a ambos lados del altar cuando sea llevado. Lo harás hueco, de tablas; de la manera que te fue mostrado en el monte, así lo harás.
+
+**9-12** Asimismo harás el atrio del tabernáculo. Al lado sur del mediodía, cortinas de lino torcido tendrá el atrio, de cien codos de longitud para un lado. Sus veinte columnas y sus veinte basas serán de bronce; los capiteles de las columnas y sus molduras, de plata. De la misma manera al lado norte, en su longitud, habrá cortinas de cien codos de longitud, y sus veinte columnas con sus veinte basas de bronce; los capiteles de las columnas y sus molduras, de plata. Y en el ancho del atrio, por el lado occidental, cortinas de cincuenta codos; sus columnas diez, con sus diez basas.
+
+**13-16** Y en el ancho del atrio por el lado oriental, al levante, habrá cincuenta codos. Y las cortinas a un lado de la entrada serán de quince codos; sus columnas tres, con sus tres basas. Y al otro lado, quince codos de cortinas; sus columnas tres, con sus tres basas. Y para la puerta del atrio habrá una cortina de veinte codos, de azul, púrpura, carmesí y lino torcido, obra de recamador; sus columnas cuatro, con sus cuatro basas.
+
+**17-19** Todas las columnas alrededor del atrio estarán ceñidas de plata; sus capiteles de plata, mas sus basas de bronce. La longitud del atrio será de cien codos, y la anchura cincuenta por cada lado, y la altura de cinco codos; sus cortinas de lino torcido, y sus basas de bronce. Todos los utensilios del tabernáculo en todo su servicio, y todas sus estacas, y todas las estacas del atrio, serán de bronce.
+
+**20-21** Y mandarás a los hijos de Israel que te traigan aceite puro de olivas, machacadas, para el alumbrado, para hacer arder continuamente las lámparas¹²⁰. En el tabernáculo de reunión, afuera del velo que está delante del testimonio, las pondrá en orden Aarón y sus hijos, delante de YHWH, desde la tarde hasta la mañana, como estatuto perpetuo por sus generaciones, a cargo de los hijos de Israel.
+
+## Éxodo 28
+
+**1-3** Y tú acerca a ti a Aarón tu hermano, y a sus hijos con él, de entre los hijos de Israel, para que sean mis sacerdotes: Aarón, Nadab y Abihú, Eleazar e Itamar, hijos de Aarón. Y harás vestiduras sagradas a Aarón tu hermano, para honra y hermosura¹²¹. Y hablarás a todos los sabios de corazón, a quienes yo he llenado de espíritu de sabiduría, para que hagan las vestiduras de Aarón, para consagrarlo, para que sea mi sacerdote.
+
+**4-5** Estas serán las vestiduras que harán: el pectoral, el efod, el manto, la túnica bordada, la mitra y el cinturón. Hagan, pues, las vestiduras sagradas para Aarón tu hermano y para sus hijos, para que sean mis sacerdotes. Tomarán oro, azul, púrpura, carmesí y lino torcido.
+
+**6-8** Y harán el efod de oro, azul, púrpura, carmesí y lino torcido, de obra primorosa. Tendrá dos hombreras que se junten a sus dos extremos, y así se unirá. Y su cinto de obra primorosa que estará sobre él, será de su misma hechura y de lo mismo: de oro, azul, púrpura, carmesí y lino torcido.
+
+**9-12** Y tomarás dos piedras de ónice, y grabarás en ellas los nombres de los hijos de Israel; seis de sus nombres en una piedra, y los otros seis en la otra piedra, conforme al orden de su nacimiento. De obra de grabador en piedra, como grabaduras de sello, harás grabar las dos piedras con los nombres de los hijos de Israel; las harás engastadas en engastes de oro. Y pondrás las dos piedras sobre las hombreras del efod, como piedras memoriales¹²² para los hijos de Israel; y llevará Aarón los nombres de ellos sobre sus dos hombros delante de YHWH, para memoria.
+
+**13-14** Harás, pues, los engastes de oro, y dos cadenillas de oro fino que harás en forma de trenza, y fijarás las cadenillas de forma de trenza en los engastes.
+
+**15** Harás asimismo el pectoral del juicio de obra primorosa, lo harás conforme a la obra del efod: de oro, azul, púrpura, carmesí y lino torcido lo harás.
+
+**16-20** Será cuadrado y doble, de un palmo su longitud, y de un palmo su anchura. Y lo llenarás de pedrería con cuatro hileras de piedras: una hilera de una piedra sárdica, un topacio y un carbunclo; la segunda hilera, una esmeralda, un zafiro y un diamante; la tercera hilera, un jacinto, una ágata y una amatista; y la cuarta hilera, un berilo, un ónice y un jaspe; todas estarán montadas en engastes de oro.
+
+**21-24** Y las piedras serán según los nombres de los hijos de Israel, doce según sus nombres; como grabaduras de sello, cada una con su nombre, según las doce tribus. Harás también en el pectoral cadenillas iguales, de hechura de trenzas, de oro puro. Y harás en el pectoral dos anillos de oro, los cuales pondrás a los dos extremos del pectoral. Luego pondrás las dos cadenillas de oro en los dos anillos a los extremos del pectoral.
+
+**25-28** Y los dos extremos de las dos cadenillas los fijarás en los dos engastes, que los pondrás en las hombreras del efod en su parte delantera. Harás también dos anillos de oro, los cuales pondrás en los dos extremos del pectoral, en su orilla que está al lado del efod hacia dentro. Harás asimismo dos anillos de oro, los cuales pondrás en las dos hombreras del efod, abajo en la parte delantera, delante de su juntura sobre el cinto del efod. Y juntarán el pectoral por sus anillos a los anillos del efod con un cordón de azul, para que esté sobre el cinto del efod y no se separe el pectoral del efod.
+
+**29-30** Y llevará Aarón los nombres de los hijos de Israel en el pectoral del juicio sobre su corazón, cuando entre en el santuario, para memoria delante de YHWH continuamente. Y pondrás en el pectoral del juicio Urim y Tumim¹²³, para que estén sobre el corazón de Aarón cuando entre delante de YHWH; y llevará siempre Aarón el juicio de los hijos de Israel sobre su corazón delante de YHWH.
+
+**31-32** Harás el manto del efod todo de azul; y en medio de él por arriba habrá una abertura, la cual tendrá un borde alrededor de obra tejida, como el cuello de un coselete, para que no se rompa.
+
+**33-35** Y en sus orlas harás granadas de azul, púrpura y carmesí, alrededor de sus orlas, y entre ellas campanillas de oro alrededor. Una campanilla de oro y una granada, otra campanilla de oro y otra granada, así alrededor en las orlas del manto. Y estará sobre Aarón cuando ministre; y se oirá su sonido cuando él entre en el santuario delante de YHWH, y cuando salga, para que no muera¹²⁴.
+
+**36-38** Harás además una lámina de oro puro, y grabarás en ella como grabadura de sello: Consagrado a YHWH. Y la pondrás con un cordón de azul, y estará sobre la mitra; por la parte delantera de la mitra estará. Y estará sobre la frente de Aarón, y llevará Aarón el pecado de las cosas consagradas que los hijos de Israel hubieren consagrado en todas sus santas ofrendas¹²⁵; y sobre su frente estará continuamente, para que obtengan gracia delante de YHWH.
+
+**39-40** Y bordarás una túnica de lino, y harás una mitra de lino; harás también un cinturón de obra de recamador. Y para los hijos de Aarón harás túnicas; también les harás cinturones, y les harás tiaras para honra y hermosura.
+
+**41-43** Y con ellas vestirás a Aarón tu hermano, y a sus hijos con él; y los ungirás, y los consagrarás, y los santificarás, para que sean mis sacerdotes. Y les harás calzoncillos de lino para cubrir su desnudez; serán desde los lomos hasta los muslos¹²⁶. Y estarán sobre Aarón y sobre sus hijos cuando entren en el tabernáculo de reunión, o cuando se acerquen al altar para servir en el santuario, para que no lleven pecado y mueran. Estatuto perpetuo para él, y para su descendencia después de él.
+
+## Éxodo 29
+
+**1-3** Esto es lo que les harás para consagrarlos, para que sean mis sacerdotes: toma un novillo y dos carneros sin defecto, y panes sin levadura, y tortas sin levadura amasadas con aceite, y hojaldres sin levadura untadas con aceite; las harás de flor de harina de trigo. Y las pondrás en un canastillo, y las ofrecerás en el canastillo, con el novillo y los dos carneros.
+
+**4-9** Y llevarás a Aarón y a sus hijos a la puerta del tabernáculo de reunión, y los lavarás con agua. Y tomarás las vestiduras, y vestirás a Aarón la túnica, el manto del efod, el efod mismo y el pectoral, y le ceñirás con el cinto del efod. Y pondrás la mitra sobre su cabeza, y sobre la mitra pondrás la diadema santa. Y tomarás el aceite de la unción, y lo derramarás sobre su cabeza, y lo ungirás. Y harás llegar a sus hijos, y les vestirás las túnicas. Y les ceñirás el cinturón a Aarón y a sus hijos, y les atarás las tiaras, y tendrán el sacerdocio por derecho perpetuo. Así consagrarás a Aarón y a sus hijos.
+
+**10-14** Y harás que se acerque el novillo delante del tabernáculo de reunión, y Aarón y sus hijos pondrán sus manos sobre la cabeza del novillo. Y matarás el novillo delante de YHWH, a la puerta del tabernáculo de reunión. Y tomarás de la sangre del novillo, y la pondrás sobre los cuernos del altar con tu dedo, y derramarás toda la demás sangre al pie del altar. Y tomarás toda la grosura que cubre los intestinos, y el redaño de sobre el hígado, y los dos riñones, y la grosura que está sobre ellos, y los quemarás sobre el altar. Mas la carne del novillo, su piel y su estiércol, los quemarás a fuego fuera del campamento; es ofrenda por el pecado.
+
+**15-18** Asimismo tomarás uno de los carneros, y Aarón y sus hijos pondrán sus manos sobre la cabeza del carnero. Y matarás el carnero, y recogerás su sangre, y la rociarás sobre el altar alrededor. Y cortarás el carnero en pedazos, y lavarás sus intestinos y sus piernas, y las pondrás sobre sus trozos y sobre su cabeza. Y quemarás todo el carnero sobre el altar; es holocausto de olor grato para YHWH, ofrenda encendida es a YHWH.
+
+**19-21** Tomarás luego el otro carnero, y Aarón y sus hijos pondrán sus manos sobre la cabeza del carnero. Y matarás el carnero, y tomarás de su sangre, y la pondrás sobre el lóbulo de la oreja derecha de Aarón, y sobre el lóbulo de la oreja derecha de sus hijos, y sobre el pulgar de sus manos derechas, y sobre el pulgar de sus pies derechos¹²⁷; y rociarás la sangre sobre el altar alrededor. Y tomarás de la sangre que está sobre el altar, y del aceite de la unción, y rociarás sobre Aarón y sobre sus vestiduras, y sobre sus hijos y sobre las vestiduras de sus hijos con él; y él será santificado, y sus vestiduras, y sus hijos, y las vestiduras de sus hijos con él.
+
+**22-25** Después tomarás del carnero la grosura, y la cola, y la grosura que cubre los intestinos, y el redaño del hígado, y los dos riñones, y la grosura que está sobre ellos, y la espaldilla derecha, porque es carnero de consagración; y una torta grande de pan, y una torta de pan de aceite, y una hojaldre del canastillo de los panes sin levadura que está delante de YHWH; y lo pondrás todo en las manos de Aarón y en las manos de sus hijos, y lo mecerás como ofrenda mecida delante de YHWH. Después lo tomarás de sus manos, y lo quemarás en el altar sobre el holocausto, por olor grato delante de YHWH; es ofrenda encendida a YHWH.
+
+**26-28** Y tomarás el pecho del carnero de las consagraciones que es de Aarón, y lo mecerás por ofrenda mecida delante de YHWH; y será porción tuya. Y consagrarás el pecho mecido, y la espaldilla elevada en ofrenda, aquello con que fue mecido y aquello con que fue elevado, del carnero de las consagraciones, de lo que es de Aarón y de sus hijos. Y será para Aarón y para sus hijos por derecho perpetuo de los hijos de Israel, porque es ofrenda alzada; y será ofrenda alzada de los hijos de Israel, de sus sacrificios de paz, ofrenda de ellos alzada a YHWH.
+
+**29-32** Y las vestiduras santas, que son de Aarón, serán de sus hijos después de él, para ser ungidos con ellas, y para ser con ellas consagrados. Por siete días las vestirá el sacerdote que en su lugar fuere de sus hijos, cuando entrare en el tabernáculo de reunión para servir en el santuario. Y tomarás el carnero de las consagraciones, y cocerás su carne en lugar santo. Y Aarón y sus hijos comerán la carne del carnero, y el pan que está en el canastillo, a la puerta del tabernáculo de reunión.
+
+**33-35** Y comerán aquellas cosas con las cuales se hizo expiación, para consagrarlos y santificarlos; mas el extraño no comerá de ellas, porque son sagradas. Y si sobrare algo de la carne de las consagraciones y del pan hasta la mañana, quemarás al fuego lo que hubiere sobrado; no se comerá, porque es cosa sagrada. Así, pues, harás a Aarón y a sus hijos, conforme a todo lo que yo te he mandado; por siete días los consagrarás.
+
+**36-37** Cada día ofrecerás el novillo del sacrificio por el pecado, para las expiaciones; y purificarás el altar cuando hagas expiación por él, y lo ungirás para santificarlo. Por siete días harás expiación por el altar, y lo santificarás, y será un altar santísimo; cualquiera cosa que tocare el altar, será santificada.
+
+**38-41** Esto es lo que ofrecerás sobre el altar¹²⁸: dos corderos de un año, cada día, continuamente. Ofrecerás el un cordero por la mañana, y el otro cordero ofrecerás a la caída de la tarde; además, una décima parte de un efa de flor de harina amasada con una cuarta parte de un hin de aceite de olivas machacadas, y para la libación, la cuarta parte de un hin de vino, para cada cordero. Y ofrecerás el otro cordero a la caída de la tarde, haciendo conforme a la ofrenda de la mañana, y conforme a su libación, en olor grato; ofrenda encendida a YHWH.
+
+**42-43** Esto será el holocausto continuo por vuestras generaciones, a la puerta del tabernáculo de reunión delante de YHWH, en el cual me reuniré con vosotros, para hablaros allí. Allí me reuniré con los hijos de Israel; y el lugar será santificado con mi gloria.
+
+**44-46** Y santificaré el tabernáculo de reunión y el altar; santificaré asimismo a Aarón y a sus hijos, para que sean mis sacerdotes. Y habitaré entre los hijos de Israel, y seré su Elohim. Y conocerán que yo soy YHWH su Elohim, que los saqué de la tierra de Egipto, para habitar en medio de ellos¹²⁹. Yo soy YHWH su Elohim.
+
+## Éxodo 30
+
+**1-3** Harás asimismo un altar para quemar el incienso; de madera de acacia lo harás. Su longitud de un codo, y su anchura de un codo; será cuadrado; y su altura de dos codos; y sus cuernos serán parte del mismo. Y lo cubrirás de oro puro, su techado, sus paredes en derredor y sus cuernos; y le harás una cornisa de oro alrededor.
+
+**4-6** Le harás también dos anillos de oro debajo de la cornisa, en las dos esquinas a ambos lados, para meter las varas con que será conducido. Harás las varas de madera de acacia, y las cubrirás de oro. Y lo pondrás delante del velo que está junto al arca del testimonio, delante del propiciatorio que está sobre el testimonio, donde me encontraré contigo.
+
+**7-9** Y Aarón quemará incienso aromático sobre él; cada mañana cuando componga las lámparas lo quemará. Y cuando Aarón encienda las lámparas al caer la tarde, quemará el incienso; rito perpetuo delante de YHWH por vuestras generaciones. No ofreceréis sobre él incienso extraño, ni holocausto, ni ofrenda; ni tampoco derramaréis sobre él libación.
+
+**10** Y sobre sus cuernos hará Aarón expiación una vez en el año con la sangre del sacrificio por el pecado para las expiaciones; una vez en el año hará expiación sobre él por vuestras generaciones; será muy santo a YHWH.
+
+**11-13** Habló también YHWH a Moshé, diciendo: cuando tomes el número de los hijos de Israel conforme a la cuenta de ellos, cada uno dará a YHWH el rescate de su vida cuando los contares, para que no haya en ellos mortandad al contarlos. Esto dará todo aquel que sea contado, del número: medio siclo, conforme al siclo del santuario, el cual siclo es de veinte geras; la mitad de un siclo será la ofrenda a YHWH¹³⁰.
+
+**14-16** Todo el que sea contado, de veinte años arriba, dará la ofrenda a YHWH. Ni el rico aumentará, ni el pobre disminuirá del medio siclo, cuando dieren la ofrenda a YHWH para hacer expiación por vuestras personas. Y tomarás de los hijos de Israel el dinero de las expiaciones, y lo darás para el servicio del tabernáculo de reunión; y será por memorial a los hijos de Israel delante de YHWH, para hacer expiación por vuestras personas.
+
+**17-21** Habló más YHWH a Moshé, diciendo: harás también una fuente de bronce, con su base de bronce, para lavar; y la pondrás entre el tabernáculo de reunión y el altar, y pondrás en ella agua. Y de ella se lavarán Aarón y sus hijos las manos y los pies. Cuando entren en el tabernáculo de reunión, se lavarán con agua, para que no mueran; y cuando se acerquen al altar para ministrar, para quemar la ofrenda encendida para YHWH, también se lavarán las manos y los pies, para que no mueran. Y lo tendrán por estatuto perpetuo él y su descendencia por sus generaciones.
+
+**22-25** Habló más YHWH a Moshé, diciendo: toma especias finas, de mirra excelente quinientos siclos, y de canela aromática la mitad, esto es, doscientos cincuenta, de cálamo aromático doscientos cincuenta, y de casia quinientos, según el siclo del santuario, y de aceite de olivas un hin. Y harás de ello el aceite de la santa unción, superior ungüento, según arte de perfumador, el cual será el aceite de la unción santa.
+
+**26-29** Con él ungirás el tabernáculo de reunión, el arca del testimonio, la mesa con todos sus utensilios, el candelero con todos sus utensilios, el altar del incienso, el altar del holocausto con todos sus utensilios, y la fuente con su base. Así los consagrarás, y serán cosas santísimas; todo lo que tocare en ellos, será santificado.
+
+**30-33** Ungirás también a Aarón y a sus hijos, y los consagrarás para que sean mis sacerdotes. Y hablarás a los hijos de Israel, diciendo: este será mi aceite de la santa unción por vuestras generaciones. Sobre carne de hombre no será derramado, ni haréis otro semejante, conforme a su composición; santo es, y por santo lo tendréis vosotros. Cualquiera que compusiere ungüento semejante, y que pusiere de él sobre extraño, será cortado de su pueblo.
+
+**34-36** Dijo aún YHWH a Moshé: toma especias aromáticas, estacte y uña aromática y gálbano aromático e incienso puro; de todo en igual peso. Y harás de ello el incienso, un perfume según el arte del perfumador, bien mezclado, puro y santo. Y molerás parte de él en polvo fino, y lo pondrás delante del testimonio en el tabernáculo de reunión, donde yo me mostraré a ti; os será cosa santísima.
+
+**37-38** Como este incienso que harás, no os haréis otro según su composición; te será cosa sagrada para YHWH¹³¹. Cualquiera que hiciere otro como él para olerlo, será cortado de su pueblo.
+
+## Éxodo 31
+
+**1-6** Habló YHWH a Moshé, diciendo: mira, yo he llamado por nombre a Bezalel hijo de Uri, hijo de Hur, de la tribu de Judá; y lo he llenado del Espíritu de Elohim, en sabiduría, en inteligencia, en ciencia y en todo arte, para proyectar diseños, para trabajar en oro, en plata y en bronce, y en talla de piedras de engaste, y en obra de madera, para trabajar en toda clase de labor¹³². Y he aquí que yo he puesto con él a Aholiab hijo de Ahisamac, de la tribu de Dan; y he puesto sabiduría en el corazón de todo sabio de corazón, para que hagan todo lo que te he mandado.
+
+**7-11** El tabernáculo de reunión, el arca del testimonio, el propiciatorio que está sobre ella, todos los enseres del tabernáculo; también la mesa y sus enseres, el candelero limpio y todos sus enseres, el altar del incienso, el altar del holocausto y todos sus enseres, la fuente y su base, las vestiduras del servicio, las vestiduras santas para Aarón el sacerdote, las vestiduras de sus hijos para que ejerzan el sacerdocio, el aceite de la unción, y el incienso aromático para el santuario; harán conforme a todo lo que te he mandado.
+
+**12-14** Habló además YHWH a Moshé, diciendo: y tú hablarás a los hijos de Israel, diciendo: en verdad vosotros guardaréis mis sábados; porque es señal entre mí y vosotros por vuestras generaciones, para que sepáis que yo soy YHWH que os santifico¹³³. Así que guardaréis el sábado, porque santo es a vosotros; el que lo profanare, de cierto morirá; porque cualquiera que hiciere obra alguna en él, esa persona será cortada de en medio de su pueblo.
+
+**15-17** Seis días se trabajará, mas el día séptimo es día de reposo consagrado a YHWH; cualquiera que trabajare en el día de reposo, morirá ciertamente. Guardarán, pues, el sábado los hijos de Israel; celebrándolo por sus generaciones por pacto perpetuo. Es señal para siempre entre mí y los hijos de Israel; porque en seis días hizo YHWH los cielos y la tierra, y en el séptimo día cesó y reposó.
+
+**18** Y dio a Moshé, cuando acabó de hablar con él en el monte de Sinaí, dos tablas del testimonio, tablas de piedra escritas con el dedo de Elohim¹³⁴.
+
 ---
 ---
 
@@ -897,6 +1061,50 @@
 **111 — sefer habrit... dam habrit / el libro del pacto... la sangre del pacto (24:4-8).** Primera vez que el corpus nombra explícitamente un "libro" que contiene "todas las palabras de YHWH" ya puesto por escrito y leído en voz alta al pueblo — y primera vez que un pacto se sella derramando sangre sobre el altar y sobre el pueblo por partes iguales, no solo sobre uno de los dos lados del acuerdo. E1.
 
 **112 — vayechezu et ha'Elohim vayochlu vayishtu / vieron a Elohim, y comieron y bebieron (24:9-11).** Escena de tensión real dentro del propio corpus: setenta ancianos, Moshé y Aarón ven directamente a "el Elohim de Israel" con descripción física concreta (un pavimento de zafiro bajo sus pies) y sobreviven, comiendo y bebiendo con normalidad — en contraste con la premisa que en otros pasajes del Tanaj sostiene que ver el rostro de la divinidad implica la muerte. El propio texto no reconcilia las dos ideas en el mismo lugar. E1 el dato textual; E3 cómo se concilia esta escena con la premisa contraria sostenida en otros pasajes, tensión real dentro del corpus bíblico más amplio.
+
+**113 — ve'asu li miqdash veshachanti betocham / me harán un santuario, y habitaré en medio de ellos (25:8).** El propio versículo no dice "habitaré en él" (el edificio), dice "habitaré entre ellos" (el pueblo) — el santuario es ocasión de una presencia que se aloja en la comunidad, no en la arquitectura misma. E1, dato gramatical (el pronombre plural remite a personas, no al singular del edificio).
+
+**114 — tavnit hamishkan / el diseño del tabernáculo (25:9).** Moshé no diseña el santuario: se le muestra un "modelo/diseño" (*tavnit*) que debe reproducir con exactitud — el mismo verbo de "mostrar" se repite varias veces en estos capítulos (25:40, 26:30, 27:8) como recordatorio de que la construcción sigue un patrón ya dado, no una invención humana. E1.
+
+**115 — kaporet / propiciatorio (25:17).** Misma raíz que el verbo *kipper* ("expiar/cubrir"), la que da también la palabra *Yom Kipur* — la pieza que cubre el arca lleva, en su propio nombre, la función que allí se ejerce: cubrir/expiar. E1.
+
+**116 — keruvim / querubines (25:18-20).** Mismas figuras guardianas ya mencionadas en Génesis 3:24, custodiando la entrada al Edén tras la expulsión — acá no custodian una salida sino que enmarcan el lugar exacto de encuentro entre YHWH y Moshé, con las alas extendidas sobre el propiciatorio. E1 el dato léxico compartido; D1 la lectura del contraste entre custodiar una puerta cerrada y enmarcar un punto de encuentro abierto.
+
+**117 — lechem panim / pan de la presencia (25:30).** Literalmente "pan del rostro" — doce panes puestos permanentemente sobre la mesa, delante de YHWH. Primera aparición de esta ofrenda alimentaria continua, distinta de los sacrificios de sangre. E1.
+
+**118 — bein haqodesh uvein qodesh haqodashim / entre el lugar santo y el santísimo (26:33).** El velo (*parochet*) no separa lo sagrado de lo profano — separa dos grados distintos dentro de lo mismo sagrado. La santidad, en el diseño del tabernáculo, no es binaria sino graduada en el espacio. E1, dato estructural del propio diseño.
+
+**119 — qarnotav / sus cuernos (27:2).** Primera aparición de los "cuernos del altar" — proyecciones en las cuatro esquinas que reciben la sangre del sacrificio (cf. 29:12) y que, en otros libros del Tanaj, funcionarán como lugar de asilo para quien se aferre a ellos. E1.
+
+**120 — ner tamid / para hacer arder continuamente las lámparas (27:20-21).** Primera mención del régimen de luz perpetua a cargo de Aarón y sus hijos, "de la tarde hasta la mañana" — ritmo continuo que se suma al del pan de la presencia (nota 117) como servicio ininterrumpido del santuario. E1.
+
+**121 — lechavod uletif'eret / para honra y hermosura (28:2).** La belleza de las vestiduras sacerdotales se manda explícitamente, con esta frase, como parte del propósito ritual — no es adorno incidental, es mandato con la misma autoridad que las medidas y los materiales. E1.
+
+**122 — avnei zikaron / piedras memoriales (28:9-12).** Los nombres de las doce tribus, grabados en dos piedras sobre los hombros del efod, convierten a Aarón en portador físico de la identidad colectiva de Israel cada vez que entra al servicio — la memoria del pueblo entero descansa, literalmente, sobre su cuerpo. E1.
+
+**123 — Urim veTumim (28:30).** Objeto ritual de función exacta desconocida, colocado dentro del pectoral del juicio — se usaba de algún modo para obtener decisiones o respuestas divinas (cf. su uso narrado en libros posteriores del Tanaj, fuera de este corpus), pero ni su forma física, ni el mecanismo preciso de consulta, están descritos en ningún lugar de la Torá. Es uno de los objetos más discutidos de todo el culto israelita antiguo. E1 el dato de su existencia y ubicación; E3 su forma y funcionamiento exactos, disputa académica real y no resuelta por falta de datos.
+
+**124 — velo yamut / para que no muera (28:33-35).** El sonido de las campanillas en el borde del manto, al entrar y salir Aarón del santuario, tiene una función declarada: evitar su muerte. El texto no explica el mecanismo, pero deja clara la gravedad del acceso al espacio sagrado sin el protocolo correcto. E1.
+
+**125 — venasa Aharon et avon haqodashim / llevará Aarón el pecado de las cosas consagradas (28:36-38).** La lámina frontal con la inscripción "Consagrado a YHWH" no es solo insignia: el propio texto le atribuye una función activa, cargar con la culpa que pudiera adherirse a las ofrendas del pueblo, para que estas sean aceptadas. El sacerdote, mediante una pieza de su vestimenta, ejerce una función mediadora concreta. E1.
+
+**126 — mijnesei vad lechasot besar ervah / calzoncillos de lino para cubrir su desnudez (28:42).** Mismo tipo de preocupación por la desnudez ritual ya visto en la ley del altar sin gradas (nota 94, 20:26) — acá aplicada directamente a la vestimenta sacerdotal, no a la arquitectura. E1.
+
+**127 — tenuch ozen... bohen yadam... bohen raglam / lóbulo de la oreja... pulgar de la mano... pulgar del pie (29:20).** Rito de consagración que unge tres puntos extremos del cuerpo del sacerdote (oído, mano, pie) con la sangre del sacrificio — gesto que algunos comentaristas leen como consagración de la totalidad del cuerpo activo (lo que se oye, lo que se hace, adónde se va) a través de sus puntos más periféricos. E1 el dato ritual; D1 la lectura simbólica de la elección de esos tres puntos.
+
+**128 — olat tamid / el holocausto continuo (29:38-42).** Primera institución del sacrificio diario fijo, mañana y tarde, que se convertirá en el ritmo base de todo el culto del tabernáculo — no depende de ninguna ofrenda voluntaria ni ocasión especial, es obligación continua "por vuestras generaciones". E1.
+
+**129 — veshachanti betoch bnei Yisrael / habitaré entre los hijos de Israel (29:45-46).** Cierre explícito del arco abierto en 25:8 (nota 113): todo el diseño y la consagración del tabernáculo, del altar y de los sacerdotes tiene como única finalidad declarada esta frase, que además retoma casi palabra por palabra la promesa ya dada en 6:7 ("os tomaré por mi pueblo, y seré vuestro Elohim"). E1, dato estructural que enlaza tres momentos distintos del libro.
+
+**130 — kofer nafsho / rescate de su vida (30:12-15).** El censo de Israel no puede hacerse sin que cada persona pague un rescate simbólico — contar personas, en este sistema, es un acto que requiere compensación ritual para no generar plaga. El monto es fijo e igual para todos: "ni el rico aumentará, ni el pobre disminuirá" — única tasa del corpus explícitamente diseñada para no variar según la riqueza de quien la paga. E1.
+
+**131 — qetoret hasamim / el incienso aromático (30:34-38).** Fórmula de incienso reservada exclusivamente para el culto, con la misma pena de *karet* ("cortado de su pueblo") ya establecida para el aceite de unción no autorizado (30:33) y para la transgresión del shabbat (Éxodo 31:14) — reutilizar una fórmula sagrada para uso privado o personal se castiga con la misma severidad que otras transgresiones rituales graves. E1.
+
+**132 — ruach Elohim... bechochmah uvitvunah uvda'at / espíritu de Elohim... en sabiduría, inteligencia y ciencia (31:1-6).** Betzalel es el primer artesano nombrado del corpus, y su capacidad técnica concreta —trabajar metales, piedras, madera— se describe explícitamente como resultado de estar "lleno del espíritu de Elohim", no como talento natural o aprendizaje humano. El oficio manual recibe acá el mismo tipo de descripción que en otros lugares se reserva para la profecía o el liderazgo. E1.
+
+**133 — ot hi beini uvein bnei Yisrael... berit olam / señal es entre mí y los hijos de Israel... pacto perpetuo (31:13-17).** El shabbat se declara "señal" del pacto y "pacto perpetuo" en sí mismo — mismo fundamento en la creación ya citado en 20:11 (cf. Génesis 2:2-3), repetido acá con la fórmula adicional de "señal para siempre", como cierre del bloque completo de instrucciones del tabernáculo antes de la entrega de las tablas. E1.
+
+**134 — ketuvim be'etzba Elohim / escritas con el dedo de Elohim (31:18).** Misma expresión, "dedo de Elohim", que los hechiceros egipcios usaron para nombrar la plaga de los piojos que no pudieron replicar (cf. 8:15) — acá aplicada, sin ironía, a la autoría directa de las tablas de piedra. El mismo giro idiomático nombra, en dos contextos completamente distintos, una acción que escapa a la capacidad humana. E1.
 
 ---
 ---
