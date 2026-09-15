@@ -1,4 +1,4 @@
-# Coding the Bible — Rollos del Mar Muerto (1QIsaa, Isaías 1 a 14)
+# Coding the Bible — Rollos del Mar Muerto (1QIsaa, Isaías 1 a 20)
 
 ### Lectura DIMA — decodificación integral desde el hebreo/arameo original
 
@@ -390,6 +390,112 @@ A diferencia de Génesis y Éxodo, acá el texto es fragmentario y el hallazgo c
 
 **32** ¿Qué se responderá a los mensajeros de esa nación? Que YHWH fundó a Sión, y que a ella se acogerán los afligidos de su pueblo.
 
+## 1QIsaa · Isaías 15
+
+**1** Profecía sobre Moab. Ciertamente en una noche fue destruida Ar de Moab, fue puesta en silencio; ciertamente en una noche fue destruida Kir de Moab, fue puesta en silencio.
+
+**2-3** Subió a Bayit y a Divón, a los lugares altos, a llorar; sobre Nevo y sobre Medevá aullará Moab; toda cabeza de ella será rapada, y toda barba rasurada. En sus calles se ceñirán de cilicio; en sus terrados y en sus plazas aullarán todos, deshaciéndose en llanto.
+
+**4-5** Y clamará Heshbón y Elale; hasta Yahatz se oirá su voz; por lo cual los guerreros de Moab gritarán, y su alma temblará dentro de él. Mi corazón dará gritos por Moab; sus fugitivos huirán hasta Tzoar, como novilla de tres años; porque subirán llorando por la cuesta de Luhit, y levantarán grito de quebrantamiento por el camino de Joronaim.
+
+**6** Porque las aguas de Nimrim serán consumidas, y se secará la hierba, se marchitará la grama, no habrá verdor.
+
+**7-8** Por tanto, las riquezas que habrán adquirido, y las que hubieren atesorado, las llevarán al torrente de los sauces. Porque el llanto rodeó los límites de Moab; hasta Eglaim llegó su alarido, y hasta Beer-elim su clamor.
+
+**9** Y las aguas de Dimón se llenarán de sangre; porque yo traeré sobre Dimón nuevos males: un león³⁰ para los que escaparon de Moab, y para el remanente de la tierra.
+
+## 1QIsaa · Isaías 16
+
+**1-2** Enviad cordero al señor de la tierra, desde Sela por el desierto, al monte de la hija de Sión. Y como ave espantada que huye de su nido, así serán las hijas de Moab en los vados del Arnón.
+
+**3-4** Reúne consejo, ejecuta juicio; pon tu sombra en medio del día como la noche; esconde a los desterrados, no descubras al que anda errante. Moren contigo mis desterrados, oh Moab; sé para ellos escondedero de la presencia del destructor; porque el atormentador fenecerá, el destructor tendrá fin, el pisoteador será consumido de sobre la tierra.
+
+**5** Y se dispondrá el trono en misericordia; y sobre él se sentará firmemente, en el tabernáculo de David, quien juzgue y busque el juicio, y apresure la justicia.
+
+**6** Hemos oído la soberbia de Moab, por extremo soberbia; su arrogancia, y su soberbia, y su altivez; por tanto³¹, sus mentiras no serán firmes.
+
+**7** Por tanto aullará Moab, todo él aullará; gemiréis por los fundamentos de Kir-hareset, en gran manera afligidos.
+
+**8-9** Porque los campos de Heshbón languidecieron, la vid de Sibmá³²; te riego con mi llanto, oh Heshbón y Elale, porque sobre tu cosecha y sobre tu siega cayó el grito de guerra.
+
+**10-11** Y será quitada la alegría y el regocijo del campo fértil; en las viñas no cantarán, ni gritarán de júbilo; no pisará vino en los lagares el pisador; he hecho cesar el grito de vendimia. Por tanto, mis entrañas sonarán por Moab como arpa, y mi interior por Kir-heres.
+
+**12** Y acontecerá que cuando se vea que Moab viene³³ al lugar alto, a orar en su santuario, no le valdrá.
+
+**13-14** Esta es la palabra que YHWH habló sobre Moab desde aquel tiempo. Pero ahora habla YHWH, diciendo: dentro de tres años, como los años de un jornalero, será abatida la gloria de Moab, con toda su gran multitud; y los que quedaren serán pocos, pequeños, y no muchos.
+
+## 1QIsaa · Isaías 17
+
+**1-2** Profecía sobre Damasco. He aquí que Damasco dejará de ser ciudad, y será montón de ruinas. Las ciudades de Aroer están desamparadas, para los rebaños serán, los cuales se recostarán, y no habrá quien los espante.
+
+**3** Y cesará el socorro de Efraín, y el reino de Damasco; y lo que quedare de Aram será como la gloria de los hijos de Israel, dice YHWH de los ejércitos.
+
+**4-5** Y en aquel tiempo la gloria de Yaakov se atenuará, y enflaquecerá la grosura de su carne. Y será como cuando el segador recoge la mies, y con su brazo siega las espigas; será también como el que recoge espigas en el valle de Refaím.
+
+**6-7** Y quedarán en él rebuscos, como cuando sacuden el olivo: dos o tres frutos en la punta del ramo, cuatro o cinco en sus ramas más fructíferas, dice YHWH Elohim de Israel. En aquel día mirará el hombre a su Hacedor, y sus ojos contemplarán al Santo de Israel.
+
+**8-9** Y no mirará a los altares que hicieron sus manos, ni mirará a lo que hicieron sus dedos, ni a los símbolos de Asera, ni a las imágenes del sol. En aquel día las ciudades de su fortaleza serán como los lugares abandonados de bosques y de árboles, que fueron dejados a causa de los hijos de Israel; y habrá desolación.
+
+**10-11** Porque te olvidaste del Elohim de tu salvación, y no te acordaste de la roca de tu fortaleza; por tanto, sembrarás plantas hermosas, y plantarás sarmiento extraño. El día que las plantes, las harás crecer, y harás que tu semilla brote de mañana; mas la cosecha será arrebatada en el día de la angustia y del dolor desesperado.
+
+**12-13** ¡Ay! multitud de muchos pueblos que harán ruido como estruendo del mar, y murmullo de naciones que harán alboroto como bramido de muchas aguas. Los pueblos harán estrépito a manera de ruido de grandes aguas; mas Elohim los reprenderá, y huirán lejos; serán ahuyentados como el tamo de los montes delante del viento, y como el polvo delante del torbellino.
+
+**14** Al tiempo de la tarde, he aquí turbación; y antes de la mañana ya no es. Esta es la porción de los que nos aguardan, y la suerte de los que nos saquean.
+
+## 1QIsaa · Isaías 18
+
+**1-2** ¡Ay de la tierra que hace sombra con las alas, que está tras los ríos de Cus, que envía mensajeros por el mar, y en naves de junco sobre las aguas! Andad, mensajeros veloces, a la nación de elevada estatura y tez brillante, al pueblo temible desde su principio y después, gente fuerte y conquistadora, cuya tierra es surcada por ríos.
+
+**3** Vosotros, todos los moradores del mundo, y habitantes de la tierra, cuando se alce bandera en los montes, mirad; y cuando se toque trompeta, escuchad.
+
+**4-5** Porque YHWH me dijo así: me estaré quieto, y miraré desde mi morada, como sol claro después de la lluvia, como nube de rocío en el calor de la siega. Porque antes de la siega, cuando el fruto sea perfecto, y pasado el agraz, en flor, entonces podará con podaderas las ramitas, y cortará y quitará las ramas.
+
+**6** Y serán dejados todos para las aves de los montes, y para las bestias de la tierra; sobre ellos tendrán el verano las aves, e invernarán todas las bestias de la tierra.
+
+**7** En aquel tiempo será traída ofrenda a YHWH de los ejércitos, del pueblo de elevada estatura y tez brillante, del pueblo temible desde su principio y después, gente fuerte y conquistadora, cuya tierra es surcada por ríos, al lugar del nombre de YHWH de los ejércitos, al monte de Sión.
+
+## 1QIsaa · Isaías 19
+
+**1** Profecía sobre Egipto. He aquí que YHWH cabalga sobre una nube ligera, y vendrá a Egipto; y los ídolos de Egipto temblarán delante de él, y el corazón de los egipcios se desleirá en medio de ellos.
+
+**2-3** Y levantaré egipcios contra egipcios, y cada uno peleará contra su hermano, y cada uno contra su prójimo; ciudad contra ciudad, y reino contra reino. Y el espíritu de Egipto se desvanecerá en medio de él, y destruiré su consejo; y preguntarán a los ídolos, a los encantadores, a los evocadores de espíritus, y a los adivinos.
+
+**4** Y entregaré a los egipcios en manos de señor duro, y rey violento se enseñoreará de ellos, dice el Señor, YHWH de los ejércitos.
+
+**5-6** Y las aguas del mar faltarán, y el río se agotará y secará. Y se alejarán los ríos, mermarán y se secarán las acequias de Egipto; la caña y el junco serán cortados.
+
+**7-8** Las plantas junto al río, junto a la ribera del río, y todo sembrado del río, se secarán, serán aventados, y no serán más. Los pescadores también se entristecerán; harán duelo todos los que echan anzuelo en el río, y desfallecerán los que extienden red sobre las aguas.
+
+**9-10** Los que labran lino fino y los que tejen redes blancas serán confundidos. Y sus fundamentos serán quebrantados; todos los que hacen presa para ganancia se entristecerán de ánimo.
+
+**11-12** Ciertamente son necios los príncipes de Tzoán; los sabios consejeros de Faraón dan consejos torpes. ¿Cómo diréis a Faraón: yo soy hijo de los sabios, e hijo de reyes antiguos? ¿Dónde están ahora tus sabios? Que te digan ahora, y te hagan saber qué es lo que YHWH de los ejércitos ha determinado sobre Egipto.
+
+**13-14** Se han desvanecido los príncipes de Tzoán; se han engañado los príncipes de Menfis; engañaron a Egipto los que son la piedra angular de sus familias. YHWH mezcló entre ellos espíritu de vértigo; e hicieron errar a Egipto en toda su obra, como tambalea el ebrio en su vómito.
+
+**15-16** Y no aprovechará a Egipto cosa que haga cabeza o cola, rama o junco. En aquel día los egipcios serán como mujeres; se asombrarán y temerán en la presencia de la mano alta de YHWH de los ejércitos, que él ha de mover contra ellos.
+
+**17** Y la tierra de Yehudá será de espanto a Egipto; todo hombre que de ella se acordare temerá por causa del consejo que YHWH de los ejércitos acordó sobre aquel.
+
+**18** En aquel tiempo habrá cinco ciudades en la tierra de Egipto que hablen la lengua de Canaán, y que juren por YHWH de los ejércitos; una será llamada Ciudad del Sol.
+
+**19-20** En aquel tiempo habrá altar para YHWH en medio de la tierra de Egipto, y monumento a YHWH junto a su frontera. Y será por señal y por testimonio a YHWH de los ejércitos en la tierra de Egipto; porque clamarán a YHWH a causa de sus opresores, y él les enviará salvador y príncipe que los libre.
+
+**21-22** Y YHWH será conocido de Egipto, y los egipcios conocerán a YHWH en aquel día, y harán sacrificio y oblación; y harán votos a YHWH, y los cumplirán. Y herirá YHWH a Egipto; herirá y sanará, y se convertirán a YHWH, y les será clemente y los sanará.
+
+**23** En aquel tiempo habrá una calzada de Egipto a Asiria, y asirios entrarán en Egipto, y egipcios en Asiria; y los egipcios servirán con los asirios a YHWH.
+
+**24-25** En aquel tiempo Israel será tercero con Egipto y con Asiria, para bendición en medio de la tierra; porque YHWH de los ejércitos los bendecirá, diciendo: bendito el pueblo mío Egipto, y el asirio obra de mis manos, e Israel mi heredad.
+
+## 1QIsaa · Isaías 20
+
+**1** El año que vino el Tartán a Asdod, cuando lo envió Sargón rey de Asiria, y peleó contra Asdod y la tomó,
+
+**2** en aquel tiempo habló YHWH por medio de Yeshayahu hijo de Amotz, diciendo: ve, y quita el cilicio de tus lomos, y descalza las sandalias de tus pies. Y lo hizo así, andando desnudo y descalzo.
+
+**3-4** Y dijo YHWH: de la manera que anduvo mi siervo Yeshayahu desnudo y descalzo tres años, como señal y pronóstico sobre Egipto y sobre Cus, así llevará el rey de Asiria a los cautivos de Egipto y a los deportados de Cus, muchachos y ancianos, desnudos y descalzos, y descubiertas las nalgas, para vergüenza de Egipto.
+
+**5-6** Y se turbarán y avergonzarán de Cus su esperanza, y de Egipto su gloria. Y dirá en aquel día el morador de esta costa: mirad qué tal fue nuestra esperanza, cuyo socorro buscamos para librarnos de la presencia del rey de Asiria; ¿cómo, pues, escaparemos nosotros?
+
 ---
 ---
 
@@ -454,6 +560,14 @@ A diferencia de Génesis y Éxodo, acá el texto es fragmentario y el hallazgo c
 **28 — תשכבנה, "se acostarán" (13:16).** El TM tiene תִּשָּׁגַלְנָה, un verbo explícito para la violación sexual de las mujeres en la conquista (raíz שגל, la misma que la tradición rabínica marcaba como término que debía sustituirse por uno más suave al leerse en voz alta — un caso ya documentado de corrección eufemística, cf. tiqqune soferim). El rollo tiene, en su lugar, תשכבנה ("se acostarán", raíz שכב, más común y menos explícita). E1 el dato de la sustitución; D1 la lectura de que se trata de un eufemismo real conservado en el propio texto del rollo, del mismo tipo que la tradición rabínica documenta para este verbo en otros pasajes.
 
 **29 — אהרוג, primera persona (14:30).** El TM tiene יַהֲרֹג ("él matará", o en lectura pasiva "será matado" — la forma es ambigua), tercera persona; el rollo tiene אהרוג ("yo mataré"), primera persona, sin ambigüedad: es YHWH mismo quien habla en primera persona y anuncia la acción directamente. E1 el dato de la lectura; D1 la lectura de que el rollo resuelve a favor de la voz divina directa una ambigüedad gramatical real que el TM deja abierta.
+
+**30 — ארוה, en vez de אריה (15:9).** El TM tiene אַרְיֵה ("león") al cierre de este oráculo contra Moab — una lectura que ya intriga a los comentaristas, porque un león literal resulta un tanto extraño en este punto exacto del pasaje (algunos proponen enmendar el texto). El rollo tiene ארוה, con vav en el lugar donde el TM tiene yod. El dato no resuelve la crux de fondo, pero es una pieza adicional real para la discusión. E1 el dato gráfico; E3 la crux de fondo sobre el sentido de esta palabra, ya discutida en la bibliografía, no resuelta por este dato aislado.
+
+**31 — לכן, en vez de לא כן (16:6).** El TM tiene לֹא־כֵן ("no es así/no es recto" — una negación, cerrando el verso con un reproche a la jactancia vacía de Moab); el rollo tiene לכן ("por tanto"), sin el álef de la negación — visualmente muy parecidas, una diferencia de una sola letra que cambia el sentido de la cláusula. El resultado en el rollo queda gramaticalmente incompleto en este punto (un "por tanto" sin continuación clara), lo que hace más probable una pérdida accidental del álef que una variante deliberada. E1 el dato gráfico; D2 la lectura de que se trata de un descuido de copista, interpretación menor no verificable con certeza.
+
+**32 — גפן שבמה, sin continuación (16:8-9).** El TM tiene, después de "la vid de Sibmá", una descripción larga de esa vid (que sus mejores ramas llegaban hasta Yazer, se extendían por el desierto, cruzaban el mar) y luego repite la misma frase "vid de Sibmá" al comienzo del verso 9, antes de continuar con el llanto del profeta. El rollo pasa directo de la primera aparición de "vid de Sibmá" al texto que sigue después de la segunda — perdiendo unas veinte palabras en total. Es el tercer caso, dentro de los capítulos ya decodificados, de una omisión explicable por salto de copista sobre una frase que se repite cerca — el mismo mecanismo ya documentado en las notas 13 (2:9-10) y 17 (4:5-6). E1 el dato de la omisión; D1 la lectura del salto de copista por repetición de "vid de Sibmá", coherente con el patrón ya establecido en este rollo.
+
+**33 — בא, en vez de נלאה (16:12).** El TM tiene נִלְאָה ("se cansó/se fatigó" — "cuando Moab se haya fatigado en el lugar alto"); el rollo tiene בא ("vino/llegó" — "cuando Moab venga al lugar alto"). Sustitución real de una raíz por otra, con efecto real de sentido: cansancio tras un esfuerzo repetido, frente a la simple llegada al santuario. E1.
 
 ---
 ---
