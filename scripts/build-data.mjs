@@ -1,6 +1,6 @@
 import fs from 'node:fs';
 
-function buildBook({sourcePath,xmlPath,osisId,chapterHeaderRegex,maxChapter,hs,teasers,unlinkedChapters,outputName,globalVar}){
+function buildBook({sourcePath,xmlPath,osisId,chapterHeaderRegex,maxChapter,hs,teasers,unlinkedChapters,outputName,globalVar,source='OSHB v2.2 / Códice de Leningrado',license='CC BY 4.0'}){
   const md=fs.readFileSync(sourcePath,'utf8');
   const xml=fs.readFileSync(xmlPath,'utf8');
   const cleanHebrew=s=>s.replace(/<note[\s\S]*?<\/note>/g,'').replace(/<[^>]+>/g,' ').replace(/\//g,'').replace(/\s+([־׃])/g,'$1').replace(/\s+/g,' ').trim();
@@ -42,7 +42,7 @@ function buildBook({sourcePath,xmlPath,osisId,chapterHeaderRegex,maxChapter,hs,t
   }
   const verseCount=Object.values(chapters).reduce((n,verses)=>n+verses.length,0);
   fs.mkdirSync('dist/data',{recursive:true});
-  const payload={chapters,notes,meta:{source:'OSHB v2.2 / Códice de Leningrado',license:'CC BY 4.0',method:'CODI',hebrewChapters:maxChapter,codyChapters:Object.keys(codyChapters).map(Number).filter(n=>codyChapters[n].length),verseCount}};
+  const payload={chapters,notes,meta:{source,license,method:'CODI',hebrewChapters:maxChapter,codyChapters:Object.keys(codyChapters).map(Number).filter(n=>codyChapters[n].length),verseCount}};
   fs.writeFileSync(`dist/data/${outputName}.json`,JSON.stringify(payload,null,2));
   fs.writeFileSync(`dist/data/${outputName}-inline.js`,`window.${globalVar}=${JSON.stringify(payload,null,2)};\n`);
   return payload;
@@ -82,4 +82,24 @@ buildBook({
   unlinkedChapters:exodoUnlinked,
   outputName:'exodo',
   globalVar:'EXODO_DATA'
+});
+
+// --- Rollos del Mar Muerto (1QIsaa) ---
+const rollosHs={1:'עוזיה · יחזקיה',2:'וְהֵם / וְהֵמָּה',3:'וְעַמִּי',4:'וְשָׁמְמוּ עָלֶיהָ',5:'אֶצְבְּעוֹתֵיכֶם בֶּעָוֹן',6:'כַּשָּׁנִי',7:'תֹּאכֵלוּ',8:'בַּחֶרֶב',9:'מִצָּרָיו · מֵאֹיְבָיו',10:'יִקְרְאוּ',11:'הֶחָסְנְכֶם · פָּעָלְכֶם'};
+const rollosTeasers={1:'Dos reyes con forma teofórica corta, frente a la larga del TM.',2:'El pronombre largo del rollo, contra el corto del Texto Masorético.',3:'Una vav que el TM no tiene, uniendo dos cláusulas.',4:'Un plus real del rollo, sin equivalente en el TM.',5:'Una cláusula entera que el TM no conserva.',6:'La grafía que resuelve una ambigüedad de siglos.',7:'Una palabra casi entera reconstruida por daño físico.',8:'Una preposición que el rollo agrega y el TM no tiene.',9:'Tercera persona en el rollo, primera persona en el TM.',10:'Verbo activo plural, contra el pasivo singular del TM.',11:'Segunda persona plural, contra la tercera singular del TM.'};
+const rollosUnlinked={};
+
+buildBook({
+  sourcePath:process.argv[4]||'/Users/rcdopazo/Applications/decoding-the-bible/Coding-the-Bible_Rollos-Mar-Muerto.md',
+  xmlPath:'/Users/rcdopazo/Applications/decoding-the-bible/DSS-synthetic/1QIsaa.xml',
+  osisId:'Is',
+  chapterHeaderRegex:/^## 1QIsaa · Isaías (\d+)/,
+  maxChapter:66,
+  hs:rollosHs,
+  teasers:rollosTeasers,
+  unlinkedChapters:rollosUnlinked,
+  outputName:'rollos',
+  globalVar:'ROLLOS_DATA',
+  source:'ETCBC/dss (Text-Fabric) · transcripción de Martin Abegg',
+  license:'CC BY-NC 4.0'
 });
