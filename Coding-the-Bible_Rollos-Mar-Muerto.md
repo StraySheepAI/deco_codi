@@ -1,4 +1,4 @@
-# Coding the Bible — Rollos del Mar Muerto (1QIsaa, Isaías 1 a 47)
+# Coding the Bible — Rollos del Mar Muerto (1QIsaa, Isaías 1 a 54)
 
 ### Lectura DIMA — decodificación integral desde el hebreo/arameo original
 
@@ -1460,6 +1460,272 @@ A diferencia de Génesis y Éxodo, acá el texto es fragmentario y el hallazgo c
 
 **15** Así te serán aquellos con quienes te fatigaste, los que traficaron contigo desde tu juventud; cada uno irá por su camino, no habrá quien te salve.
 
+## 1QIsaa · Isaías 48
+
+**1** Oíd esto, casa de Yaakov, que os llamáis del nombre de Israel, y salisteis de las aguas de Yehudah; que juráis en el nombre de YHWH, y hacéis memoria del Elohim de Israel, mas no en verdad ni en justicia.
+
+**2** Porque de la santa ciudad son llamados, y en el Elohim de Israel se apoyan; YHWH de los ejércitos es su nombre.
+
+**3** Lo primero, ya de tiempo antiguo lo anuncié; de mi boca salió, y lo hice oír. Súbitamente lo hice, y vino a ser.
+
+**4** Porque, conociendo yo⁵² que eres duro, y nervio de hierro tu cerviz, y tu frente de bronce,
+
+**5** te lo anuncié desde entonces; antes que sucediera, te lo hice oír, para que no dijeses: mi ídolo lo hizo, mis imágenes de talla y de fundición lo mandaron.
+
+**6** Oíste todo esto; ¿y vosotros no lo publicaréis? Te hice oír cosas nuevas desde ahora, y cosas ocultas que no conocías.
+
+**7** Ahora han sido creadas, y no de tiempo antiguo; y antes de este día no las habías oído, para que no digas: he aquí que ya yo lo sabía.
+
+**8** Ni las habías oído, ni las habías conocido, ni jamás fue abierto tu oído; porque sabía que siendo desleal habías de desobedecer, y que rebelde te llamaron desde el vientre.
+
+**9** Por mi nombre dilataré mi ira, y para alabanza mía la reprimiré, para no destruirte.
+
+**10** He aquí te he purificado, y no como a plata; te he escogido en horno de aflicción.
+
+**11** Por mí, por mí lo haré; porque ¿cómo he de esperar⁵³? Y a otro no daré mi gloria.
+
+**12** Oye esto, Yaakov, e Israel llamado de mí: yo mismo, yo el primero, yo también el postrero.
+
+**13** Mi mano fundó la tierra, y mi mano derecha extendió los cielos; sostengo yo a todos ellos⁵⁴, y a una permanecen en pie.
+
+**14** Congregaos todos vosotros, y oíd: ¿quién entre ellos anunció estas cosas? YHWH me ama⁵⁵, y él hará mi voluntad⁵⁵ en Babilonia, y su brazo será contra los caldeos.
+
+**15** Yo, yo hablé, y le llamé, le traje, y será prosperado su camino.
+
+**16** Allegaos a mí, oíd esto: no hablé al principio en secreto; desde el tiempo que la cosa se hizo, allí estaba yo; y ahora el Señor YHWH me envió, y su espíritu.
+
+**17** Así dice YHWH, Redentor tuyo, el Santo de Israel: yo, YHWH, Elohim tuyo, que te enseña provecho, que te encamina por el camino que has de andar, por el camino que anduvieres⁵⁶.
+
+**18** ¡Oh, si hubieras atendido a mis mandamientos! Fuera entonces tu paz como un río, y tu justicia como las ondas de la mar.
+
+**19** Fuera también tu simiente como la arena, y los renuevos de tus entrañas como sus granos; nunca su nombre fuera cortado ni raído de mi presencia.
+
+**20** Salid de Babilonia, huid de entre los caldeos; dad las nuevas con voz de alegría, publicadlo, hacedlo saber hasta lo postrero de la tierra; decid: redimió YHWH a Yaakov su siervo.
+
+**21** Y no tuvieron sed cuando los llevó por los desiertos; hízoles brotar agua de la piedra; y rompió la peña, y corrieron las aguas.
+
+**22** No hay paz, dijo YHWH, para los impíos.
+
+## 1QIsaa · Isaías 49
+
+**1** Oídme, islas, y escuchad, pueblos lejanos: YHWH me llamó desde el vientre; desde las entrañas de mi madre tuvo mi nombre en memoria.
+
+**2** Y puso mi boca como espada aguda, con la sombra de su mano me cubrió; y púsome por saeta bruñida, guardóme en su aljaba.
+
+**3** Y me dijo: mi siervo eres, Israel, que en ti me gloriaré.
+
+**4** Yo dije: en vano he trabajado, en vano y sin provecho he consumido mi fuerza; pero mi juicio está con YHWH, y mi obra con mi Elohim.
+
+**5** Ahora, pues, dice YHWH, el que me formó desde el vientre para ser su siervo, para volver a él a Yaakov, y para que Israel a él se recogiera⁵⁷ — porque estimado seré en los ojos de YHWH, y mi Elohim fue mi fortaleza —
+
+**6** y dijo: poco es para mí que seas mi siervo para levantar las tribus de Israel, y para restaurar a los preservados de Yaakov⁵⁸; también te di por luz de las naciones, para que seas mi salud hasta lo postrero de la tierra.
+
+**7** Así dice YHWH, Redentor de Israel, el Santo suyo, al menospreciado de alma, al abominado de las naciones, al siervo de los tiranos: verán reyes, y se levantarán príncipes, y adorarán, por YHWH, que es fiel; por el Santo de Israel, que te escogió.
+
+**8** Así dice YHWH: en tiempo aceptable te oiré, y en día de salud te ayudaré; y te guardaré, y te daré por alianza del pueblo, para que levantes la tierra, para que heredes asoladas heredades;
+
+**9** para que digas a los presos: salid; y a los que están en tinieblas: mostraos. En todos los montes⁵⁹ apacentarán, y en todas las cumbres serán sus pastos.
+
+**10** No tendrán hambre ni sed, ni el calor ni el sol los afligirá; porque el que tiene misericordia de ellos los guiará, y los conducirá a manantiales de aguas.
+
+**11** Y tornaré camino todos mis montes, y mis calzadas serán levantadas.
+
+**12** He aquí éstos vendrán de lejos; y he aquí éstos del norte y del occidente, y éstos de la tierra de Sinim.
+
+**13** Cantad alabanzas, oh cielos, y alégrate, tierra; y prorrumpid en alabanza, montes; porque YHWH ha consolado a su pueblo, y de sus pobres tendrá misericordia.
+
+**14** Mas Sión dijo: dejóme YHWH, y el Señor se olvidó de mí.
+
+**15** ¿Se olvidará la mujer de lo que dio a luz, para dejar de compadecerse del hijo de su vientre? Aunque se olviden ellas, yo no me olvidaré de ti.
+
+**16** He aquí que en las palmas te tengo esculpida; delante de mí están siempre tus muros.
+
+**17** Tus edificadores vendrán aprisa; tus destruidores, y tus asoladores, saldrán de ti.
+
+**18** Alza tus ojos alrededor, y mira: todos éstos se han congregado, han venido a ti. Vivo yo, dice YHWH, que de todos, como de vestidura de honra, serás vestida; y de ellos serás ceñida, como novia.
+
+**19** Porque tus asolamientos, y tus ruinas, y tu tierra destruida, ahora será angosta a causa de los moradores, y tus destruidores serán apartados lejos de ti.
+
+**20** Aun los hijos de tu orfandad dirán oyéndolo tus oídos: estrecho es para mí este lugar; apártate de mí, que quiero habitar.
+
+**21** Y dirás en tu corazón: ¿quién me engendró éstos? porque yo deshijada estaba, y sola, transportada, y removida; ¿y quién a éstos crió? He aquí yo había quedado sola; éstos, ¿dónde estaban?
+
+**22** Así dice el Señor YHWH: he aquí, yo alzaré mi mano a las naciones, y a los pueblos levantaré mi bandera; y traerán en brazos a tus hijos, y tus hijas serán traídas en hombros.
+
+**23** Y reyes serán tus ayos, y sus reinas tus nodrizas; el rostro inclinado a tierra te adorarán, y lamerán el polvo de tus pies; y conocerás que yo soy YHWH, que no se avergonzarán los que me esperan.
+
+**24** ¿Quitaráse la presa al valiente? ¿o el cautiverio del tirano⁶⁰ escapará?
+
+**25** Porque así dice YHWH: cierto, la cautividad será quitada al valiente, y la presa del tirano escapará⁶⁰; y tu pleito yo lo defenderé, y a tus hijos yo los salvaré.
+
+**26** Y a los que te despojaron haré comer sus propias carnes, y con su sangre serán embriagados como con mosto; y conocerá todo hombre que yo YHWH soy Salvador tuyo, y Redentor tuyo, el Fuerte de Yaakov.
+
+## 1QIsaa · Isaías 50
+
+**1** Así dice YHWH: ¿qué es de la carta de repudio de vuestra madre, con la cual yo la repudié? ¿o quién es de mis acreedores, a quien yo os haya vendido? He aquí que por vuestras maldades sois vendidos, y por vuestras rebeliones fue repudiada vuestra madre.
+
+**2** ¿Por qué vine, y no pareció nadie? Llamé, y nadie respondió. ¿Ha se acortado mi mano, para no redimir? ¿no hay en mí poder para librar? He aquí que con mi reprensión hago secar la mar; convierto los ríos en desierto, hasta pudrirse sus peces, y morir de sed por falta de agua.
+
+**3** Visto de oscuridad a los cielos, y torno como saco su cubierta.
+
+**4** El Señor YHWH me dio lengua de sabios, para saber hablar en sazón palabra al cansado; despertará de mañana, de mañana despertará mi oído, para que oiga como los sabios.
+
+**5** El Señor Elohim me abrió el oído, y yo no fui rebelde, ni me volví atrás.
+
+**6** Di mi cuerpo a los heridores, y mis mejillas a los que me mesaban el cabello; no escondí mi rostro de las injurias y esputos.
+
+**7** Mas el Señor YHWH me ayudará, por tanto no seré avergonzado; por eso puse mi rostro como un pedernal, y sé que no seré avergonzado.
+
+**8** Cercano está de mí el que me justifica; ¿quién contenderá conmigo? estemos en pie juntamente; ¿quién es el adversario de mi causa? Acérquese a mí.
+
+**9** He aquí que el Señor YHWH me ayudará; ¿quién hay que me condene? He aquí que todos ellos como vestido se envejecerán, polilla los comerá.
+
+**10** ¿Quién hay entre vosotros que teme a YHWH, y oye la voz de su siervo? el que anduvo en tinieblas, y no tuvo luz, confíe en el nombre de YHWH, y apóyese en su Elohim.
+
+**11** He aquí que todos vosotros encendéis fuego, y os ceñís de saetas; andad a la luz de vuestro fuego, y a las saetas que encendisteis. De mi mano os vino esto; en dolor seréis puestos.
+
+## 1QIsaa · Isaías 51
+
+**1** Oídme, los que seguís justicia, los que buscáis a YHWH: mirad a la piedra de donde fuisteis cortados, y a la caverna de la fosa de donde fuisteis arrancados.
+
+**2** Mirad a Abraham vuestro padre, y a Sara que os dio a luz; porque a solo él llamé, y le bendije, y le multipliqué.
+
+**3** Ciertamente consolará YHWH a Sión, consolará todas sus soledades, y tornará su desierto como paraíso, y su soledad como huerto de YHWH; se hallará en ella alegría y gozo, alabanza y voz de cantar.
+
+**4** Atended a mí, pueblo mío, y oídme, nación mía; porque de mí saldrá la ley, y mi juicio para luz de pueblos lo haré descansar.
+
+**5** Cercana está mi justicia, salido ha mi salud, y mis brazos juzgarán a los pueblos; a mí me esperarán las islas, y en mi brazo esperarán.
+
+**6** Alzad a los cielos vuestros ojos, y mirad hacia la tierra abajo; y ved quién creó estas cosas⁶¹, y a sus moradores, que como enjambre morirán de la misma manera; mas mi salud será para siempre, mi justicia no perecerá.
+
+**7** Oídme, los que conocéis justicia, pueblo en cuyo corazón está mi ley: no temáis afrenta de hombre, ni desmayéis por sus baldones.
+
+**8** Porque como a vestidura los comerá polilla, y como a lana los comerá gusano; mas mi justicia permanecerá perpetuamente, y mi salud por siglos de siglos.
+
+**9** Despiértate, despiértate, vístete de fortaleza, oh brazo de YHWH; despiértate como en el tiempo antiguo, en los siglos pasados. ¿No eres tú el que cortó a Rahab, el que hirió al dragón?
+
+**10** ¿No eres tú el que secó la mar, las aguas del grande abismo; el que puso en lo profundo de la mar camino para que pasasen los redimidos?
+
+**11** Los redimidos de YHWH volverán, y vendrán a Sión cantando; y gozo perpetuo será sobre sus cabezas; alcanzarán gozo y alegría, huirá la tristeza y el gemido.
+
+**12** Yo, yo soy vuestro consolador. ¿Quién eres tú para que tengas temor del hombre, que es mortal, del hijo de hombre, que por heno será contado?
+
+**13** Y olvidaste a YHWH tu hacedor, que extendió los cielos y fundó la tierra; y temiste continuamente todo el día por la furia del que aflige, cuando se disponía para destruir. Mas ¿en dónde está la furia del que aflige?
+
+**14** El preso agobiado será presto suelto, y no morirá en la mazmorra, ni le faltará su pan.
+
+**15** Empero yo soy YHWH tu Elohim, que parto la mar, y suenan sus ondas; YHWH de los ejércitos es su nombre.
+
+**16** Y puse mis palabras en tu boca, y con la sombra de mi mano te cubrí, extendiendo los cielos, y fundando la tierra, y diciendo a Sión: pueblo mío eres tú.
+
+**17** Despierta, despierta, levántate, oh Yerushalayim, que bebiste de la mano de YHWH el cáliz de su ira; los sedimentos del cáliz de aturdimiento bebiste, y agotaste.
+
+**18** De todos los hijos que parió, no hay quien la gobierne; ni quien la tome por su mano de todos los hijos que crió.
+
+**19** Estas dos cosas te han acontecido, ¿quién se dolerá de ti? asolamiento y quebrantamiento, hambre y espada; ¿quién te consolará?
+
+**20** Tus hijos desmayaron, yacieron en las encrucijadas de todos los caminos, como buey montés en red, llenos de la ira de YHWH, de la reprensión de tu Elohim.
+
+**21** Oye ahora esto, afligida, y ebria, aunque no de vino:
+
+**22** Así dijo tu Señor YHWH, y tu Elohim, que aboga la causa de su pueblo: he aquí he quitado de tu mano el cáliz de aturdimiento, los sedimentos del cáliz de mi ira; nunca más lo beberás.
+
+**23** Y lo pondré en mano de tus angustiadores, que dijeron a tu alma: encórvate, y pasaremos; y pusiste tu cuerpo como tierra, y como camino, a los que pasaban.
+
+## 1QIsaa · Isaías 52
+
+**1** Despierta, despierta, vístete de tu fortaleza, Sión; vístete tu ropa de hermosura, Yerushalayim, ciudad santa; porque nunca más volverá a entrar en ti incircunciso ni inmundo.
+
+**2** Sacúdete del polvo, levántate, siéntate, Yerushalayim; suelta las ataduras de tu cuello, cautiva hija de Sión.
+
+**3** Porque así dice YHWH: de balde fuisteis vendidos; por tanto, sin dinero seréis rescatados.
+
+**4** Porque así dice YHWH: mi pueblo descendió a Egipto en tiempo pasado, para peregrinar allá; y el asirio lo cautivó sin razón.
+
+**5** Y ahora, ¿qué hago aquí, dice YHWH, ya que mi pueblo es llevado de balde? Los que en él se enseñorean, le hacen aullar, dice YHWH, y continuamente es blasfemado mi nombre todo el día.
+
+**6** Por tanto mi pueblo sabrá mi nombre por esta causa el día aquel; porque yo mismo que hablo, he aquí, estaré presente⁶².
+
+**7** ¡Cuán hermosos son sobre los montes los pies del que trae alegres nuevas, del que anuncia mensajero de paz, del que trae alegres nuevas de bien, del que publica salud, del que dice a Sión: tu Elohim reina!
+
+**8** ¡Voz de tus atalayas! alzarán la voz, juntamente cantarán; porque ojo a ojo verán, cuando YHWH volviere a traer a Sión.
+
+**9** Cantad alabanzas, alegraos juntamente, soledades de Yerushalayim; porque YHWH ha consolado a su pueblo, ha redimido a Yerushalayim.
+
+**10** YHWH desnudó el brazo de su santidad ante los ojos de todas las naciones; y todos los términos de la tierra verán la salud de nuestro Elohim.
+
+**11** Apartaos, apartaos, salid de ahí, no toquéis cosa inmunda; salid de en medio de ella; limpiaos los que lleváis los vasos de YHWH.
+
+**12** Porque no saldréis apresurados, ni iréis huyendo; porque YHWH irá delante de vosotros, y os congregará el Elohim de Israel, el Elohim de toda la tierra.
+
+**13** He aquí que mi siervo será prosperado, será engrandecido y exaltado, y será puesto muy en alto.
+
+**14** Como se pasmaron de ti muchos, de tal manera fue desfigurado de los hombres su parecer, y su hermosura más que la de los hijos de los hombres,
+
+**15** así rociará muchas naciones; los reyes cerrarán sobre él sus bocas; porque verán lo que nunca les fue contado, y entenderán lo que jamás habían oído.
+
+## 1QIsaa · Isaías 53
+
+**1** ¿Quién ha creído a nuestro anuncio? ¿y sobre quién se ha manifestado el brazo de YHWH?
+
+**2** Y subirá cual renuevo delante de él, y como raíz de tierra seca; no hay parecer en él, ni hermosura; verlo hemos, mas sin atractivo para que le deseemos.
+
+**3** Despreciado y desechado entre los hombres, varón de dolores, experimentado en quebranto; y como que escondimos de él el rostro, fue menospreciado, y no lo estimamos.
+
+**4** Ciertamente llevó él nuestras enfermedades, y sufrió nuestros dolores; y nosotros le tuvimos por azotado, herido de Elohim y abatido.
+
+**5** Mas él herido fue por nuestras rebeliones, molido por nuestros pecados; el castigo de nuestra paz fue sobre él, y por su llaga fuimos nosotros curados.
+
+**6** Todos nosotros nos descarriamos como ovejas, cada cual se apartó por su camino; mas YHWH cargó en él el pecado de todos nosotros.
+
+**7** Angustiado él, y afligido, no abrió su boca; como cordero fue llevado al matadero; y como oveja delante de sus trasquiladores, enmudeció, y no abrió su boca.
+
+**8** De la cárcel y del juicio fue quitado; y su generación, ¿quién la contará? Porque cortado fue de la tierra de los vivientes; por la rebelión de mi pueblo fue herido.
+
+**9** Y dieron su sepultura con los impíos, mas con el rico murió⁶³, aunque nunca hizo maldad, ni hubo engaño en su boca.
+
+**10** Con todo eso, YHWH quiso quebrantarlo, sujetándolo a padecimiento. Cuando hubiere puesto su vida en expiación por el pecado, verá linaje, vivirá por largos días, y la voluntad de YHWH será en su mano prosperada.
+
+**11** Del trabajo de su alma verá luz⁶⁴, y quedará satisfecho; con su conocimiento el justo, siervo suyo⁶⁴, justificará a muchos, y llevará las iniquidades de ellos.
+
+**12** Por tanto yo le daré parte con los grandes, y con los fuertes repartirá despojos; por cuanto derramó su vida hasta la muerte, y fue contado con los transgresores, habiendo él llevado el pecado de muchos, y orando por los transgresores.
+
+## 1QIsaa · Isaías 54
+
+**1** Regocíjate, oh estéril, la que no daba a luz; levanta canción y da voces de júbilo, la que nunca tuvo dolores de parto; porque más son los hijos de la dejada, que los de la casada, dice YHWH.
+
+**2** Ensancha el sitio de tu cabaña, y las cortinas de tus tiendas sean extendidas; no seas escasa; alarga tus cuerdas, y fortifica tus estacas.
+
+**3** Porque a la mano derecha y a la mano izquierda has de crecer; y tu simiente heredará naciones, y habitarán las ciudades asoladas.
+
+**4** No temas, que no serás confundida; y no te avergüences, que no serás afrentada; antes te olvidarás de la vergüenza de tu juventud, y de la afrenta de tu viudez no tendrás más memoria.
+
+**5** Porque tu marido es tu Hacedor; YHWH de los ejércitos es su nombre; y tu Redentor, el Santo de Israel; Elohim de toda la tierra será llamado.
+
+**6** Porque como a mujer dejada y triste de espíritu te llamó YHWH, y como a mujer moza que fue repudiada, dijo tu Elohim.
+
+**7** Por un breve momento te dejé; mas te recogeré con grandes misericordias.
+
+**8** Con un poco de ira escondí mi rostro de ti por un momento; mas con misericordia eterna tendré compasión de ti, dijo tu Redentor YHWH.
+
+**9** Porque esto me será como las aguas de Noaj; que juré que nunca más pasarían las aguas de Noaj sobre la tierra; así he jurado que no me airaré contra ti, ni te reprenderé.
+
+**10** Porque los montes se moverán, y los collados temblarán; mas no se apartará de ti mi misericordia, ni el pacto de mi paz se moverá, dijo YHWH, el que tiene misericordia de ti.
+
+**11** Pobrecita, combatida con tempestad, sin consuelo; he aquí que yo asiento tus piedras con antimonio, y tus fundamentos con zafiros.
+
+**12** Y tus ventanas pondré de piedras de rubí, y tus puertas de piedras de carbunclo, y todo tu término de piedras preciosas.
+
+**13** Y todos tus hijos serán enseñados de YHWH; y multiplicaráse la paz de tus hijos.
+
+**14** Con justicia serás afirmada; estarás lejos de opresión, porque no temerás; y de temor, porque no llegará a ti.
+
+**15** Si alguno conspirare contra ti, será sin mí; el que contra ti conspirare, delante de ti caerá.
+
+**16** He aquí que yo crié al herrero que sopla las ascuas en el fuego, y que saca la herramienta para su obra; y yo he criado al destruidor para destruir.
+
+**17** Toda herramienta que fuere fabricada contra ti, no prosperará⁶⁵. Ésta es la heredad de los siervos de YHWH, y su justicia, de parte mía, dice YHWH.
+
 ---
 ---
 
@@ -1568,6 +1834,34 @@ A diferencia de Génesis y Éxodo, acá el texto es fragmentario y el hallazgo c
 **50 — sin יחד אני יהוה בראתיו, "junto; yo, YHWH, lo he creado" (45:8).** El TM cierra este verso —conocido en la liturgia cristiana de Adviento por su versión latina, "Rorate caeli"— con una declaración explícita en primera persona: "junto; yo, YHWH, lo he creado." El rollo no tiene esta cláusula final; termina el verso en "y la justicia brote", sin la afirmación divina en primera persona que sigue en el TM. E1 el dato de la omisión; E3 si se trata de una pérdida real de texto o de una forma más breve conservada por el rollo, ambigüedad no resuelta por este dato solo.
 
 **51 — גואל׳ך, "tu redentor," en vez de מושיעך, "tu salvador" (43:3).** El TM tiene מוֹשִׁיעֶךָ ("tu salvador", de la raíz ישע); el rollo tiene גואל׳ך ("tu redentor", de la raíz גאל) — sustitución real de raíz. La palabra גאל ("redentor/rescatador de parentesco") es el término dominante para describir a YHWH en el resto de esta sección del libro (43:1, 44:6, 44:24, entre otros); esta variante podría reflejar una armonización del vocabulario hacia el término más frecuente en el contexto inmediato. E1 el dato de la sustitución; D1 la lectura de que se trata de una armonización terminológica con el uso dominante en estos capítulos.
+
+**52 — מ)אשר י(דעתי, corrección antigua hacia una forma más corta (48:4).** El TM tiene מִדַּעְתִּי ("porque yo sabía/conociendo yo"), una forma corta y compacta. El texto que el copista de 1QIsaa escribió originalmente era más largo: מאשר ידעתי ("porque sabía", con la partícula אשר de más). Un corrector antiguo tachó las letras centrales ("שר י"), dejando el texto reducido a מא + דעתי, que se lee prácticamente igual que la forma corta del TM. Se verificó a nivel de palabra individual del manuscrito: la eliminación está marcada como corrección del propio rollo, no como daño físico. Es ya el tercer caso, dentro de los capítulos decodificados de este rollo, de una corrección antigua que acerca el texto a una lectura de tipo masorético — cf. nota 9 (1:24, מ(^ה^)איב׳ו) y nota 1 (1:18, כתולעת→כתולע). E1 el dato de la corrección, verificado a nivel de palabra individual; D1 la lectura de que forma parte del mismo patrón de autocorrección hacia el TM ya documentado en este rollo.
+
+**53 — איכה איחל, primera persona, en vez de איך יחל (48:11).** El TM tiene אֵיךְ יֵחָל, tercera persona pasiva ("¿cómo sería profanado \[mi nombre\]?"); el rollo tiene איכה איחל, primera persona ("¿cómo he de esperar/aguardar yo?", de la raíz יחל, "esperar"). No es solo un cambio de persona gramatical: es una raíz distinta con un sentido distinto (esperar/aguardar, en vez de ser profanado). Es una de las variantes de 1QIsaa más citadas en este capítulo. E1 el dato de la lectura; E3 cuál de las dos formas refleja el texto más antiguo, crux real de la crítica textual de este verso, no resuelta por este dato aislado.
+
+**54 — קורה, "sostengo/soy el techo," en vez de קרא, "llamé" (48:13).** El TM tiene קֹרֵא אֲנִי אֲלֵיהֶם ("yo los llamo, y a una permanecen en pie" — de la raíz קרא, "llamar"); el rollo tiene קורה אני אליהמה ("yo sostengo/soy techo para ellos" — de la raíz קרה/קור, con el sentido de una viga o techo que sostiene). Es una sustitución real de raíz sobre las mismas consonantes base, con un matiz distinto: no que YHWH convoca a los cielos y la tierra, sino que él mismo los sostiene como una estructura. E1 el dato de la lectura; E3 si se trata de una variante textual real o de una confusión gráfica entre raíces parecidas en esta escritura, ambigüedad no resuelta por el dato aislado.
+
+**55 — אוהב׳י · וישה, primera persona, en vez de אהבו · יעשה (48:14).** El TM tiene "יְהוָה אֲהֵבוֹ יַעֲשֶׂה חֶפְצוֹ בְּבָבֶל" ("YHWH lo ama a él \[a Koresh/Ciro, mencionado en el contexto\]; él hará su voluntad en Babilonia" — tercera persona). El rollo tiene "יהוה אוהב׳י וישה חפצ׳י" ("YHWH me ama a mí; y él hará mi voluntad" — primera persona), cambiando de quién se habla: no de un tercero amado por YHWH, sino del propio hablante. Cambio real de persona gramatical con implicancia real sobre la identidad del sujeto de la profecía. E1 el dato de la lectura; E3 a quién se refiere la primera persona del rollo si no es al mismo referente que el TM (Koresh), pregunta que el propio texto no resuelve aquí.
+
+**56 — בדרך אשר תלך ב׳ה, cláusula ampliada (48:17).** El TM cierra el verso de forma breve: מַדְרִיכְךָ בְּדֶרֶךְ תֵּלֵךְ ("que te encamina por el camino \[que\] andarás"). El rollo tiene una forma más larga: הדריכ׳ה בדרך אשר תלך ב׳ה ("que te encamina por el camino EN EL CUAL has de andar EN ÉL"), con la partícula relativa אשר y un pronombre redundante de más that el TM no tiene. No hay daño en el manuscrito en este punto; es una expansión sintáctica real, sin cambio de sentido. E1.
+
+**57 — ל׳ו יאסף, "a él será recogido," en vez de לא יאסף, "no será recogido" (49:5).** Diferencia de una sola letra (vav en vez de álef) con efecto real sobre el sentido: el TM tiene וְיִשְׂרָאֵל לֹא יֵאָסֵף ("y aunque Israel no sea recogido..."); el rollo tiene וישראל לו יאסף ("y que Israel sea recogido A ÉL..."), sin negación. Se verificó a nivel de palabra individual del manuscrito: no hay ninguna marca de corrección ni de daño en este punto — el texto está completo y legible tal cual, con ל׳ו escrito llanamente. E1 el dato de la lectura, verificado a nivel de palabra individual; E3 si se trata de una variante consonántica real (confusión gráfica entre álef y vav, ambas letras que en ciertas manos de este período pueden parecerse) o de una lectura teológicamente motivada que suaviza la idea de un fracaso de la misión del siervo — disputa real, no zanjada por este dato solo.
+
+**58 — שבטי ישראל / נצירי יעקוב, orden invertido (49:6).** El TM tiene "לְהָקִים אֶת שִׁבְטֵי יַעֲקֹב וּנְצוּרֵי (נְצִירֵי) יִשְׂרָאֵל לְהָשִׁיב" ("para levantar las tribus DE YAAKOV, y restaurar a los preservados DE ISRAEL"). El rollo invierte el orden de los dos nombres: "להקים את שבטי ישראל ונצירי יעקוב להשיב" ("para levantar las tribus DE ISRAEL, y restaurar a los preservados DE YAAKOV"). Se verificó a nivel de palabra individual: ambos nombres están escritos con toda claridad, sin ninguna marca de corrección — no es un error de transcripción de este proyecto, sino del propio manuscrito antiguo. E1 el dato del intercambio; E3 si refleja una variante textual real transmitida por otros testigos, o una simple inversión mecánica del copista de este rollo, sin mayor peso — no resuelto aquí.
+
+**59 — הרים, "montes," en vez de דרכים, "caminos" (49:9).** El TM tiene "עַל דְּרָכִים יִרְעוּ" ("en los caminos apacentarán" — imagen de un camino de regreso del exilio); el rollo tiene "על כול הרים ירעו" ("en todos los montes apacentarán" — una imagen distinta, de pastoreo en las alturas, que se repite en la segunda mitad del mismo verso, "en todas las cumbres"). E1 el dato de la sustitución; E3 si se trata de una variante real o de una armonización del propio rollo con la imagen de "cumbres" que sigue en la misma frase, ambigüedad no resuelta por el dato aislado.
+
+**60 — עריץ ימלט, "escapará el tirano," también en el v. 24 (49:24-25).** Éste es uno de los datos de crítica textual más citados de todo 1QIsaa en estos capítulos. El TM tiene, en el v. 24, "הֲיֻקַּח מִגִּבּוֹר מַלְקוֹחַ וְאִם שְׁבִי צַדִּיק יִמָּלֵט" ("¿se quitará al valiente su presa? ¿o escapará el cautiverio DEL JUSTO?" — lectura que ha intrigado a los comentaristas, porque no tiene sentido claro que sea "el justo" quien tiene cautivos), y luego, en el v. 25, la palabra distinta עָרִיץ ("el tirano"), que sí encaja con el contexto. El rollo tiene עריץ ("tirano") en AMBOS versos, 24 y 25, evitando la lectura difícil del TM en el v. 24. Se verificó a nivel de palabra individual del manuscrito: en el v. 25 hay una corrección antigua supralineal que agrega la vav de "ושבי" y la yod de "רוביך", pero la palabra עריץ del v. 24 está escrita llanamente, sin marca de corrección. Varias traducciones modernas del TM (entre ellas la RSV y la NRSV) han adoptado la lectura del rollo para enmendar el v. 24. E1 el dato de la lectura, verificado a nivel de palabra individual; D1 la lectura de que el rollo probablemente conserva aquí (o restituye por armonización interna) una forma más coherente que la crux del TM en el v. 24, dado el amplio consenso de la crítica textual moderna en este punto puntual.
+
+**61 — וראו מי ברא את אלה, sin la cláusula cósmica del TM (51:6).** El TM tiene, en medio del verso, una imagen elaborada: "כִּי שָׁמַיִם כֶּעָשָׁן נִמְלָחוּ וְהָאָרֶץ כַּבֶּגֶד תִּבְלֶה" ("porque los cielos como humo se desvanecerán, y la tierra como vestidura se envejecerá"). El rollo no tiene esta cláusula: en su lugar trae "וראו מי ברא את אלה" ("y ved quién creó estas cosas"), una frase que reproduce casi palabra por palabra la fórmula de Isaías 40:26 ("שְׂאוּ מָרוֹם עֵינֵיכֶם וּרְאוּ מִי בָרָא אֵלֶּה", "alzad en alto vuestros ojos, y ved quién creó estas cosas" — Nota fuera de corpus, capítulo aún no decodificado de este rollo). No parece un simple salto de copista por repetición cercana (el mecanismo ya visto en las notas 13, 17, 32, 36 y 46): aquí el texto perdido es reemplazado por una frase completa tomada de otro pasaje del mismo libro, no simplemente omitido. E1 el dato de la sustitución; E3 si se trata de una asimilación real a 40:26 por parte del copista o de una tradición textual distinta que carecía de la imagen cósmica del TM en este punto — disputa no resuelta aquí.
+
+**62 — sin לכן duplicado (52:6).** El TM tiene la partícula לָכֵן ("por tanto") repetida dos veces seguidas en este verso: "לָכֵן יֵדַע עַמִּי שְׁמִי לָכֵן בַּיּוֹם הַהוּא" — una repetición que buena parte de la crítica textual moderna considera un caso de ditografía propia del TM (el copista habría repetido por error la misma palabra). El rollo tiene la partícula una sola vez: "לכן ידע עמ׳יא שמ׳י ביום ההואה". Es un caso distinto de los ya documentados en este rollo: aquí no es 1QIsaa el que omite algo por salto de vista, sino que es el TM el que parece conservar una duplicación que el rollo no comparte — un dato relevante en la dirección opuesta a la mayoría de las variantes ya vistas. E1 el dato de la no-duplicación; D1 la lectura de que el rollo conserva aquí la forma más simple y probablemente más antigua del verso, coherente con el juicio ya extendido en la crítica textual moderna sobre el לכן duplicado del TM.
+
+**63 — ועמ(^ת#^) עשיר{{ים}}, corrección antigua hacia una lectura de tipo masorético (53:9).** El TM tiene וְאֶת עָשִׁיר בְּמֹתָיו ("y con un rico en su muerte/en sus lugares altos"). El copista original de 1QIsaa escribió aquí ועם עשירים ("y con los ricos", plural, con la preposición עם, "con"), una lectura distinta del TM. Un corrector antiguo intervino dos veces en la misma frase: agregó una ת supralineal (marcada con grado de incertidumbre) entre עם y עשיר, y tachó la terminación ים de עשירים — dejando el texto corregido como ועמת עשיר, una forma que se acerca fonéticamente a la del TM (עם/את, confusión documentada entre estas dos partículas en este rollo) y que además concuerda ya en número (singular) con עשיר del TM. Es ya el tercer caso, dentro de este rollo, de una corrección antigua que mueve el texto hacia una lectura de tipo masorético — cf. notas 9 y 52. E1 el dato de la corrección, verificado a nivel de palabra individual del manuscrito.
+
+**64 — אור, "luz," y עבד׳ו, "su siervo" (53:11).** Ésta es probablemente la variante más famosa de todo 1QIsaa. El TM tiene מֵעֲמַל נַפְשׁוֹ יִרְאֶה יִשְׂבָּע ("del trabajo de su alma verá, quedará satisfecho" — un verbo "ver" sin objeto explícito, construcción que ha intrigado a traductores durante siglos). El rollo tiene מעמל נפשוה יראה אור וישבע ("del trabajo de su alma VERÁ LUZ, y quedará satisfecho"), con la palabra "luz" que el TM no tiene. Se verificó a nivel de palabra individual del manuscrito: אור está escrita llanamente, sin ninguna marca de corrección, reconstrucción ni daño — no es una conjetura de este proyecto ni una restauración editorial, sino texto legible del propio rollo. La lectura con "luz" cuenta además con el respaldo independiente de la Septuaginta griega (Nota fuera de corpus), y ha sido adoptada por buena parte de las traducciones modernas del TM (entre ellas la NVI, la RVC, la ESV y la NRSV) precisamente sobre esta base doble de testigos antiguos. Además, más adelante en el mismo verso, el rollo tiene עבד׳ו ("su siervo", tercera persona) donde el TM tiene עַבְדִּי ("mi siervo", primera persona, voz directa de YHWH) — una diferencia menor de persona gramatical, pero real. E1 ambos datos, el primero verificado a nivel de palabra individual; D1 la lectura de que "luz" refleja aquí muy probablemente el texto más antiguo del verso, dado el respaldo independiente de la Septuaginta y el amplio consenso de la crítica textual moderna en este punto puntual.
+
+**65 — sin וכל לשון תקום אתך למשפט תרשיעי, "y toda lengua que se levantare..." (54:17).** El TM tiene, antes de "ésta es la heredad de los siervos de YHWH", una cláusula completa: "וְכָל לָשׁוֹן תָּקוּם אִתָּךְ לַמִּשְׁפָּט תַּרְשִׁיעִי" ("y toda lengua que se levantare contra ti en juicio, tú la condenarás"). El rollo no tiene esta cláusula: pasa directo de "no prosperará" a "ésta es la heredad". No hay daño visible en el manuscrito en este tramo — la línea sigue corriendo con normalidad de una cláusula a la siguiente, sin espacio para el texto ausente; es una omisión limpia, no un vacío físico. Es la omisión más extensa (siete palabras) encontrada hasta ahora en los capítulos ya decodificados de este rollo. A diferencia de las omisiones anteriores (notas 13, 17, 32, 36 y 46), aquí no hay ninguna palabra repetida cerca que explique un salto de copista por parablepsis — el mecanismo del error, si lo hay, no es evidente a partir del propio texto. E1 el dato de la omisión, verificado a nivel de palabra individual del manuscrito; E3 su explicación: pérdida accidental sin mecanismo identificable, abreviación deliberada, o conservación de una forma más breve y antigua del verso — no resuelto por este dato solo.
 
 ---
 ---
