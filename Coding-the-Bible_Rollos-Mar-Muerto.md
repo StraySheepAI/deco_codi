@@ -1,4 +1,4 @@
-# Coding the Bible — Rollos del Mar Muerto (1QIsaa, Isaías 1 a 66 — libro completo; más 1Q8, 4Q56, 4Q57, 4Q55 y 4Q60, segundo a sexto testigo)
+# Coding the Bible — Rollos del Mar Muerto (1QIsaa, Isaías 1 a 66 — libro completo; más 1Q8, 4Q56, 4Q57, 4Q55, 4Q60 y 4Q58, segundo a séptimo testigo)
 
 ### Lectura DIMA — decodificación integral desde el hebreo/arameo original
 
@@ -1482,13 +1482,13 @@ A diferencia de Génesis y Éxodo, acá el texto es fragmentario y el hallazgo c
 
 **10** He aquí te he purificado, y no como a plata; te he escogido en horno de aflicción.
 
-**11** Por mí, por mí lo haré; porque ¿cómo he de esperar⁵³? Y a otro no daré mi gloria.
+**11** Por mí, por mí lo haré; porque ¿cómo he de esperar⁵³? Y a otro no daré mi gloria¹¹⁷.
 
 **12** Oye esto, Yaakov, e Israel llamado de mí: yo mismo, yo el primero, yo también el postrero.
 
-**13** Mi mano fundó la tierra, y mi mano derecha extendió los cielos; sostengo yo a todos ellos⁵⁴, y a una permanecen en pie.
+**13** Mi mano fundó la tierra, y mi mano derecha extendió los cielos; sostengo yo a todos ellos⁵⁴, y a una permanecen en pie¹¹⁸.
 
-**14** Congregaos todos vosotros, y oíd: ¿quién entre ellos anunció estas cosas? YHWH me ama⁵⁵, y él hará mi voluntad⁵⁵ en Babilonia, y su brazo será contra los caldeos.
+**14** Congregaos todos vosotros, y oíd: ¿quién entre ellos anunció estas cosas? YHWH me ama⁵⁵, y él hará mi voluntad⁵⁵ en Babilonia, y su brazo será contra los caldeos¹¹⁹.
 
 **15** Yo, yo hablé, y le llamé, le traje, y será prosperado su camino.
 
@@ -1516,7 +1516,7 @@ A diferencia de Génesis y Éxodo, acá el texto es fragmentario y el hallazgo c
 
 **4** Yo dije: en vano he trabajado, en vano y sin provecho he consumido mi fuerza; pero mi juicio está con YHWH, y mi obra con mi Elohim.
 
-**5** Ahora, pues, dice YHWH, el que me formó desde el vientre para ser su siervo, para volver a él a Yaakov, y para que Israel a él se recogiera⁵⁷ — porque estimado seré en los ojos de YHWH, y mi Elohim fue mi fortaleza —
+**5** Ahora, pues, dice YHWH, el que me formó desde el vientre para ser su siervo, para volver a él a Yaakov, y para que Israel a él se recogiera⁵⁷ — porque estimado seré en los ojos de YHWH, y mi Elohim fue mi fortaleza¹²⁰ —
 
 **6** y dijo: poco es para mí que seas mi siervo para levantar las tribus de Israel, y para restaurar a los preservados de Yaakov⁵⁸; también te di por luz de las naciones, para que seas mi salud hasta lo postrero de la tierra⁹⁴.
 
@@ -1686,7 +1686,7 @@ A diferencia de Génesis y Éxodo, acá el texto es fragmentario y el hallazgo c
 
 **10** Con todo eso, YHWH quiso quebrantarlo, sujetándolo a padecimiento. Cuando hubiere puesto su vida en expiación por el pecado, verá linaje, vivirá por largos días, y la voluntad de YHWH será en su mano prosperada.
 
-**11** Del trabajo de su alma verá luz⁶⁴, y quedará satisfecho; con su conocimiento el justo, siervo suyo⁶⁴, justificará a muchos⁹⁶, y llevará las iniquidades de ellos.
+**11** Del trabajo de su alma verá luz⁶⁴, y quedará satisfecho; con su conocimiento el justo, siervo suyo⁶⁴, justificará a muchos⁹⁶, y llevará las iniquidades de ellos¹²¹.
 
 **12** Por tanto yo le daré parte con los grandes, y con los fuertes repartirá despojos; por cuanto derramó su vida hasta la muerte, y fue contado con los transgresores, habiendo él llevado el pecado de muchos, y orando por los transgresores.
 
@@ -2447,6 +2447,25 @@ A diferencia de Génesis y Éxodo, acá el texto es fragmentario y el hallazgo c
 *Misma metodología. De los once cruces con versos de notas ya documentadas —incluida la fórmula del Trisagio (6:3, nota 20) y la señal de Emanuel (nota que compara con 7:14, aquí verificada en 8:8)— ninguno dio dato usable esta vez: en todos los casos la palabra exacta en disputa cae en un tramo reconstruido de 4Q60. Sobre 8:8 en particular: 4Q60 tiene genuinamente "עמנו" y "אל" como dos nodos de palabra separados sin espacio entre ellos —la misma situación exacta ya documentada para 1QIsaa en este mismo verso (ver la nota metodológica al inicio de este archivo)— así que, siguiendo el mismo criterio ya aplicado allí, este archivo no extrae ninguna conclusión sobre división de palabras a partir de este dato, para no repetir un error ya evitado una vez.*
 
 **116 — ושביה, dos veces (1:27) — variante nueva, no cruzada con notas anteriores.** El TM tiene "וְשָׁבֶיהָ בִּצְדָקָה" ("y sus convertidos/cautivos con justicia" — ושביה, una sola vez); 1QIsaa, ya decodificado en este archivo, coincide exactamente con el TM en este punto. 4Q60 tiene, en cambio, "ושביה ושביה בצדקה" — la misma palabra repetida dos veces seguidas, genuinamente conservada en su mayor parte (la segunda instancia tiene una sola letra dentro de un pequeño corchete de reconstrucción, pero el resto de sus letras están claramente presentes en el manuscrito). Es un caso de **4Q60 solo, frente a la coincidencia entre el TM y 1QIsaa**: una ditografía real, del mismo tipo exacto ya documentado para 1QIsaa en 38:19-20 (nota 47) pero en la dirección inversa —aquí es 4Q60, no 1QIsaa, el que duplica por error una palabra que los otros dos testigos tienen una sola vez—, y es la primera vez que este archivo documenta este tipo de error de copista en un testigo distinto de 1QIsaa. E1 el dato, verificado a nivel de signo individual del manuscrito.
+
+---
+---
+
+# 4Q58 — SÉPTIMO TESTIGO DE ISAÍAS
+
+*4Q58 (también llamado 4QIsaᵈ) es un séptimo rollo de Isaías, distinto de los seis ya trabajados en este archivo. Cubre algo de texto en diez de los sesenta y seis capítulos —ochenta y cinco versos con al menos una palabra—, concentrado casi todo en la sección del Siervo de YHWH: 48, 49, 52-54 (el cuarto canto del Siervo completo) y 57-58.*
+
+*Este testigo rindió de forma excepcional en el cruce con notas ya documentadas: de dieciséis cruces, cinco dieron dato real y verificado, reunidos en las notas 117 a 121 — la tanda más productiva desde 1Q8. Todos caen, no por casualidad, en el mismo tramo del libro (48:11 a 53:11) donde 1QIsaa acumula algunas de sus variantes más citadas.*
+
+**117 — איחל ya en la mano original del copista (48:11) — la primera vez que otro testigo comparte una variante propia de 1QIsaa.** Cf. nota 53 (1QIsaa tiene איכה איחל, primera persona "¿cómo he de esperar?", donde el TM tiene אֵיךְ יֵחָל, tercera persona pasiva "¿cómo sería profanado?"). En 4Q58, la mano original del copista —sin contar ninguna corrección posterior— ya escribió איחל (con álef inicial, la misma raíz יחל en la misma forma que 1QIsaa), no יחל como el TM: se verificó a nivel de signo individual que las cuatro letras א-י-ח-ל de esta palabra no tienen ninguna marca de reconstrucción ni de corrección, son parte del texto original tal como salió de la mano del copista. Es la primera vez en este archivo que otro testigo qumránico comparte, en su propia mano original, una de las variantes más citadas y hasta ahora consideradas propias de 1QIsaa —hasta este punto, cada vez que otro rollo tenía texto legible en una crux de 1QIsaa, coincidía con el TM, no con 1QIsaa (cf. notas 91, 94, 96, 115, 118, 119, 120)—. Además, sobre esta misma palabra hay una corrección antigua supralineal: una álef extra trazada arriba del renglón, justo antes de las cuatro letras ya mencionadas. No está claro si esa álef adicional es una letra realmente añadida al texto o el retrazado de una letra ya existente que se había desvaído —ambas prácticas están documentadas en manuscritos de Qumrán—, así que este archivo no resuelve esa ambigüedad puntual. Lo que sí es un dato firme, verificado a nivel de signo individual e independiente de cómo se interprete la corrección, es que el texto base de 4Q58 en este punto coincide con 1QIsaa y no con el TM. E1 el dato de la lectura base, verificado a nivel de signo individual; E1 también el dato de la corrección antigua sobre la misma palabra; D2 la lectura de que esa corrección sea un simple retrazado de una letra desvaída, sin cambio real de contenido, frente a la lectura alternativa de que se trate de una intervención textual real — ambigüedad no resuelta por este dato solo, dado que en cualquiera de los dos casos la lectura base ya coincidía con 1QIsaa antes de la corrección.
+
+**118 — קרא, "llamó," en vez de קורה, "sostengo/soy el techo" (48:13).** Cf. nota 54 (1QIsaa sustituye la raíz קרא, "llamar", del TM por קורה, de sentido "sostener/ser techo"). 4Q58 conserva genuinamente קרא en este punto, coincidiendo con el TM. Es un caso de **4Q58 con el TM contra 1QIsaa**: otra pieza a favor de que esta sustitución de raíz es un rasgo propio de la transmisión particular de 1QIsaa. E1 el dato, verificado a nivel de signo individual.
+
+**119 — אהב׳ו, tercera persona, en vez de אוהב׳י, primera persona (48:14).** Cf. nota 55 (1QIsaa tiene "יהוה אוהב׳י", "YHWH me ama a mí", primera persona, donde el TM tiene "יְהוָה אֲהֵבוֹ", "YHWH lo ama a él", tercera persona). 4Q58 conserva genuinamente אהב׳ו, coincidiendo con el TM. Es otro caso de **4Q58 con el TM contra 1QIsaa**: el cambio de persona documentado en la nota 55 no se repite en este testigo. E1 el dato, verificado a nivel de signo individual.
+
+**120 — ישראל לא יאסף, con negación, en vez de לו יאסף (49:5).** Cf. nota 57 (1QIsaa tiene "וישראל לו יאסף", sin negación, donde el TM tiene "וְיִשְׂרָאֵל לֹא יֵאָסֵף", con negación — una diferencia de una sola letra, vav por álef, con efecto real sobre el sentido del verso). 4Q58 conserva genuinamente "ישראל לא יאסף", con la negación intacta, coincidiendo con el TM. Es un caso de **4Q58 con el TM contra 1QIsaa**, el más nítido de esta tanda: la variante consonántica de una sola letra documentada en la nota 57, que en su momento quedó marcada como dato firme pero de motivación abierta, ahora tiene un segundo testigo qumránico —independiente de 1QIsaa— que conserva la negación del TM. E1 el dato, verificado a nivel de signo individual.
+
+**121 — עבדי, "mi siervo," en vez de עבד׳ו (53:11), y אור probablemente presente.** Cf. nota 64 (la variante más famosa de 1QIsaa: אור, "luz", más עבד׳ו, "su siervo", en tercera persona donde el TM tiene עַבְדִּי, "mi siervo"; ya confirmada de forma independiente por 1Q8 en la nota 96). 4Q58 conserva genuinamente עבדי ("mi siervo"), coincidiendo con el TM y no con עבד׳ו de 1QIsaa — un tercer testigo (junto con el TM y 1Q8) para esta parte de la variante. Sobre אור: en 4Q58 las letras א y ו están conservadas con cierta incertidumbre de lectura, y la ר final cae dentro de un pequeño corchete de reconstrucción —una evidencia real pero parcial, menos concluyente que la de 1Q8, donde la palabra completa está plenamente conservada sin ninguna marca—. El resto del verso ("בדעתו יצדיק צדיק") está genuinamente conservado en 4Q58 sin ningún hueco, coincidiendo con el TM. E1 el dato de עבדי, verificado a nivel de signo individual; E1 también el dato parcial de אור; D1 la lectura de que אור estaba probablemente presente en 4Q58 en su forma completa, dado que las letras conservadas son compatibles solo con esa palabra y no con ninguna alternativa razonable en este contexto.
 
 ---
 ---

@@ -3513,7 +3513,7 @@ window.ROLLOS_DATA={
       {
         "number": "11",
         "hebrew": "למענ׳י למענ׳י אעשה כיא איכה איחל וכבוד׳י לאחר לוא אתן׃",
-        "text": "Por mí, por mí lo haré; porque ¿cómo he de esperar⁵³? Y a otro no daré mi gloria."
+        "text": "Por mí, por mí lo haré; porque ¿cómo he de esperar⁵³? Y a otro no daré mi gloria¹¹⁷."
       },
       {
         "number": "12",
@@ -3523,12 +3523,12 @@ window.ROLLOS_DATA={
       {
         "number": "13",
         "hebrew": "אפ יד׳י יסדו ארץ וימינ׳י טפחה שמים קורה אני אלי׳המה ויעמודו יחדיו׃",
-        "text": "Mi mano fundó la tierra, y mi mano derecha extendió los cielos; sostengo yo a todos ellos⁵⁴, y a una permanecen en pie."
+        "text": "Mi mano fundó la tierra, y mi mano derecha extendió los cielos; sostengo yo a todos ellos⁵⁴, y a una permanecen en pie¹¹⁸."
       },
       {
         "number": "14",
         "hebrew": "יקבצו כול׳ם וישמעו מי ב׳הם ויגיד את אלה יהוה אוהב׳י וישה חפצ׳י בבבל זרוע׳ו כשדיים׃",
-        "text": "Congregaos todos vosotros, y oíd: ¿quién entre ellos anunció estas cosas? YHWH me ama⁵⁵, y él hará mi voluntad⁵⁵ en Babilonia, y su brazo será contra los caldeos."
+        "text": "Congregaos todos vosotros, y oíd: ¿quién entre ellos anunció estas cosas? YHWH me ama⁵⁵, y él hará mi voluntad⁵⁵ en Babilonia, y su brazo será contra los caldeos¹¹⁹."
       },
       {
         "number": "15",
@@ -3595,7 +3595,7 @@ window.ROLLOS_DATA={
       {
         "number": "5",
         "hebrew": "ועתה אמר יהוה יוצר׳ך מבטן לעבד ל׳ו לשובב יעקוב אלי׳ו וישראל ל׳ו יאסף ואכבדה בעיני יהוה ואלוה׳י היה עזר׳י׃",
-        "text": "Ahora, pues, dice YHWH, el que me formó desde el vientre para ser su siervo, para volver a él a Yaakov, y para que Israel a él se recogiera⁵⁷ — porque estimado seré en los ojos de YHWH, y mi Elohim fue mi fortaleza —"
+        "text": "Ahora, pues, dice YHWH, el que me formó desde el vientre para ser su siervo, para volver a él a Yaakov, y para que Israel a él se recogiera⁵⁷ — porque estimado seré en los ojos de YHWH, y mi Elohim fue mi fortaleza¹²⁰ —"
       },
       {
         "number": "6",
@@ -4008,7 +4008,7 @@ window.ROLLOS_DATA={
       {
         "number": "11",
         "hebrew": "מעמל נפש׳וה יראה אור וישבע ובדעת׳ו יצדיק צדיק עבד׳ו לרבים ועוונות׳ם הואה יסבול׃",
-        "text": "Del trabajo de su alma verá luz⁶⁴, y quedará satisfecho; con su conocimiento el justo, siervo suyo⁶⁴, justificará a muchos⁹⁶, y llevará las iniquidades de ellos."
+        "text": "Del trabajo de su alma verá luz⁶⁴, y quedará satisfecho; con su conocimiento el justo, siervo suyo⁶⁴, justificará a muchos⁹⁶, y llevará las iniquidades de ellos¹²¹."
       },
       {
         "number": "12",
@@ -6501,6 +6501,63 @@ window.ROLLOS_DATA={
       ],
       "hebrew": "וְשָׁבֶיהָ, dos veces en 4Q60",
       "teaser": "La ditografía, esta vez en la dirección opuesta."
+    },
+    {
+      "id": 117,
+      "chapter": 48,
+      "title": "איחל ya en la mano original del copista (48:11) — la primera vez que otro testigo comparte una variante propia de 1QIsaa.",
+      "body": "Cf. nota 53 (1QIsaa tiene איכה איחל, primera persona \"¿cómo he de esperar?\", donde el TM tiene אֵיךְ יֵחָל, tercera persona pasiva \"¿cómo sería profanado?\"). En 4Q58, la mano original del copista —sin contar ninguna corrección posterior— ya escribió איחל (con álef inicial, la misma raíz יחל en la misma forma que 1QIsaa), no יחל como el TM: se verificó a nivel de signo individual que las cuatro letras א-י-ח-ל de esta palabra no tienen ninguna marca de reconstrucción ni de corrección, son parte del texto original tal como salió de la mano del copista. Es la primera vez en este archivo que otro testigo qumránico comparte, en su propia mano original, una de las variantes más citadas y hasta ahora consideradas propias de 1QIsaa —hasta este punto, cada vez que otro rollo tenía texto legible en una crux de 1QIsaa, coincidía con el TM, no con 1QIsaa (cf. notas 91, 94, 96, 115, 118, 119, 120)—. Además, sobre esta misma palabra hay una corrección antigua supralineal: una álef extra trazada arriba del renglón, justo antes de las cuatro letras ya mencionadas. No está claro si esa álef adicional es una letra realmente añadida al texto o el retrazado de una letra ya existente que se había desvaído —ambas prácticas están documentadas en manuscritos de Qumrán—, así que este archivo no resuelve esa ambigüedad puntual. Lo que sí es un dato firme, verificado a nivel de signo individual e independiente de cómo se interprete la corrección, es que el texto base de 4Q58 en este punto coincide con 1QIsaa y no con el TM. E1 el dato de la lectura base, verificado a nivel de signo individual; E1 también el dato de la corrección antigua sobre la misma palabra; D2 la lectura de que esa corrección sea un simple retrazado de una letra desvaída, sin cambio real de contenido, frente a la lectura alternativa de que se trate de una intervención textual real — ambigüedad no resuelta por este dato solo, dado que en cualquiera de los dos casos la lectura base ya coincidía con 1QIsaa antes de la corrección.",
+      "evidence": [
+        "E1",
+        "D2"
+      ],
+      "hebrew": "איחל ya en la mano original de 4Q58",
+      "teaser": "Por primera vez, otro rollo comparte una variante famosa de 1QIsaa."
+    },
+    {
+      "id": 118,
+      "chapter": 48,
+      "title": "קרא, \"llamó,\" en vez de קורה, \"sostengo/soy el techo\"",
+      "body": "Cf. nota 54 (1QIsaa sustituye la raíz קרא, \"llamar\", del TM por קורה, de sentido \"sostener/ser techo\"). 4Q58 conserva genuinamente קרא en este punto, coincidiendo con el TM. Es un caso de *4Q58 con el TM contra 1QIsaa*: otra pieza a favor de que esta sustitución de raíz es un rasgo propio de la transmisión particular de 1QIsaa. E1 el dato, verificado a nivel de signo individual.",
+      "evidence": [
+        "E1"
+      ],
+      "hebrew": "קָרֵא / קורה — 4Q58 confirma al TM",
+      "teaser": "El quinto testigo consecutivo que respalda al TM en este tramo."
+    },
+    {
+      "id": 119,
+      "chapter": 48,
+      "title": "אהב׳ו, tercera persona, en vez de אוהב׳י, primera persona",
+      "body": "Cf. nota 55 (1QIsaa tiene \"יהוה אוהב׳י\", \"YHWH me ama a mí\", primera persona, donde el TM tiene \"יְהוָה אֲהֵבוֹ\", \"YHWH lo ama a él\", tercera persona). 4Q58 conserva genuinamente אהב׳ו, coincidiendo con el TM. Es otro caso de *4Q58 con el TM contra 1QIsaa*: el cambio de persona documentado en la nota 55 no se repite en este testigo. E1 el dato, verificado a nivel de signo individual.",
+      "evidence": [
+        "E1"
+      ],
+      "hebrew": "אֲהֵבוֹ / אוהבי — 4Q58 confirma al TM",
+      "teaser": "YHWH lo ama a él, no a mí — el TM vuelve a imponerse."
+    },
+    {
+      "id": 120,
+      "chapter": 49,
+      "title": "ישראל לא יאסף, con negación, en vez de לו יאסף",
+      "body": "Cf. nota 57 (1QIsaa tiene \"וישראל לו יאסף\", sin negación, donde el TM tiene \"וְיִשְׂרָאֵל לֹא יֵאָסֵף\", con negación — una diferencia de una sola letra, vav por álef, con efecto real sobre el sentido del verso). 4Q58 conserva genuinamente \"ישראל לא יאסף\", con la negación intacta, coincidiendo con el TM. Es un caso de *4Q58 con el TM contra 1QIsaa*, el más nítido de esta tanda: la variante consonántica de una sola letra documentada en la nota 57, que en su momento quedó marcada como dato firme pero de motivación abierta, ahora tiene un segundo testigo qumránico —independiente de 1QIsaa— que conserva la negación del TM. E1 el dato, verificado a nivel de signo individual.",
+      "evidence": [
+        "E1"
+      ],
+      "hebrew": "לֹא יֵאָסֵף conservada en 4Q58",
+      "teaser": "La negación que decide el destino de Israel, conservada de nuevo."
+    },
+    {
+      "id": 121,
+      "chapter": 53,
+      "title": "עבדי, \"mi siervo,\" en vez de עבד׳ו (53:11), y אור probablemente presente.",
+      "body": "Cf. nota 64 (la variante más famosa de 1QIsaa: אור, \"luz\", más עבד׳ו, \"su siervo\", en tercera persona donde el TM tiene עַבְדִּי, \"mi siervo\"; ya confirmada de forma independiente por 1Q8 en la nota 96). 4Q58 conserva genuinamente עבדי (\"mi siervo\"), coincidiendo con el TM y no con עבד׳ו de 1QIsaa — un tercer testigo (junto con el TM y 1Q8) para esta parte de la variante. Sobre אור: en 4Q58 las letras א y ו están conservadas con cierta incertidumbre de lectura, y la ר final cae dentro de un pequeño corchete de reconstrucción —una evidencia real pero parcial, menos concluyente que la de 1Q8, donde la palabra completa está plenamente conservada sin ninguna marca—. El resto del verso (\"בדעתו יצדיק צדיק\") está genuinamente conservado en 4Q58 sin ningún hueco, coincidiendo con el TM. E1 el dato de עבדי, verificado a nivel de signo individual; E1 también el dato parcial de אור; D1 la lectura de que אור estaba probablemente presente en 4Q58 en su forma completa, dado que las letras conservadas son compatibles solo con esa palabra y no con ninguna alternativa razonable en este contexto.",
+      "evidence": [
+        "E1",
+        "D1"
+      ],
+      "hebrew": "עַבְדִּי conservada, y אוֹר probable (4Q58)",
+      "teaser": "Un cuarto testigo para \"mi siervo\", y quizás un tercero para \"luz\"."
     }
   ],
   "meta": {
