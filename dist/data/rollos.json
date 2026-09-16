@@ -84,7 +84,7 @@
       {
         "number": "27-28",
         "hebrew": "ציון במשפט תפדה ושבי׳ה בצדקה׃ ושבר פושעים וחטאים יחדו ועוזבי יהוה יכלו׃",
-        "text": "Sión será rescatada con juicio, y los convertidos de ella con justicia. Mas los rebeldes y pecadores a una serán quebrantados, y los que dejan a YHWH serán consumidos."
+        "text": "Sión será rescatada con juicio, y los convertidos de ella con justicia¹¹⁶. Mas los rebeldes y pecadores a una serán quebrantados, y los que dejan a YHWH serán consumidos."
       },
       {
         "number": "29-31",
@@ -6490,6 +6490,17 @@
       ],
       "hebrew": "אֲדֹנָי conservada en 4Q55 (21:16)",
       "teaser": "Otro epíteto divino que 1QIsaa cambia, y otro rollo que no."
+    },
+    {
+      "id": 116,
+      "chapter": 1,
+      "title": "ושביה, dos veces (1:27) — variante nueva, no cruzada con notas anteriores.",
+      "body": "El TM tiene \"וְשָׁבֶיהָ בִּצְדָקָה\" (\"y sus convertidos/cautivos con justicia\" — ושביה, una sola vez); 1QIsaa, ya decodificado en este archivo, coincide exactamente con el TM en este punto. 4Q60 tiene, en cambio, \"ושביה ושביה בצדקה\" — la misma palabra repetida dos veces seguidas, genuinamente conservada en su mayor parte (la segunda instancia tiene una sola letra dentro de un pequeño corchete de reconstrucción, pero el resto de sus letras están claramente presentes en el manuscrito). Es un caso de *4Q60 solo, frente a la coincidencia entre el TM y 1QIsaa*: una ditografía real, del mismo tipo exacto ya documentado para 1QIsaa en 38:19-20 (nota 47) pero en la dirección inversa —aquí es 4Q60, no 1QIsaa, el que duplica por error una palabra que los otros dos testigos tienen una sola vez—, y es la primera vez que este archivo documenta este tipo de error de copista en un testigo distinto de 1QIsaa. E1 el dato, verificado a nivel de signo individual del manuscrito.",
+      "evidence": [
+        "E1"
+      ],
+      "hebrew": "וְשָׁבֶיהָ, dos veces en 4Q60",
+      "teaser": "La ditografía, esta vez en la dirección opuesta."
     }
   ],
   "meta": {

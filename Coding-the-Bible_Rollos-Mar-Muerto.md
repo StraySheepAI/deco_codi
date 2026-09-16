@@ -1,4 +1,4 @@
-# Coding the Bible — Rollos del Mar Muerto (1QIsaa, Isaías 1 a 66 — libro completo; más 1Q8, 4Q56, 4Q57 y 4Q55, segundo a quinto testigo)
+# Coding the Bible — Rollos del Mar Muerto (1QIsaa, Isaías 1 a 66 — libro completo; más 1Q8, 4Q56, 4Q57, 4Q55 y 4Q60, segundo a sexto testigo)
 
 ### Lectura DIMA — decodificación integral desde el hebreo/arameo original
 
@@ -54,7 +54,7 @@ A diferencia de Génesis y Éxodo, acá el texto es fragmentario y el hallazgo c
 
 **25-26** Y volveré mi mano contra ti, y [limpiaré hasta lo puro] tus escorias, y quitaré toda tu impureza. Y restituiré tus jueces como al principio, [y tus consejeros] como eran antes; después te llamarán¹⁰ Ciudad de justicia, Ciudad fiel.
 
-**27-28** Sión será rescatada con juicio, y los convertidos de ella con justicia. Mas los rebeldes y pecadores a una serán quebrantados, y los que dejan a YHWH serán consumidos.
+**27-28** Sión será rescatada con juicio, y los convertidos de ella con justicia¹¹⁶. Mas los rebeldes y pecadores a una serán quebrantados, y los que dejan a YHWH serán consumidos.
 
 **29-31** Entonces se avergonzarán de las encinas que amasteis, y os sonrojaréis por los huertos que escogisteis. Porque seréis como el árbol al que se le cae la hoja, y como huerto que no tiene agua. Y será vuestra fortaleza¹¹ como estopa, y vuestra obra como chispa; y ambos serán encendidos juntamente, y no habrá quien apague.
 
@@ -2436,6 +2436,17 @@ A diferencia de Génesis y Éxodo, acá el texto es fragmentario y el hallazgo c
 **114 — ונגה אש להבה... כי על כל כבוד חפה conservada (4:5-6).** Cf. nota 17 (1QIsaa omite catorce palabras del TM entre "una nube de día" y "del calor", por un salto de copista sobre la palabra "יומם/יום" repetida cerca). 4Q55 conserva genuinamente buena parte de esa misma cláusula: "ונגה אש להבה לי[לה] כי על כל כבוד חפה" ("y el resplandor de fuego llameante de noche; porque sobre toda gloria habrá un pabellón") — prácticamente toda la frase que falta en 1QIsaa, sin ninguna marca de reconstrucción en las palabras clave. Es un caso de **4Q55 con el TM contra 1QIsaa**: un segundo testigo independiente (además de 1Q8 y 4Q57 para otras omisiones grandes de 1QIsaa, notas 92, 97, 99, 101, 111) confirma que esta clase de ausencias son pérdidas reales propias de la transmisión de 1QIsaa, no lecturas compartidas por los demás rollos de Isaías hallados en Qumrán. E1 el dato, verificado a nivel de signo individual.
 
 **115 — אדני conservada (21:16).** Cf. nota 35 (1QIsaa sustituye אדני del TM por el nombre divino יהוה en este punto, parte del patrón de alternancia de epítetos divinos ya documentado repetidas veces en este archivo). 4Q55 conserva genuinamente "]אמר אדני אלי" ("así me dijo Adonai"), coincidiendo con el TM. Es un caso de **4Q55 con el TM contra 1QIsaa**, y una nueva pieza a favor de que esa alternancia de epítetos —ya vista una y otra vez en 1QIsaa a lo largo de todo este archivo— es un rasgo propio de la transmisión particular de ese rollo, no compartido por los demás testigos qumránicos de Isaías donde estos conservan texto en los mismos puntos (cf. también las notas 91 y 96 con 4Q56, donde 4Q56 y 4Q55 respaldan de forma independiente al TM en distintos casos de esta misma alternancia). El plazo de la profecía ("tres años", también en disputa según la nota 35) cae, en este verso, en un tramo reconstruido de 4Q55 y no se puede verificar. E1 el dato, verificado a nivel de signo individual.
+
+---
+---
+
+# 4Q60 — SEXTO TESTIGO DE ISAÍAS
+
+*4Q60 (también llamado 4QIsaᶠ) es un sexto rollo de Isaías, distinto de los cinco ya trabajados en este archivo. Cubre algo de texto en doce de los sesenta y seis capítulos —ochenta y ocho versos con al menos una palabra, cincuenta con tres palabras genuinamente conservadas o más—, con un tramo largo y valioso del capítulo 1 (versos 10 a 31, casi todo el final del capítulo de apertura del libro) y presencia real en 6, 7, 8 y 22.*
+
+*Misma metodología. De los once cruces con versos de notas ya documentadas —incluida la fórmula del Trisagio (6:3, nota 20) y la señal de Emanuel (nota que compara con 7:14, aquí verificada en 8:8)— ninguno dio dato usable esta vez: en todos los casos la palabra exacta en disputa cae en un tramo reconstruido de 4Q60. Sobre 8:8 en particular: 4Q60 tiene genuinamente "עמנו" y "אל" como dos nodos de palabra separados sin espacio entre ellos —la misma situación exacta ya documentada para 1QIsaa en este mismo verso (ver la nota metodológica al inicio de este archivo)— así que, siguiendo el mismo criterio ya aplicado allí, este archivo no extrae ninguna conclusión sobre división de palabras a partir de este dato, para no repetir un error ya evitado una vez.*
+
+**116 — ושביה, dos veces (1:27) — variante nueva, no cruzada con notas anteriores.** El TM tiene "וְשָׁבֶיהָ בִּצְדָקָה" ("y sus convertidos/cautivos con justicia" — ושביה, una sola vez); 1QIsaa, ya decodificado en este archivo, coincide exactamente con el TM en este punto. 4Q60 tiene, en cambio, "ושביה ושביה בצדקה" — la misma palabra repetida dos veces seguidas, genuinamente conservada en su mayor parte (la segunda instancia tiene una sola letra dentro de un pequeño corchete de reconstrucción, pero el resto de sus letras están claramente presentes en el manuscrito). Es un caso de **4Q60 solo, frente a la coincidencia entre el TM y 1QIsaa**: una ditografía real, del mismo tipo exacto ya documentado para 1QIsaa en 38:19-20 (nota 47) pero en la dirección inversa —aquí es 4Q60, no 1QIsaa, el que duplica por error una palabra que los otros dos testigos tienen una sola vez—, y es la primera vez que este archivo documenta este tipo de error de copista en un testigo distinto de 1QIsaa. E1 el dato, verificado a nivel de signo individual del manuscrito.
 
 ---
 ---
