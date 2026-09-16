@@ -52,7 +52,7 @@ A diferencia de Génesis y Éxodo, acá el texto es fragmentario y el hallazgo c
 
 **24** Por tanto, dice el Señor YHWH de los ejércitos, [el Fuerte de Israel]: ea, tomaré satisfacción de sus adversarios, y me vengaré de sus enemigos⁹.
 
-**25-26** Y volveré mi mano contra ti, y [limpiaré hasta lo puro] tus escorias, y quitaré toda tu impureza. Y restituiré tus jueces como al principio, [y tus consejeros] como eran antes; después te llamarán¹⁰ Ciudad de justicia, Ciudad fiel.
+**25-26** Y volveré mi mano contra ti, y [limpiaré hasta lo puro] tus escorias, y quitaré toda tu impureza. Y restituiré tus jueces como al principio, [y tus consejeros] como eran antes; después te llamarán¹⁰ Ciudad de justicia¹²⁴, Ciudad fiel.
 
 **27-28** Sión será rescatada con juicio, y los convertidos de ella con justicia¹¹⁶. Mas los rebeldes y pecadores a una serán quebrantados, y los que dejan a YHWH serán consumidos.
 
@@ -150,7 +150,7 @@ A diferencia de Génesis y Éxodo, acá el texto es fragmentario y el hallazgo c
 
 **17** Y los corderos serán apacentados según su costumbre, y extraños comerán las tierras desoladas de los ricos.
 
-**18** ¡Ay de los que traen la iniquidad con cuerdas de vanidad, y el pecado como con coyundas de carreta!
+**18** ¡Ay de los que traen la iniquidad con cuerdas de vanidad, y el pecado como con coyundas de carreta¹²²!
 
 **19** Los que dicen: apresúrese, venga pronto su obra, y la veamos; acérquese y venga el consejo del Santo de Israel, para que lo sepamos.
 
@@ -340,7 +340,7 @@ A diferencia de Génesis y Éxodo, acá el texto es fragmentario y el hallazgo c
 
 **9-10** He aquí el día de YHWH viene, terrible, y de indignación y de ardor de ira, para convertir la tierra en soledad, y raer de ella a los pecadores. Por lo cual las estrellas de los cielos y sus luceros no darán su luz; y el sol se oscurecerá al nacer, y la luna no dará su resplandor.
 
-**11-12** Y castigaré al mundo por su maldad, y a los impíos por su iniquidad; y haré que cese la arrogancia de los soberbios, y abatiré la altivez de los fuertes. Haré más precioso que el oro fino al varón, y más que el oro de Ofir al hombre.
+**11-12** Y castigaré al mundo por su maldad, y a los impíos por su iniquidad¹²³; y haré que cese la arrogancia de los soberbios, y abatiré la altivez de los fuertes. Haré más precioso que el oro fino al varón, y más que el oro de Ofir al hombre.
 
 **13-14** Porque haré estremecer los cielos, y la tierra se moverá de su lugar, en la indignación de YHWH de los ejércitos, y en el día de su ardiente ira. Y será como corza asustada, y como oveja sin pastor; cada cual mirará hacia su pueblo, y cada uno huirá a su tierra.
 
@@ -484,7 +484,7 @@ A diferencia de Génesis y Éxodo, acá el texto es fragmentario y el hallazgo c
 
 **23** En aquel tiempo habrá una calzada de Egipto a Asiria, y asirios entrarán en Egipto, y egipcios en Asiria; y los egipcios servirán con los asirios a YHWH.
 
-**24-25** En aquel tiempo Israel será tercero con Egipto y con Asiria, para bendición en medio de la tierra; porque YHWH de los ejércitos los bendecirá, diciendo: bendito el pueblo mío Egipto, y el asirio obra de mis manos, e Israel mi heredad.
+**24-25** En aquel tiempo Israel será tercero con Egipto y con Asiria, para bendición en medio de la tierra; porque YHWH de los ejércitos los bendecirá¹²², diciendo: bendito el pueblo mío Egipto, y el asirio obra de mis manos, e Israel mi heredad.
 
 ## 1QIsaa · Isaías 20
 
@@ -542,7 +542,7 @@ A diferencia de Génesis y Éxodo, acá el texto es fragmentario y el hallazgo c
 
 **19-21** Y te arrojaré de tu lugar, y de tu puesto te derribaré. Y será que en aquel día llamaré a mi siervo Elyakim hijo de Hilkiyahu; y le vestiré de tu túnica, y le ceñiré tu talabarte, y entregaré en su mano tu potestad; y será padre al morador de Yerushalaim, y a la casa de Yehudá.
 
-**22-23** Y pondré la llave de la casa de David sobre su hombro; y abrirá, y nadie cerrará; cerrará, y nadie abrirá. Y le hincaré como clavo en lugar firme, y será por asiento de honra a la casa de su padre.
+**22-23** Y pondré la llave de la casa de David sobre su hombro; y abrirá, y nadie cerrará; cerrará, y nadie abrirá. Y le hincaré como clavo en lugar firme¹²³, y será por asiento de honra a la casa de su padre.
 
 **24-25** Y colgarán de él toda la honra de la casa de su padre, hijos y nietos, todos los vasos, desde los vasos de beber hasta todos los instrumentos de música. En aquel día, dice YHWH de los ejércitos, el clavo hincado en lugar firme será quitado; será quebrado y caerá; y la carga que sobre él se puso, se echará a perder; porque YHWH habló.
 
@@ -556,7 +556,7 @@ A diferencia de Génesis y Éxodo, acá el texto es fragmentario y el hallazgo c
 
 **7-8** ¿Es esta vuestra ciudad alegre, cuyo origen es de tiempo antiguo? Sus pies la llevarán a peregrinar lejos. ¿Quién decretó esto sobre Tiro la coronada, cuyos negociantes eran príncipes, cuyos mercaderes eran los nobles de la tierra?
 
-**9-10** YHWH de los ejércitos lo decretó, para envilecer la soberbia de toda gloria, y para abatir todos los ilustres de la tierra. Pasa cual río de tu tierra, oh hija de Tarsis; no hay ya sujeción.
+**9-10** YHWH de los ejércitos lo decretó, para envilecer la soberbia de toda gloria¹²³, y para abatir todos los ilustres de la tierra. Pasa cual río de tu tierra, oh hija de Tarsis; no hay ya sujeción.
 
 **11-12** Extendió su mano sobre el mar, hizo temblar los reinos; YHWH mandó sobre Canaán que sus fuerzas sean destruidas. Y dijo: no te alegrarás más, oh oprimida virgen hija de Sidón. Levántate para pasar a Kitim; y aun allí no tendrás reposo.
 
@@ -628,7 +628,7 @@ A diferencia de Génesis y Éxodo, acá el texto es fragmentario y el hallazgo c
 
 **7-8** El camino del justo es rectitud; tú, que eres recto, pesas el camino del justo. También en el camino de tus juicios, oh YHWH, te hemos esperado; a tu nombre y a tu memoria es el deseo del alma.
 
-**9** Con mi alma te he deseado en la noche; y madrugaré a buscarte con mi espíritu dentro de mí; porque luego que hay juicios tuyos en la tierra, los moradores del mundo aprenden justicia.
+**9** Con mi alma te he deseado en la noche; y madrugaré a buscarte con mi espíritu dentro de mí; porque luego que hay juicios tuyos en la tierra, los moradores del mundo aprenden justicia¹²².
 
 **10-11** Aunque se muestre piedad al impío, no aprenderá justicia; en tierra de rectitud hará iniquidad, y no mirará a la majestad de YHWH. YHWH, tu mano está alzada, mas ellos no la ven; verán al fin, y se avergonzarán los que envidian a tu pueblo; y a tus enemigos fuego los consumirá.
 
@@ -1688,7 +1688,7 @@ A diferencia de Génesis y Éxodo, acá el texto es fragmentario y el hallazgo c
 
 **11** Del trabajo de su alma verá luz⁶⁴, y quedará satisfecho; con su conocimiento el justo, siervo suyo⁶⁴, justificará a muchos⁹⁶, y llevará las iniquidades de ellos¹²¹.
 
-**12** Por tanto yo le daré parte con los grandes, y con los fuertes repartirá despojos; por cuanto derramó su vida hasta la muerte, y fue contado con los transgresores, habiendo él llevado el pecado de muchos, y orando por los transgresores.
+**12** Por tanto yo le daré parte con los grandes, y con los fuertes repartirá despojos; por cuanto derramó su vida hasta la muerte, y fue contado con los transgresores, habiendo él llevado el pecado de muchos¹²⁵, y orando por los transgresores.
 
 ## 1QIsaa · Isaías 54
 
@@ -1812,7 +1812,7 @@ A diferencia de Génesis y Éxodo, acá el texto es fragmentario y el hallazgo c
 
 **15** Porque así dice el Alto y Sublime, el que habita la eternidad, y cuyo nombre es el Santo: yo habito en la altura y la santidad, y con el quebrantado y humilde de espíritu, para hacer vivir el espíritu de los humildes, y para vivificar el corazón de los quebrantados.
 
-**16** Porque no tengo de contender para siempre, ni para siempre me he de enojar; pues el espíritu por mi causa desmayaría, y las almas que yo he creado.
+**16** Porque no tengo de contender para siempre, ni para siempre me he de enojar; pues el espíritu por mi causa desmayaría¹²⁵, y las almas que yo he creado.
 
 **17** Por la iniquidad de su codicia me enojé, y le herí, escondí mi rostro, y me indigné; y fue el rebelde por el camino de su corazón.
 
@@ -1828,7 +1828,7 @@ A diferencia de Génesis y Éxodo, acá el texto es fragmentario y el hallazgo c
 
 **1** Clama a voz en cuello, no te detengas; alza tu voz como trompeta, y anuncia a mi pueblo su rebelión, y a la casa de Yaakov su pecado.
 
-**2** Que me buscan cada día, y quieren saber mis caminos, como gente que hubiese hecho justicia, y que no hubiera dejado el derecho de su Elohim; pregúntanme derechos de justicia, y quieren acercarse a Elohim.
+**2** Que me buscan cada día, y quieren saber mis caminos, como gente que hubiese hecho justicia, y que no hubiera dejado el derecho de su Elohim; pregúntanme derechos de justicia¹²⁵, y quieren acercarse a Elohim.
 
 **3** ¿Por qué, dicen, ayunamos, y no hiciste caso; humillamos nuestras almas, y no te diste por entendido? He aquí que en el día de vuestro ayuno buscáis vuestra voluntad, y todos demandáis vuestros negocios.
 
@@ -2409,6 +2409,8 @@ A diferencia de Génesis y Éxodo, acá el texto es fragmentario y el hallazgo c
 
 **110 — corrección antigua hacia עם כבד עון (1:4) — el mismo fenómeno visto en 1QIsaa, ahora en 4Q56.** En el punto donde el TM tiene "עַם כֶּבֶד עָוֹן" ("pueblo cargado de iniquidad"), 4Q56 tiene una corrección antigua supralineal que restituye exactamente esa frase — עם כבד עון agregada arriba del renglón por un corrector antiguo, no por el copista original. Es el mismo tipo de fenómeno paleográfico ya documentado varias veces para 1QIsaa (notas 1, 9, 52 y 63: correcciones antiguas que acercan el texto a una lectura de tipo masorético), ahora observado en un manuscrito distinto — un dato que sugiere que esta clase de revisión activa contra una forma textual más cercana al TM no era una peculiaridad de un solo copista o de un solo rollo, sino una práctica más extendida entre los escribas que transmitieron y corrigieron los textos de Isaías hallados en Qumrán. E1 el dato de la corrección, verificado a nivel de signo individual; D2 la lectura de que se trata del mismo patrón general de corrección hacia el TM ya documentado en 1QIsaa, sin que esto implique necesariamente la misma mano ni el mismo taller de copistas.
 
+**122 — עוון, צדק y ברך conservadas en 4Q56 (5:18, 26:9, 19:25) — chequeo doctrinal.** Cf. notas 81 (pecado), 83 (justicia) y 84 (bendecir). Sobre los treinta y nueve versos donde alguna de las siete categorías doctrinales ya establecidas (pacto, pecado, justicia, bendecir/maldecir, fe, temor, alma-espíritu) cae dentro de la cobertura de 4Q56, la gran mayoría tiene la palabra doctrinal exacta en un tramo reconstruido, sin dato usable: 1:4 (avon — pero ver la corrección antigua ya documentada en la nota 110, que sí toca esta misma palabra y categoría), 40:2, 44:22, 64:5, 64:6, 64:8 y 66:24 (pecado); 42:6 (pacto); 56:1 (justicia); 51:2 (bendecir); 49:23 (fe); 41:10 y 2:10 (temor); 42:5 (alma-espíritu). Tres sí dieron dato real, los tres confirmando al TM: en 5:18, עון está genuinamente conservada ("משכי העון בחבלי השוא"), coincidiendo con la distinción ya establecida para avon; en 26:9, צדק está genuinamente conservada ("צדק למדו ישבי תבל" — aunque משפט, la otra mitad del par, cae en un tramo dañado), respaldando el par מִשְׁפָּט/צְדָקָה de la nota 83; y en 19:25, ברוך está genuinamente conservada ("לאמר ברוך עמי מצרים"), respaldando la raíz בָּרַךְ de la nota 84. En ninguno de estos tres casos hay divergencia entre los testigos — el chequeo doctrinal, donde 4Q56 tiene dato, confirma otra vez que las distinciones ya establecidas no son un artefacto de un solo manuscrito. E1 los tres datos, verificados a nivel de signo individual; se deja constancia explícita de los doce casos sin dato, por transparencia.
+
 ---
 ---
 
@@ -2437,6 +2439,8 @@ A diferencia de Génesis y Éxodo, acá el texto es fragmentario y el hallazgo c
 
 **115 — אדני conservada (21:16).** Cf. nota 35 (1QIsaa sustituye אדני del TM por el nombre divino יהוה en este punto, parte del patrón de alternancia de epítetos divinos ya documentado repetidas veces en este archivo). 4Q55 conserva genuinamente "]אמר אדני אלי" ("así me dijo Adonai"), coincidiendo con el TM. Es un caso de **4Q55 con el TM contra 1QIsaa**, y una nueva pieza a favor de que esa alternancia de epítetos —ya vista una y otra vez en 1QIsaa a lo largo de todo este archivo— es un rasgo propio de la transmisión particular de ese rollo, no compartido por los demás testigos qumránicos de Isaías donde estos conservan texto en los mismos puntos (cf. también las notas 91 y 96 con 4Q56, donde 4Q56 y 4Q55 respaldan de forma independiente al TM en distintos casos de esta misma alternancia). El plazo de la profecía ("tres años", también en disputa según la nota 35) cae, en este verso, en un tramo reconstruido de 4Q55 y no se puede verificar. E1 el dato, verificado a nivel de signo individual.
 
+**123 — עוונ׳ם, הקל y נאמן conservadas en 4Q55 (13:11, 23:9, 22:23) — chequeo doctrinal.** Cf. notas 81 (pecado), 84 (bendecir/maldecir) y 85 (fe). De los ocho versos donde alguna categoría doctrinal cae dentro de la cobertura de 4Q55, cinco no dieron dato usable: 1:4 y 22:14 (pecado, ambos en tramos dañados o sin texto), 19:25 (bendecir, tramo dañado), 22:25 (fe, segunda repetición de נאמן en un tramo dañado) y 2:10 (temor, tramo dañado). Tres sí dieron dato real: en 13:11, עוונ׳ם está genuinamente conservada ("ועל רשעים עונם"), confirmando avon; en 23:9, הקל está genuinamente conservada ("להקל כל נכבדי ארץ"), confirmando que esta instancia de la raíz קלל es del sentido "despreciar/tener en poco" y no del sentido "maldecir" —tal como ya distinguía la nota 84 entre las dos familias de sentido de esta raíz—; y en 22:23, נאמן está genuinamente conservada ("במקום נאמן"), confirmando la raíz אמן en el sentido de "firme/seguro" ya caracterizado en la nota 85. Los tres casos, sin excepción, confirman al TM y a las distinciones ya establecidas, sin ninguna divergencia entre testigos. E1 los tres datos, verificados a nivel de signo individual; se deja constancia de los cinco casos sin dato, por transparencia.
+
 ---
 ---
 
@@ -2447,6 +2451,8 @@ A diferencia de Génesis y Éxodo, acá el texto es fragmentario y el hallazgo c
 *Misma metodología. De los once cruces con versos de notas ya documentadas —incluida la fórmula del Trisagio (6:3, nota 20) y la señal de Emanuel (nota que compara con 7:14, aquí verificada en 8:8)— ninguno dio dato usable esta vez: en todos los casos la palabra exacta en disputa cae en un tramo reconstruido de 4Q60. Sobre 8:8 en particular: 4Q60 tiene genuinamente "עמנו" y "אל" como dos nodos de palabra separados sin espacio entre ellos —la misma situación exacta ya documentada para 1QIsaa en este mismo verso (ver la nota metodológica al inicio de este archivo)— así que, siguiendo el mismo criterio ya aplicado allí, este archivo no extrae ninguna conclusión sobre división de palabras a partir de este dato, para no repetir un error ya evitado una vez.*
 
 **116 — ושביה, dos veces (1:27) — variante nueva, no cruzada con notas anteriores.** El TM tiene "וְשָׁבֶיהָ בִּצְדָקָה" ("y sus convertidos/cautivos con justicia" — ושביה, una sola vez); 1QIsaa, ya decodificado en este archivo, coincide exactamente con el TM en este punto. 4Q60 tiene, en cambio, "ושביה ושביה בצדקה" — la misma palabra repetida dos veces seguidas, genuinamente conservada en su mayor parte (la segunda instancia tiene una sola letra dentro de un pequeño corchete de reconstrucción, pero el resto de sus letras están claramente presentes en el manuscrito). Es un caso de **4Q60 solo, frente a la coincidencia entre el TM y 1QIsaa**: una ditografía real, del mismo tipo exacto ya documentado para 1QIsaa en 38:19-20 (nota 47) pero en la dirección inversa —aquí es 4Q60, no 1QIsaa, el que duplica por error una palabra que los otros dos testigos tienen una sola vez—, y es la primera vez que este archivo documenta este tipo de error de copista en un testigo distinto de 1QIsaa. E1 el dato, verificado a nivel de signo individual del manuscrito.
+
+**124 — צדק conservada (1:26) — chequeo doctrinal, rendimiento bajo en este testigo.** Cf. nota 83 (justicia: מִשְׁפָּט/צְדָקָה). De los siete versos doctrinales que caen dentro de la cobertura de 4Q60 (1:21, 1:26, 1:27, 22:14, 22:23, 22:25 y 28:18), seis no dieron dato usable: 1:21 (משפט y צדק, ambas en un tramo dañado), 1:27 (משפט en un tramo dañado — la palabra צדקה de este mismo verso ya está documentada en la nota 116, por la ditografía, no por el chequeo doctrinal en sí), 22:14 (עון, verso casi enteramente perdido), 22:23 (verso sin ninguna palabra conservada de 4Q60), 22:25 (נאמן en un tramo dañado) y 28:18 (ברית, la palabra misma no aparece entre lo conservado). Uno solo dio dato real: en 1:26, צדק está genuinamente conservada dentro de la frase "עיר [ה]צדק" ("ciudad de justicia"), confirmando la raíz tsedeq ya distinguida en la nota 83. Es, de los siete testigos trabajados hasta ahora en este archivo, el que menos rindió en el chequeo doctrinal — coherente con lo ya observado para este mismo rollo en la sección de crítica textual, donde también la mayoría de los cruces con notas ya documentadas cayó en tramos reconstruidos. E1 el dato, verificado a nivel de signo individual; se deja constancia de los seis casos sin dato, por transparencia.
 
 ---
 ---
@@ -2466,6 +2472,8 @@ A diferencia de Génesis y Éxodo, acá el texto es fragmentario y el hallazgo c
 **120 — ישראל לא יאסף, con negación, en vez de לו יאסף (49:5).** Cf. nota 57 (1QIsaa tiene "וישראל לו יאסף", sin negación, donde el TM tiene "וְיִשְׂרָאֵל לֹא יֵאָסֵף", con negación — una diferencia de una sola letra, vav por álef, con efecto real sobre el sentido del verso). 4Q58 conserva genuinamente "ישראל לא יאסף", con la negación intacta, coincidiendo con el TM. Es un caso de **4Q58 con el TM contra 1QIsaa**, el más nítido de esta tanda: la variante consonántica de una sola letra documentada en la nota 57, que en su momento quedó marcada como dato firme pero de motivación abierta, ahora tiene un segundo testigo qumránico —independiente de 1QIsaa— que conserva la negación del TM. E1 el dato, verificado a nivel de signo individual.
 
 **121 — עבדי, "mi siervo," en vez de עבד׳ו (53:11), y אור probablemente presente.** Cf. nota 64 (la variante más famosa de 1QIsaa: אור, "luz", más עבד׳ו, "su siervo", en tercera persona donde el TM tiene עַבְדִּי, "mi siervo"; ya confirmada de forma independiente por 1Q8 en la nota 96). 4Q58 conserva genuinamente עבדי ("mi siervo"), coincidiendo con el TM y no con עבד׳ו de 1QIsaa — un tercer testigo (junto con el TM y 1Q8) para esta parte de la variante. Sobre אור: en 4Q58 las letras א y ו están conservadas con cierta incertidumbre de lectura, y la ר final cae dentro de un pequeño corchete de reconstrucción —una evidencia real pero parcial, menos concluyente que la de 1Q8, donde la palabra completa está plenamente conservada sin ninguna marca—. El resto del verso ("בדעתו יצדיק צדיק") está genuinamente conservado en 4Q58 sin ningún hueco, coincidiendo con el TM. E1 el dato de עבדי, verificado a nivel de signo individual; E1 también el dato parcial de אור; D1 la lectura de que אור estaba probablemente presente en 4Q58 en su forma completa, dado que las letras conservadas son compatibles solo con esa palabra y no con ninguna alternativa razonable en este contexto.
+
+**125 — פשעים, חטאי, צדקה, רוח y נשמות conservadas en 4Q58 (53:12, 58:2, 57:16) — chequeo doctrinal.** Cf. notas 81 (pecado), 83 (justicia) y 87 (alma-espíritu-aliento). De los trece versos donde alguna categoría doctrinal cae dentro de la cobertura de 4Q58, siete no dieron dato usable: 48:8, 53:8, 53:11 (avon — aunque este verso ya está extensamente tratado en la nota 121 por otras razones), 57:17 y 58:1 (pecado, todos en tramos dañados); 49:8 y 54:10 (pacto, ברית no aparece entre lo conservado en ninguno de los dos); 49:6 (bendecir, נקל en un tramo dañado); 49:7 (fe, נאמן en un tramo dañado); 54:4 (temor, תיראי en un tramo dañado). Tres versos dieron dato real y particularmente rico: en 53:12, tanto פשעים como חטאי están genuinamente conservadas en la misma frase ("ואת פשעים נמנה והוא חטאי רבים נשא"), confirmando ambas raíces de la tríada de pecado de la nota 81 en un mismo verso, sin ninguna confusión entre ellas; en 58:2, צדקה está genuinamente conservada ("אשר צדקה"), aunque משפט de este mismo verso cae en un tramo dañado; y en 57:16, tanto רוח como נשמות (en plural) están genuinamente conservadas ("כי רוח מלפני יעטף ונשמות אני עשיתי"), confirmando dos de los tres términos de la tríada נפש/רוח/נשמה de la nota 87 en el mismo verso donde ya se había verificado para 1QIsaa. En los tres casos, sin excepción, 4Q58 confirma al TM y a las distinciones ya establecidas. E1 los datos, verificados a nivel de signo individual; se deja constancia de los siete casos sin dato, por transparencia.
 
 ---
 ---
