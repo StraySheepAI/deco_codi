@@ -255,7 +255,7 @@ window.ROLLOS_DATA={
       {
         "number": "5-6",
         "hebrew": "ויברא יהוה על כול מכון הר ציון ועל מקרא׳ה ענן יוממ׃ מחרב ולמחסה ולמסתור מזרם וממטר׃",
-        "text": "creará YHWH sobre todo lugar del monte de Sión, y sobre sus asambleas, una nube de día¹⁷ —del calor, y para refugio y escondedero contra turbión y contra lluvia."
+        "text": "creará YHWH sobre todo lugar del monte de Sión, y sobre sus asambleas, una nube de día¹⁷ —del calor, y para refugio y escondedero contra turbión y contra lluvia¹¹⁴."
       }
     ],
     "5": [
@@ -1184,7 +1184,7 @@ window.ROLLOS_DATA={
       {
         "number": "16-17",
         "hebrew": "כי כה אמר יהוה אל׳י בעוד שלוש שנים כשני שכיר יכלה כבוד קדר׃ ושאר מספר קשת גבורי בני קדר ימעטו כי יהוה אלוהי ישראל דבר׃",
-        "text": "Porque así me ha dicho YHWH: de aquí a tres años³⁵, como años de jornalero, se acabará toda la gloria de Kedar. Y las reliquias del número de los arqueros, fuertes de los hijos de Kedar, serán disminuidas; porque YHWH, Elohim de Israel, lo ha dicho."
+        "text": "Porque así me ha dicho YHWH: de aquí a tres años³⁵, como años de jornalero, se acabará toda la gloria de Kedar. Y las reliquias del número de los arqueros, fuertes de los hijos de Kedar, serán disminuidas; porque YHWH, Elohim de Israel, lo ha dicho¹¹⁵."
       }
     ],
     "22": [
@@ -6468,6 +6468,28 @@ window.ROLLOS_DATA={
       ],
       "hebrew": "מיום / מִיָּם — lectura propia de 4Q57",
       "teaser": "Una sola vav cambia el mar por un día."
+    },
+    {
+      "id": 114,
+      "chapter": 4,
+      "title": "ונגה אש להבה... כי על כל כבוד חפה conservada",
+      "body": "Cf. nota 17 (1QIsaa omite catorce palabras del TM entre \"una nube de día\" y \"del calor\", por un salto de copista sobre la palabra \"יומם/יום\" repetida cerca). 4Q55 conserva genuinamente buena parte de esa misma cláusula: \"ונגה אש להבה לי[לה] כי על כל כבוד חפה\" (\"y el resplandor de fuego llameante de noche; porque sobre toda gloria habrá un pabellón\") — prácticamente toda la frase que falta en 1QIsaa, sin ninguna marca de reconstrucción en las palabras clave. Es un caso de *4Q55 con el TM contra 1QIsaa*: un segundo testigo independiente (además de 1Q8 y 4Q57 para otras omisiones grandes de 1QIsaa, notas 92, 97, 99, 101, 111) confirma que esta clase de ausencias son pérdidas reales propias de la transmisión de 1QIsaa, no lecturas compartidas por los demás rollos de Isaías hallados en Qumrán. E1 el dato, verificado a nivel de signo individual.",
+      "evidence": [
+        "E1"
+      ],
+      "hebrew": "ונגה אש להבה, conservada en 4Q55",
+      "teaser": "Un quinto testigo respalda otra vez la misma conclusión."
+    },
+    {
+      "id": 115,
+      "chapter": 21,
+      "title": "אדני conservada",
+      "body": "Cf. nota 35 (1QIsaa sustituye אדני del TM por el nombre divino יהוה en este punto, parte del patrón de alternancia de epítetos divinos ya documentado repetidas veces en este archivo). 4Q55 conserva genuinamente \"]אמר אדני אלי\" (\"así me dijo Adonai\"), coincidiendo con el TM. Es un caso de *4Q55 con el TM contra 1QIsaa*, y una nueva pieza a favor de que esa alternancia de epítetos —ya vista una y otra vez en 1QIsaa a lo largo de todo este archivo— es un rasgo propio de la transmisión particular de ese rollo, no compartido por los demás testigos qumránicos de Isaías donde estos conservan texto en los mismos puntos (cf. también las notas 91 y 96 con 4Q56, donde 4Q56 y 4Q55 respaldan de forma independiente al TM en distintos casos de esta misma alternancia). El plazo de la profecía (\"tres años\", también en disputa según la nota 35) cae, en este verso, en un tramo reconstruido de 4Q55 y no se puede verificar. E1 el dato, verificado a nivel de signo individual.",
+      "evidence": [
+        "E1"
+      ],
+      "hebrew": "אֲדֹנָי conservada en 4Q55 (21:16)",
+      "teaser": "Otro epíteto divino que 1QIsaa cambia, y otro rollo que no."
     }
   ],
   "meta": {

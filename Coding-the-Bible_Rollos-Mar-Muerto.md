@@ -1,4 +1,4 @@
-# Coding the Bible — Rollos del Mar Muerto (1QIsaa, Isaías 1 a 66 — libro completo; más 1Q8, 4Q56 y 4Q57, segundo a cuarto testigo)
+# Coding the Bible — Rollos del Mar Muerto (1QIsaa, Isaías 1 a 66 — libro completo; más 1Q8, 4Q56, 4Q57 y 4Q55, segundo a quinto testigo)
 
 ### Lectura DIMA — decodificación integral desde el hebreo/arameo original
 
@@ -126,7 +126,7 @@ A diferencia de Génesis y Éxodo, acá el texto es fragmentario y el hallazgo c
 
 **4** Cuando el Señor lave la inmundicia de las hijas de Sión, y limpie las sangres de en medio de Yerushalaim, con espíritu de juicio y con espíritu de devastación,
 
-**5-6** creará YHWH sobre todo lugar del monte de Sión, y sobre sus asambleas, una nube de día¹⁷ —del calor, y para refugio y escondedero contra turbión y contra lluvia.
+**5-6** creará YHWH sobre todo lugar del monte de Sión, y sobre sus asambleas, una nube de día¹⁷ —del calor, y para refugio y escondedero contra turbión y contra lluvia¹¹⁴.
 
 ## 1QIsaa · Isaías 5
 
@@ -518,7 +518,7 @@ A diferencia de Génesis y Éxodo, acá el texto es fragmentario y el hallazgo c
 
 **15** Porque huyen de la presencia de las espadas, de la presencia de la espada desnuda, de la presencia del arco entesado, de la presencia del peso de la batalla.
 
-**16-17** Porque así me ha dicho YHWH: de aquí a tres años³⁵, como años de jornalero, se acabará toda la gloria de Kedar. Y las reliquias del número de los arqueros, fuertes de los hijos de Kedar, serán disminuidas; porque YHWH, Elohim de Israel, lo ha dicho.
+**16-17** Porque así me ha dicho YHWH: de aquí a tres años³⁵, como años de jornalero, se acabará toda la gloria de Kedar. Y las reliquias del número de los arqueros, fuertes de los hijos de Kedar, serán disminuidas; porque YHWH, Elohim de Israel, lo ha dicho¹¹⁵.
 
 ## 1QIsaa · Isaías 22
 
@@ -2423,6 +2423,19 @@ A diferencia de Génesis y Éxodo, acá el texto es fragmentario y el hallazgo c
 **112 — לדעה את כבוד יהוה, con כבוד añadido (9:9-10 según la numeración de este archivo, TM 11:9).** El TM tiene "כִּי מָלְאָה הָאָרֶץ דֵּעָה אֶת יְהוָה" ("porque la tierra estará llena del conocimiento DE YHWH"); 1QIsaa, ya decodificado en este archivo, coincide exactamente con el TM en este punto ("כי תמלאה הארץ דעה את יהוה", sin כבוד). 4Q57 tiene, en cambio, "כיא מלאה הארץ לדע׳ה את כבוד יהוה" ("porque la tierra estará llena del conocimiento DE LA GLORIA DE YHWH") — con כבוד genuinamente conservado, verificado a nivel de signo individual, sin ninguna marca de reconstrucción. Es un caso de **4Q57 solo, frente a la coincidencia entre el TM y 1QIsaa**, y el origen de la variante es identificable: la fórmula "כִּי תִמָּלֵא הָאָרֶץ לָדַעַת אֶת כְּבוֹד יְהוָה" ("porque la tierra se llenará del conocimiento de LA GLORIA de YHWH") aparece, casi palabra por palabra, en Habacuc 2:14 (Nota fuera de corpus). Es probable que 4Q57 esté asimilando aquí la formulación mejor conocida de Habacuc a este verso de Isaías —el mismo tipo de fenómeno de asimilación entre pasajes cercanos o formularios ya documentado para 1QIsaa (nota 61, asimilación a 40:26) y para 4Q56 (nota 108, asimilación a 19:16)—, aunque en este caso el pasaje de origen no está en el mismo libro. E1 el dato de la lectura, verificado a nivel de signo individual; D1 la lectura de que se trata de una asimilación real a la fórmula de Habacuc 2:14, dada la coincidencia casi literal entre ambos versos, más que una variante textual independiente.
 
 **113 — מיום, "desde el día," en vez de מִיָּם, "desde el mar" (24:14-15 según la numeración de este archivo, TM 24:14).** El TM tiene "צָהֲלוּ מִיָּם" ("gritarán desde el MAR", מים); 1QIsaa, ya decodificado en este archivo, coincide con el TM en este punto ("צהלו מים", verificado en la entrada combinada 14-15 de este capítulo). 4Q57 tiene, en cambio, "וצהלו מיום" ("y gritarán desde el DÍA" o "a partir de ese día", מיום, con una vav de más que cambia por completo la palabra) — genuinamente conservado, con las dos palabras ("מ" y "יום") sin ninguna marca de reconstrucción. Es otro caso de **4Q57 solo, frente a la coincidencia entre el TM y 1QIsaa**: donde los otros dos testigos comparten la imagen geográfica ("desde el mar", en paralelo con "las costas" del verso siguiente), 4Q57 introduce una imagen temporal ("desde aquel día"), más cercana al lenguaje característico de fórmulas como "בַּיּוֹם הַהוּא" ("en aquel día"), muy frecuente en los capítulos 24-27 de Isaías (el llamado "Apocalipsis de Isaías", del cual este verso mismo forma parte). E1 el dato de la lectura, verificado a nivel de signo individual; D2 la lectura de que podría tratarse de una variante real influida por el lenguaje del propio pasaje ("aquel día"), o de una confusión gráfica de una sola letra (vav) entre dos palabras que se escriben de forma casi idéntica — ambigüedad no resuelta por este dato aislado.
+
+---
+---
+
+# 4Q55 — QUINTO TESTIGO DE ISAÍAS
+
+*4Q55 (también llamado 4QIsaᵃ — la sigla reinicia por cueva de hallazgo, y no guarda relación con 1QIsaa de la Cueva 1) es un quinto rollo de Isaías, distinto de los cuatro ya trabajados en este archivo. Cubre algo de texto en quince de los sesenta y seis capítulos —cien versos con al menos una palabra, cuarenta y ocho de ellos con cuatro palabras genuinamente conservadas o más—, con su tramo más fuerte en los capítulos 13 y 21 a 23 (los oráculos contra Babilonia, Dumah/Edom, Arabia, el valle de la visión y Tiro).*
+
+*Misma metodología. De los diez cruces con versos de notas ya documentadas, la mayoría cayó en tramos dañados de 4Q55 sin dato usable: 1:1-4, 2:9, 13:16 y 21:8 (esta última, la crux más citada de todo el corpus —¿הראה o אריה?— cae otra vez exactamente en el tramo reconstruido, como ya había ocurrido con 1Q8 y 4Q56; sí se observa, muy cerca, otra corrección antigua supralineal sobre עומד, del mismo tipo ya documentado repetidas veces en este archivo). Dos cruces sí dieron dato real, documentados en las notas 114 y 115.*
+
+**114 — ונגה אש להבה... כי על כל כבוד חפה conservada (4:5-6).** Cf. nota 17 (1QIsaa omite catorce palabras del TM entre "una nube de día" y "del calor", por un salto de copista sobre la palabra "יומם/יום" repetida cerca). 4Q55 conserva genuinamente buena parte de esa misma cláusula: "ונגה אש להבה לי[לה] כי על כל כבוד חפה" ("y el resplandor de fuego llameante de noche; porque sobre toda gloria habrá un pabellón") — prácticamente toda la frase que falta en 1QIsaa, sin ninguna marca de reconstrucción en las palabras clave. Es un caso de **4Q55 con el TM contra 1QIsaa**: un segundo testigo independiente (además de 1Q8 y 4Q57 para otras omisiones grandes de 1QIsaa, notas 92, 97, 99, 101, 111) confirma que esta clase de ausencias son pérdidas reales propias de la transmisión de 1QIsaa, no lecturas compartidas por los demás rollos de Isaías hallados en Qumrán. E1 el dato, verificado a nivel de signo individual.
+
+**115 — אדני conservada (21:16).** Cf. nota 35 (1QIsaa sustituye אדני del TM por el nombre divino יהוה en este punto, parte del patrón de alternancia de epítetos divinos ya documentado repetidas veces en este archivo). 4Q55 conserva genuinamente "]אמר אדני אלי" ("así me dijo Adonai"), coincidiendo con el TM. Es un caso de **4Q55 con el TM contra 1QIsaa**, y una nueva pieza a favor de que esa alternancia de epítetos —ya vista una y otra vez en 1QIsaa a lo largo de todo este archivo— es un rasgo propio de la transmisión particular de ese rollo, no compartido por los demás testigos qumránicos de Isaías donde estos conservan texto en los mismos puntos (cf. también las notas 91 y 96 con 4Q56, donde 4Q56 y 4Q55 respaldan de forma independiente al TM en distintos casos de esta misma alternancia). El plazo de la profecía ("tres años", también en disputa según la nota 35) cae, en este verso, en un tramo reconstruido de 4Q55 y no se puede verificar. E1 el dato, verificado a nivel de signo individual.
 
 ---
 ---
