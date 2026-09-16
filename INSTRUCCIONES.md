@@ -46,3 +46,9 @@ No parar a preguntar por decisiones de traducción menores. Parar y marcar (sin 
 1. Verificar que cada número de nota en superíndice del cuerpo tenga su nota correspondiente en LAS NOTAS, en el mismo orden en que aparecen en el texto (ya hubo un desorden de numeración una vez — chequear siempre antes de entregar).
 2. Actualizar el título del archivo ("Coding the Bible — Génesis 1 a N") al último capítulo cerrado.
 3. No tocar capítulos ni notas ya escritos salvo corrección explícita de un error.
+
+## Cierre de cableado al frontend (obligatorio cada vez que un libro/corpus nuevo se conecta a la app)
+Cada vez que un libro o corpus se agrega al frontend por primera vez (el paso de "cablear X a la interfaz"), antes de dar la tarea por terminada:
+1. Buscar en TODO el código de la interfaz (`index.html`, `app.js`, `styles.css`, cualquier otro archivo servido) texto o lógica que asuma una cantidad fija de libros disponibles — contadores en singular ("1 libro"), textos como "el único libro disponible", condicionales que solo contemplan un caso. Ese tipo de texto/lógica hardcodeada es la causa más probable de bugs invisibles cuando se agrega el próximo libro. Preferir siempre un valor calculado dinámicamente (contar cuántas entradas del registro de libros tienen el campo que las marca como "disponible") en vez de un número o texto fijo.
+2. No dar el cableado por confirmado solo por revisar el código local o el commit — hacer un fetch real a la URL de producción después del deploy y verificar el HTML/JS tal como lo sirve el servidor, con cache-buster si hace falta. La verificación válida es la respuesta real del servidor, no una inferencia sobre lo que el código "debería" hacer.
+3. Si se encuentra un texto/contador hardcodeado de una tanda anterior (que quedó desactualizado al agregar el libro actual), corregirlo en el mismo cierre, no dejarlo pendiente — y dejarlo dinámico para que no vuelva a desincronizarse con el próximo libro.
