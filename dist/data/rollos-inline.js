@@ -704,7 +704,7 @@ window.ROLLOS_DATA={
       {
         "number": "9-10",
         "hebrew": "לוא ירעו ולוא ישחיתו בהר קדש׳י כי תמלא׳ה הארץ דעה את יהוה כמים לים מכסים׃ והיה ביום ההוא שרש ישי אשר עמד לנס עמים אלי׳ו גואים ידרושו והיא מנוחת׳ו כבוד׃",
-        "text": "No harán mal ni dañarán en mi santo monte; porque la tierra será llena del conocimiento de YHWH, como las aguas cubren el mar. Y acontecerá en aquel tiempo, que la raíz de Ishay, la cual estará puesta por estandarte a los pueblos, será buscada por las naciones; y su morada será gloriosa."
+        "text": "No harán mal ni dañarán en mi santo monte; porque la tierra será llena del conocimiento de YHWH¹¹², como las aguas cubren el mar. Y acontecerá en aquel tiempo, que la raíz de Ishay, la cual estará puesta por estandarte a los pueblos, será buscada por las naciones; y su morada será gloriosa."
       },
       {
         "number": "11-12",
@@ -1350,7 +1350,7 @@ window.ROLLOS_DATA={
       {
         "number": "14-15",
         "hebrew": "המה ישאו קול׳ם ירונו בגאון יהוה ׳׳׳׳ צהלו מים׃ על כן בארים כבדו יהוה באיי הים שמ יהוה אלוהי ישראל׃",
-        "text": "Estos alzarán su voz, cantarán gozosos por la grandeza de YHWH, gritarán desde el mar. Por eso glorificad a YHWH en las regiones de la luz; en las costas del mar, al nombre de YHWH, Elohim de Israel."
+        "text": "Estos alzarán su voz, cantarán gozosos por la grandeza de YHWH, gritarán desde el mar¹¹³. Por eso glorificad a YHWH en las regiones de la luz; en las costas del mar, al nombre de YHWH, Elohim de Israel."
       },
       {
         "number": "16",
@@ -4100,7 +4100,7 @@ window.ROLLOS_DATA={
       {
         "number": "17",
         "hebrew": "כול כלי יוצר עלי׳ך לוא יצלח זואת נחלת עבדי יהוה וצדקת׳ם מאת׳י נואמ יהוה׃",
-        "text": "Toda herramienta que fuere fabricada contra ti, no prosperará⁶⁵. Ésta es la heredad de los siervos de YHWH, y su justicia, de parte mía, dice YHWH."
+        "text": "Toda herramienta que fuere fabricada contra ti, no prosperará⁶⁵. Ésta es la heredad de los siervos de YHWH¹¹¹, y su justicia, de parte mía, dice YHWH."
       }
     ],
     "55": [
@@ -6433,6 +6433,41 @@ window.ROLLOS_DATA={
       ],
       "hebrew": "עם כבד עון, corrección antigua en 4Q56",
       "teaser": "La misma mano correctora, en un manuscrito distinto."
+    },
+    {
+      "id": 111,
+      "chapter": 54,
+      "title": "וכול לשון conservada al comienzo de la cláusula",
+      "body": "Cf. nota 65 (la omisión más extensa documentada en los capítulos decodificados de 1QIsaa hasta ese punto: \"y toda lengua que se levantare contra ti en juicio, tú la condenarás\", ausente de 1QIsaa sin daño visible). 4Q57 conserva genuinamente, en este mismo punto del verso, \"ו כול לשון\" (\"y toda lengua\") — el comienzo mismo de la cláusula que falta en 1QIsaa — antes de que el resto de la frase (\"תקום אתך למשפט תרשיעי\") caiga en un tramo dañado del manuscrito. Es un caso de *4Q57 con el TM contra 1QIsaa*: aunque no se conserva la cláusula completa, el hecho de que 4Q57 tenga más texto en este punto exacto de lo que tiene 1QIsaa —que pasa directo de \"no prosperará\" a \"ésta es la heredad\"— es un dato real a favor de que la omisión de 1QIsaa en uno de los versos más extensamente recortados de todo ese rollo es una pérdida propia de ese único manuscrito, ahora con un segundo testigo independiente (además de las conclusiones ya alcanzadas para otras omisiones grandes de 1QIsaa mediante 1Q8, notas 92, 97, 99, 101) que apunta en la misma dirección. E1 el dato, verificado a nivel de signo individual.",
+      "evidence": [
+        "E1"
+      ],
+      "hebrew": "וכול לשון, conservada en 4Q57",
+      "teaser": "Un cuarto testigo apoya la misma conclusión sobre 1QIsaa."
+    },
+    {
+      "id": 112,
+      "chapter": 11,
+      "title": "לדעה את כבוד יהוה, con כבוד añadido",
+      "body": "El TM tiene \"כִּי מָלְאָה הָאָרֶץ דֵּעָה אֶת יְהוָה\" (\"porque la tierra estará llena del conocimiento DE YHWH\"); 1QIsaa, ya decodificado en este archivo, coincide exactamente con el TM en este punto (\"כי תמלאה הארץ דעה את יהוה\", sin כבוד). 4Q57 tiene, en cambio, \"כיא מלאה הארץ לדע׳ה את כבוד יהוה\" (\"porque la tierra estará llena del conocimiento DE LA GLORIA DE YHWH\") — con כבוד genuinamente conservado, verificado a nivel de signo individual, sin ninguna marca de reconstrucción. Es un caso de *4Q57 solo, frente a la coincidencia entre el TM y 1QIsaa*, y el origen de la variante es identificable: la fórmula \"כִּי תִמָּלֵא הָאָרֶץ לָדַעַת אֶת כְּבוֹד יְהוָה\" (\"porque la tierra se llenará del conocimiento de LA GLORIA de YHWH\") aparece, casi palabra por palabra, en Habacuc 2:14 (Nota fuera de corpus). Es probable que 4Q57 esté asimilando aquí la formulación mejor conocida de Habacuc a este verso de Isaías —el mismo tipo de fenómeno de asimilación entre pasajes cercanos o formularios ya documentado para 1QIsaa (nota 61, asimilación a 40:26) y para 4Q56 (nota 108, asimilación a 19:16)—, aunque en este caso el pasaje de origen no está en el mismo libro. E1 el dato de la lectura, verificado a nivel de signo individual; D1 la lectura de que se trata de una asimilación real a la fórmula de Habacuc 2:14, dada la coincidencia casi literal entre ambos versos, más que una variante textual independiente.",
+      "evidence": [
+        "E1",
+        "D1"
+      ],
+      "hebrew": "לדעה את כבוד יהוה — asimilación a Habacuc 2:14",
+      "teaser": "Isaías se cuela con una frase tomada de Habacuc."
+    },
+    {
+      "id": 113,
+      "chapter": 24,
+      "title": "מיום, \"desde el día,\" en vez de מִיָּם, \"desde el mar\"",
+      "body": "El TM tiene \"צָהֲלוּ מִיָּם\" (\"gritarán desde el MAR\", מים); 1QIsaa, ya decodificado en este archivo, coincide con el TM en este punto (\"צהלו מים\", verificado en la entrada combinada 14-15 de este capítulo). 4Q57 tiene, en cambio, \"וצהלו מיום\" (\"y gritarán desde el DÍA\" o \"a partir de ese día\", מיום, con una vav de más que cambia por completo la palabra) — genuinamente conservado, con las dos palabras (\"מ\" y \"יום\") sin ninguna marca de reconstrucción. Es otro caso de *4Q57 solo, frente a la coincidencia entre el TM y 1QIsaa*: donde los otros dos testigos comparten la imagen geográfica (\"desde el mar\", en paralelo con \"las costas\" del verso siguiente), 4Q57 introduce una imagen temporal (\"desde aquel día\"), más cercana al lenguaje característico de fórmulas como \"בַּיּוֹם הַהוּא\" (\"en aquel día\"), muy frecuente en los capítulos 24-27 de Isaías (el llamado \"Apocalipsis de Isaías\", del cual este verso mismo forma parte). E1 el dato de la lectura, verificado a nivel de signo individual; D2 la lectura de que podría tratarse de una variante real influida por el lenguaje del propio pasaje (\"aquel día\"), o de una confusión gráfica de una sola letra (vav) entre dos palabras que se escriben de forma casi idéntica — ambigüedad no resuelta por este dato aislado.",
+      "evidence": [
+        "E1",
+        "D2"
+      ],
+      "hebrew": "מיום / מִיָּם — lectura propia de 4Q57",
+      "teaser": "Una sola vav cambia el mar por un día."
     }
   ],
   "meta": {
