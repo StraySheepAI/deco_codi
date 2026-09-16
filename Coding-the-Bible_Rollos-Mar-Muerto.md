@@ -1,4 +1,4 @@
-# Coding the Bible — Rollos del Mar Muerto (1QIsaa, Isaías 1 a 66 — libro completo)
+# Coding the Bible — Rollos del Mar Muerto (1QIsaa, Isaías 1 a 66 — libro completo; más 1Q8, segundo testigo)
 
 ### Lectura DIMA — decodificación integral desde el hebreo/arameo original
 
@@ -412,7 +412,7 @@ A diferencia de Génesis y Éxodo, acá el texto es fragmentario y el hallazgo c
 
 **5** Y se dispondrá el trono en misericordia; y sobre él se sentará firmemente, en el tabernáculo de David, quien juzgue y busque el juicio, y apresure la justicia.
 
-**6** Hemos oído la soberbia de Moab, por extremo soberbia; su arrogancia, y su soberbia, y su altivez; por tanto³¹, sus mentiras no serán firmes.
+**6** Hemos oído la soberbia de Moab, por extremo soberbia; su arrogancia, y su soberbia, y su altivez; por tanto³¹, sus mentiras no serán firmes⁸⁸.
 
 **7** Por tanto aullará Moab, todo él aullará; gemiréis por los fundamentos de Kir-hareset, en gran manera afligidos.
 
@@ -622,7 +622,7 @@ A diferencia de Génesis y Éxodo, acá el texto es fragmentario y el hallazgo c
 
 **2-3** Abrid las puertas, y entrará la gente justa, guardadora de verdades. Tú guardarás en completa paz a aquel cuyo pensamiento en ti persevera; porque en ti³⁹.
 
-**4** Confiad en YHWH perpetuamente, porque en YAH, YHWH, está la fortaleza de los siglos.
+**4** Confiad en YHWH perpetuamente, porque en YAH, YHWH, está la fortaleza de los siglos⁸⁹.
 
 **5-6** Porque derribó a los que moraban en lugar sublime; humilló a la ciudad enaltecida, la humilló hasta la tierra, la derribó hasta el polvo. La hollará pie, los pies del afligido, los pasos de los menesterosos.
 
@@ -1054,7 +1054,7 @@ A diferencia de Génesis y Éxodo, acá el texto es fragmentario y el hallazgo c
 
 **19** El que vive, el que vive, este te dará alabanza, como yo hoy; el padre hará a los hijos notoria tu verdad.
 
-**20** [El que vive, el que vive, te dará alabanza, como yo hoy; el padre hará a los hijos notoria tu verdad.]⁴⁷ YHWH me salvará; y en mis días cantaremos nuestros cánticos en la casa de YHWH.
+**20** [El que vive, el que vive, te dará alabanza, como yo hoy; el padre hará a los hijos notoria tu verdad.]⁴⁷ YHWH me salvará⁹⁰; y en mis días cantaremos nuestros cánticos en la casa de YHWH.
 
 **21-22** Y había dicho Yeshayahu: tomen masa de higos, y pónganla en la llaga, y sanará. Dijo también Hizkiyahu: ¿qué señal tendré de que he de subir a la casa de YHWH?
 
@@ -1248,7 +1248,7 @@ A diferencia de Génesis y Éxodo, acá el texto es fragmentario y el hallazgo c
 
 **2** Cuando pases por las aguas, yo estaré contigo; y si por los ríos, no te anegarán. Cuando pases por el fuego, no te quemarás, ni la llama arderá en ti.
 
-**3** Porque yo YHWH, Elohim tuyo, el Santo de Israel, soy tu redentor⁵¹; a Egipto he dado por tu rescate, a Cus y a Sebá por ti.
+**3** Porque yo YHWH, Elohim tuyo, el Santo de Israel, soy tu redentor⁵¹; a Egipto he dado por tu rescate, a Cus y a Sebá por ti⁹¹.
 
 **4** Porque a mis ojos fuiste de grande estima, fuiste honorable, y yo te amé; daré, pues, hombres por ti, y naciones por tu vida.
 
@@ -1370,7 +1370,7 @@ A diferencia de Génesis y Éxodo, acá el texto es fragmentario y el hallazgo c
 
 **7** que formo la luz y creo las tinieblas, que hago la paz y creo el mal. Yo YHWH soy el que hago todo esto.
 
-**8** Rociad, cielos, de arriba, y las nubes destilen la justicia; ábrase la tierra, y florezca la salvación, y la justicia se produzca juntamente⁵⁰.
+**8** Rociad, cielos, de arriba, y las nubes destilen la justicia⁹²; ábrase la tierra, y florezca la salvación, y la justicia se produzca juntamente⁵⁰.
 
 **9** ¡Ay del que pleitea con su Hacedor! ¡El tiesto con los tiestos de la tierra! ¿Dirá el barro al que lo forma: qué haces? Tu obra, dirá de ti, no tiene manos.
 
@@ -1496,7 +1496,7 @@ A diferencia de Génesis y Éxodo, acá el texto es fragmentario y el hallazgo c
 
 **17** Así dice YHWH, Redentor tuyo, el Santo de Israel: yo, YHWH, Elohim tuyo, que te enseña provecho, que te encamina por el camino que has de andar, por el camino que anduvieres⁵⁶.
 
-**18** ¡Oh, si hubieras atendido a mis mandamientos! Fuera entonces tu paz como un río, y tu justicia como las ondas de la mar.
+**18** ¡Oh, si hubieras atendido a mis mandamientos! Fuera entonces tu paz como un río⁹³, y tu justicia como las ondas de la mar.
 
 **19** Fuera también tu simiente como la arena, y los renuevos de tus entrañas como sus granos; nunca su nombre fuera cortado ni raído de mi presencia.
 
@@ -1518,7 +1518,7 @@ A diferencia de Génesis y Éxodo, acá el texto es fragmentario y el hallazgo c
 
 **5** Ahora, pues, dice YHWH, el que me formó desde el vientre para ser su siervo, para volver a él a Yaakov, y para que Israel a él se recogiera⁵⁷ — porque estimado seré en los ojos de YHWH, y mi Elohim fue mi fortaleza —
 
-**6** y dijo: poco es para mí que seas mi siervo para levantar las tribus de Israel, y para restaurar a los preservados de Yaakov⁵⁸; también te di por luz de las naciones, para que seas mi salud hasta lo postrero de la tierra.
+**6** y dijo: poco es para mí que seas mi siervo para levantar las tribus de Israel, y para restaurar a los preservados de Yaakov⁵⁸; también te di por luz de las naciones, para que seas mi salud hasta lo postrero de la tierra⁹⁴.
 
 **7** Así dice YHWH, Redentor de Israel, el Santo suyo, al menospreciado de alma, al abominado de las naciones, al siervo de los tiranos: verán reyes, y se levantarán príncipes, y adorarán, por YHWH, que es fiel; por el Santo de Israel, que te escogió.
 
@@ -1596,7 +1596,7 @@ A diferencia de Génesis y Éxodo, acá el texto es fragmentario y el hallazgo c
 
 **5** Cercana está mi justicia, salido ha mi salud, y mis brazos juzgarán a los pueblos; a mí me esperarán las islas, y en mi brazo esperarán.
 
-**6** Alzad a los cielos vuestros ojos, y mirad hacia la tierra abajo; y ved quién creó estas cosas⁶¹, y a sus moradores, que como enjambre morirán de la misma manera; mas mi salud será para siempre, mi justicia no perecerá.
+**6** Alzad a los cielos vuestros ojos, y mirad hacia la tierra abajo; y ved quién creó estas cosas⁶¹, y a sus moradores, que como enjambre morirán de la misma manera; mas mi salud será para siempre, mi justicia no perecerá⁹⁵.
 
 **7** Oídme, los que conocéis justicia, pueblo en cuyo corazón está mi ley: no temáis afrenta de hombre, ni desmayéis por sus baldones.
 
@@ -1686,7 +1686,7 @@ A diferencia de Génesis y Éxodo, acá el texto es fragmentario y el hallazgo c
 
 **10** Con todo eso, YHWH quiso quebrantarlo, sujetándolo a padecimiento. Cuando hubiere puesto su vida en expiación por el pecado, verá linaje, vivirá por largos días, y la voluntad de YHWH será en su mano prosperada.
 
-**11** Del trabajo de su alma verá luz⁶⁴, y quedará satisfecho; con su conocimiento el justo, siervo suyo⁶⁴, justificará a muchos, y llevará las iniquidades de ellos.
+**11** Del trabajo de su alma verá luz⁶⁴, y quedará satisfecho; con su conocimiento el justo, siervo suyo⁶⁴, justificará a muchos⁹⁶, y llevará las iniquidades de ellos.
 
 **12** Por tanto yo le daré parte con los grandes, y con los fuertes repartirá despojos; por cuanto derramó su vida hasta la muerte, y fue contado con los transgresores, habiendo él llevado el pecado de muchos, y orando por los transgresores.
 
@@ -1732,7 +1732,7 @@ A diferencia de Génesis y Éxodo, acá el texto es fragmentario y el hallazgo c
 
 **2** ¿Por qué gastáis el dinero no en pan, y vuestro trabajo no en hartura? Oídme atentamente, y comed lo que es bueno, y deleitaráse vuestra alma con grosura.
 
-**3** Inclinad vuestro oído, y venid a mí; oíd, y vivirá vuestra alma; y haré con vosotros pacto eterno, las misericordias firmes de David.
+**3** Inclinad vuestro oído, y venid a mí; oíd, y vivirá vuestra alma; y haré con vosotros pacto eterno, las misericordias firmes de David¹⁰⁵.
 
 **4** He aquí que le he dado por testigo a los pueblos, por jefe y por maestro a los pueblos.
 
@@ -1766,7 +1766,7 @@ A diferencia de Génesis y Éxodo, acá el texto es fragmentario y el hallazgo c
 
 **5** yo les daré lugar en mi casa y dentro de mis muros, y nombre mejor que el de hijos e hijas; nombre perpetuo les daré, que nunca perecerá.
 
-**6** Y a los hijos de los extranjeros allegados a YHWH, para ser sus siervos⁶⁷, y a bendecir el nombre de YHWH, y guardar el sábado de profanarlo, y abrazar mi pacto,
+**6** Y a los hijos de los extranjeros allegados a YHWH, para ser sus siervos⁶⁷, y a bendecir el nombre de YHWH, y guardar el sábado de profanarlo, y abrazar mi pacto⁹⁷,
 
 **7** yo los llevaré al monte de mi santidad, y los recrearé en mi casa de oración; sus holocaustos y sus víctimas serán aceptos sobre mi altar; porque mi casa, casa de oración será llamada de todos los pueblos.
 
@@ -1818,7 +1818,7 @@ A diferencia de Génesis y Éxodo, acá el texto es fragmentario y el hallazgo c
 
 **18** Vi sus caminos, y le sané; y le guié, y di consuelo a él y a sus enlutados.
 
-**19** Crío fruto de labios: paz al lejano y al cercano⁶⁸, dijo YHWH; y le sané.
+**19** Crío fruto de labios: paz al lejano y al cercano⁶⁸, dijo YHWH; y le sané⁹⁸.
 
 **20** Mas los impíos son como la mar en tempestad, que no puede sosegarse, y sus aguas arrojan cieno y lodo.
 
@@ -1858,7 +1858,7 @@ A diferencia de Génesis y Éxodo, acá el texto es fragmentario y el hallazgo c
 
 **1** He aquí que no se ha acortado la mano de YHWH para salvar, ni hase agravado su oído para oír;
 
-**2** mas vuestras iniquidades han hecho división entre vosotros y vuestro Elohim, y vuestros pecados han hecho ocultar de vosotros su rostro, para no oír.
+**2** mas vuestras iniquidades han hecho división entre vosotros y vuestro Elohim, y vuestros pecados han hecho ocultar de vosotros su rostro, para no oír¹⁰⁶.
 
 **3** Porque vuestras manos están contaminadas de sangre, y vuestros dedos de maldad; vuestra lengua pronunciará iniquidad.
 
@@ -1908,7 +1908,7 @@ A diferencia de Génesis y Éxodo, acá el texto es fragmentario y el hallazgo c
 
 **4** Alza tus ojos alrededor, y mira, todos éstos se han juntado, han venido a ti; tus hijos vendrán de lejos, y tus hijas serán llevadas en brazos.
 
-**5** Entonces verás, y resplandecerás; y se ensanchará tu corazón⁶⁹, cuando se volviere a ti la multitud de la mar, y la fortaleza de las naciones haya venido a ti.
+**5** Entonces verás, y resplandecerás; y se ensanchará tu corazón⁶⁹, cuando se volviere a ti la multitud de la mar, y la fortaleza de las naciones haya venido a ti⁹⁹.
 
 **6** Multitud de camellos te cubrirá; dromedarios de Midián y de Efá; vendrán todos los de Sheba; traerán oro e incienso, y publicarán las alabanzas de YHWH.
 
@@ -1946,7 +1946,7 @@ A diferencia de Génesis y Éxodo, acá el texto es fragmentario y el hallazgo c
 
 ## 1QIsaa · Isaías 61
 
-**1** El espíritu de YHWH está sobre mí⁷⁰, porque me ungió YHWH; me ha enviado a predicar buenas nuevas a los abatidos, a vendar a los quebrantados de corazón, a publicar libertad a los cautivos, y a los presos abertura de la cárcel;
+**1** El espíritu de YHWH está sobre mí⁷⁰, porque me ungió YHWH; me ha enviado a predicar buenas nuevas a los abatidos, a vendar a los quebrantados de corazón, a publicar libertad a los cautivos, y a los presos abertura de la cárcel¹⁰⁰;
 
 **2** a publicar año de la buena voluntad de YHWH, y día de venganza del Elohim nuestro; a consolar a todos los enlutados;
 
@@ -2002,7 +2002,7 @@ A diferencia de Génesis y Éxodo, acá el texto es fragmentario y el hallazgo c
 
 **3** Pisado he yo solo el lagar, y de los pueblos nadie fue conmigo; y toda mi ropa ensucié⁷³.
 
-**4** Porque el día de la venganza está en mi corazón, y el año de mis redimidos es venido.
+**4** Porque el día de la venganza está en mi corazón, y el año de mis redimidos es venido¹⁰¹.
 
 **5** Y miré y no había quien ayudara, y me maravillé que no hubiera quien sustentase; y salvóme mi brazo, y sostúvome mi ira.
 
@@ -2104,7 +2104,7 @@ A diferencia de Génesis y Éxodo, acá el texto es fragmentario y el hallazgo c
 
 **22** No edificarán, y otro morará; no plantarán, y otro comerá; porque según los días de los árboles serán los días de mi pueblo, y mis escogidos gastarán las obras de sus manos.
 
-**23** No trabajarán en vano, ni parirán para terror repentino⁸⁴; porque son simiente de los benditos de YHWH, y sus descendientes con ellos.
+**23** No trabajarán en vano, ni parirán para terror repentino⁸⁴; porque son simiente de los benditos de YHWH, y sus descendientes con ellos¹⁰².
 
 **24** Y será que antes que llamen, responderé yo; aún ellos hablando, yo habré oído.
 
@@ -2114,7 +2114,7 @@ A diferencia de Génesis y Éxodo, acá el texto es fragmentario y el hallazgo c
 
 **1** Así dice YHWH: el cielo es mi trono, y la tierra estrado de mis pies; ¿dónde está la casa que me edificaréis, o dónde el lugar de mi reposo?
 
-**2** Mi mano hizo todas estas cosas, y así todas estas cosas fueron, dice YHWH; mas a aquel miraré que es pobre y humilde de espíritu, y que tiembla a mi palabra.
+**2** Mi mano hizo todas estas cosas, y así todas estas cosas fueron, dice YHWH; mas a aquel miraré que es pobre y humilde de espíritu, y que tiembla a mi palabra¹⁰⁴.
 
 **3** El que sacrifica buey, como si matase un hombre; el que sacrifica oveja, como si degollase un perro; el que ofrece presente, como si ofreciese sangre de puerco; el que ofrece perfume, como si bendijese a un ídolo. Y pues escogieron sus caminos, y su alma amó sus abominaciones,
 
@@ -2144,7 +2144,7 @@ A diferencia de Génesis y Éxodo, acá el texto es fragmentario y el hallazgo c
 
 **16** Porque YHWH juzgará con fuego, y con su espada a toda carne; y los muertos de él serán muchos⁷⁸.
 
-**17** Los que se santifican y los que se purifican en los huertos, unos tras otros, en medio de los que comen carne de puerco, y la abominación, y el ratón, juntamente⁷⁹, dijo YHWH.
+**17** Los que se santifican y los que se purifican en los huertos, unos tras otros, en medio de los que comen carne de puerco, y la abominación, y el ratón, juntamente⁷⁹, dijo YHWH¹⁰³.
 
 **18** Porque yo conozco sus obras y sus pensamientos; tiempo vendrá para juntar todas naciones y lenguas; y vendrán, y verán mi gloria.
 
@@ -2342,6 +2342,55 @@ A diferencia de Génesis y Éxodo, acá el texto es fragmentario y el hallazgo c
 **86 — יִרְאָה / פַּחַד, dos temores que no son el mismo (11:2).** El español de este archivo usa "temor" para ambas raíces, pero en hebreo no son sinónimas. יראה (yirah, del verbo ירא) es el temor reverencial — una virtud positiva cuando su objeto es YHWH, no terror sino asombro respetuoso. Es la que reposa sobre el vástago de Ishay junto con los demás dones del espíritu en 11:2-3, y la que en 33:6 se llama, sin ironía, "tesoro" de Sión. פחד (pachad) es el pavor, el terror físico y visceral — la palabra que describe la reacción humana ante la "presencia terrible de YHWH" cuando se levanta a juzgar la tierra (2:10,19,21) y ante calamidades reales (24:17-18). No es casualidad que 11:2-3 elija יראה y no פחד para describir la relación del Mesías davídico con YHWH: ese temor es participación reverente, no huida aterrorizada. El verbo ירא (yare), más genérico, cubre ambos matices según el contexto —de ahí que en 7:4, 41:10,13-14, 43:1,5 y 54:4 signifique simplemente "no temas" en sentido tranquilizador, y en 8:12-13 se use precisamente para contrastar el miedo a las conspiraciones humanas con la reverencia debida solo a YHWH. E1 la distinción y su distribución en el TM.
 
 **87 — נֶפֶשׁ / רוּחַ / נְשָׁמָה, tres términos para lo vital que no son intercambiables (42:5).** נפש (nefesh) no es "alma" en el sentido griego de una sustancia inmaterial separable del cuerpo: es el ser viviente completo, el apetito, el yo que desea — se traduce "alma" en este archivo por convención hispana, pero conviene leerlo como "persona/ser viviente". רוח (ruach) es el aliento animador, el viento, la fuerza vital que puede ser humana o divina — se traduce "espíritu". נשמה (neshamah) es específicamente la respiración que constituye la vida misma, la raíz del relato de Génesis 2:7 donde YHWH sopla "aliento de vida" en el ser humano (Nota fuera de corpus) — se traduce "respiración/aliento", salvo en plural, donde puede extenderse a significar los propios seres vivientes ("almas" que respiran). Isaías empareja deliberadamente dos de estos tres términos en varios versos clave: 42:1 (נפש + רוח, la designación del Siervo: "mi alma tiene contentamiento... he puesto sobre él mi espíritu"); 42:5 (נשמה + רוח, el don de la vida a toda la humanidad: "da respiración al pueblo... y espíritu a los que por ella andan"); 26:9 (נפש + רוח, la búsqueda nocturna del orante); 57:16 (רוח + נשמה en plural, "las almas que yo he creado"). Se verificó que este archivo mantiene distinguibles los tres términos en las cuatro apariciones conjuntas. E1 la distinción y su distribución en el TM.
+
+---
+---
+
+# 1Q8 — SEGUNDO TESTIGO DE ISAÍAS
+
+*1Q8 (también llamado 1QIsaᵇ) es el segundo rollo de Isaías hallado en la Cueva 1 de Qumrán, distinto y más tardío que 1QIsaa (el rollo trabajado en todo lo anterior de este archivo). A diferencia de 1QIsaa, que conserva el libro casi completo, 1Q8 es un testigo fragmentario: de los sesenta y seis capítulos, tiene algo de texto físicamente conservado en cuarenta y nueve, y dentro de esos capítulos buena parte de las líneas están dañadas y solo se leen gracias a reconstrucción editorial moderna — letras y hasta frases enteras que el editor del volumen de DJD (Discoveries in the Judaean Desert) propuso por conjetura, no porque sobrevivan en el cuero. Este es el dato central que la erudición sobre Qumrán ya tenía establecido y que este chequeo confirma de nuevo: 1Q8 es un testigo mucho más cercano al perfil del TM que 1QIsaa — con una ortografía más breve (defectiva), sin la tendencia expansiva de 1QIsaa, y sin buena parte de las variantes idiosincráticas de ese rollo.*
+
+*Metodología: para no repetir el error de tratar una reconstrucción editorial como si fuera evidencia del propio manuscrito, cada nota de esta sección se verificó a nivel de signo individual (letra por letra) contra el feature `rec` de Text-Fabric, que marca qué letras están física y genuinamente conservadas y cuáles fueron restituidas por el editor moderno dentro de corchetes — una palabra entera puede tener parte de sus letras conservadas y parte reconstruidas, y solo la parte conservada cuenta como dato real de 1Q8. Con ese criterio, de los quinientos dos versos donde 1Q8 tiene al menos una palabra, cuatrocientos cinco tienen tres palabras genuinamente conservadas o más — el resto son apenas restos mínimos sin valor comparativo. La revisión se concentró en dos frentes: primero, los treinta versos donde 1Q8 coincide con un verso donde ya se documentó una variante de 1QIsaa frente al TM en este mismo archivo (notas 1 a 80) — ahí el segundo testigo aporta el dato más valioso, porque permite distinguir si una lectura de 1QIsaa es una tradición compartida o el perfil propio de ese único manuscrito; segundo, un muestreo más amplio de los versos mejor conservados de 1Q8 buscando variantes nuevas no documentadas para 1QIsaa. Cada nota indica explícitamente si los tres testigos coinciden, si 1Q8 se alinea con 1QIsaa contra el TM, si se alinea con el TM contra 1QIsaa, o si los tres difieren entre sí — las cuatro combinaciones posibles.*
+
+*Resultado honesto de ambos frentes: fuera de los cruces con notas ya documentadas de 1QIsaa, el muestreo amplio no encontró casi ninguna variante nueva que no fuera ortografía plena/defectiva ya explicada (nota 1) — consistente con el perfil de 1Q8 ya descrito en la bibliografía. La única excepción clara se documenta en la nota 104. Además, en varios de los treinta cruces con notas de 1QIsaa la palabra exacta en disputa cae precisamente dentro de un tramo reconstruido de 1Q8 y no hay dato real que aportar: 8:2 (nota 23), 13:16 (nota 28), 15:9 (nota 30, la palabra אריה/ארוה específica no sobrevive), 16:8 (nota 32), 16:12 (nota 33), 49:5 (nota 57, לו/לא no sobrevive), 49:9 (nota 59), 62:9-10 (nota 72, inconcluyente), 64:2 (nota 74) y 66:17 (nota 79, יספו no sobrevive). Se dejan consignados aquí por transparencia — se revisaron y no dieron dato, lo cual es distinto de no haberlos revisado.*
+
+**88 — לא, en vez de לכן (16:6).** Cf. nota 31 de este archivo (1QIsaa lee לכן, "por tanto", donde el TM tiene לֹא כֵן, "no es así", una posible pérdida del álef de la negación). 1Q8 tiene, en este punto, לא claramente conservado en el manuscrito, sin ninguna marca de reconstrucción — coincide con el TM, no con 1QIsaa. Es un caso de **1Q8 con el TM contra 1QIsaa**, y fortalece la lectura ya propuesta en la nota 31: la ausencia del álef en 1QIsaa es más probablemente un descuido de copista aislado de ese rollo que una variante textual compartida, ya que el segundo testigo qumránico conserva la negación. E1 el dato de la lectura de 1Q8, verificado a nivel de signo individual.
+
+**89 — בטוח, "confía" (26:3).** Cf. nota 39 (1QIsaa omite el verbo final del verso, "porque en ti confía", dejando la cláusula sin predicado). 1Q8 tiene בטוח genuinamente conservado en este punto exacto del verso, junto con el resto de la cláusula ("שלום כי בך בטוח"). Es un caso de **1Q8 con el TM contra 1QIsaa**: la omisión de 1QIsaa en uno de los versos más citados del libro no se repite en el segundo testigo, lo cual apoya la lectura de la nota 39 de que se trata de una pérdida real y aislada de 1QIsaa, no de una tradición textual compartida. E1 el dato, verificado a nivel de signo individual.
+
+**90 — sin repetición del v. 19 en el v. 20 (38:19-20).** Cf. nota 47 (1QIsaa repite, por error de copista, el contenido completo del v. 19 al comienzo del v. 20, antes de continuar con el texto correspondiente de ese verso). 1Q8 conserva el v. 20 completo y genuinamente legible: "יהוה להשיעני ונגנותי ננגן כל ימי חיינו על בית יהוה" — el texto normal y no duplicado, coincidiendo con el TM. Es un caso de **1Q8 con el TM contra 1QIsaa**: la ditografía de 1QIsaa en este punto es un error de transmisión propio de ese único manuscrito, no compartido por el segundo testigo qumránico. E1 el dato, verificado a nivel de signo individual.
+
+**91 — מושיעך, "tu salvador," en vez de גואלך (43:3).** Cf. nota 51 (1QIsaa sustituye מושיעך del TM por גואלך, "tu redentor", posiblemente por armonización con el vocabulario dominante en estos capítulos). 1Q8 tiene מושיעך genuinamente conservado en este punto, coincidiendo con el TM. Es un caso de **1Q8 con el TM contra 1QIsaa**: la sustitución documentada en la nota 51 no se repite en el segundo testigo, lo cual hace más probable que sea una variante léxica propia de 1QIsaa (armonización interna de ese copista) que una tradición textual compartida por los rollos de Qumrán en general. E1 el dato, verificado a nivel de signo individual.
+
+**92 — יחד אני יהוה בראתיו, "junto; yo, YHWH, lo he creado" (45:8).** Cf. nota 50 (1QIsaa omite esta cláusula final del verso conocido en la liturgia de Adviento como "Rorate caeli"). 1Q8 conserva genuinamente esta cláusula completa al final del verso: "]י[חד אני יהוה בראתיו" — coincidiendo con el TM. Es un caso de **1Q8 con el TM contra 1QIsaa**: la omisión de 1QIsaa en este verso célebre no se repite en el segundo testigo, apoyando la lectura de la nota 50 de que se trata de una pérdida real de texto en 1QIsaa. E1 el dato, verificado a nivel de signo individual.
+
+**93 — מדריכך בדרך תלך, forma breve, sin אשר...בה (48:17).** Cf. nota 56 (1QIsaa expande el cierre del verso con la partícula relativa אשר y un pronombre redundante que el TM no tiene). 1Q8 conserva "להועיל מדריכך בדרך תלך" — la forma breve, coincidiendo con el TM, sin la expansión de 1QIsaa. Es un caso de **1Q8 con el TM contra 1QIsaa**: la expansión sintáctica documentada en la nota 56 no se repite en el segundo testigo, lo cual la sitúa como un rasgo propio de 1QIsaa (coherente con el perfil expansivo general de ese copista, cf. nota 1) y no una tradición textual compartida. E1 el dato, verificado a nivel de signo individual.
+
+**94 — שבטי יעקב / נצורי ישראל, orden del TM (49:6).** Cf. nota 58 (1QIsaa invierte el orden de los dos nombres propios, "tribus de Israel... preservados de Yaakov"). 1Q8 conserva genuinamente "את שבטי יעקב ונצורי ישראל" — el orden del TM, sin la inversión de 1QIsaa. Es un caso de **1Q8 con el TM contra 1QIsaa**: confirma directamente la lectura ya ofrecida en la nota 58 (D2, "simple inversión mecánica del copista de este rollo, sin mayor peso") — el segundo testigo qumránico tiene el orden normal, lo que hace mucho más probable que la inversión sea un desliz aislado de 1QIsaa y no una variante textual real. E1 el dato, verificado a nivel de signo individual.
+
+**95 — ]ש[מים, primera letra conservada (51:6).** Cf. nota 61 (1QIsaa reemplaza la imagen cósmica del TM, "los cielos como humo se desvanecerán", por una frase asimilada de 40:26, "y ved quién creó estas cosas"). En el punto exacto donde el TM tiene שָׁמַיִם ("cielos") y 1QIsaa tiene מִי ("quién"), 1Q8 conserva una sola letra genuina en ese lugar — una ש — antes de que el resto de la palabra caiga en un tramo dañado. Una ש inicial es compatible con שמים (TM) pero no con מי (1QIsaa, que empezaría con מ). Es un dato mínimo pero diagnóstico: apoya, con la debida cautela por tratarse de una sola letra, que 1Q8 tenía en este punto la imagen del TM y no la asimilación a 40:26 de 1QIsaa — otro caso de **1Q8 con el TM contra 1QIsaa**. E1 el dato de la letra conservada, verificado a nivel de signo individual; D2 la lectura de que esa única letra probablemente indica la forma del TM, dado que es la única opción compatible entre las dos lecturas en disputa, aunque el resto de la palabra no sobrevive para confirmarlo del todo.
+
+**96 — אור conservada, y עבדי, "mi siervo," en vez de עבד׳ו (53:11).** Cf. nota 64 (la variante más famosa de 1QIsaa: אור, "luz", ausente del TM, más עבד׳ו, "su siervo", en tercera persona donde el TM tiene עַבְדִּי, "mi siervo"). En este único verso, 1Q8 se reparte entre las dos partes en disputa: primero, אור está genuinamente conservada en 1Q8, sin ninguna marca de reconstrucción — coincidiendo con 1QIsaa y no con el TM, un caso de **1Q8 con 1QIsaa contra el TM**. Esto es un dato mayor: la lectura "luz" en 53:11, ya respaldada por la Septuaginta (nota 64), cuenta ahora con el testimonio independiente de los DOS rollos de Isaías hallados en Qumrán, además del testigo griego — tres testigos antiguos distintos, ninguno de ellos el TM, coinciden en "luz". Segundo, más adelante en el mismo verso, 1Q8 tiene עבדי genuinamente conservado —"MI siervo", primera persona, igual que el TM— donde 1QIsaa tiene עבד׳ו ("SU siervo", tercera persona): aquí es **1Q8 con el TM contra 1QIsaa**. El mismo verso, entonces, muestra los dos patrones de alineación posibles en direcciones opuestas: 1Q8 respalda a 1QIsaa en la variante más citada del verso, y respalda al TM en la variante menor de persona gramatical. E1 ambos datos, verificados a nivel de signo individual del manuscrito.
+
+**97 — לשרתו ולאהבה את שם יהוה conservada (56:6).** Cf. nota 67 (1QIsaa omite esta cláusula completa, "para servirle y para amar el nombre de YHWH", entre "allegados a YHWH" y "para ser sus siervos"). 1Q8 conserva la cláusula completa y genuinamente legible en este punto: "לשרתו ולאהבה את שם יהוה" — coincidiendo con el TM. Es un caso de **1Q8 con el TM contra 1QIsaa**: la omisión documentada en la nota 67 no se repite en el segundo testigo, lo cual apoya que se trata de una pérdida real y propia de la transmisión de 1QIsaa. E1 el dato, verificado a nivel de signo individual — nótese además una corrección antigua supralineal en este mismo verso (una ה agregada sobre בני נכר), del mismo tipo ya documentado repetidas veces para 1QIsaa, mostrando que también los copistas y correctores de 1Q8 revisaban activamente su propio trabajo.
+
+**98 — שלום שלום, dos veces (57:19).** Cf. nota 68 (1QIsaa tiene "paz" una sola vez donde el TM la repite dos veces seguidas, "paz, paz, al lejano y al cercano" — parte del patrón de fórmulas dobladas reducidas a una sola instancia, ya documentado seis veces para 1QIsaa: notas 19, 20, 25, 66 y 72). 1Q8 conserva genuinamente ambas instancias de שלום en este verso — la primera completa, y de la segunda sobreviven tres de sus cuatro letras (solo la ש inicial cae en un tramo dañado, con el resto ל-ו-ם plenamente legible, lo que hace prácticamente segura la presencia de la palabra completa). Es un caso de **1Q8 con el TM contra 1QIsaa**: la fórmula doblada del TM se conserva en el segundo testigo, mostrando que la reducción a una sola instancia en 57:19 es un rasgo propio de 1QIsaa en este verso puntual, no necesariamente compartido en cada caso del patrón general. E1 el dato, verificado a nivel de signo individual.
+
+**99 — ופחד conservada (60:5).** Cf. nota 69 (1QIsaa omite ופחד, "y temerás", entre "entonces verás y resplandecerás" y "se ensanchará tu corazón"). 1Q8 conserva genuinamente "ונהרת ופחד ורחב לבבך" — la palabra completa, coincidiendo con el TM. Es un caso de **1Q8 con el TM contra 1QIsaa**: la omisión de una sola palabra documentada en la nota 69 no se repite en el segundo testigo. E1 el dato, verificado a nivel de signo individual.
+
+**100 — רוח יהוה אלהים, tercera lectura distinta del verso más citado (61:1).** Cf. nota 70 (el TM tiene רוּחַ אֲדֹנָי יְהוִה, "el espíritu del Señor YHWH"; 1QIsaa tiene solo רוח יהוה, sin אדני). En este mismo punto, 1Q8 tiene אלהים genuinamente conservado justo después de las letras finales de יהוה (también conservadas) — es decir, 1Q8 lee "רוח יהוה אלהים עלי", una TERCERA combinación de epítetos divinos, distinta tanto del TM (que no tiene אלהים en ningún punto de este verso) como de 1QIsaa (que no tiene ni אדני ni אלהים). Es el primer caso documentado en este archivo, para este verso tan citado, donde **los tres testigos difieren entre sí** en un mismo punto: TM = "אדני יהוה", 1QIsaa = "יהוה" a secas, 1Q8 = "יהוה אלהים". Dado que este verso es el que Yeshúa lee en la sinagoga de Nazaret según Lucas 4:18 (Nota fuera de corpus), el hallazgo es de peso: ninguno de los tres testigos antiguos coincide exactamente en cómo nombra a la divinidad en su primera línea. E1 el dato de la lectura de 1Q8, verificado a nivel de signo individual; D2 la lectura de que se trata de otra instancia del patrón general de alternancia de epítetos divinos ya documentado en 1QIsaa (notas 22, 35, 40, 48, 70, 71, 78), ahora con un tercer testigo aportando su propia combinación, sin que pueda establecerse cuál de las tres formas es la más antigua.
+
+**101 — ואדרכם באפי וארמסם בחמתי ויז נצחם על בגדי, conservada íntegra (63:2-3).** Cf. nota 73 (la omisión más extensa documentada en todo 1QIsaa: ocho palabras con la imagen violenta del pisar en el lagar, "los pisé en mi ira, los hollé en mi furor, y su sangre salpicó mis vestidos"). 1Q8 conserva esta cláusula COMPLETA y genuinamente legible, palabra por palabra, sin ninguna marca de reconstrucción: "ואדרכם באפי וארמסם בחמתי ויז נצחם על בגדי" — coincidiendo exactamente con el TM. Es uno de los casos de **1Q8 con el TM contra 1QIsaa** más contundentes de todo este chequeo: la omisión más grande de todo 1QIsaa resulta ser, con la evidencia del segundo testigo qumránico, una pérdida real y aislada de ese único manuscrito — ninguno de los otros dos testigos antiguos la comparte. E1 el dato, verificado a nivel de signo individual del manuscrito.
+
+**102 — בהלה conservada (65:23).** Cf. nota 84 (el chequeo de vocabulario doctrinal encontró que este archivo traducía "para maldición" una palabra que en realidad es בהלה, "terror repentino", sin relación con ninguna raíz de maldecir, y corrigió la traducción). 1Q8 conserva genuinamente בהלה en este punto exacto, letra por letra, coincidiendo con el TM y con la corrección ya aplicada. No es un caso de tres testigos en disputa, sino una confirmación directa por un segundo testigo independiente de que la corrección del chequeo doctrinal (nota 84) era la lectura correcta del hebreo. E1 el dato, verificado a nivel de signo individual.
+
+**103 — חללי יהוה, terminación en ה (66:16).** Cf. nota 78 (1QIsaa tiene חללי׳ו, "SUS muertos", con sufijo pronominal en tercera persona, donde el TM tiene חַלְלֵי יְהוָה, "los muertos DE YHWH", con el nombre divino explícito). En el punto exacto donde divergen ambas lecturas, 1Q8 conserva genuinamente la letra final ה — compatible con יהוה (TM) pero no con חלליו (1QIsaa, que terminaría en ו). Es, con la misma cautela que en la nota 95 por tratarse de una sola letra diagnóstica, otro caso de **1Q8 con el TM contra 1QIsaa**: apoya que la sustitución del nombre divino explícito por el sufijo pronominal en 66:16 es un rasgo propio de 1QIsaa, no compartido por el segundo testigo qumránico. E1 el dato de la letra conservada, verificado a nivel de signo individual; D2 la lectura de que esa letra final indica la forma del TM, dado que es la única de las dos opciones en disputa compatible con ella.
+
+**104 — אל, en vez de עַל (66:2) — variante nueva, no cruzada con 1QIsaa.** El TM tiene "וְחָרֵד עַל דְּבָרִי" ("y que tiembla POR mi palabra", preposición על); 1QIsaa tiene "והחורד לדברי" (preposición ל, "tiembla ANTE mi palabra", con artículo agregado); 1Q8 tiene, genuinamente conservado, "וחרד אל דברי" (preposición אל, "tiembla HACIA/ANTE mi palabra"). Es el único caso encontrado en el muestreo amplio (fuera de los cruces con notas ya documentadas de 1QIsaa) donde **los tres testigos difieren entre sí**, cada uno con una preposición distinta para la misma idea general. El sentido no cambia sustancialmente en ninguna de las tres formas, pero es un dato real de variación textual en las tres tradiciones a la vez, en un verso que describe a quien "tiembla ante la palabra" de YHWH como el objeto de su mirada. E1 el dato de la lectura de 1Q8, verificado a nivel de signo individual; D2 la lectura de que se trata de fluctuación normal entre preposiciones cercanas en función (על/אל/ל pueden alternar en hebreo tardío sin cambio de sentido claro), no de una variante teológicamente cargada.
+
+**105 — כרת/נתן ברית conservada en 1Q8 (55:3, 56:4) — extensión del chequeo doctrinal.** Cf. nota 82 (pacto: כרת/נתן/הקים ברית no son sinónimos). Donde 1Q8 tiene texto conservado en versos con בְּרִית ya citados en la nota 82, confirma la lectura del TM en cada caso: en 55:3, "לכם ברית עולם חסדי דויד הנאמנים" está genuinamente conservado (aunque el verbo ואכרתה mismo cae en un tramo dañado); en 56:4, "מחזיקים ב]ב[רית׳י" está genuinamente conservado. En ninguno de los dos casos hay divergencia entre los tres testigos — los tres coinciden en que בְּרִית aparece en estos puntos exactos del texto. Dato de confirmación, no de variante: 1Q8, donde tiene texto, no complica la distinción de verbos de pacto ya establecida en la nota 82, sino que la respalda. E1 el dato, verificado a nivel de signo individual.
+
+**106 — חטא/עוון y מִשְׁפָּט/צְדָקָה conservadas en 1Q8 (59:2) — extensión del chequeo doctrinal.** Cf. notas 81 (pecado) y 83 (justicia). El verso 59:2 está genuinamente conservado en 1Q8 de punta a punta: "כי עונתיכם היו מבדילים ביניכם ובין אלהיכם וחטאתיכם הסתירו פנים מכם משמוע" — עוון y חטא aparecen exactamente donde el TM y 1QIsaa las tienen, sin ninguna confusión entre las dos raíces. De modo semejante, tres de los dieciocho versos con el par מִשְׁפָּט/צְדָקָה citados en la nota 83 tienen texto conservado en 1Q8: 50:8 (מצדיקי, משפטי, ambas genuinamente conservadas), 56:1 (el verso completo, "שמרו משפט ועשו צדקה... וצדקתי", conservado íntegro) y 58:2 (משפט y צדק, ambas conservadas). En los cuatro versos, sin excepción, los tres testigos coinciden — el segundo rollo de Isaías, donde tiene texto legible, confirma de manera independiente que las distinciones establecidas en el chequeo doctrinal para 1QIsaa (notas 81 y 83) no son un artefacto de un solo manuscrito, sino un rasgo estable del propio texto hebreo de Isaías a través de sus distintos testigos antiguos. E1 los cuatro datos, verificados a nivel de signo individual.
 
 ---
 ---
