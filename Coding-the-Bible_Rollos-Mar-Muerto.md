@@ -1,4 +1,4 @@
-# Coding the Bible — Rollos del Mar Muerto (1QIsaa, Isaías 1 a 66 — libro completo; más 1Q8, 4Q56, 4Q57, 4Q55, 4Q60 y 4Q58, segundo a séptimo testigo)
+# Coding the Bible — Rollos del Mar Muerto (1QIsaa, Isaías 1 a 66 — libro completo; más 1Q8, 4Q56, 4Q57, 4Q55, 4Q60, 4Q58 y 4Q59, segundo a octavo testigo)
 
 ### Lectura DIMA — decodificación integral desde el hebreo/arameo original
 
@@ -62,9 +62,9 @@ A diferencia de Génesis y Éxodo, acá el texto es fragmentario y el hallazgo c
 
 **1** Palabra que vio Yeshayahu hijo de Amotz, acerca de Yehudá y Yerushalaim.
 
-**2** Acontecerá en los postreros días, que será confirmado el monte de la casa de YHWH como cabeza de los montes, y será exaltado sobre los collados, y correrán a él todas las naciones.
+**2** Acontecerá en los postreros días, que será confirmado el monte de la casa de YHWH¹²⁷ como cabeza de los montes, y será exaltado sobre los collados, y correrán a él todas las naciones.
 
-**3** Y vendrán muchos pueblos, y dirán: venid, y subamos a la casa del Elohim de Yaakov¹², y nos enseñará sus caminos, y caminaremos por sus sendas; porque de Sión saldrá la ley, y de Yerushalaim la palabra de YHWH.
+**3** Y vendrán muchos pueblos, y dirán: venid, y subamos a la casa del Elohim de Yaakov¹², y nos enseñará sus caminos, y caminaremos por sus sendas; porque de Sión saldrá la ley, y de Yerushalaim la palabra de YHWH¹²⁶.
 
 **4** Y juzgará entre las naciones, y reprenderá a muchos pueblos; y volverán sus espadas en rejas de arado, y sus lanzas en hoces; no alzará espada nación contra nación, ni se adiestrarán más para la guerra.
 
@@ -222,9 +222,9 @@ A diferencia de Génesis y Éxodo, acá el texto es fragmentario y el hallazgo c
 
 **1** Y me dijo YHWH: toma una tabla grande, y escribe en ella con caracteres legibles tocante a Maher-salal-hash-baz.
 
-**2** Y llama para mí²³ testigos fieles, a Uriyah el sacerdote y a Zejaryah hijo de Yeverekyahu.
+**2** Y llama para mí²³ testigos fieles, a Uriyah el sacerdote y a Zejaryah hijo de Yeverekyahu¹²⁸.
 
-**3-4** Y me llegué a la profetisa²⁴, y concibió, y dio a luz un hijo. Y me dijo YHWH: ponle por nombre Maher-salal-hash-baz. Porque antes que el niño sepa decir padre mío y madre mía, será quitada la riqueza de Damasco y los despojos de Shomrón, en presencia del rey de Asiria.
+**3-4** Y me llegué a la profetisa²⁴, y concibió, y dio a luz un hijo¹²⁹. Y me dijo YHWH: ponle por nombre Maher-salal-hash-baz. Porque antes que el niño sepa decir padre mío y madre mía, será quitada la riqueza de Damasco y los despojos de Shomrón, en presencia del rey de Asiria.
 
 **5-6** Otra vez me volvió a hablar YHWH, diciendo: por cuanto desechó este pueblo las aguas de Shiloaj, que corren mansamente, y se regocijan con Retzín y con el hijo de Remalyahu,
 
@@ -374,7 +374,7 @@ A diferencia de Génesis y Éxodo, acá el texto es fragmentario y el hallazgo c
 
 **18-19** Todos los reyes de las naciones, todos ellos yacen con honra cada uno en su casa; pero tú echado eres de tu sepulcro como vástago abominable, como vestido de muertos atravesados a espada, que descienden al fondo de la fosa, como cuerpo pisoteado.
 
-**20-21** No serás contado con ellos en la sepultura; porque tú destruiste tu tierra, mataste a tu pueblo; no será nombrada para siempre la descendencia de los malignos. Preparad matadero a sus hijos, por la maldad de sus padres; no se levanten, ni posean la tierra, ni llenen la faz del mundo de ciudades.
+**20-21** No serás contado con ellos en la sepultura; porque tú destruiste tu tierra, mataste a tu pueblo; no será nombrada para siempre la descendencia de los malignos. Preparad matadero a sus hijos, por la maldad de sus padres¹³⁰; no se levanten, ni posean la tierra, ni llenen la faz del mundo de ciudades.
 
 **22-23** Porque me levantaré contra ellos, dice YHWH de los ejércitos, y raeré de Babilonia el nombre y las reliquias, hijo y nieto, dice YHWH. Y la convertiré en posesión de erizos, y en lagunas de aguas; y la barreré con escobas de destrucción, dice YHWH de los ejércitos.
 
@@ -2474,6 +2474,25 @@ A diferencia de Génesis y Éxodo, acá el texto es fragmentario y el hallazgo c
 **121 — עבדי, "mi siervo," en vez de עבד׳ו (53:11), y אור probablemente presente.** Cf. nota 64 (la variante más famosa de 1QIsaa: אור, "luz", más עבד׳ו, "su siervo", en tercera persona donde el TM tiene עַבְדִּי, "mi siervo"; ya confirmada de forma independiente por 1Q8 en la nota 96). 4Q58 conserva genuinamente עבדי ("mi siervo"), coincidiendo con el TM y no con עבד׳ו de 1QIsaa — un tercer testigo (junto con el TM y 1Q8) para esta parte de la variante. Sobre אור: en 4Q58 las letras א y ו están conservadas con cierta incertidumbre de lectura, y la ר final cae dentro de un pequeño corchete de reconstrucción —una evidencia real pero parcial, menos concluyente que la de 1Q8, donde la palabra completa está plenamente conservada sin ninguna marca—. El resto del verso ("בדעתו יצדיק צדיק") está genuinamente conservado en 4Q58 sin ningún hueco, coincidiendo con el TM. E1 el dato de עבדי, verificado a nivel de signo individual; E1 también el dato parcial de אור; D1 la lectura de que אור estaba probablemente presente en 4Q58 en su forma completa, dado que las letras conservadas son compatibles solo con esa palabra y no con ninguna alternativa razonable en este contexto.
 
 **125 — פשעים, חטאי, צדקה, רוח y נשמות conservadas en 4Q58 (53:12, 58:2, 57:16) — chequeo doctrinal.** Cf. notas 81 (pecado), 83 (justicia) y 87 (alma-espíritu-aliento). De los trece versos donde alguna categoría doctrinal cae dentro de la cobertura de 4Q58, siete no dieron dato usable: 48:8, 53:8, 53:11 (avon — aunque este verso ya está extensamente tratado en la nota 121 por otras razones), 57:17 y 58:1 (pecado, todos en tramos dañados); 49:8 y 54:10 (pacto, ברית no aparece entre lo conservado en ninguno de los dos); 49:6 (bendecir, נקל en un tramo dañado); 49:7 (fe, נאמן en un tramo dañado); 54:4 (temor, תיראי en un tramo dañado). Tres versos dieron dato real y particularmente rico: en 53:12, tanto פשעים como חטאי están genuinamente conservadas en la misma frase ("ואת פשעים נמנה והוא חטאי רבים נשא"), confirmando ambas raíces de la tríada de pecado de la nota 81 en un mismo verso, sin ninguna confusión entre ellas; en 58:2, צדקה está genuinamente conservada ("אשר צדקה"), aunque משפט de este mismo verso cae en un tramo dañado; y en 57:16, tanto רוח como נשמות (en plural) están genuinamente conservadas ("כי רוח מלפני יעטף ונשמות אני עשיתי"), confirmando dos de los tres términos de la tríada נפש/רוח/נשמה de la nota 87 en el mismo verso donde ya se había verificado para 1QIsaa. En los tres casos, sin excepción, 4Q58 confirma al TM y a las distinciones ya establecidas. E1 los datos, verificados a nivel de signo individual; se deja constancia de los siete casos sin dato, por transparencia.
+
+---
+---
+
+# 4Q59 — OCTAVO TESTIGO DE ISAÍAS
+
+*4Q59 (también llamado 4QIsaᵉ) es un octavo rollo de Isaías, distinto de los siete ya trabajados en este archivo, y el primero de los catorce testigos menores que quedan por revisar para cerrar el sistema completo. Cubre algo de texto en diez de los sesenta y seis capítulos —setenta y dos versos con al menos una palabra—, con su tramo más fuerte en 8-14 (la señal de Emanuel, el reino pacífico y el oráculo contra el rey de Babilonia) y una presencia real en el capítulo 2 (el oráculo del monte de la casa de YHWH).*
+
+*Desde este testigo en adelante, el chequeo de vocabulario doctrinal se corre en el mismo paso que la crítica textual, con la misma profundidad para cada uno de los catorce testigos restantes — no se aligera por volumen.*
+
+**126 — הר conservada, יהוה en un hueco pequeño (2:3).** Cf. nota 12 (1QIsaa omite por completo la primera cláusula del verso, "subamos al monte de YHWH", y va directo a "subamos a la casa del Elohim de Yaakov"). 4Q59 conserva genuinamente "ואל הר[" — la palabra הר que 1QIsaa no tiene en este punto — antes de que la palabra siguiente, יהוה, caiga en un pequeño corchete de reconstrucción editorial (el resto del verso, "אל בית אלהי יעקוב", está genuinamente conservado y coincide con ambos testigos). Es un dato real aunque parcial: **4Q59 con el TM contra 1QIsaa** en cuanto a la presencia de la cláusula "al monte de..." — un cuarto testigo (junto con el razonamiento ya aplicado a otras omisiones grandes de 1QIsaa) que apunta en la misma dirección de la nota 12, aunque la palabra יהוה misma no se pueda confirmar letra por letra. E1 el dato de הר, verificado a nivel de signo individual; D2 la lectura de que יהוה probablemente completaba el hueco, dado que es la única opción compatible con el espacio y el paralelo de Miqueas 4:2, sin que esto sea una certeza al mismo nivel que una palabra plenamente conservada.
+
+**127 — sin יהיה (2:2) — variante nueva, no cruzada con notas anteriores.** El TM tiene "נָכוֹן יִהְיֶה הַר בֵּית יְהוָה" ("firme SERÁ el monte de la casa de YHWH"); 1QIsaa, ya decodificado en este archivo, coincide con el TM en este punto ("נכון יהיה הר בית יהוה"). 4Q59 tiene, en cambio, "נכון הר בית יהוה", sin יהיה — una omisión real de una sola palabra, genuinamente conservada la secuencia completa alrededor de ella sin ningún hueco ni marca de reconstrucción, de modo que no es una laguna física sino una ausencia limpia. Es un caso de **4Q59 solo, frente a la coincidencia entre el TM y 1QIsaa**, en uno de los versos más citados de todo el libro (la base del oráculo escatológico del "monte de la casa de YHWH", con paralelo casi literal en Miqueas 4:1). E1 el dato, verificado a nivel de signo individual; D2 la lectura de que probablemente se trata de una omisión accidental de una sola palabra, sin mecanismo identificable, más que una variante textual deliberada.
+
+**128 — ואעידה, primera persona cohortativa, en vez de והעד (8:2).** Cf. nota 23 (1QIsaa tiene והעד, imperativo, "toma testigos", continuando la cadena de mandatos divinos; el TM tiene וְאָעִידָה, cohortativo en primera persona, "y TOMARÉ YO testigos", donde el profeta pasa a narrar su propia acción). 4Q59 conserva genuinamente ואעידה, coincidiendo con el TM. Es un caso de **4Q59 con el TM contra 1QIsaa**: otra pieza a favor de que el imperativo de 1QIsaa es un rasgo propio de ese rollo. Además, sobre el nombre propio del mismo verso, יברכיהו/ברכיהו: 4Q59 tiene una corrección antigua supralineal que agrega una י al comienzo del nombre —el mismo tipo de corrección hacia una forma más cercana al TM ya documentado varias veces en este archivo (notas 1, 9, 52, 63 y 110)—. E1 ambos datos, verificados a nivel de signo individual.
+
+**129 — הנביאה, con ה final, en vez de הנביא (8:3).** Cf. nota 24 (1QIsaa tiene הנביא, sin la ה final que marca el femenino, donde el TM tiene הַנְּבִיאָה, "la profetisa"). 4Q59 conserva genuinamente הנביאה, con la ה final, coincidiendo con el TM. Es un caso de **4Q59 con el TM contra 1QIsaa**: la lectura de la nota 24 —ya considerada allí más probablemente un descuido de copista que una variante deliberada— queda ahora respaldada por un segundo testigo independiente que sí conserva la forma femenina completa. E1 el dato, verificado a nivel de signo individual.
+
+**130 — chequeo doctrinal: tres cruces, sin dato usable.** Cf. notas 81 (pecado), 85 (fe) y 86 (temor). De los cuatro versos doctrinales que caen dentro de la cobertura de 4Q59, ninguno dio dato real: 14:21 (avon, עון cae en un tramo dañado), 8:2 (fe — aunque este mismo verso ya dio dato textual-crítico real en la nota 128, la palabra נאמנים del par doctrinal en cuestión no era la que estaba en disputa) y 8:12-13 (temor, תיראו y תעריצו caen ambas en tramos dañados). Se deja constancia explícita, siguiendo el mismo criterio de transparencia ya aplicado en los cuatro testigos anteriores: revisado y sin dato no es lo mismo que no revisado.
 
 ---
 ---

@@ -101,12 +101,12 @@
       {
         "number": "2",
         "hebrew": "והיה באחרית הימים נכון יהיה הר בית יהוה בראש הרים ונשא מגבעות ונהרו עלו׳הי כול הגואים׃",
-        "text": "Acontecerá en los postreros días, que será confirmado el monte de la casa de YHWH como cabeza de los montes, y será exaltado sobre los collados, y correrán a él todas las naciones."
+        "text": "Acontecerá en los postreros días, que será confirmado el monte de la casa de YHWH¹²⁷ como cabeza de los montes, y será exaltado sobre los collados, y correrán a él todas las naciones."
       },
       {
         "number": "3",
         "hebrew": "והלכו עמים רבים ואמרו לכו ונעלה אל בית אלוהי יעקוב וירו׳נו מדרכי׳ו ונאלכה באורחתי׳ו כיא מציון תצא תורה ודבר יהוה מירושלים׃",
-        "text": "Y vendrán muchos pueblos, y dirán: venid, y subamos a la casa del Elohim de Yaakov¹², y nos enseñará sus caminos, y caminaremos por sus sendas; porque de Sión saldrá la ley, y de Yerushalaim la palabra de YHWH."
+        "text": "Y vendrán muchos pueblos, y dirán: venid, y subamos a la casa del Elohim de Yaakov¹², y nos enseñará sus caminos, y caminaremos por sus sendas; porque de Sión saldrá la ley, y de Yerushalaim la palabra de YHWH¹²⁶."
       },
       {
         "number": "4",
@@ -483,12 +483,12 @@
       {
         "number": "2",
         "hebrew": "והעד ל׳י עדים נאמנים את אוריה הכוהן ואת זכריה בן יברכיה׃",
-        "text": "Y llama para mí²³ testigos fieles, a Uriyah el sacerdote y a Zejaryah hijo de Yeverekyahu."
+        "text": "Y llama para mí²³ testigos fieles, a Uriyah el sacerdote y a Zejaryah hijo de Yeverekyahu¹²⁸."
       },
       {
         "number": "3-4",
         "hebrew": "ואקרב אל הנביא ותהר ותלד בן ויאומר יהוה אל׳י קרא שמ׳ו מהר שלל חש בז׃ כיא בטרם ידע הנער לקראו אבי׳ו ואמ׳ו ישא את חיל דרמשק ואת שלל שומרון לפני מלך אשור׃",
-        "text": "Y me llegué a la profetisa²⁴, y concibió, y dio a luz un hijo. Y me dijo YHWH: ponle por nombre Maher-salal-hash-baz. Porque antes que el niño sepa decir padre mío y madre mía, será quitada la riqueza de Damasco y los despojos de Shomrón, en presencia del rey de Asiria."
+        "text": "Y me llegué a la profetisa²⁴, y concibió, y dio a luz un hijo¹²⁹. Y me dijo YHWH: ponle por nombre Maher-salal-hash-baz. Porque antes que el niño sepa decir padre mío y madre mía, será quitada la riqueza de Damasco y los despojos de Shomrón, en presencia del rey de Asiria."
       },
       {
         "number": "5-6",
@@ -845,7 +845,7 @@
       {
         "number": "20-21",
         "hebrew": "לוא תחת אות׳ם בקבורה כי ארצ׳ך שחתה עמ׳ך הרגתה לוא יקראו לעולם זרע מרעים׃ הכינו לבני׳ו מטבח בעוון אבות׳ם בל יקומ[ ו ] וירשו ארץ ומלו פני תבל ערים׃",
-        "text": "No serás contado con ellos en la sepultura; porque tú destruiste tu tierra, mataste a tu pueblo; no será nombrada para siempre la descendencia de los malignos. Preparad matadero a sus hijos, por la maldad de sus padres; no se levanten, ni posean la tierra, ni llenen la faz del mundo de ciudades."
+        "text": "No serás contado con ellos en la sepultura; porque tú destruiste tu tierra, mataste a tu pueblo; no será nombrada para siempre la descendencia de los malignos. Preparad matadero a sus hijos, por la maldad de sus padres¹³⁰; no se levanten, ni posean la tierra, ni llenen la faz del mundo de ciudades."
       },
       {
         "number": "22-23",
@@ -6602,6 +6602,61 @@
       ],
       "hebrew": "פְּשָׁעִים, חַטָּאֵי, רוּחַ y נְשָׁמוֹת — 4Q58",
       "teaser": "Dos raíces de pecado y dos términos vitales, en un mismo rollo."
+    },
+    {
+      "id": 126,
+      "chapter": 2,
+      "title": "הר conservada, יהוה en un hueco pequeño",
+      "body": "Cf. nota 12 (1QIsaa omite por completo la primera cláusula del verso, \"subamos al monte de YHWH\", y va directo a \"subamos a la casa del Elohim de Yaakov\"). 4Q59 conserva genuinamente \"ואל הר[\" — la palabra הר que 1QIsaa no tiene en este punto — antes de que la palabra siguiente, יהוה, caiga en un pequeño corchete de reconstrucción editorial (el resto del verso, \"אל בית אלהי יעקוב\", está genuinamente conservado y coincide con ambos testigos). Es un dato real aunque parcial: *4Q59 con el TM contra 1QIsaa* en cuanto a la presencia de la cláusula \"al monte de...\" — un cuarto testigo (junto con el razonamiento ya aplicado a otras omisiones grandes de 1QIsaa) que apunta en la misma dirección de la nota 12, aunque la palabra יהוה misma no se pueda confirmar letra por letra. E1 el dato de הר, verificado a nivel de signo individual; D2 la lectura de que יהוה probablemente completaba el hueco, dado que es la única opción compatible con el espacio y el paralelo de Miqueas 4:2, sin que esto sea una certeza al mismo nivel que una palabra plenamente conservada.",
+      "evidence": [
+        "E1",
+        "D2"
+      ],
+      "hebrew": "הַר conservada, יְהוָה en un hueco (4Q59)",
+      "teaser": "El octavo testigo entra por el monte de la casa de YHWH."
+    },
+    {
+      "id": 127,
+      "chapter": 2,
+      "title": "sin יהיה (2:2) — variante nueva, no cruzada con notas anteriores.",
+      "body": "El TM tiene \"נָכוֹן יִהְיֶה הַר בֵּית יְהוָה\" (\"firme SERÁ el monte de la casa de YHWH\"); 1QIsaa, ya decodificado en este archivo, coincide con el TM en este punto (\"נכון יהיה הר בית יהוה\"). 4Q59 tiene, en cambio, \"נכון הר בית יהוה\", sin יהיה — una omisión real de una sola palabra, genuinamente conservada la secuencia completa alrededor de ella sin ningún hueco ni marca de reconstrucción, de modo que no es una laguna física sino una ausencia limpia. Es un caso de *4Q59 solo, frente a la coincidencia entre el TM y 1QIsaa*, en uno de los versos más citados de todo el libro (la base del oráculo escatológico del \"monte de la casa de YHWH\", con paralelo casi literal en Miqueas 4:1). E1 el dato, verificado a nivel de signo individual; D2 la lectura de que probablemente se trata de una omisión accidental de una sola palabra, sin mecanismo identificable, más que una variante textual deliberada.",
+      "evidence": [
+        "E1",
+        "D2"
+      ],
+      "hebrew": "sin יִהְיֶה — variante nueva (4Q59)",
+      "teaser": "Una palabra que falta, y esta vez el rollo la pierde solo."
+    },
+    {
+      "id": 128,
+      "chapter": 8,
+      "title": "ואעידה, primera persona cohortativa, en vez de והעד",
+      "body": "Cf. nota 23 (1QIsaa tiene והעד, imperativo, \"toma testigos\", continuando la cadena de mandatos divinos; el TM tiene וְאָעִידָה, cohortativo en primera persona, \"y TOMARÉ YO testigos\", donde el profeta pasa a narrar su propia acción). 4Q59 conserva genuinamente ואעידה, coincidiendo con el TM. Es un caso de *4Q59 con el TM contra 1QIsaa*: otra pieza a favor de que el imperativo de 1QIsaa es un rasgo propio de ese rollo. Además, sobre el nombre propio del mismo verso, יברכיהו/ברכיהו: 4Q59 tiene una corrección antigua supralineal que agrega una י al comienzo del nombre —el mismo tipo de corrección hacia una forma más cercana al TM ya documentado varias veces en este archivo (notas 1, 9, 52, 63 y 110)—. E1 ambos datos, verificados a nivel de signo individual.",
+      "evidence": [
+        "E1"
+      ],
+      "hebrew": "וְאָעִידָה confirmada por 4Q59",
+      "teaser": "Un corrector antiguo también arregla un nombre propio."
+    },
+    {
+      "id": 129,
+      "chapter": 8,
+      "title": "הנביאה, con ה final, en vez de הנביא",
+      "body": "Cf. nota 24 (1QIsaa tiene הנביא, sin la ה final que marca el femenino, donde el TM tiene הַנְּבִיאָה, \"la profetisa\"). 4Q59 conserva genuinamente הנביאה, con la ה final, coincidiendo con el TM. Es un caso de *4Q59 con el TM contra 1QIsaa*: la lectura de la nota 24 —ya considerada allí más probablemente un descuido de copista que una variante deliberada— queda ahora respaldada por un segundo testigo independiente que sí conserva la forma femenina completa. E1 el dato, verificado a nivel de signo individual.",
+      "evidence": [
+        "E1"
+      ],
+      "hebrew": "הַנְּבִיאָה confirmada por 4Q59",
+      "teaser": "Otro testigo, otra confirmación de \"la profetisa\"."
+    },
+    {
+      "id": 130,
+      "chapter": 14,
+      "title": "chequeo doctrinal: tres cruces, sin dato usable.",
+      "body": "Cf. notas 81 (pecado), 85 (fe) y 86 (temor). De los cuatro versos doctrinales que caen dentro de la cobertura de 4Q59, ninguno dio dato real: 14:21 (avon, עון cae en un tramo dañado), 8:2 (fe — aunque este mismo verso ya dio dato textual-crítico real en la nota 128, la palabra נאמנים del par doctrinal en cuestión no era la que estaba en disputa) y 8:12-13 (temor, תיראו y תעריצו caen ambas en tramos dañados). Se deja constancia explícita, siguiendo el mismo criterio de transparencia ya aplicado en los cuatro testigos anteriores: revisado y sin dato no es lo mismo que no revisado.",
+      "evidence": [],
+      "hebrew": "Chequeo doctrinal: 4Q59, sin dato usable",
+      "teaser": "La primera vez que el chequeo doctrinal no encuentra nada."
     }
   ],
   "meta": {
