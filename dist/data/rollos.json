@@ -14,7 +14,7 @@
       {
         "number": "4",
         "hebrew": "הוי גוי חוטה עמ כבד עוון זרע מרעים בנים משחיתים עזבו את יהו ה נאצו את קדוש ישראל נזרו אחור׃",
-        "text": "¡Ay, nación pecadora, pueblo cargado de iniquidad, simiente de malignos, hijos corruptores! Dejaron a YHWH, provocaron a ira al Santo de Israel, se volvieron atrás."
+        "text": "¡Ay, nación pecadora, pueblo cargado de iniquidad¹¹⁰, simiente de malignos, hijos corruptores! Dejaron a YHWH, provocaron a ira al Santo de Israel, se volvieron atrás."
       },
       {
         "number": "5-6",
@@ -1028,7 +1028,7 @@
       {
         "number": "7",
         "hebrew": "בעתה ההיא יובל שי ליהוה צבאות מעמ ממשך וממרט ומעם נורא מהוא והלאה גוי קוקו ומבוסא אשר בזאי נהרים ארצ׳ו אל מקום שמ יהוה הר ציון׃",
-        "text": "En aquel tiempo será traída ofrenda a YHWH de los ejércitos, del pueblo de elevada estatura y tez brillante, del pueblo temible desde su principio y después, gente fuerte y conquistadora, cuya tierra es surcada por ríos, al lugar del nombre de YHWH de los ejércitos, al monte de Sión."
+        "text": "En aquel tiempo será traída ofrenda a YHWH de los ejércitos, del pueblo de elevada estatura y tez brillante, del pueblo temible desde su principio y después, gente fuerte y conquistadora, cuya tierra es surcada por ríos, al lugar del nombre de YHWH, al monte de Sión¹⁰⁷."
       }
     ],
     "19": [
@@ -1080,7 +1080,7 @@
       {
         "number": "17",
         "hebrew": "והיית אדמת ׳׳׳׳׳׳ יהודה למצרים לחוגה כול אשר יזכיר אות׳ה אלי׳ו יפחד ׳׳׳׳׳׳ מפני עצת יהוה צבאות אשר הוא יועץ עלי׳ו׃",
-        "text": "Y la tierra de Yehudá será de espanto a Egipto; todo hombre que de ella se acordare temerá por causa del consejo que YHWH de los ejércitos acordó sobre aquel."
+        "text": "Y la tierra de Yehudá será de espanto a Egipto; todo hombre que de ella se acordare temerá por causa del consejo que YHWH de los ejércitos acordó sobre aquel¹⁰⁸."
       },
       {
         "number": "18",
@@ -3160,7 +3160,7 @@
       {
         "number": "20",
         "hebrew": "רועה אפר לב הותל הט׳הו ולוא יוכיל נפש׳ו ולוא יואמר שקר בימינ׳י׃",
-        "text": "Se apacienta de ceniza; su corazón engañado lo desvía, para que no libre su alma, ni diga: ¿no hay una mentira en mi mano derecha?"
+        "text": "Se apacienta de ceniza; su corazón engañado lo desvía, para que no libre su alma¹⁰⁹, ni diga: ¿no hay una mentira en mi mano derecha?"
       },
       {
         "number": "21",
@@ -6387,6 +6387,52 @@
       ],
       "hebrew": "חטא/עוון y משפט/צדקה confirmadas por 1Q8",
       "teaser": "1Q8 extiende la confirmación al vocabulario de pecado y justicia."
+    },
+    {
+      "id": 107,
+      "chapter": 18,
+      "title": "צבאות, presente dos veces, en vez de una sola (18:7) — corrección de un desliz de traducción propio de este archivo.",
+      "body": "El TM tiene יְהוָה צְבָאוֹת (\"YHWH de los ejércitos\") dos veces en este verso: al principio (\"será traída ofrenda a YHWH de los ejércitos\") y al final (\"al lugar del nombre de YHWH de los ejércitos, al monte de Sión\"). El hebreo de 1QIsaa, ya decodificado en este archivo, en realidad solo tiene צבאות la primera vez — la segunda aparición del verso dice llanamente \"אל מקום שמ יהוה הר ציון\", sin צבאות — una variante real de 1QIsaa nunca antes anotada en este archivo. 4Q56 conserva genuinamente ambas apariciones de צבאות, coincidiendo con el TM. Al encontrar esto se revisó la traducción española ya publicada de este verso y se encontró que decía \"de los ejércitos\" en ambos lugares —siguiendo al TM de memoria en el segundo, no al hebreo real de 1QIsaa que este archivo debía traducir— y se corrigió, quitando \"de los ejércitos\" de la segunda aparición. Es un caso de *4Q56 con el TM contra 1QIsaa*, y a la vez un desliz de este propio archivo, ya corregido. E1 el dato de la omisión en 1QIsaa y su confirmación independiente por 4Q56, verificados a nivel de signo individual.",
+      "evidence": [
+        "E1"
+      ],
+      "hebrew": "יְהוָה צְבָאוֹת, dos veces (4Q56 vs 1QIsaa)",
+      "teaser": "El tercer testigo destapa un desliz de traducción de este archivo."
+    },
+    {
+      "id": 108,
+      "chapter": 19,
+      "title": "תנופת יד, \"el ondear de la mano,\" en vez de עֲצַת, \"el consejo\"",
+      "body": "El TM tiene, en el v. 17, \"מִפְּנֵי עֲצַת יְהוָה צְבָאוֹת\" (\"por causa del consejo de YHWH de los ejércitos\"); 1QIsaa, ya decodificado en este archivo, coincide con el TM en este punto (עצת). 4Q56 tiene, en cambio, \"מפני תנופת יד יהוה צבאות\" (\"por causa del ondear de la mano de YHWH de los ejércitos\") — una frase distinta, que no aparece en el TM en este verso. Lo notable es de dónde viene: la frase \"תנופת יד\" (\"el ondear/agitar de la mano\") es exactamente la que el propio TM —y 4Q56 mismo, genuinamente conservada— usa un versículo antes, en 19:16 (\"וְחָרַד וּפָחַד מִפְּנֵי תְּנוּפַת יַד יְהוָה צְבָאוֹת\"). Es un caso de asimilación real: el copista de 4Q56 parece haber repetido, en el v. 17, la misma frase que acababa de escribir en el v. 16, sustituyendo la palabra distinta que el TM tiene en ese punto exacto. Es el primer caso documentado en este archivo de un testigo qumránico con una lectura propia que ni el TM ni 1QIsaa comparten —los otros dos coinciden entre sí, y *4Q56 se aparta solo*— y el mecanismo (asimilación a una frase casi idéntica en el verso inmediatamente anterior) es el mismo tipo de fenómeno ya documentado repetidas veces para 1QIsaa, aunque allí produce omisiones y aquí una sustitución de una frase por otra. E1 el dato, verificado a nivel de signo individual del manuscrito.",
+      "evidence": [
+        "E1"
+      ],
+      "hebrew": "עֲצַת / תנופת יד — lectura propia de 4Q56",
+      "teaser": "El único rollo que se aparta solo, ni con el TM ni con 1QIsaa."
+    },
+    {
+      "id": 109,
+      "chapter": 44,
+      "title": "יוכיל, en vez de יַצִּיל (44:20) — otra variante de 1QIsaa nunca antes anotada.",
+      "body": "El TM tiene \"וְלֹא יַצִּיל אֶת נַפְשׁוֹ\" (\"y no librará/salvará su alma\", de la raíz נצל); 1QIsaa, ya decodificado en este archivo, tiene en cambio \"ולוא יוכיל נפש׳ו\" (יוכיל, de la raíz יכל, \"poder\" — una forma gramaticalmente extraña en este contexto, probablemente una confusión gráfica entre צ y כ, letras que en la escritura herodiana de este rollo pueden parecerse). 4Q56 conserva genuinamente \"ולא יציל את נפשו\", coincidiendo con el TM. Es otro caso de *4Q56 con el TM contra 1QIsaa*, y —como en la nota 107— de una variante real de 1QIsaa que no había sido anotada hasta ahora en este archivo; se deja consignada aquí, a partir del cruce con el tercer testigo, en vez de alterar retroactivamente el cuerpo de la traducción del capítulo 44, dado que el sentido general de la cláusula en español no cambia de forma apreciable. E1 el dato de la lectura de 1QIsaa y su divergencia frente al TM, confirmada de forma independiente por 4Q56, verificados a nivel de signo individual; D2 la lectura de que probablemente se trata de una confusión gráfica entre letras parecidas, más que una variante textual deliberada.",
+      "evidence": [
+        "E1",
+        "D2"
+      ],
+      "hebrew": "יַצִּיל / יוכיל (4Q56 vs 1QIsaa)",
+      "teaser": "Otra variante de 1QIsaa que nadie había anotado hasta ahora."
+    },
+    {
+      "id": 110,
+      "chapter": 1,
+      "title": "corrección antigua hacia עם כבד עון (1:4) — el mismo fenómeno visto en 1QIsaa, ahora en 4Q56.",
+      "body": "En el punto donde el TM tiene \"עַם כֶּבֶד עָוֹן\" (\"pueblo cargado de iniquidad\"), 4Q56 tiene una corrección antigua supralineal que restituye exactamente esa frase — עם כבד עון agregada arriba del renglón por un corrector antiguo, no por el copista original. Es el mismo tipo de fenómeno paleográfico ya documentado varias veces para 1QIsaa (notas 1, 9, 52 y 63: correcciones antiguas que acercan el texto a una lectura de tipo masorético), ahora observado en un manuscrito distinto — un dato que sugiere que esta clase de revisión activa contra una forma textual más cercana al TM no era una peculiaridad de un solo copista o de un solo rollo, sino una práctica más extendida entre los escribas que transmitieron y corrigieron los textos de Isaías hallados en Qumrán. E1 el dato de la corrección, verificado a nivel de signo individual; D2 la lectura de que se trata del mismo patrón general de corrección hacia el TM ya documentado en 1QIsaa, sin que esto implique necesariamente la misma mano ni el mismo taller de copistas.",
+      "evidence": [
+        "E1",
+        "D2"
+      ],
+      "hebrew": "עם כבד עון, corrección antigua en 4Q56",
+      "teaser": "La misma mano correctora, en un manuscrito distinto."
     }
   ],
   "meta": {
