@@ -1,4 +1,4 @@
-# Coding the Bible — Rollos del Mar Muerto (1QIsaa, Isaías 1 a 66 — libro completo; más 1Q8, 4Q56, 4Q57, 4Q55, 4Q60, 4Q58 y 4Q59, segundo a octavo testigo)
+# Coding the Bible — Rollos del Mar Muerto (1QIsaa, Isaías 1 a 66 — libro completo; más 1Q8, 4Q56, 4Q57, 4Q55, 4Q60, 4Q58, 4Q59 y 4Q61, segundo a noveno testigo)
 
 ### Lectura DIMA — decodificación integral desde el hebreo/arameo original
 
@@ -1244,7 +1244,7 @@ A diferencia de Génesis y Éxodo, acá el texto es fragmentario y el hallazgo c
 
 ## 1QIsaa · Isaías 43
 
-**1** Ahora, pues, así dice YHWH, Creador tuyo, oh Yaakov, y Formador tuyo, oh Israel: no temas, porque yo te redimí; te puse nombre, mío eres tú.
+**1** Ahora, pues, así dice YHWH, Creador tuyo, oh Yaakov, y Formador tuyo, oh Israel: no temas¹³¹, porque yo te redimí; te puse nombre, mío eres tú.
 
 **2** Cuando pases por las aguas, yo estaré contigo; y si por los ríos, no te anegarán. Cuando pases por el fuego, no te quemarás, ni la llama arderá en ti.
 
@@ -2493,6 +2493,15 @@ A diferencia de Génesis y Éxodo, acá el texto es fragmentario y el hallazgo c
 **129 — הנביאה, con ה final, en vez de הנביא (8:3).** Cf. nota 24 (1QIsaa tiene הנביא, sin la ה final que marca el femenino, donde el TM tiene הַנְּבִיאָה, "la profetisa"). 4Q59 conserva genuinamente הנביאה, con la ה final, coincidiendo con el TM. Es un caso de **4Q59 con el TM contra 1QIsaa**: la lectura de la nota 24 —ya considerada allí más probablemente un descuido de copista que una variante deliberada— queda ahora respaldada por un segundo testigo independiente que sí conserva la forma femenina completa. E1 el dato, verificado a nivel de signo individual.
 
 **130 — chequeo doctrinal: tres cruces, sin dato usable.** Cf. notas 81 (pecado), 85 (fe) y 86 (temor). De los cuatro versos doctrinales que caen dentro de la cobertura de 4Q59, ninguno dio dato real: 14:21 (avon, עון cae en un tramo dañado), 8:2 (fe — aunque este mismo verso ya dio dato textual-crítico real en la nota 128, la palabra נאמנים del par doctrinal en cuestión no era la que estaba en disputa) y 8:12-13 (temor, תיראו y תעריצו caen ambas en tramos dañados). Se deja constancia explícita, siguiendo el mismo criterio de transparencia ya aplicado en los cuatro testigos anteriores: revisado y sin dato no es lo mismo que no revisado.
+
+---
+---
+
+# 4Q61 — NOVENO TESTIGO DE ISAÍAS
+
+*4Q61 (también llamado 4QIsaᵍ) es un noveno rollo de Isaías, concentrado casi por completo en los capítulos 42-43. Cubre veinticinco versos con al menos una palabra —el segundo canto del Siervo y el comienzo del oráculo "no temas, porque yo te redimí"—, en un solo fragmento continuo de dos capítulos, mucho más chico que los ocho testigos ya trabajados.*
+
+**131 — תירא conservada (43:1) — chequeo doctrinal, y crítica textual sin dato en este testigo.** Cf. notas 51/91 (43:3, la sustitución מושיעך/גואלך de 1QIsaa — la palabra en disputa cae en un tramo reconstruido de 4Q61, sin dato) y 81 (43:24, pecado — עוונתי׳ך/חטאותי׳ך caen fuera del tramo conservado de este fragmento en ese verso, también sin dato). El único dato real de este testigo es doctrinal: en 43:1, תירא está genuinamente conservada dentro de "אל תירא כי גאלתיך" ("no temas, porque te redimí"), confirmando la raíz ירא ya caracterizada en la nota 86 (temor). Del resto de la cobertura de 4Q61 —capítulos 42 y 43 casi completos en fragmentos, pero mayormente reconstruidos— no surgió ninguna variante real frente al TM ni ninguna otra confirmación doctrinal con letras genuinamente conservadas en los puntos exactos de disputa. E1 el dato de תירא, verificado a nivel de signo individual; se deja constancia explícita de los dos cruces sin dato, por transparencia.
 
 ---
 ---

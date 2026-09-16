@@ -2933,7 +2933,7 @@ window.ROLLOS_DATA={
       {
         "number": "1",
         "hebrew": "ועתה כוה אמר יהוה בוראי׳כה יעקוב ויוצרי׳כה ישראל אל תירא כיא גאלתי׳כה קראתי בשמ׳כה ל׳יא אתה׃",
-        "text": "Ahora, pues, así dice YHWH, Creador tuyo, oh Yaakov, y Formador tuyo, oh Israel: no temas, porque yo te redimí; te puse nombre, mío eres tú."
+        "text": "Ahora, pues, así dice YHWH, Creador tuyo, oh Yaakov, y Formador tuyo, oh Israel: no temas¹³¹, porque yo te redimí; te puse nombre, mío eres tú."
       },
       {
         "number": "2",
@@ -6657,6 +6657,17 @@ window.ROLLOS_DATA={
       "evidence": [],
       "hebrew": "Chequeo doctrinal: 4Q59, sin dato usable",
       "teaser": "La primera vez que el chequeo doctrinal no encuentra nada."
+    },
+    {
+      "id": 131,
+      "chapter": 43,
+      "title": "תירא conservada (43:1) — chequeo doctrinal, y crítica textual sin dato en este testigo.",
+      "body": "Cf. notas 51/91 (43:3, la sustitución מושיעך/גואלך de 1QIsaa — la palabra en disputa cae en un tramo reconstruido de 4Q61, sin dato) y 81 (43:24, pecado — עוונתי׳ך/חטאותי׳ך caen fuera del tramo conservado de este fragmento en ese verso, también sin dato). El único dato real de este testigo es doctrinal: en 43:1, תירא está genuinamente conservada dentro de \"אל תירא כי גאלתיך\" (\"no temas, porque te redimí\"), confirmando la raíz ירא ya caracterizada en la nota 86 (temor). Del resto de la cobertura de 4Q61 —capítulos 42 y 43 casi completos en fragmentos, pero mayormente reconstruidos— no surgió ninguna variante real frente al TM ni ninguna otra confirmación doctrinal con letras genuinamente conservadas en los puntos exactos de disputa. E1 el dato de תירא, verificado a nivel de signo individual; se deja constancia explícita de los dos cruces sin dato, por transparencia.",
+      "evidence": [
+        "E1"
+      ],
+      "hebrew": "תִּירָא confirmada por 4Q61",
+      "teaser": "Un testigo pequeño, un solo dato, pero un dato real."
     }
   ],
   "meta": {
