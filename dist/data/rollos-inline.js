@@ -9,12 +9,12 @@ window.ROLLOS_DATA={
       {
         "number": "2-3",
         "hebrew": "שמעו שמים והאזיני הארץ כיא יהוה דבר בנים גדלתי ורוממת[ י ] והמה פשעו ב׳י׃ ידע שור קוני׳הו וחמור אבוס בעלי׳ו ישראל לוא ידע ועמ׳י לוא הת[ ב ]ונן׃",
-        "text": "Oíd, cielos, y escucha, tierra, porque YHWH ha hablado: hijos crie y engrandecí, y ellos² se rebelaron contra mí. Conoce el buey a su dueño, y el asno el pesebre de su señor; Israel no conoce, y mi pueblo³ no entiende."
+        "text": "Oíd, cielos, y escucha, tierra, porque YHWH ha hablado: hijos crie y engrandecí, y ellos² se rebelaron contra mí¹⁴⁷. Conoce el buey a su dueño, y el asno el pesebre de su señor; Israel no conoce, y mi pueblo³ no entiende."
       },
       {
         "number": "4",
         "hebrew": "הוי גוי חוטה עמ כבד עוון זרע מרעים בנים משחיתים עזבו את יהו ה נאצו את קדוש ישראל נזרו אחור׃",
-        "text": "¡Ay, nación pecadora, pueblo cargado de iniquidad¹¹⁰, simiente de malignos, hijos corruptores¹³⁷! Dejaron a YHWH, provocaron a ira al Santo de Israel, se volvieron atrás."
+        "text": "¡Ay, nación pecadora, pueblo cargado de iniquidad¹¹⁰, simiente de malignos, hijos corruptores¹³⁷! Dejaron a YHWH, provocaron a ira al Santo de Israel, se volvieron atrás¹⁴⁸."
       },
       {
         "number": "5-6",
@@ -6825,6 +6825,26 @@ window.ROLLOS_DATA={
       "evidence": [],
       "hebrew": "Chequeo completo, sin variantes nuevas (4Q62a)",
       "teaser": "El testigo de menor rendimiento del archivo, documentado igual."
+    },
+    {
+      "id": 147,
+      "chapter": 1,
+      "title": "והמה, forma larga del pronombre, confirmada en un segundo testigo qumránico",
+      "body": "Cf. nota 3 (1QIsaa tiene והמה, \"y ellos\" en su forma larga/arcaizante, donde el TM tiene el pronombre corto וְהֵם). 4Q63 conserva genuinamente והמה —las cuatro consonantes de המה, más la vav conjuntiva, sin ninguna marca de reconstrucción— coincidiendo exactamente con la lectura de 1QIsaa y no con la forma corta del TM. Es un segundo testigo qumránico, independiente de 1QIsaa, para el mismo rasgo lingüístico ya caracterizado en la nota 3: la preferencia por formas pronominales largas frente a las cortas del TM no es una idiosincrasia aislada de un solo copista, sino un rasgo que al menos otro escriba de Qumrán comparte en este mismo punto exacto del texto. E1 el dato, verificado a nivel de signo individual.",
+      "evidence": [
+        "E1"
+      ],
+      "hebrew": "וְהֵמָּה confirmada por un segundo testigo qumránico",
+      "teaser": "El pronombre largo de la nota 3, ahora con un segundo testigo."
+    },
+    {
+      "id": 148,
+      "chapter": 1,
+      "title": "chequeo doctrinal: עון cae en un tramo reconstruido",
+      "body": "Cf. nota 81 (pecado) y nota 138 (Mur3, el mismo anchor-verse, mismo resultado negativo). El único anchor de las nueve categorías doctrinales que cae dentro de la cobertura de 4Q63 es 1:4, donde el TM tiene \"עַם כֶּבֶד עָוֹן\". En 4Q63, tanto עם como עון caen en un tramo íntegramente reconstruido por el editor moderno, sin ninguna letra físicamente conservada de la palabra en disputa — el mismo resultado ya documentado para Mur3 en este mismo verso, con un testigo distinto. Se deja constancia explícita, siguiendo el mismo criterio de transparencia ya aplicado en las notas 130, 136, 138, 140 y 145.",
+      "evidence": [],
+      "hebrew": "Chequeo doctrinal: עָוֹן en un tramo reconstruido (4Q63)",
+      "teaser": "El mismo anchor que Mur3, el mismo resultado negativo."
     }
   ],
   "meta": {

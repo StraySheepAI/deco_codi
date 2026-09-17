@@ -1,4 +1,4 @@
-# Coding the Bible — Rollos del Mar Muerto (1QIsaa, Isaías 1 a 66 — libro completo; más 1Q8, 4Q56, 4Q57, 4Q55, 4Q60, 4Q58, 4Q59, 4Q61, 4Q64, Mur3, 4Q66, 4Q62, 4Q68 y 4Q62a, segundo a decimoquinto testigo)
+# Coding the Bible — Rollos del Mar Muerto (1QIsaa, Isaías 1 a 66 — libro completo; más 1Q8, 4Q56, 4Q57, 4Q55, 4Q60, 4Q58, 4Q59, 4Q61, 4Q64, Mur3, 4Q66, 4Q62, 4Q68, 4Q62a y 4Q63, segundo a decimosexto testigo)
 
 ### Lectura DIMA — decodificación integral desde el hebreo/arameo original
 
@@ -24,9 +24,9 @@ A diferencia de Génesis y Éxodo, acá el texto es fragmentario y el hallazgo c
 
 **1** Visión de Yeshayahu hijo de Amotz, que vio acerca de Yehudá y Yerushalaim, en días de Uzziyah¹, Yotam, Ajaz y Yejizkiyah, reyes de Yehudá.
 
-**2-3** Oíd, cielos, y escucha, tierra, porque YHWH ha hablado: hijos crie y engrandecí, y ellos² se rebelaron contra mí. Conoce el buey a su dueño, y el asno el pesebre de su señor; Israel no conoce, y mi pueblo³ no entiende.
+**2-3** Oíd, cielos, y escucha, tierra, porque YHWH ha hablado: hijos crie y engrandecí, y ellos² se rebelaron contra mí¹⁴⁷. Conoce el buey a su dueño, y el asno el pesebre de su señor; Israel no conoce, y mi pueblo³ no entiende.
 
-**4** ¡Ay, nación pecadora, pueblo cargado de iniquidad¹¹⁰, simiente de malignos, hijos corruptores¹³⁷! Dejaron a YHWH, provocaron a ira al Santo de Israel, se volvieron atrás.
+**4** ¡Ay, nación pecadora, pueblo cargado de iniquidad¹¹⁰, simiente de malignos, hijos corruptores¹³⁷! Dejaron a YHWH, provocaron a ira al Santo de Israel, se volvieron atrás¹⁴⁸.
 
 **5-6** ¿Por qué querréis ser castigados aún? ¿Todavía os rebelaréis? Toda cabeza está enferma, y todo corazón doliente. Desde la planta del pie hasta la cabeza no hay en él cosa sana, sino herida, hinchazón y llaga podrida; no han sido curadas, ni vendadas, ni suavizadas con aceite.
 
@@ -2574,6 +2574,17 @@ A diferencia de Génesis y Éxodo, acá el texto es fragmentario y el hallazgo c
 *4Q62a (también llamado 4QIsaᵠ) es un decimoquinto rollo de Isaías, un solo fragmento continuo que cubre seis versos entre 56:7-8 y 57:5-8 —el cierre del oráculo sobre los extranjeros y eunucos fieles, y el comienzo de la denuncia de los cultos idolátricos—. El testigo con menor rendimiento de todos los trabajados hasta ahora: un tramo relativamente bien conservado, pero donde ninguna de las palabras en disputa entre el TM y 1QIsaa en este archivo coincide con lo genuinamente conservado, y ningún anchor doctrinal cae dentro de su cobertura.*
 
 **146 — chequeo completo, sin variantes nuevas ni anchors doctrinales en cobertura.** En 56:8, 4Q62a conserva genuinamente אדני (defectivo, sin la vav plene de 1QIsaa —cf. nota 1— aunque con el mismo contenido) y las tres primeras consonantes de יהוה, coincidiendo en sentido con el TM y con 1QIsaa: ninguno de los tres testigos difiere aquí más allá de la ortografía ya caracterizada en la nota 1. En 56:7, עולותיהם conserva solo un tramo parcial e incierto (ל y ת con incertidumbre editorial explícita), insuficiente para confirmar o descartar la ortografía exacta. En 57:5-8, el resto del tramo conservado —גבה (57:7), זכרונך (57:8, parcial)— tampoco aporta ninguna variante real frente al TM o a 1QIsaa. Sobre el chequeo doctrinal: se revisaron los anchor-verses de las nueve categorías contra los seis versos cubiertos por este testigo; el más cercano es 57:16 (alma-espíritu), ocho versos después del final de esta cobertura. Es, con este resultado, el testigo de menor rendimiento del archivo hasta ahora, y se documenta con el mismo criterio de transparencia que los demás: revisado en su totalidad, sin dato usable, no es lo mismo que no revisado.
+
+---
+---
+
+# 4Q63 — DECIMOSEXTO TESTIGO DE ISAÍAS
+
+*4Q63 (también llamado 4QIsaᵗ) es un decimosexto rollo de Isaías, un solo fragmento continuo que cubre los primeros seis versos del libro — el mismo tramo inicial ya profusamente anotado en las notas 1 a 5, el más comentado de todo este archivo.*
+
+**147 — והמה, forma larga del pronombre, confirmada en un segundo testigo qumránico (1:2).** Cf. nota 3 (1QIsaa tiene והמה, "y ellos" en su forma larga/arcaizante, donde el TM tiene el pronombre corto וְהֵם). 4Q63 conserva genuinamente והמה —las cuatro consonantes de המה, más la vav conjuntiva, sin ninguna marca de reconstrucción— coincidiendo exactamente con la lectura de 1QIsaa y no con la forma corta del TM. Es un segundo testigo qumránico, independiente de 1QIsaa, para el mismo rasgo lingüístico ya caracterizado en la nota 3: la preferencia por formas pronominales largas frente a las cortas del TM no es una idiosincrasia aislada de un solo copista, sino un rasgo que al menos otro escriba de Qumrán comparte en este mismo punto exacto del texto. E1 el dato, verificado a nivel de signo individual.
+
+**148 — chequeo doctrinal: עון cae en un tramo reconstruido (1:4).** Cf. nota 81 (pecado) y nota 138 (Mur3, el mismo anchor-verse, mismo resultado negativo). El único anchor de las nueve categorías doctrinales que cae dentro de la cobertura de 4Q63 es 1:4, donde el TM tiene "עַם כֶּבֶד עָוֹן". En 4Q63, tanto עם como עון caen en un tramo íntegramente reconstruido por el editor moderno, sin ninguna letra físicamente conservada de la palabra en disputa — el mismo resultado ya documentado para Mur3 en este mismo verso, con un testigo distinto. Se deja constancia explícita, siguiendo el mismo criterio de transparencia ya aplicado en las notas 130, 136, 138, 140 y 145.
 
 ---
 ---
