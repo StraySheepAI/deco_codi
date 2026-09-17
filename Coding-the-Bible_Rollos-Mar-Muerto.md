@@ -1,4 +1,4 @@
-# Coding the Bible — Rollos del Mar Muerto (1QIsaa, Isaías 1 a 66 — libro completo; más 1Q8, 4Q56, 4Q57, 4Q55, 4Q60, 4Q58, 4Q59, 4Q61, 4Q64, Mur3, 4Q66, 4Q62, 4Q68, 4Q62a y 4Q63, segundo a decimosexto testigo)
+# Coding the Bible — Rollos del Mar Muerto (1QIsaa, Isaías 1 a 66 — libro completo; más 1Q8, 4Q56, 4Q57, 4Q55, 4Q60, 4Q58, 4Q59, 4Q61, 4Q64, Mur3, 4Q66, 4Q62, 4Q68, 4Q62a, 4Q63 y 4Q65, segundo a decimoséptimo testigo)
 
 ### Lectura DIMA — decodificación integral desde el hebreo/arameo original
 
@@ -204,7 +204,7 @@ A diferencia de Génesis y Éxodo, acá el texto es fragmentario y el hallazgo c
 
 **13** Dijo entonces: oíd ahora, casa de David: ¿os es poco cansar a los hombres, sino que también cansáis a mi Elohim?
 
-**14** Por tanto, YHWH mismo²² os dará señal: he aquí que la joven concebirá, y dará a luz un hijo, y llamará su nombre Imanuel.
+**14** Por tanto, YHWH mismo²² os dará señal: he aquí que la joven concebirá, y dará a luz un hijo, y llamará su nombre Imanuel¹⁵⁰.
 
 **15-16** Comerá [mantequilla y miel], hasta que sepa desechar lo malo y escoger lo bueno. Porque antes que el niño sepa desechar lo malo y escoger lo bueno, la tierra que tú temes será abandonada, desamparada de sus dos reyes.
 
@@ -234,7 +234,7 @@ A diferencia de Génesis y Éxodo, acá el texto es fragmentario y el hallazgo c
 
 **11** Porque así me habló YHWH con mano fuerte: lo aparta²⁶ de caminar por el camino de este pueblo, diciendo:
 
-**12-13** No llaméis conspiración a todo lo que este pueblo llama conspiración, ni temáis lo que temen, ni tengáis miedo. A YHWH de los ejércitos, a él santificad; sea Él vuestro temor, y Él vuestro miedo.
+**12-13** No llaméis conspiración a todo lo que este pueblo llama conspiración, ni temáis lo que temen, ni tengáis miedo. A YHWH de los ejércitos, a él santificad; sea Él vuestro temor, y Él vuestro miedo¹⁴⁹.
 
 **14-15** Y será por santuario; mas a las dos casas de Israel, por piedra para tropezar, y por tropezadero para caer, y por lazo y por red al morador de Yerushalaim. Y muchos entre ellos tropezarán, y caerán, y serán quebrantados, y enlazados, y apresados.
 
@@ -2585,6 +2585,17 @@ A diferencia de Génesis y Éxodo, acá el texto es fragmentario y el hallazgo c
 **147 — והמה, forma larga del pronombre, confirmada en un segundo testigo qumránico (1:2).** Cf. nota 3 (1QIsaa tiene והמה, "y ellos" en su forma larga/arcaizante, donde el TM tiene el pronombre corto וְהֵם). 4Q63 conserva genuinamente והמה —las cuatro consonantes de המה, más la vav conjuntiva, sin ninguna marca de reconstrucción— coincidiendo exactamente con la lectura de 1QIsaa y no con la forma corta del TM. Es un segundo testigo qumránico, independiente de 1QIsaa, para el mismo rasgo lingüístico ya caracterizado en la nota 3: la preferencia por formas pronominales largas frente a las cortas del TM no es una idiosincrasia aislada de un solo copista, sino un rasgo que al menos otro escriba de Qumrán comparte en este mismo punto exacto del texto. E1 el dato, verificado a nivel de signo individual.
 
 **148 — chequeo doctrinal: עון cae en un tramo reconstruido (1:4).** Cf. nota 81 (pecado) y nota 138 (Mur3, el mismo anchor-verse, mismo resultado negativo). El único anchor de las nueve categorías doctrinales que cae dentro de la cobertura de 4Q63 es 1:4, donde el TM tiene "עַם כֶּבֶד עָוֹן". En 4Q63, tanto עם como עון caen en un tramo íntegramente reconstruido por el editor moderno, sin ninguna letra físicamente conservada de la palabra en disputa — el mismo resultado ya documentado para Mur3 en este mismo verso, con un testigo distinto. Se deja constancia explícita, siguiendo el mismo criterio de transparencia ya aplicado en las notas 130, 136, 138, 140 y 145.
+
+---
+---
+
+# 4Q65 — DECIMOSÉPTIMO TESTIGO DE ISAÍAS
+
+*4Q65 (también llamado 4QIsaᵘ) es un decimoséptimo rollo de Isaías, un solo fragmento continuo que cubre seis versos entre 7:14-15 (la señal de Emanuel) y 8:11-14 (el contraste entre el miedo humano y el temor debido solo a YHWH). Cae sobre dos de los pasajes más citados del libro, con un hallazgo doctrinal rico pese al tamaño reducido del testigo.*
+
+**149 — chequeo doctrinal: לוא תיראו, מוראו, מראכם y מערצכם, las cuatro conservadas (8:12-13).** Cf. nota 86 (temor: יראה/פחד, dos temores que no son el mismo). Este es el verso ancla mismo de la nota 86 —el contraste explícito entre el miedo a las conspiraciones humanas y la reverencia debida solo a YHWH—, y 4Q65 lo conserva con una densidad de datos genuinamente extantes poco común para un testigo de este tamaño: en 8:12, "ולוא תיראו" ("y no temeréis") y "את מוראו" ("su temor/objeto de temor") están genuinamente conservados, letra por letra, sin ninguna marca de reconstrucción; en 8:13, una segunda aparición de la misma raíz, מראכם ("vuestro temor"), y una del par ערץ, מערצכם ("vuestro pavor"), también están genuinamente conservadas, esta última con una sola letra de incertidumbre editorial menor. Las cuatro palabras coinciden en contenido con el TM y con 1QIsaa (ya decodificado en este archivo) sin ninguna variante real entre los tres testigos: lo notable aquí no es una discrepancia, sino la confirmación limpia y múltiple, dentro de un solo verso, del vocabulario doctrinal exacto que sostiene la distinción de la nota 86. E1 los cuatro datos, verificados a nivel de signo individual.
+
+**150 — chequeo textual-crítico: notas 22 y 26, sin dato en este testigo.** Cf. nota 22 (7:14: יהוה הוה de 1QIsaa frente a אדני הוא del TM) y nota 26 (8:11: יסיר׳נו de 1QIsaa frente a ויסרני del TM). Ambas palabras en disputa caen en tramos íntegramente reconstruidos en 4Q65 —אדני הוא en 7:14, יסר׳ני en 8:11—, sin ninguna letra físicamente conservada en los puntos exactos de la variante. Se deja constancia explícita, siguiendo el mismo criterio de transparencia de las notas anteriores.
 
 ---
 ---

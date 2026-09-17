@@ -441,7 +441,7 @@
       {
         "number": "14",
         "hebrew": "לכן יתן יהוה הוה ל׳כמ[ ה ] [ אות ה ]נ ה העלמה הרה וילדת בן וקרא שמ׳ו עמנואל׃",
-        "text": "Por tanto, YHWH mismo²² os dará señal: he aquí que la joven concebirá, y dará a luz un hijo, y llamará su nombre Imanuel."
+        "text": "Por tanto, YHWH mismo²² os dará señal: he aquí que la joven concebirá, y dará a luz un hijo, y llamará su nombre Imanuel¹⁵⁰."
       },
       {
         "number": "15-16",
@@ -513,7 +513,7 @@
       {
         "number": "12-13",
         "hebrew": "לוא תאמרו קשר לכול אשר יואמר העמ הזה קשר ואת מורא׳ו לוא תיראו ולוא תעריצו׃ את יהוה צבאות אות׳ו תקדישו והוא מורא׳כם והוא מערצ׳כם׃",
-        "text": "No llaméis conspiración a todo lo que este pueblo llama conspiración, ni temáis lo que temen, ni tengáis miedo. A YHWH de los ejércitos, a él santificad; sea Él vuestro temor, y Él vuestro miedo."
+        "text": "No llaméis conspiración a todo lo que este pueblo llama conspiración, ni temáis lo que temen, ni tengáis miedo. A YHWH de los ejércitos, a él santificad; sea Él vuestro temor, y Él vuestro miedo¹⁴⁹."
       },
       {
         "number": "14-15",
@@ -6845,6 +6845,26 @@
       "evidence": [],
       "hebrew": "Chequeo doctrinal: עָוֹן en un tramo reconstruido (4Q63)",
       "teaser": "El mismo anchor que Mur3, el mismo resultado negativo."
+    },
+    {
+      "id": 149,
+      "chapter": 8,
+      "title": "chequeo doctrinal: לוא תיראו, מוראו, מראכם y מערצכם, las cuatro conservadas",
+      "body": "Cf. nota 86 (temor: יראה/פחד, dos temores que no son el mismo). Este es el verso ancla mismo de la nota 86 —el contraste explícito entre el miedo a las conspiraciones humanas y la reverencia debida solo a YHWH—, y 4Q65 lo conserva con una densidad de datos genuinamente extantes poco común para un testigo de este tamaño: en 8:12, \"ולוא תיראו\" (\"y no temeréis\") y \"את מוראו\" (\"su temor/objeto de temor\") están genuinamente conservados, letra por letra, sin ninguna marca de reconstrucción; en 8:13, una segunda aparición de la misma raíz, מראכם (\"vuestro temor\"), y una del par ערץ, מערצכם (\"vuestro pavor\"), también están genuinamente conservadas, esta última con una sola letra de incertidumbre editorial menor. Las cuatro palabras coinciden en contenido con el TM y con 1QIsaa (ya decodificado en este archivo) sin ninguna variante real entre los tres testigos: lo notable aquí no es una discrepancia, sino la confirmación limpia y múltiple, dentro de un solo verso, del vocabulario doctrinal exacto que sostiene la distinción de la nota 86. E1 los cuatro datos, verificados a nivel de signo individual.",
+      "evidence": [
+        "E1"
+      ],
+      "hebrew": "לֹא תִירְאוּ, מוֹרָאוֹ, מוֹרַאֲכֶם, מַעֲרִצְכֶם — las cuatro conservadas",
+      "teaser": "Cuatro palabras del vocabulario del temor, todas conservadas."
+    },
+    {
+      "id": 150,
+      "chapter": 7,
+      "title": "chequeo textual-crítico: notas 22 y 26, sin dato en este testigo.",
+      "body": "Cf. nota 22 (7:14: יהוה הוה de 1QIsaa frente a אדני הוא del TM) y nota 26 (8:11: יסיר׳נו de 1QIsaa frente a ויסרני del TM). Ambas palabras en disputa caen en tramos íntegramente reconstruidos en 4Q65 —אדני הוא en 7:14, יסר׳ני en 8:11—, sin ninguna letra físicamente conservada en los puntos exactos de la variante. Se deja constancia explícita, siguiendo el mismo criterio de transparencia de las notas anteriores.",
+      "evidence": [],
+      "hebrew": "Notas 22 y 26, sin dato en 4Q65",
+      "teaser": "Dos crux famosas del capítulo 7 y 8, ninguna con dato aquí."
     }
   ],
   "meta": {
