@@ -1,4 +1,4 @@
-# Coding the Bible — Rollos del Mar Muerto (1QIsaa, Isaías 1 a 66 — libro completo; más 1Q8, 4Q56, 4Q57, 4Q55, 4Q60, 4Q58, 4Q59, 4Q61 y 4Q64, segundo a décimo testigo)
+# Coding the Bible — Rollos del Mar Muerto (1QIsaa, Isaías 1 a 66 — libro completo; más 1Q8, 4Q56, 4Q57, 4Q55, 4Q60, 4Q58, 4Q59, 4Q61, 4Q64 y Mur3, segundo a undécimo testigo)
 
 ### Lectura DIMA — decodificación integral desde el hebreo/arameo original
 
@@ -26,11 +26,11 @@ A diferencia de Génesis y Éxodo, acá el texto es fragmentario y el hallazgo c
 
 **2-3** Oíd, cielos, y escucha, tierra, porque YHWH ha hablado: hijos crie y engrandecí, y ellos² se rebelaron contra mí. Conoce el buey a su dueño, y el asno el pesebre de su señor; Israel no conoce, y mi pueblo³ no entiende.
 
-**4** ¡Ay, nación pecadora, pueblo cargado de iniquidad¹¹⁰, simiente de malignos, hijos corruptores! Dejaron a YHWH, provocaron a ira al Santo de Israel, se volvieron atrás.
+**4** ¡Ay, nación pecadora, pueblo cargado de iniquidad¹¹⁰, simiente de malignos, hijos corruptores¹³⁷! Dejaron a YHWH, provocaron a ira al Santo de Israel, se volvieron atrás.
 
 **5-6** ¿Por qué querréis ser castigados aún? ¿Todavía os rebelaréis? Toda cabeza está enferma, y todo corazón doliente. Desde la planta del pie hasta la cabeza no hay en él cosa sana, sino herida, hinchazón y llaga podrida; no han sido curadas, ni vendadas, ni suavizadas con aceite.
 
-**7** Vuestra tierra está asolada, vuestras ciudades quemadas a fuego; vuestra tierra, delante de vosotros, la devoran extranjeros, y se han espantado sobre ella⁴, como asolamiento de extraños.
+**7** Vuestra tierra está asolada, vuestras ciudades quemadas a fuego; vuestra tierra, delante de vosotros, la devoran extranjeros, y se han espantado sobre ella⁴, como asolamiento de extraños¹³⁸.
 
 **8-9** Y queda la hija de Sión como cabaña en viña, como choza en melonar, como ciudad asolada. Si YHWH de los ejércitos no nos hubiese dejado un remanente pequeño, como Sodoma fuéramos, semejantes a Gomorra.
 
@@ -2519,6 +2519,17 @@ A diferencia de Génesis y Éxodo, acá el texto es fragmentario y el hallazgo c
 **135 — דוד probable en vez de דור (29:3).** El TM tiene כַדּוּר ("como un círculo/muro de asedio", consonantes כ-ד-ו-ר); 1QIsaa, ya decodificado en este archivo, tiene כדור, coincidiendo con el TM. 4Q64 tiene, en el mismo punto, כ seguida de ד y ו genuinamente conservadas sin ninguna marca de reconstrucción, y una cuarta letra final que el editor moderno lee con incertidumbre como ד en vez de ר —una letra físicamente presente en el cuero, no reconstruida, pero cuya identificación exacta no alcanza la misma certeza que las tres anteriores—. Si la lectura del editor es correcta, 4Q64 tendría כדוד, "como David", en vez de "como un círculo", un juego de palabras posible con "קרית חנה דוד" ("ciudad donde acampó David") dos versos antes, en el mismo capítulo. Es un caso de **4Q64 solo, frente a la coincidencia entre el TM y 1QIsaa**, aunque con esta salvedad explícita sobre el nivel de certeza de la letra decisiva. E1 el dato de כדו-, verificado a nivel de signo individual; D2 la lectura completa כדוד y su posible juego de palabras con דוד, dado que la identificación de la letra final descansa en una lectura editorial incierta y no en una consonante plenamente conservada sin ambigüedad.
 
 **136 — chequeo doctrinal: ningún verso de las nueve categorías cae en esta cobertura.** Cf. notas 81 (pecado), 82 (pacto), 83 (justicia), 84 (bendecir/maldecir), 85 (fe), 86 (temor) y 87 (alma-espíritu). Se revisaron los anchor-verses de las nueve categorías doctrinales establecidas en este archivo contra los trece versos cubiertos por 4Q64 (28:26-29 y 29:1-9): ninguno de ellos coincide con un verso doctrinal ya catalogado (los más cercanos son 28:15-18, pacto, y 28:16-17, fe y justicia, todos fuera del tramo conservado de este testigo). A diferencia de los chequeos "sin dato" de otros testigos —donde el verso doctrinal cae dentro de la cobertura pero la palabra en disputa está dañada—, aquí no hay siquiera un verso candidato que revisar: es un chequeo completo con resultado negativo por ausencia de cobertura, no un chequeo aligerado ni salteado. Se deja constancia explícita, siguiendo el mismo criterio de transparencia de las notas 125 y 130.
+
+---
+---
+
+# Mur3 — UNDÉCIMO TESTIGO DE ISAÍAS
+
+*Mur3 (también llamado MurIsa) es un rollo hallado en Wadi Murabba'at, distinto de los diez testigos qumránicos ya trabajados en este archivo —más tardío, de la época de la segunda revuelta judía—. Cubre once versos de Isaías 1 (versículos 4 a 14, con 9 y 10 sin ninguna palabra conservada), en un solo fragmento continuo. Es uno de los testigos más dañados de todo este corpus: de los once versos con al menos una palabra, la mayoría tiene solo un puñado de letras genuinamente conservadas entre corchetes de reconstrucción editorial, lo que limita mucho el rendimiento posible pese a caer justo en el capítulo más profusamente anotado de todo este archivo.*
+
+**137 — שממה, no שממו, y sin עליה — confirmación de la nota 5 (1:7).** Cf. nota 5 (1QIsaa tiene ושממו עליה, "y se espantaron/desolaron sobre ella," una cláusula verbal adicional con complemento, donde el TM tiene solo וּשְׁמָמָה, "y \[es\] una desolación," sin verbo conjugado ni la palabra עליה). Mur3 conserva genuinamente שממה —el sustantivo/adjetivo del TM, no la forma verbal de 1QIsaa— y no tiene ninguna palabra en el lugar donde 1QIsaa inserta עליה: la secuencia pasa directo de שממה a כ מהפכת, exactamente como en el TM. Es un caso de **Mur3 con el TM contra 1QIsaa**, un tercer testigo (independiente de cualquier otro ya usado para esta nota) que respalda la lectura de la nota 5 de que la cláusula de 1QIsaa es un plus propio de ese rollo, no una tradición textual más ampliamente compartida. E1 el dato, verificado a nivel de signo individual — las cinco consonantes de שממה están genuinamente conservadas, y la ausencia de עליה se confirma por la secuencia continua de palabras sin ningún hueco entre ellas.
+
+**138 — chequeo doctrinal: עוון cae fuera del tramo conservado (1:4).** Cf. nota 81 (pecado). El único anchor-verse de las nueve categorías doctrinales que cae dentro de la cobertura de Mur3 es 1:4, donde el TM tiene "עַם כֶּבֶד עָוֹן" ("pueblo cargado de iniquidad"). De ese verso, Mur3 solo conserva genuinamente sus dos últimas palabras (אחור, "atrás"); todo lo anterior, incluida la frase con עָוֹן, cae en un tramo íntegramente reconstruido por el editor moderno, sin ninguna letra físicamente conservada de la palabra en disputa. Se deja constancia explícita, siguiendo el mismo criterio de transparencia de las notas 125, 130 y 136: revisado y sin dato no es lo mismo que no revisado.
 
 ---
 ---

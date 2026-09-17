@@ -14,7 +14,7 @@
       {
         "number": "4",
         "hebrew": "הוי גוי חוטה עמ כבד עוון זרע מרעים בנים משחיתים עזבו את יהו ה נאצו את קדוש ישראל נזרו אחור׃",
-        "text": "¡Ay, nación pecadora, pueblo cargado de iniquidad¹¹⁰, simiente de malignos, hijos corruptores! Dejaron a YHWH, provocaron a ira al Santo de Israel, se volvieron atrás."
+        "text": "¡Ay, nación pecadora, pueblo cargado de iniquidad¹¹⁰, simiente de malignos, hijos corruptores¹³⁷! Dejaron a YHWH, provocaron a ira al Santo de Israel, se volvieron atrás."
       },
       {
         "number": "5-6",
@@ -24,7 +24,7 @@
       {
         "number": "7",
         "hebrew": "ארצ׳כם שממה ערי׳כם שרופות אש אדמת׳כם לנגד׳כם זרים אוכלים אות׳ה ושממו עלי׳ה כמאפכת זרים׃",
-        "text": "Vuestra tierra está asolada, vuestras ciudades quemadas a fuego; vuestra tierra, delante de vosotros, la devoran extranjeros, y se han espantado sobre ella⁴, como asolamiento de extraños."
+        "text": "Vuestra tierra está asolada, vuestras ciudades quemadas a fuego; vuestra tierra, delante de vosotros, la devoran extranjeros, y se han espantado sobre ella⁴, como asolamiento de extraños¹³⁸."
       },
       {
         "number": "8-9",
@@ -6722,6 +6722,26 @@
       "evidence": [],
       "hebrew": "Chequeo doctrinal: 4Q64, ninguna categoría en su cobertura",
       "teaser": "El décimo testigo, y la primera cobertura sin ningún anchor doctrinal."
+    },
+    {
+      "id": 137,
+      "chapter": 1,
+      "title": "שממה, no שממו, y sin עליה — confirmación de la nota 5",
+      "body": "Cf. nota 5 (1QIsaa tiene ושממו עליה, \"y se espantaron/desolaron sobre ella,\" una cláusula verbal adicional con complemento, donde el TM tiene solo וּשְׁמָמָה, \"y \\[es\\] una desolación,\" sin verbo conjugado ni la palabra עליה). Mur3 conserva genuinamente שממה —el sustantivo/adjetivo del TM, no la forma verbal de 1QIsaa— y no tiene ninguna palabra en el lugar donde 1QIsaa inserta עליה: la secuencia pasa directo de שממה a כ מהפכת, exactamente como en el TM. Es un caso de *Mur3 con el TM contra 1QIsaa*, un tercer testigo (independiente de cualquier otro ya usado para esta nota) que respalda la lectura de la nota 5 de que la cláusula de 1QIsaa es un plus propio de ese rollo, no una tradición textual más ampliamente compartida. E1 el dato, verificado a nivel de signo individual — las cinco consonantes de שממה están genuinamente conservadas, y la ausencia de עליה se confirma por la secuencia continua de palabras sin ningún hueco entre ellas.",
+      "evidence": [
+        "E1"
+      ],
+      "hebrew": "שְׁמָמָה, sin עֲלֵיהָ — Mur3 con el TM contra 1QIsaa",
+      "teaser": "Un testigo de Wadi Murabba’at, mucho más tardío, respalda al TM."
+    },
+    {
+      "id": 138,
+      "chapter": 1,
+      "title": "chequeo doctrinal: עוון cae fuera del tramo conservado",
+      "body": "Cf. nota 81 (pecado). El único anchor-verse de las nueve categorías doctrinales que cae dentro de la cobertura de Mur3 es 1:4, donde el TM tiene \"עַם כֶּבֶד עָוֹן\" (\"pueblo cargado de iniquidad\"). De ese verso, Mur3 solo conserva genuinamente sus dos últimas palabras (אחור, \"atrás\"); todo lo anterior, incluida la frase con עָוֹן, cae en un tramo íntegramente reconstruido por el editor moderno, sin ninguna letra físicamente conservada de la palabra en disputa. Se deja constancia explícita, siguiendo el mismo criterio de transparencia de las notas 125, 130 y 136: revisado y sin dato no es lo mismo que no revisado.",
+      "evidence": [],
+      "hebrew": "Chequeo doctrinal: עָוֹן fuera del tramo conservado (Mur3)",
+      "teaser": "El capítulo más anotado de todo el archivo, y aun así sin dato."
     }
   ],
   "meta": {
