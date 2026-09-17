@@ -1,4 +1,4 @@
-# Coding the Bible — Rollos del Mar Muerto (1QIsaa, Isaías 1 a 66 — libro completo; más 1Q8, 4Q56, 4Q57, 4Q55, 4Q60, 4Q58, 4Q59, 4Q61, 4Q64, Mur3, 4Q66, 4Q62, 4Q68, 4Q62a, 4Q63, 4Q65, 4Q69a y 5Q3, segundo a decimonoveno testigo)
+# Coding the Bible — Rollos del Mar Muerto (1QIsaa, Isaías 1 a 66 — libro completo; más 1Q8, 4Q56, 4Q57, 4Q55, 4Q60, 4Q58, 4Q59, 4Q61, 4Q64, Mur3, 4Q66, 4Q62, 4Q68, 4Q62a, 4Q63, 4Q65, 4Q69a, 5Q3 y 4Q67, segundo a vigésimo testigo)
 
 ### Lectura DIMA — decodificación integral desde el hebreo/arameo original
 
@@ -1852,7 +1852,7 @@ A diferencia de Génesis y Éxodo, acá el texto es fragmentario y el hallazgo c
 
 **13** Si retrajeres del sábado tu pie, de hacer tu voluntad en mi día santo, y llamares al sábado delicia, santo, glorioso de YHWH; y lo venerares, no haciendo tus caminos, ni buscando tu voluntad, ni hablando tus propias palabras;
 
-**14** entonces te deleitarás en YHWH; y yo te haré subir sobre las alturas de la tierra, y te daré a comer la heredad de Yaakov tu padre; porque la boca de YHWH lo ha hablado.
+**14** entonces te deleitarás en YHWH; y yo te haré subir sobre las alturas de la tierra, y te daré a comer¹⁵⁵ la heredad de Yaakov tu padre; porque la boca de YHWH lo ha hablado¹⁵⁶.
 
 ## 1QIsaa · Isaías 59
 
@@ -2618,6 +2618,17 @@ A diferencia de Génesis y Éxodo, acá el texto es fragmentario y el hallazgo c
 **153 — ויעשה מסך, en vez de נסך del TM (40:19) — variante de 1QIsaa no documentada hasta ahora.** El TM tiene "הַפֶּסֶל נָסַךְ חָרָשׁ" ("el ídolo, un artífice [lo] funde" — נסך como verbo, "fundir"). 1QIsaa, ya decodificado en este archivo, tiene en cambio "הפסל ו יעשה מסך חרש" ("el ídolo, y el artífice hace un fundido" — con una vav y el verbo יעשה, "hace", agregados, y מסך reinterpretado como sustantivo, "imagen fundida", en vez de verbo) — una reestructuración real de la cláusula, no una variante ortográfica menor. Sobre 5Q3: toda esta cláusula (הפסל נסך חרש וצרף) cae en un tramo íntegramente reconstruido por el editor moderno, sin ninguna letra físicamente conservada en el punto exacto de la variante —el resto del verso, ירקע(נו), sí está genuinamente conservado en 5Q3, pero coincide con ambos testigos y no es distintivo—; este testigo no puede confirmar ni descartar cuál de las dos formas tenía originalmente. E1 el dato de la lectura de 1QIsaa, verificado a nivel de signo individual (disponible desde la decodificación inicial del rollo, pero sin nota propia hasta ahora); D2 la lectura de que probablemente se trata de una expansión/reinterpretación sintáctica propia del perfil textual de 1QIsaa (cf. nota 1), sin que pueda descartarse una tradición textual distinta.
 
 **154 — chequeo doctrinal: ningún verso de las nueve categorías cae en esta cobertura.** Cf. notas 81-87. Se revisaron los anchor-verses de las nueve categorías doctrinales contra los cuatro versos cubiertos por 5Q3 (40:16-19); el más cercano es 40:2 (pecado), catorce versos antes. Como en las notas 136, 140 y 145, es un chequeo completo con resultado negativo por ausencia de cobertura.
+
+---
+---
+
+# 4Q67 — VIGÉSIMO TESTIGO DE ISAÍAS
+
+*4Q67 (también llamado 4QIsaʷ) es un vigésimo rollo de Isaías, un solo fragmento continuo que cubre tres versos de 58:12-14 (58:12 sin ninguna palabra conservada) — el cierre del oráculo sobre el ayuno verdadero y la observancia del sábado.*
+
+**155 — כלתי׳ך, con ת-י, en vez de la forma sin ת de 1QIsaa (58:14) — variante de 1QIsaa no documentada hasta ahora.** El TM tiene "וְהַאֲכַלְתִּיךָ" ("y te daré de comer", Hifil perfecto en primera persona, con el sufijo ־תי característico); 1QIsaa, ya decodificado en este archivo, tiene en cambio "האכיל׳כה" — una forma verbal distinta, sin el sufijo ־תי, más cercana a un participio o infinitivo Hifil ("el que hace comer" o "hacer comer") que a la primera persona explícita del TM, sin nota propia hasta ahora en este archivo. 4Q67 conserva genuinamente -כלתי׳ך (כ, ל, ת, י, ך, las cinco últimas consonantes de האכלתיך), con la ת y la י del sufijo de primera persona claramente presentes — coincidiendo con el TM y no con la forma de 1QIsaa. Es un caso de **4Q67 con el TM contra 1QIsaa**: un segundo testigo qumránico independiente que no comparte la forma verbal distintiva de este rollo en este punto. Sobre el verbo anterior del mismo verso (הרכבתיך/הרכיב׳כה, "te haré cabalgar"), 4Q67 conserva הרכב׳ך, pero el tramo está parcialmente dañado en ambos extremos y no permite establecer con la misma certeza si el sufijo ־תי estaba presente o ausente; no se incluye como dato firme. E1 el dato de -כלתי׳ך, verificado a nivel de signo individual; D2 la lectura de que la forma de 1QIsaa en האכיל׳כה refleja una variante morfológica real y no solo ortográfica, dado que la secuencia de consonantes es distinta de la del TM y de la de 4Q67, no solo su grafía.
+
+**156 — chequeo doctrinal: ningún verso de las nueve categorías cae en esta cobertura.** Cf. notas 81-87. El anchor más cercano es 58:1-2 (pecado, justicia), diez a once versos antes del comienzo de la cobertura de 4Q67. Como en las notas 136, 140, 145 y 154, es un chequeo completo con resultado negativo por ausencia de cobertura.
 
 ---
 ---
