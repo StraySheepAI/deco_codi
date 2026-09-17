@@ -1643,12 +1643,12 @@
       {
         "number": "26",
         "hebrew": "ויסר׳הו למשפט אלוה׳ו יור׳נו׃",
-        "text": "Porque su Elohim le instruye, y le enseña lo recto."
+        "text": "Porque su Elohim le instruye, y le enseña lo recto¹³⁶."
       },
       {
         "number": "27-28",
         "hebrew": "כי לוא בחרוץ ידש קצח ואפן עגלה על כמן יסוב כי במטה יחבט קצח וכמן בשבט׃ יודק כי לוא לנצח הדש ידוש׳נו והממ גלגל עגלת׳ו ופרשי׳ו לוא ידיק׳נו׃",
-        "text": "Que el eneldo no se trilla con trillo, ni sobre el comino se pasa rueda de carreta; sino que con un palo se sacude el eneldo, y el comino con una vara. El grano se trilla; pero no se trilla siempre, ni se cansa con moverlo el rodezno del carro, ni lo quebrantan las herraduras."
+        "text": "Que el eneldo no se trilla¹³² con trillo, ni sobre el comino se pasa rueda de carreta; sino que con un palo se sacude el eneldo, y el comino con una vara. El grano se trilla¹³³; pero no se trilla siempre, ni se cansa con moverlo el rodezno del carro, ni lo quebrantan las herraduras."
       },
       {
         "number": "29",
@@ -1660,12 +1660,12 @@
       {
         "number": "1-2",
         "hebrew": "הוי ארואל ארואל קרית חנה דויד ספי שנה על שנה חגים ינקפו׃ והציקותי לארואל והייתה תאניה ואניה והייתה ל׳י כארואל׃",
-        "text": "¡Ay de Ariel, Ariel, ciudad donde acampó David! Añadid año a año; las fiestas solemnes tendrán su curso. Mas yo pondré a Ariel en apretura, y será a modo de llanto y de lamento, y será a mí como Ariel."
+        "text": "¡Ay de Ariel, Ariel, ciudad donde acampó David! Añadid año a año¹³⁴; las fiestas solemnes tendrán su curso. Mas yo pondré a Ariel en apretura, y será a modo de llanto y de lamento, y será a mí como Ariel."
       },
       {
         "number": "3-4",
         "hebrew": "וחניתי כדור עלי׳ך וצרתי עלי׳ך מצב והקימותי עלי׳ך מצודות׃ ושפלת מארץ תדברי ומעפר תשח אמרת׳ך והיה כאוב מארץ קול׳ך ומעפר אמרת׳ך תצפצפ׃",
-        "text": "Porque acamparé contra ti alrededor, y te combatiré con ingenios, y levantaré contra ti baluartes. Entonces serás humillada, hablarás desde la tierra, y tu habla saldrá del polvo; y será tu voz de la tierra como la de un espíritu de los muertos, y tu habla susurrará desde el polvo."
+        "text": "Porque acamparé contra ti alrededor¹³⁵, y te combatiré con ingenios, y levantaré contra ti baluartes. Entonces serás humillada, hablarás desde la tierra, y tu habla saldrá del polvo; y será tu voz de la tierra como la de un espíritu de los muertos, y tu habla susurrará desde el polvo."
       },
       {
         "number": "5-6",
@@ -6668,6 +6668,60 @@
       ],
       "hebrew": "תִּירָא confirmada por 4Q61",
       "teaser": "Un testigo pequeño, un solo dato, pero un dato real."
+    },
+    {
+      "id": 132,
+      "chapter": 28,
+      "title": "ידוש, tercer patrón consonántico distinto para el mismo verbo",
+      "body": "El TM tiene יוּדַשׁ (Hofal, \"es trillado\", consonantes י-ו-ד-ש); 1QIsaa, ya decodificado en este archivo, tiene ידש (י-ד-ש), defectivo, sin la vav; 4Q64 conserva genuinamente ידוש (י-ד-ו-ש) — un cuarto patrón consonántico más, con la vav después de la dálet en vez de antes. Los tres testigos tienen tres secuencias de consonantes distintas entre sí para la misma palabra, un caso raro de *los tres testigos difieren entre sí*, solo visto antes en las notas 100 y 104 (ambas dentro de 1QIsaa). No hay manera de establecer con las tres formas disponibles cuál es más antigua; lo que sí queda documentado es que ninguno de los tres testigos qumránicos coincide letra por letra con el TM en este punto, y que 4Q64 tampoco coincide con 1QIsaa. E1 el dato, verificado a nivel de signo individual — las cuatro consonantes de ידוש están genuinamente conservadas, sin ninguna marca de reconstrucción.",
+      "evidence": [
+        "E1"
+      ],
+      "hebrew": "יָדוּשׁ / יוּדַשׁ / יְדֻשׁ — tres testigos, tres consonantes",
+      "teaser": "El caso raro vuelve a aparecer: tres testigos, tres formas."
+    },
+    {
+      "id": 133,
+      "chapter": 28,
+      "title": "לחם ausente en 1QIsaa; corrección antigua supralineal de una vav en 4Q64",
+      "body": "El TM tiene \"לֶחֶם יוּדָק\" (\"el pan es molido\"), dos palabras. 1QIsaa, ya decodificado en este archivo, omite por completo la palabra לחם y pasa directo a יודק (con una vav agregada supralinealmente por un corrector antiguo sobre una base ידק, para llegar a la forma del TM) — una omisión real de una palabra entera, sin hueco físico que la explique. 4Q64, en cambio, sí conserva לחם genuinamente completo, pero con su propia corrección antigua supralineal: una vav agregada delante de la palabra, dando \"ולחם\" (\"y el pan\"), una conjunción que ni el TM ni 1QIsaa tienen en este punto. Los tres testigos difieren entre sí en este mismo tramo breve: el TM con לחם sin vav, 1QIsaa sin לחם en absoluto, y 4Q64 con לחם más una vav añadida por un corrector antiguo — el mismo tipo de intervención de corrector ya documentado varias veces en este archivo (notas 1, 9, 52, 63, 110, 128), aquí aplicado a una expansión y no a un acercamiento al TM. E1 el dato de que 1QIsaa omite לחם (verificado por ausencia en la lista completa de palabras del verso); E1 el dato de que 4Q64 conserva לחם genuinamente, y de que la vav agregada es una corrección antigua distinguible del texto base, verificado a nivel de signo individual.",
+      "evidence": [
+        "E1"
+      ],
+      "hebrew": "לֶחֶם ausente en 1QIsaa; vav agregada en 4Q64",
+      "teaser": "Un rollo omite la palabra que otro corrige de más."
+    },
+    {
+      "id": 134,
+      "chapter": 29,
+      "title": "סופי",
+      "body": "El TM tiene סְפוּ (\"añadid\", imperativo, terminado en vav); 1QIsaa, ya decodificado en este archivo, tiene ספי, terminado en yod en vez de vav; 4Q64 conserva genuinamente סופי, también terminado en yod, con una vav plene adicional antes de la פ que 1QIsaa no tiene. Es un caso de *4Q64 con 1QIsaa contra el TM*, solo el segundo encontrado en las 134 notas de este archivo (el primero, en la nota 117 de 4Q58): dos testigos qumránicos independientes coinciden en la terminación en yod frente a la vav del TM, lo que hace más probable que sea una tradición textual compartida entre ambos rollos que un descuido aislado de 1QIsaa. E1 el dato, verificado a nivel de signo individual — las cuatro consonantes de סופי están genuinamente conservadas, con una leve incertidumbre editorial solo sobre la identificación de la yod final, que de todos modos está físicamente presente y no reconstruida.",
+      "evidence": [
+        "E1"
+      ],
+      "hebrew": "סְפוּ / סְפִי / סוּפִי — 4Q64 con 1QIsaa contra el TM",
+      "teaser": "Segunda vez que dos rollos qumránicos se alían contra el TM."
+    },
+    {
+      "id": 135,
+      "chapter": 29,
+      "title": "דוד probable en vez de דור",
+      "body": "El TM tiene כַדּוּר (\"como un círculo/muro de asedio\", consonantes כ-ד-ו-ר); 1QIsaa, ya decodificado en este archivo, tiene כדור, coincidiendo con el TM. 4Q64 tiene, en el mismo punto, כ seguida de ד y ו genuinamente conservadas sin ninguna marca de reconstrucción, y una cuarta letra final que el editor moderno lee con incertidumbre como ד en vez de ר —una letra físicamente presente en el cuero, no reconstruida, pero cuya identificación exacta no alcanza la misma certeza que las tres anteriores—. Si la lectura del editor es correcta, 4Q64 tendría כדוד, \"como David\", en vez de \"como un círculo\", un juego de palabras posible con \"קרית חנה דוד\" (\"ciudad donde acampó David\") dos versos antes, en el mismo capítulo. Es un caso de *4Q64 solo, frente a la coincidencia entre el TM y 1QIsaa*, aunque con esta salvedad explícita sobre el nivel de certeza de la letra decisiva. E1 el dato de כדו-, verificado a nivel de signo individual; D2 la lectura completa כדוד y su posible juego de palabras con דוד, dado que la identificación de la letra final descansa en una lectura editorial incierta y no en una consonante plenamente conservada sin ambigüedad.",
+      "evidence": [
+        "E1",
+        "D2"
+      ],
+      "hebrew": "כַּדּוּר / כַּדָּוִד — un posible juego de palabras",
+      "teaser": "¿Un círculo de asedio, o el nombre del rey David?"
+    },
+    {
+      "id": 136,
+      "chapter": 28,
+      "title": "chequeo doctrinal: ningún verso de las nueve categorías cae en esta cobertura.",
+      "body": "Cf. notas 81 (pecado), 82 (pacto), 83 (justicia), 84 (bendecir/maldecir), 85 (fe), 86 (temor) y 87 (alma-espíritu). Se revisaron los anchor-verses de las nueve categorías doctrinales establecidas en este archivo contra los trece versos cubiertos por 4Q64 (28:26-29 y 29:1-9): ninguno de ellos coincide con un verso doctrinal ya catalogado (los más cercanos son 28:15-18, pacto, y 28:16-17, fe y justicia, todos fuera del tramo conservado de este testigo). A diferencia de los chequeos \"sin dato\" de otros testigos —donde el verso doctrinal cae dentro de la cobertura pero la palabra en disputa está dañada—, aquí no hay siquiera un verso candidato que revisar: es un chequeo completo con resultado negativo por ausencia de cobertura, no un chequeo aligerado ni salteado. Se deja constancia explícita, siguiendo el mismo criterio de transparencia de las notas 125 y 130.",
+      "evidence": [],
+      "hebrew": "Chequeo doctrinal: 4Q64, ninguna categoría en su cobertura",
+      "teaser": "El décimo testigo, y la primera cobertura sin ningún anchor doctrinal."
     }
   ],
   "meta": {
