@@ -1,4 +1,4 @@
-# Coding the Bible — Rollos del Mar Muerto (1QIsaa, Isaías 1 a 66 — libro completo; más 1Q8, 4Q56, 4Q57, 4Q55, 4Q60, 4Q58, 4Q59, 4Q61, 4Q64, Mur3, 4Q66, 4Q62 y 4Q68, segundo a decimocuarto testigo)
+# Coding the Bible — Rollos del Mar Muerto (1QIsaa, Isaías 1 a 66 — libro completo; más 1Q8, 4Q56, 4Q57, 4Q55, 4Q60, 4Q58, 4Q59, 4Q61, 4Q64, Mur3, 4Q66, 4Q62, 4Q68 y 4Q62a, segundo a decimoquinto testigo)
 
 ### Lectura DIMA — decodificación integral desde el hebreo/arameo original
 
@@ -1770,7 +1770,7 @@ A diferencia de Génesis y Éxodo, acá el texto es fragmentario y el hallazgo c
 
 **7** yo los llevaré al monte de mi santidad, y los recrearé en mi casa de oración; sus holocaustos y sus víctimas serán aceptos sobre mi altar; porque mi casa, casa de oración será llamada de todos los pueblos.
 
-**8** Dice el Señor YHWH, el que junta los echados de Israel: aun juntaré sobre él sus congregados.
+**8** Dice el Señor YHWH, el que junta los echados de Israel: aun juntaré sobre él sus congregados¹⁴⁶.
 
 **9** Todas las bestias del campo, venid a devorar; todas las bestias del bosque también.
 
@@ -2565,6 +2565,15 @@ A diferencia de Génesis y Éxodo, acá el texto es fragmentario y el hallazgo c
 **144 — ם final usada sistemáticamente en posición no final — rasgo paleográfico propio de 4Q68.** A diferencia de la ortografía plena de 1QIsaa ya caracterizada en la nota 1, 4Q68 tiene un hábito distinto y consistente: usa la forma final de la mem (ם) en posición inicial o medial, donde tanto el TM como 1QIsaa usan la forma ordinaria (מ). Se documenta en al menos cuatro puntos dentro de este solo fragmento de siete versos: מ ("de/desde," 14:29, como palabra independiente); נמוג escrito נםוג (14:31, "se derrite/disuelve"); מועדיו o el equivalente de 4Q68 escrito ם ידעיו (14:31, cf. nota 143); y משא y מואב escritos םשא y םואב, este último dos veces, en 15:1 ("profecía" y "Moab"). No es una variante de contenido en ningún caso —el sentido de cada palabra es el mismo que el del TM— sino un rasgo gráfico del copista de este manuscrito específico, análogo en función (aunque no en tipo) al perfil ortográfico ya documentado para 1QIsaa en la nota 1, y no se vuelve a anotar palabra por palabra. E1 el dato, verificado a nivel de signo individual en los cuatro puntos.
 
 **145 — chequeo doctrinal: ningún verso de las nueve categorías cae en esta cobertura.** Cf. notas 81-87. El anchor más cercano es 14:21 (pecado, avon), siete versos antes del comienzo de la cobertura de 4Q68 (14:28-32 y 15:1-2). Como en las notas 136 y 140, es un chequeo completo con resultado negativo por ausencia de cobertura, no un chequeo aligerado ni salteado.
+
+---
+---
+
+# 4Q62a — DECIMOQUINTO TESTIGO DE ISAÍAS
+
+*4Q62a (también llamado 4QIsaᵠ) es un decimoquinto rollo de Isaías, un solo fragmento continuo que cubre seis versos entre 56:7-8 y 57:5-8 —el cierre del oráculo sobre los extranjeros y eunucos fieles, y el comienzo de la denuncia de los cultos idolátricos—. El testigo con menor rendimiento de todos los trabajados hasta ahora: un tramo relativamente bien conservado, pero donde ninguna de las palabras en disputa entre el TM y 1QIsaa en este archivo coincide con lo genuinamente conservado, y ningún anchor doctrinal cae dentro de su cobertura.*
+
+**146 — chequeo completo, sin variantes nuevas ni anchors doctrinales en cobertura.** En 56:8, 4Q62a conserva genuinamente אדני (defectivo, sin la vav plene de 1QIsaa —cf. nota 1— aunque con el mismo contenido) y las tres primeras consonantes de יהוה, coincidiendo en sentido con el TM y con 1QIsaa: ninguno de los tres testigos difiere aquí más allá de la ortografía ya caracterizada en la nota 1. En 56:7, עולותיהם conserva solo un tramo parcial e incierto (ל y ת con incertidumbre editorial explícita), insuficiente para confirmar o descartar la ortografía exacta. En 57:5-8, el resto del tramo conservado —גבה (57:7), זכרונך (57:8, parcial)— tampoco aporta ninguna variante real frente al TM o a 1QIsaa. Sobre el chequeo doctrinal: se revisaron los anchor-verses de las nueve categorías contra los seis versos cubiertos por este testigo; el más cercano es 57:16 (alma-espíritu), ocho versos después del final de esta cobertura. Es, con este resultado, el testigo de menor rendimiento del archivo hasta ahora, y se documenta con el mismo criterio de transparencia que los demás: revisado en su totalidad, sin dato usable, no es lo mismo que no revisado.
 
 ---
 ---

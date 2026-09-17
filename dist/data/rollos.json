@@ -4209,7 +4209,7 @@
       {
         "number": "8",
         "hebrew": "נואמ אדוני יהוה מקבץ נדחי ישראל עוד אקבץ עלי׳ו לנקבצי׳ו׃",
-        "text": "Dice el Señor YHWH, el que junta los echados de Israel: aun juntaré sobre él sus congregados."
+        "text": "Dice el Señor YHWH, el que junta los echados de Israel: aun juntaré sobre él sus congregados¹⁴⁶."
       },
       {
         "number": "9",
@@ -6816,6 +6816,15 @@
       "evidence": [],
       "hebrew": "Chequeo doctrinal: 4Q68, ninguna categoría en su cobertura",
       "teaser": "El decimocuarto testigo, sin ningún anchor doctrinal en su tramo."
+    },
+    {
+      "id": 146,
+      "chapter": 56,
+      "title": "chequeo completo, sin variantes nuevas ni anchors doctrinales en cobertura.",
+      "body": "En 56:8, 4Q62a conserva genuinamente אדני (defectivo, sin la vav plene de 1QIsaa —cf. nota 1— aunque con el mismo contenido) y las tres primeras consonantes de יהוה, coincidiendo en sentido con el TM y con 1QIsaa: ninguno de los tres testigos difiere aquí más allá de la ortografía ya caracterizada en la nota 1. En 56:7, עולותיהם conserva solo un tramo parcial e incierto (ל y ת con incertidumbre editorial explícita), insuficiente para confirmar o descartar la ortografía exacta. En 57:5-8, el resto del tramo conservado —גבה (57:7), זכרונך (57:8, parcial)— tampoco aporta ninguna variante real frente al TM o a 1QIsaa. Sobre el chequeo doctrinal: se revisaron los anchor-verses de las nueve categorías contra los seis versos cubiertos por este testigo; el más cercano es 57:16 (alma-espíritu), ocho versos después del final de esta cobertura. Es, con este resultado, el testigo de menor rendimiento del archivo hasta ahora, y se documenta con el mismo criterio de transparencia que los demás: revisado en su totalidad, sin dato usable, no es lo mismo que no revisado.",
+      "evidence": [],
+      "hebrew": "Chequeo completo, sin variantes nuevas (4Q62a)",
+      "teaser": "El testigo de menor rendimiento del archivo, documentado igual."
     }
   ],
   "meta": {
