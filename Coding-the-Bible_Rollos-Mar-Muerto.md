@@ -1,4 +1,4 @@
-# Coding the Bible — Rollos del Mar Muerto (1QIsaa, Isaías 1 a 66 — libro completo; más 1Q8, 4Q56, 4Q57, 4Q55, 4Q60, 4Q58, 4Q59, 4Q61, 4Q64, Mur3 y 4Q66, segundo a duodécimo testigo)
+# Coding the Bible — Rollos del Mar Muerto (1QIsaa, Isaías 1 a 66 — libro completo; más 1Q8, 4Q56, 4Q57, 4Q55, 4Q60, 4Q58, 4Q59, 4Q61, 4Q64, Mur3, 4Q66 y 4Q62, segundo a decimotercer testigo)
 
 ### Lectura DIMA — decodificación integral desde el hebreo/arameo original
 
@@ -1200,9 +1200,9 @@ A diferencia de Génesis y Éxodo, acá el texto es fragmentario y el hallazgo c
 
 **4** No se cansará ni desmayará, hasta que establezca en la tierra justicia; y las costas esperarán su ley.
 
-**5** Así dice El, el Elohim⁴⁸, el Creador de los cielos, y el que los extiende; el que extendió la tierra y sus productos; el que da respiración⁸⁷ al pueblo que mora sobre ella, y espíritu a los que por ella andan.
+**5** Así dice El, el Elohim⁴⁸, el Creador de los cielos, y el que los extiende; el que extendió la tierra y sus productos; el que da respiración⁸⁷ al pueblo que mora sobre ella, y espíritu a los que por ella andan¹⁴².
 
-**6** Yo, YHWH⁴⁹, te he llamado en justicia, y te sostendré por la mano; te guardaré, y te pondré por pacto al pueblo, por luz de las naciones,
+**6** Yo, YHWH⁴⁹, te he llamado en justicia, y te sostendré por la mano; te guardaré, y te pondré por pacto al pueblo¹⁴¹, por luz de las naciones,
 
 **7** para que abras los ojos de los ciegos, para que saques de la cárcel a los presos, y de casas de prisión a los que moran en tinieblas.
 
@@ -2541,6 +2541,17 @@ A diferencia de Génesis y Éxodo, acá el texto es fragmentario y el hallazgo c
 **139 — traza física de אד(ני), ni con el TM completo ni con 1QIsaa ni con 1Q8 (61:1).** Cf. notas 70 (1QIsaa tiene solo רוח יהוה עלי, sin אדני, donde el TM tiene רוּחַ אֲדֹנָי יְהוִה עָלַי) y 100 (1Q8 tiene, en cambio, רוח יהוה אלהים עלי — una tercera combinación, "los tres testigos difieren entre sí" en este mismo verso). 4Q66 aporta ahora un cuarto dato, aunque con una salvedad importante sobre su nivel de certeza: en el lugar exacto donde iría אדני, el cuero conserva físicamente dos letras que el editor moderno lee, con una incertidumbre alta y explícita, como א y ד —no están dentro de un corchete de reconstrucción editorial, pero tampoco alcanzan la claridad de una letra plenamente legible—; las dos letras siguientes (נ, י) sí caen en un tramo reconstruido. Si la lectura incierta del editor es correcta, 4Q66 respaldaría la presencia de אדני en algún punto de este verso, más cerca del TM que de 1QIsaa o de 1Q8, aunque sin poder confirmar el resto de la fórmula completa (רוח mismo también tiene solo su última letra, ח, físicamente conservada con la misma incertidumbre, y יהוה está enteramente reconstruido). Dada la fragilidad del dato, se documenta aquí con la salvedad explícita, sin sumarlo como una quinta combinación firme junto a las de las notas 70 y 100. E1 el dato de que las letras א y ד no están reconstruidas, verificado a nivel de signo individual; D2 la lectura de que probablemente formaban parte de אדני, dado el nivel de incertidumbre editorial explícito sobre su identificación exacta.
 
 **140 — chequeo doctrinal: ningún verso de las nueve categorías cae en esta cobertura.** Cf. notas 81-87. Se revisaron los anchor-verses de las nueve categorías doctrinales contra los nueve versos cubiertos por 4Q66 (60:20-22 y 61:1-6): el más cercano es 61:8 (pacto y justicia), fuera del tramo conservado de este testigo por dos versos. Como en la nota 136, es un chequeo completo con resultado negativo por ausencia de cobertura, no un chequeo aligerado ni salteado.
+
+---
+---
+
+# 4Q62 — DECIMOTERCER TESTIGO DE ISAÍAS
+
+*4Q62 (también llamado 4QIsaᵖ) es un decimotercer rollo de Isaías, un solo fragmento continuo que cubre ocho versos de Isaías 42:4-11 —el primer canto del Siervo y el himno del "cántico nuevo"—. Un tramo relativamente bien conservado para su tamaño, con un hallazgo real de peso pese a las apenas ocho verses cubiertas.*
+
+**141 — ברית עולם, en vez de ברית עם (42:6).** El TM tiene "לִבְרִית עָם" ("por pacto al pueblo/para el pueblo," usando עם, "pueblo"); 1QIsaa, ya decodificado en este archivo, coincide exactamente con el TM en este punto (ברית עם). 4Q62 tiene, en cambio, ברית עולם ("pacto eterno," usando עולם, "eternidad/siempre") — una palabra genuinamente distinta, no una variante ortográfica menor, con las cuatro consonantes de עולם plenamente conservadas y sin ninguna marca de reconstrucción. Es un caso de **4Q62 solo, frente a la coincidencia entre el TM y 1QIsaa**: la fórmula נתן ברית ya caracterizada en la nota 82 como un uso distintivo de Isaías para describir al Siervo mismo dado "por pacto" (42:6 y 49:8), aparece aquí nivelada hacia la otra fórmula del mismo libro, הקים/כרת ברית עולם ("pacto eterno," cf. 55:3 y 61:8) — probablemente una asimilación de un copista más familiarizado con esa segunda fórmula, más común en el libro, que con la construcción más rara y específica del Siervo. Además, en el mismo verso, 4Q62 conserva las tres primeras consonantes del tetragrámaton (יהו-) en su forma ordinaria, sin ninguna corrección — a diferencia de 1QIsaa, cuyo texto base tiene aquí una corrección antigua supralineal que escribe el nombre divino con cinco yodim (cf. nota 49); ese rasgo paleográfico especial no se repite en 4Q62. E1 el dato de עולם, verificado a nivel de signo individual; D2 la lectura de que se trata de una asimilación a la fórmula más común de "pacto eterno" en el resto del libro, sin que pueda descartarse una tradición textual distinta.
+
+**142 — chequeo doctrinal: נשמה reconstruida, רוח con una sola letra incierta (42:5).** Cf. nota 87 (alma-espíritu-aliento). El único anchor de esta categoría que cae dentro de la cobertura de 4Q62 es 42:5, donde el TM empareja נשמה y רוח en la misma frase ("da respiración al pueblo... y espíritu a los que por ella andan"). En 4Q62, נשמה cae enteramente en un tramo reconstruido, sin ninguna letra físicamente conservada; de רוח solo sobrevive su última letra (ח), con una incertidumbre editorial explícita sobre su identificación y sin las dos letras anteriores. No alcanza el estándar de este archivo para contar como dato confirmado — se deja constancia explícita, siguiendo el mismo criterio de transparencia de las notas 130, 136, 138 y 140: revisado y sin dato usable no es lo mismo que no revisado.
 
 ---
 ---

@@ -2826,12 +2826,12 @@ window.ROLLOS_DATA={
       {
         "number": "5",
         "hebrew": "כוה אמר האל האלוהים בורה השמים ונוטי׳המה רוקע הארץ וצאצאי׳ה נותן נשמה לעם עלי׳הא ורוח להולכים ב׳ה׃",
-        "text": "Así dice El, el Elohim⁴⁸, el Creador de los cielos, y el que los extiende; el que extendió la tierra y sus productos; el que da respiración⁸⁷ al pueblo que mora sobre ella, y espíritu a los que por ella andan."
+        "text": "Así dice El, el Elohim⁴⁸, el Creador de los cielos, y el que los extiende; el que extendió la tierra y sus productos; el que da respiración⁸⁷ al pueblo que mora sobre ella, y espíritu a los que por ella andan¹⁴²."
       },
       {
         "number": "6",
         "hebrew": "אני ייייי קרתי׳כה בצדק ואחזיקה ביד׳כה ואצור׳כה ואתנ׳כה לברית עם לאור גואים׃",
-        "text": "Yo, YHWH⁴⁹, te he llamado en justicia, y te sostendré por la mano; te guardaré, y te pondré por pacto al pueblo, por luz de las naciones,"
+        "text": "Yo, YHWH⁴⁹, te he llamado en justicia, y te sostendré por la mano; te guardaré, y te pondré por pacto al pueblo¹⁴¹, por luz de las naciones,"
       },
       {
         "number": "7",
@@ -6763,6 +6763,27 @@ window.ROLLOS_DATA={
       "evidence": [],
       "hebrew": "Chequeo doctrinal: 4Q66, ninguna categoría en su cobertura",
       "teaser": "El duodécimo testigo, sin ningún anchor doctrinal en su tramo."
+    },
+    {
+      "id": 141,
+      "chapter": 42,
+      "title": "ברית עולם, en vez de ברית עם",
+      "body": "El TM tiene \"לִבְרִית עָם\" (\"por pacto al pueblo/para el pueblo,\" usando עם, \"pueblo\"); 1QIsaa, ya decodificado en este archivo, coincide exactamente con el TM en este punto (ברית עם). 4Q62 tiene, en cambio, ברית עולם (\"pacto eterno,\" usando עולם, \"eternidad/siempre\") — una palabra genuinamente distinta, no una variante ortográfica menor, con las cuatro consonantes de עולם plenamente conservadas y sin ninguna marca de reconstrucción. Es un caso de *4Q62 solo, frente a la coincidencia entre el TM y 1QIsaa*: la fórmula נתן ברית ya caracterizada en la nota 82 como un uso distintivo de Isaías para describir al Siervo mismo dado \"por pacto\" (42:6 y 49:8), aparece aquí nivelada hacia la otra fórmula del mismo libro, הקים/כרת ברית עולם (\"pacto eterno,\" cf. 55:3 y 61:8) — probablemente una asimilación de un copista más familiarizado con esa segunda fórmula, más común en el libro, que con la construcción más rara y específica del Siervo. Además, en el mismo verso, 4Q62 conserva las tres primeras consonantes del tetragrámaton (יהו-) en su forma ordinaria, sin ninguna corrección — a diferencia de 1QIsaa, cuyo texto base tiene aquí una corrección antigua supralineal que escribe el nombre divino con cinco yodim (cf. nota 49); ese rasgo paleográfico especial no se repite en 4Q62. E1 el dato de עולם, verificado a nivel de signo individual; D2 la lectura de que se trata de una asimilación a la fórmula más común de \"pacto eterno\" en el resto del libro, sin que pueda descartarse una tradición textual distinta.",
+      "evidence": [
+        "E1",
+        "D2"
+      ],
+      "hebrew": "בְּרִית עוֹלָם / בְּרִית עָם — 4Q62 solo",
+      "teaser": "Pacto eterno donde el TM y 1QIsaa coinciden en pacto al pueblo."
+    },
+    {
+      "id": 142,
+      "chapter": 42,
+      "title": "chequeo doctrinal: נשמה reconstruida, רוח con una sola letra incierta",
+      "body": "Cf. nota 87 (alma-espíritu-aliento). El único anchor de esta categoría que cae dentro de la cobertura de 4Q62 es 42:5, donde el TM empareja נשמה y רוח en la misma frase (\"da respiración al pueblo... y espíritu a los que por ella andan\"). En 4Q62, נשמה cae enteramente en un tramo reconstruido, sin ninguna letra físicamente conservada; de רוח solo sobrevive su última letra (ח), con una incertidumbre editorial explícita sobre su identificación y sin las dos letras anteriores. No alcanza el estándar de este archivo para contar como dato confirmado — se deja constancia explícita, siguiendo el mismo criterio de transparencia de las notas 130, 136, 138 y 140: revisado y sin dato usable no es lo mismo que no revisado.",
+      "evidence": [],
+      "hebrew": "Chequeo doctrinal: נְשָׁמָה reconstruida, רוּחַ con una letra (4Q62)",
+      "teaser": "El decimotercer testigo, y un chequeo doctrinal sin dato usable."
     }
   ],
   "meta": {
