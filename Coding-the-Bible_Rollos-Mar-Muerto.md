@@ -1,4 +1,4 @@
-# Coding the Bible — Rollos del Mar Muerto (1QIsaa, Isaías 1 a 66 — libro completo; más 1Q8, 4Q56, 4Q57, 4Q55, 4Q60, 4Q58, 4Q59, 4Q61, 4Q64, Mur3, 4Q66, 4Q62, 4Q68, 4Q62a, 4Q63, 4Q65, 4Q69a, 5Q3 y 4Q67, segundo a vigésimo testigo)
+# Coding the Bible — Rollos del Mar Muerto (1QIsaa, Isaías 1 a 66 — libro completo; más 1Q8, 4Q56, 4Q57, 4Q55, 4Q60, 4Q58, 4Q59, 4Q61, 4Q64, Mur3, 4Q66, 4Q62, 4Q68, 4Q62a, 4Q63, 4Q65, 4Q69a, 5Q3, 4Q67 y 4Q69, segundo a vigesimoprimer testigo)
 
 ### Lectura DIMA — decodificación integral desde el hebreo/arameo original
 
@@ -164,7 +164,7 @@ A diferencia de Génesis y Éxodo, acá el texto es fragmentario y el hallazgo c
 
 **26-28** Alzará pendón a naciones lejanas, y les silbará desde el extremo de la tierra; y he aquí que vendrán velozmente y con prontitud. No habrá entre ellos cansado, ni quien tropiece; ninguno se dormirá ni tendrá sueño; a ninguno se le desatará el cinto de los lomos, ni se le romperá la correa de su calzado; cuyas saetas serán agudas, y todos sus arcos entesados; los cascos de sus caballos parecerán como de pedernal, y las ruedas de sus carros como torbellino.
 
-**29-30** Su rugido será como de león; rugirá a manera de leoncillos, rechinará los dientes, y arrebatará la presa; la llevará, y no habrá quien se la quite. Y bramará sobre ella en aquel día como bramido del mar; y si se mira hacia la tierra, he aquí tinieblas y angustia, y la luz se oscureció en sus nubes.
+**29-30** Su rugido será como de león; rugirá a manera de leoncillos, rechinará los dientes, y arrebatará la presa; la llevará, y no habrá quien se la quite¹⁵⁷. Y bramará sobre ella en aquel día como bramido del mar; y si se mira hacia la tierra, he aquí tinieblas y angustia, y la luz se oscureció en sus nubes.
 
 ## 1QIsaa · Isaías 6
 
@@ -2629,6 +2629,15 @@ A diferencia de Génesis y Éxodo, acá el texto es fragmentario y el hallazgo c
 **155 — כלתי׳ך, con ת-י, en vez de la forma sin ת de 1QIsaa (58:14) — variante de 1QIsaa no documentada hasta ahora.** El TM tiene "וְהַאֲכַלְתִּיךָ" ("y te daré de comer", Hifil perfecto en primera persona, con el sufijo ־תי característico); 1QIsaa, ya decodificado en este archivo, tiene en cambio "האכיל׳כה" — una forma verbal distinta, sin el sufijo ־תי, más cercana a un participio o infinitivo Hifil ("el que hace comer" o "hacer comer") que a la primera persona explícita del TM, sin nota propia hasta ahora en este archivo. 4Q67 conserva genuinamente -כלתי׳ך (כ, ל, ת, י, ך, las cinco últimas consonantes de האכלתיך), con la ת y la י del sufijo de primera persona claramente presentes — coincidiendo con el TM y no con la forma de 1QIsaa. Es un caso de **4Q67 con el TM contra 1QIsaa**: un segundo testigo qumránico independiente que no comparte la forma verbal distintiva de este rollo en este punto. Sobre el verbo anterior del mismo verso (הרכבתיך/הרכיב׳כה, "te haré cabalgar"), 4Q67 conserva הרכב׳ך, pero el tramo está parcialmente dañado en ambos extremos y no permite establecer con la misma certeza si el sufijo ־תי estaba presente o ausente; no se incluye como dato firme. E1 el dato de -כלתי׳ך, verificado a nivel de signo individual; D2 la lectura de que la forma de 1QIsaa en האכיל׳כה refleja una variante morfológica real y no solo ortográfica, dado que la secuencia de consonantes es distinta de la del TM y de la de 4Q67, no solo su grafía.
 
 **156 — chequeo doctrinal: ningún verso de las nueve categorías cae en esta cobertura.** Cf. notas 81-87. El anchor más cercano es 58:1-2 (pecado, justicia), diez a once versos antes del comienzo de la cobertura de 4Q67. Como en las notas 136, 140, 145 y 154, es un chequeo completo con resultado negativo por ausencia de cobertura.
+
+---
+---
+
+# 4Q69 — VIGESIMOPRIMER TESTIGO DE ISAÍAS
+
+*4Q69 (también llamado 4QpapIsaᵖ, escrito sobre papiro) es un vigesimoprimer rollo de Isaías, un solo fragmento continuo que cubre tres versos de 5:28-30 —el final de la descripción del ejército invasor, la imagen del león que ruge—.*
+
+**157 — chequeo completo, sin variantes nuevas ni anchors doctrinales en cobertura.** El tramo conservado de 4Q69 —principalmente 5:29-30— coincide en todo lo genuinamente extante con el TM y con 1QIsaa (ya decodificado en este archivo), sin ninguna variante real. Un solo punto menor: en יִשְׁאַג (5:29), donde el TM tiene el ketiv ושאג (con vav, aunque leído tradicionalmente sin ella) y 1QIsaa tiene ישאג (sin vav, coincidiendo con la lectura tradicional), 4Q69 conserva genuinamente את שאג con la י inicial marcada con incertidumbre editorial menor —compatible con ambas lecturas, sin alcanzar el nivel de certeza necesario para una nota propia—. Sobre el chequeo doctrinal: ningún anchor de las nueve categorías cae dentro de los tres versos cubiertos por este testigo; el más cercano es 5:18 (pecado), diez versos antes. Se documenta con el mismo criterio de transparencia que las notas 146 y 154: revisado en su totalidad, sin dato usable, no es lo mismo que no revisado.
 
 ---
 ---
