@@ -1812,7 +1812,7 @@
       {
         "number": "23-24",
         "hebrew": "ונתן מטר זרע׳ך אשר תזרע׳ את האדמה ולחם תבואת האדמה יהיה דשן ושמן זרעה מקני׳ך ביומ ההוא כר נרהב׃ והאלפים והעירים עובדי האדםה בליל חמץ יאכלו אשר יזרה ברחת ובמזרה׃",
-        "text": "Entonces dará el Señor lluvia a tu sementera, cuando sembrares la tierra, y dará pan de los frutos de la tierra; será abundante y de gran producción. En aquel tiempo tus ganados serán apacentados en espaciosas dehesas. Los bueyes y los asnos que labran la tierra comerán grano sazonado, aventado con pala y bieldo."
+        "text": "Entonces dará el Señor lluvia a tu sementera, cuando sembrares la tierra, y dará pan de los frutos de la tierra¹⁵⁸; será abundante y de gran producción. En aquel tiempo tus ganados serán apacentados en espaciosas dehesas. Los bueyes y los asnos que labran la tierra comerán grano sazonado, aventado con pala y bieldo."
       },
       {
         "number": "25",
@@ -6937,6 +6937,15 @@
       "evidence": [],
       "hebrew": "Chequeo completo, sin variantes nuevas (4Q69)",
       "teaser": "El rugido del león, sin ninguna variante nueva que reportar."
+    },
+    {
+      "id": 158,
+      "chapter": 30,
+      "title": "chequeo completo, sin variantes nuevas ni anchors doctrinales en cobertura.",
+      "body": "El único verso conservado de 4Q69b, 30:23, coincide en todo lo genuinamente extante con el TM y con 1QIsaa (ya decodificado en este archivo): \"ונתן מטר זרעך אשר תזרע... האדמה ולחם תבואת האדמה\" no presenta ninguna variante real en las palabras conservadas sin marca de reconstrucción. Ningún anchor de las nueve categorías doctrinales cae en este único verso. Es, con toda justicia, el testigo de menor cobertura posible de todo este archivo —un solo verso—, y se documenta con el mismo criterio de transparencia aplicado a cada uno de los veintiún testigos anteriores: revisado en su totalidad, sin dato usable, no es lo mismo que no revisado.",
+      "evidence": [],
+      "hebrew": "Chequeo completo, sin variantes nuevas (4Q69b) — último testigo",
+      "teaser": "Un solo verso cierra el sistema completo de testigos de Isaías."
     }
   ],
   "meta": {

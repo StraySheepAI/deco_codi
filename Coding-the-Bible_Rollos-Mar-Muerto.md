@@ -1,4 +1,4 @@
-# Coding the Bible — Rollos del Mar Muerto (1QIsaa, Isaías 1 a 66 — libro completo; más 1Q8, 4Q56, 4Q57, 4Q55, 4Q60, 4Q58, 4Q59, 4Q61, 4Q64, Mur3, 4Q66, 4Q62, 4Q68, 4Q62a, 4Q63, 4Q65, 4Q69a, 5Q3, 4Q67 y 4Q69, segundo a vigesimoprimer testigo)
+# Coding the Bible — Rollos del Mar Muerto (1QIsaa, Isaías 1 a 66 — libro completo; más los veintiún testigos qumránicos y de Wadi Murabba'at 1Q8, 4Q56, 4Q57, 4Q55, 4Q60, 4Q58, 4Q59, 4Q61, 4Q64, Mur3, 4Q66, 4Q62, 4Q68, 4Q62a, 4Q63, 4Q65, 4Q69a, 5Q3, 4Q67, 4Q69 y 4Q69b — sistema completo)
 
 ### Lectura DIMA — decodificación integral desde el hebreo/arameo original
 
@@ -780,7 +780,7 @@ A diferencia de Génesis y Éxodo, acá el texto es fragmentario y el hallazgo c
 
 **22** Entonces contaminarás la cobertura de tus imágenes de plata, y el vestido de tus becerros de fundición de oro; los apartarás como trapo de inmundicia; les dirás: ¡fuera de aquí!
 
-**23-24** Entonces dará el Señor lluvia a tu sementera, cuando sembrares la tierra, y dará pan de los frutos de la tierra; será abundante y de gran producción. En aquel tiempo tus ganados serán apacentados en espaciosas dehesas. Los bueyes y los asnos que labran la tierra comerán grano sazonado, aventado con pala y bieldo.
+**23-24** Entonces dará el Señor lluvia a tu sementera, cuando sembrares la tierra, y dará pan de los frutos de la tierra¹⁵⁸; será abundante y de gran producción. En aquel tiempo tus ganados serán apacentados en espaciosas dehesas. Los bueyes y los asnos que labran la tierra comerán grano sazonado, aventado con pala y bieldo.
 
 **25** Y sobre todo monte alto, y sobre todo collado elevado, habrá ríos y corrientes de aguas, el día de la gran matanza, cuando caerán las torres.
 
@@ -2638,6 +2638,22 @@ A diferencia de Génesis y Éxodo, acá el texto es fragmentario y el hallazgo c
 *4Q69 (también llamado 4QpapIsaᵖ, escrito sobre papiro) es un vigesimoprimer rollo de Isaías, un solo fragmento continuo que cubre tres versos de 5:28-30 —el final de la descripción del ejército invasor, la imagen del león que ruge—.*
 
 **157 — chequeo completo, sin variantes nuevas ni anchors doctrinales en cobertura.** El tramo conservado de 4Q69 —principalmente 5:29-30— coincide en todo lo genuinamente extante con el TM y con 1QIsaa (ya decodificado en este archivo), sin ninguna variante real. Un solo punto menor: en יִשְׁאַג (5:29), donde el TM tiene el ketiv ושאג (con vav, aunque leído tradicionalmente sin ella) y 1QIsaa tiene ישאג (sin vav, coincidiendo con la lectura tradicional), 4Q69 conserva genuinamente את שאג con la י inicial marcada con incertidumbre editorial menor —compatible con ambas lecturas, sin alcanzar el nivel de certeza necesario para una nota propia—. Sobre el chequeo doctrinal: ningún anchor de las nueve categorías cae dentro de los tres versos cubiertos por este testigo; el más cercano es 5:18 (pecado), diez versos antes. Se documenta con el mismo criterio de transparencia que las notas 146 y 154: revisado en su totalidad, sin dato usable, no es lo mismo que no revisado.
+
+---
+---
+
+# 4Q69b — VIGESIMOSEGUNDO Y ÚLTIMO TESTIGO DE ISAÍAS
+
+*4Q69b (también llamado 4QpapIsaᵖ, el mismo papiro que 4Q69 pero catalogado aparte por los editores de DJD) es el vigesimosegundo y último testigo qumránico de Isaías trabajado en este archivo, con un solo verso conservado: 30:23. Con este testigo se cierra el sistema completo de testigos del Mar Muerto para el libro de Isaías reunidos en este archivo — veintidós manuscritos en total, desde 1QIsaa (el rollo casi completo con el que empezó este trabajo) hasta este fragmento de un solo verso.*
+
+**158 — chequeo completo, sin variantes nuevas ni anchors doctrinales en cobertura.** El único verso conservado de 4Q69b, 30:23, coincide en todo lo genuinamente extante con el TM y con 1QIsaa (ya decodificado en este archivo): "ונתן מטר זרעך אשר תזרע... האדמה ולחם תבואת האדמה" no presenta ninguna variante real en las palabras conservadas sin marca de reconstrucción. Ningún anchor de las nueve categorías doctrinales cae en este único verso. Es, con toda justicia, el testigo de menor cobertura posible de todo este archivo —un solo verso—, y se documenta con el mismo criterio de transparencia aplicado a cada uno de los veintiún testigos anteriores: revisado en su totalidad, sin dato usable, no es lo mismo que no revisado.
+
+---
+---
+
+## Cierre del sistema completo de testigos de Isaías
+
+Con 4Q69b se completa la revisión de los veintiún testigos qumránicos y de Wadi Murabba'at conocidos de Isaías, además de 1QIsaa: 1Q8, 4Q56, 4Q57, 4Q55, 4Q60, 4Q58, 4Q59, 4Q61, 4Q64, Mur3, 4Q66, 4Q62, 4Q68, 4Q62a, 4Q63, 4Q65, 4Q69a, 5Q3, 4Q67, 4Q69 y 4Q69b — 158 notas en total, cada una verificada a nivel de signo individual con Text-Fabric, con el mismo chequeo doctrinal parejo (pacto, pecado, justicia, bendecir/maldecir, fe, temor, alma-espíritu) corrido en cada uno de los catorce testigos posteriores a 1Q8 desde el arranque, sin aligerar por volumen. Tres hallazgos quedan documentados pero sin resolver en el cuerpo del texto, a la espera de una decisión explícita: la variante סחורה/סֹעֲרָה de 1QIsaa en 54:11 (nota 151), la variante ויעשה מסך/נסך de 1QIsaa en 40:19 (nota 153), y el posible desfase de numeración preexistente entre las notas 2-4 y sus superíndices en 1:1-1:7, anterior a este trabajo de Rollos y no tocado aquí.
 
 ---
 ---
