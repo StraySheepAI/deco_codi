@@ -1,4 +1,4 @@
-# Coding the Bible — Rollos del Mar Muerto (1QIsaa, Isaías 1 a 66 — libro completo; más 1Q8, 4Q56, 4Q57, 4Q55, 4Q60, 4Q58, 4Q59, 4Q61, 4Q64, Mur3, 4Q66, 4Q62, 4Q68, 4Q62a, 4Q63 y 4Q65, segundo a decimoséptimo testigo)
+# Coding the Bible — Rollos del Mar Muerto (1QIsaa, Isaías 1 a 66 — libro completo; más 1Q8, 4Q56, 4Q57, 4Q55, 4Q60, 4Q58, 4Q59, 4Q61, 4Q64, Mur3, 4Q66, 4Q62, 4Q68, 4Q62a, 4Q63, 4Q65 y 4Q69a, segundo a decimoctavo testigo)
 
 ### Lectura DIMA — decodificación integral desde el hebreo/arameo original
 
@@ -1710,9 +1710,9 @@ A diferencia de Génesis y Éxodo, acá el texto es fragmentario y el hallazgo c
 
 **9** Porque esto me será como las aguas de Noaj; que juré que nunca más pasarían las aguas de Noaj sobre la tierra; así he jurado que no me airaré contra ti, ni te reprenderé.
 
-**10** Porque los montes se moverán, y los collados temblarán; mas no se apartará de ti mi misericordia, ni el pacto de mi paz se moverá, dijo YHWH, el que tiene misericordia de ti.
+**10** Porque los montes se moverán, y los collados temblarán; mas no se apartará de ti mi misericordia, ni el pacto de mi paz¹⁵² se moverá, dijo YHWH, el que tiene misericordia de ti.
 
-**11** Pobrecita, combatida con tempestad, sin consuelo; he aquí que yo asiento tus piedras con antimonio, y tus fundamentos con zafiros.
+**11** Pobrecita, combatida con tempestad¹⁵¹, sin consuelo; he aquí que yo asiento tus piedras con antimonio, y tus fundamentos con zafiros.
 
 **12** Y tus ventanas pondré de piedras de rubí, y tus puertas de piedras de carbunclo, y todo tu término de piedras preciosas.
 
@@ -2596,6 +2596,17 @@ A diferencia de Génesis y Éxodo, acá el texto es fragmentario y el hallazgo c
 **149 — chequeo doctrinal: לוא תיראו, מוראו, מראכם y מערצכם, las cuatro conservadas (8:12-13).** Cf. nota 86 (temor: יראה/פחד, dos temores que no son el mismo). Este es el verso ancla mismo de la nota 86 —el contraste explícito entre el miedo a las conspiraciones humanas y la reverencia debida solo a YHWH—, y 4Q65 lo conserva con una densidad de datos genuinamente extantes poco común para un testigo de este tamaño: en 8:12, "ולוא תיראו" ("y no temeréis") y "את מוראו" ("su temor/objeto de temor") están genuinamente conservados, letra por letra, sin ninguna marca de reconstrucción; en 8:13, una segunda aparición de la misma raíz, מראכם ("vuestro temor"), y una del par ערץ, מערצכם ("vuestro pavor"), también están genuinamente conservadas, esta última con una sola letra de incertidumbre editorial menor. Las cuatro palabras coinciden en contenido con el TM y con 1QIsaa (ya decodificado en este archivo) sin ninguna variante real entre los tres testigos: lo notable aquí no es una discrepancia, sino la confirmación limpia y múltiple, dentro de un solo verso, del vocabulario doctrinal exacto que sostiene la distinción de la nota 86. E1 los cuatro datos, verificados a nivel de signo individual.
 
 **150 — chequeo textual-crítico: notas 22 y 26, sin dato en este testigo.** Cf. nota 22 (7:14: יהוה הוה de 1QIsaa frente a אדני הוא del TM) y nota 26 (8:11: יסיר׳נו de 1QIsaa frente a ויסרני del TM). Ambas palabras en disputa caen en tramos íntegramente reconstruidos en 4Q65 —אדני הוא en 7:14, יסר׳ני en 8:11—, sin ninguna letra físicamente conservada en los puntos exactos de la variante. Se deja constancia explícita, siguiendo el mismo criterio de transparencia de las notas anteriores.
+
+---
+---
+
+# 4Q69a — DECIMOCTAVO TESTIGO DE ISAÍAS
+
+*4Q69a (también llamado 4QpapIsaᵖ, escrito sobre papiro en vez de cuero) es un decimoctavo rollo de Isaías, un solo fragmento continuo que cubre cuatro versos de 54:10-13 —el cierre del oráculo de consuelo a Sión, con las piedras preciosas de la ciudad reconstruida—. Un testigo mínimo por tamaño, pero que motiva una revisión hacia atrás sobre una variante real de 1QIsaa nunca antes anotada en este archivo.*
+
+**151 — סחורה, en vez de סֹעֲרָה del TM (54:11) — variante de 1QIsaa no documentada hasta ahora.** El TM tiene "עֲנִיָּה סֹעֲרָה לֹא נֻחָמָה" ("afligida, azotada por la tempestad, sin consuelo" — de la raíz סער, "tormenta"). 1QIsaa, ya decodificado en este archivo, tiene en cambio "ענייה סחורה", con la raíz סחר ("comerciar, mercadear") en vez de סער — un intercambio real de consonante (ח por ע) entre dos raíces con sentidos completamente distintos, no una variante ortográfica menor. La traducción al español de este archivo sigue en este punto el sentido del TM ("combatida con tempestad"), no el de la palabra hebrea que 1QIsaa realmente tiene conservada; se documenta aquí la lectura real, sin tocar el cuerpo del texto en esta pasada, para que quede a decisión explícita si corresponde una corrección de traducción como las de las notas 81/84. Sobre 4Q69a: la palabra en disputa (סערה, en la reconstrucción editorial del fragmento) cae en un tramo íntegramente reconstruido, sin ninguna letra físicamente conservada — este testigo no puede confirmar ni descartar cuál de las dos raíces tenía originalmente. E1 el dato de la lectura de 1QIsaa, verificado a nivel de signo individual (ya disponible en este archivo desde su decodificación inicial, pero sin nota propia hasta ahora); D2 la lectura de que probablemente se trata de una confusión de guturales entre ח y ע —el mismo tipo de fenómeno ya documentado en la nota 22 (היכה/איכה)— más que una variante de contenido deliberada, sin que esto pueda descartarse con certeza.
+
+**152 — chequeo doctrinal: ברית cae en un tramo reconstruido (54:10).** Cf. nota 82 (pacto: 54:10 está en la lista de apariciones de ברית sin ninguno de los tres verbos característicos). En 4Q69a, toda la cláusula "ברית שלומי לא תמוט" cae en un tramo íntegramente reconstruido, sin ninguna letra físicamente conservada de ברית. Se deja constancia explícita, siguiendo el mismo criterio de transparencia de las notas anteriores.
 
 ---
 ---

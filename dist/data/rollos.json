@@ -4065,12 +4065,12 @@
       {
         "number": "10",
         "hebrew": "כיא ההרים ימושו והגבעות תתמוטינה וחסד׳י מאת׳ך לוא ימוש וברית שלומ׳י לוא תמוט אמר מרחמ׳כי יהוה׃",
-        "text": "Porque los montes se moverán, y los collados temblarán; mas no se apartará de ti mi misericordia, ni el pacto de mi paz se moverá, dijo YHWH, el que tiene misericordia de ti."
+        "text": "Porque los montes se moverán, y los collados temblarán; mas no se apartará de ti mi misericordia, ni el pacto de mi paz¹⁵² se moverá, dijo YHWH, el que tiene misericordia de ti."
       },
       {
         "number": "11",
         "hebrew": "ענייה סחורה לוא נחמה הנה אנוכי מרביץ בפוך אבני׳ך ויסודותי׳ך בספירים׃",
-        "text": "Pobrecita, combatida con tempestad, sin consuelo; he aquí que yo asiento tus piedras con antimonio, y tus fundamentos con zafiros."
+        "text": "Pobrecita, combatida con tempestad¹⁵¹, sin consuelo; he aquí que yo asiento tus piedras con antimonio, y tus fundamentos con zafiros."
       },
       {
         "number": "12",
@@ -6865,6 +6865,27 @@
       "evidence": [],
       "hebrew": "Notas 22 y 26, sin dato en 4Q65",
       "teaser": "Dos crux famosas del capítulo 7 y 8, ninguna con dato aquí."
+    },
+    {
+      "id": 151,
+      "chapter": 54,
+      "title": "סחורה, en vez de סֹעֲרָה del TM (54:11) — variante de 1QIsaa no documentada hasta ahora.",
+      "body": "El TM tiene \"עֲנִיָּה סֹעֲרָה לֹא נֻחָמָה\" (\"afligida, azotada por la tempestad, sin consuelo\" — de la raíz סער, \"tormenta\"). 1QIsaa, ya decodificado en este archivo, tiene en cambio \"ענייה סחורה\", con la raíz סחר (\"comerciar, mercadear\") en vez de סער — un intercambio real de consonante (ח por ע) entre dos raíces con sentidos completamente distintos, no una variante ortográfica menor. La traducción al español de este archivo sigue en este punto el sentido del TM (\"combatida con tempestad\"), no el de la palabra hebrea que 1QIsaa realmente tiene conservada; se documenta aquí la lectura real, sin tocar el cuerpo del texto en esta pasada, para que quede a decisión explícita si corresponde una corrección de traducción como las de las notas 81/84. Sobre 4Q69a: la palabra en disputa (סערה, en la reconstrucción editorial del fragmento) cae en un tramo íntegramente reconstruido, sin ninguna letra físicamente conservada — este testigo no puede confirmar ni descartar cuál de las dos raíces tenía originalmente. E1 el dato de la lectura de 1QIsaa, verificado a nivel de signo individual (ya disponible en este archivo desde su decodificación inicial, pero sin nota propia hasta ahora); D2 la lectura de que probablemente se trata de una confusión de guturales entre ח y ע —el mismo tipo de fenómeno ya documentado en la nota 22 (היכה/איכה)— más que una variante de contenido deliberada, sin que esto pueda descartarse con certeza.",
+      "evidence": [
+        "E1",
+        "D2"
+      ],
+      "hebrew": "סְחוֹרָה / סֹעֲרָה — una variante de 1QIsaa nunca antes anotada",
+      "teaser": "Una variante de 1QIsaa mismo, recién descubierta en esta revisión."
+    },
+    {
+      "id": 152,
+      "chapter": 54,
+      "title": "chequeo doctrinal: ברית cae en un tramo reconstruido",
+      "body": "Cf. nota 82 (pacto: 54:10 está en la lista de apariciones de ברית sin ninguno de los tres verbos característicos). En 4Q69a, toda la cláusula \"ברית שלומי לא תמוט\" cae en un tramo íntegramente reconstruido, sin ninguna letra físicamente conservada de ברית. Se deja constancia explícita, siguiendo el mismo criterio de transparencia de las notas anteriores.",
+      "evidence": [],
+      "hebrew": "Chequeo doctrinal: בְּרִית en un tramo reconstruido (4Q69a)",
+      "teaser": "El decimoctavo testigo, y un pacto que cae en la reconstrucción."
     }
   ],
   "meta": {
