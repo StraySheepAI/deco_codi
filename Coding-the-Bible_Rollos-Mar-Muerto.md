@@ -1,4 +1,4 @@
-# Coding the Bible — Rollos del Mar Muerto (1QIsaa, Isaías 1 a 66 — libro completo; más 1Q8, 4Q56, 4Q57, 4Q55, 4Q60, 4Q58, 4Q59, 4Q61, 4Q64, Mur3, 4Q66, 4Q62, 4Q68, 4Q62a, 4Q63, 4Q65 y 4Q69a, segundo a decimoctavo testigo)
+# Coding the Bible — Rollos del Mar Muerto (1QIsaa, Isaías 1 a 66 — libro completo; más 1Q8, 4Q56, 4Q57, 4Q55, 4Q60, 4Q58, 4Q59, 4Q61, 4Q64, Mur3, 4Q66, 4Q62, 4Q68, 4Q62a, 4Q63, 4Q65, 4Q69a y 5Q3, segundo a decimonoveno testigo)
 
 ### Lectura DIMA — decodificación integral desde el hebreo/arameo original
 
@@ -1108,13 +1108,13 @@ A diferencia de Génesis y Éxodo, acá el texto es fragmentario y el hallazgo c
 
 **15** He aquí que las naciones le son como una gota de agua que cae del cántaro, y como menudo polvo en las balanzas; he aquí que hace desaparecer las islas como polvo fino.
 
-**16** Ni el Líbano bastará para el fuego, ni todos sus animales para el holocausto.
+**16** Ni el Líbano bastará para el fuego, ni todos sus animales para el holocausto¹⁵⁴.
 
 **17** Como nada son todas las naciones delante de él; y las cuenta como cosa nula y vana.
 
 **18** ¿A qué, pues, haréis semejante a Elohim, o qué imagen le compondréis?
 
-**19** El artífice funde la imagen, el platero le extiende oro y le funde cadenas de plata.
+**19** El artífice funde la imagen¹⁵³, el platero le extiende oro y le funde cadenas de plata.
 
 **20** El pobre escoge, para ofrecerle, madera que no se apolille; se busca un maestro sabio, que le haga una imagen que no se mueva.
 
@@ -2607,6 +2607,17 @@ A diferencia de Génesis y Éxodo, acá el texto es fragmentario y el hallazgo c
 **151 — סחורה, en vez de סֹעֲרָה del TM (54:11) — variante de 1QIsaa no documentada hasta ahora.** El TM tiene "עֲנִיָּה סֹעֲרָה לֹא נֻחָמָה" ("afligida, azotada por la tempestad, sin consuelo" — de la raíz סער, "tormenta"). 1QIsaa, ya decodificado en este archivo, tiene en cambio "ענייה סחורה", con la raíz סחר ("comerciar, mercadear") en vez de סער — un intercambio real de consonante (ח por ע) entre dos raíces con sentidos completamente distintos, no una variante ortográfica menor. La traducción al español de este archivo sigue en este punto el sentido del TM ("combatida con tempestad"), no el de la palabra hebrea que 1QIsaa realmente tiene conservada; se documenta aquí la lectura real, sin tocar el cuerpo del texto en esta pasada, para que quede a decisión explícita si corresponde una corrección de traducción como las de las notas 81/84. Sobre 4Q69a: la palabra en disputa (סערה, en la reconstrucción editorial del fragmento) cae en un tramo íntegramente reconstruido, sin ninguna letra físicamente conservada — este testigo no puede confirmar ni descartar cuál de las dos raíces tenía originalmente. E1 el dato de la lectura de 1QIsaa, verificado a nivel de signo individual (ya disponible en este archivo desde su decodificación inicial, pero sin nota propia hasta ahora); D2 la lectura de que probablemente se trata de una confusión de guturales entre ח y ע —el mismo tipo de fenómeno ya documentado en la nota 22 (היכה/איכה)— más que una variante de contenido deliberada, sin que esto pueda descartarse con certeza.
 
 **152 — chequeo doctrinal: ברית cae en un tramo reconstruido (54:10).** Cf. nota 82 (pacto: 54:10 está en la lista de apariciones de ברית sin ninguno de los tres verbos característicos). En 4Q69a, toda la cláusula "ברית שלומי לא תמוט" cae en un tramo íntegramente reconstruido, sin ninguna letra físicamente conservada de ברית. Se deja constancia explícita, siguiendo el mismo criterio de transparencia de las notas anteriores.
+
+---
+---
+
+# 5Q3 — DECIMONOVENO TESTIGO DE ISAÍAS
+
+*5Q3 (también llamado 5QIsa) es un decimonoveno rollo de Isaías, hallado en la Cueva 5 de Qumrán, un solo fragmento continuo que cubre cuatro versos de 40:16-19 —la burla profética a los ídolos fundidos—. Como en 4Q69a, motiva una revisión hacia atrás sobre otra variante real de 1QIsaa nunca antes anotada en este archivo.*
+
+**153 — ויעשה מסך, en vez de נסך del TM (40:19) — variante de 1QIsaa no documentada hasta ahora.** El TM tiene "הַפֶּסֶל נָסַךְ חָרָשׁ" ("el ídolo, un artífice [lo] funde" — נסך como verbo, "fundir"). 1QIsaa, ya decodificado en este archivo, tiene en cambio "הפסל ו יעשה מסך חרש" ("el ídolo, y el artífice hace un fundido" — con una vav y el verbo יעשה, "hace", agregados, y מסך reinterpretado como sustantivo, "imagen fundida", en vez de verbo) — una reestructuración real de la cláusula, no una variante ortográfica menor. Sobre 5Q3: toda esta cláusula (הפסל נסך חרש וצרף) cae en un tramo íntegramente reconstruido por el editor moderno, sin ninguna letra físicamente conservada en el punto exacto de la variante —el resto del verso, ירקע(נו), sí está genuinamente conservado en 5Q3, pero coincide con ambos testigos y no es distintivo—; este testigo no puede confirmar ni descartar cuál de las dos formas tenía originalmente. E1 el dato de la lectura de 1QIsaa, verificado a nivel de signo individual (disponible desde la decodificación inicial del rollo, pero sin nota propia hasta ahora); D2 la lectura de que probablemente se trata de una expansión/reinterpretación sintáctica propia del perfil textual de 1QIsaa (cf. nota 1), sin que pueda descartarse una tradición textual distinta.
+
+**154 — chequeo doctrinal: ningún verso de las nueve categorías cae en esta cobertura.** Cf. notas 81-87. Se revisaron los anchor-verses de las nueve categorías doctrinales contra los cuatro versos cubiertos por 5Q3 (40:16-19); el más cercano es 40:2 (pecado), catorce versos antes. Como en las notas 136, 140 y 145, es un chequeo completo con resultado negativo por ausencia de cobertura.
 
 ---
 ---

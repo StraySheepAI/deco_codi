@@ -2602,7 +2602,7 @@ window.ROLLOS_DATA={
       {
         "number": "16",
         "hebrew": "ולבנון אין די בער וחית׳ו אין די עולה׃",
-        "text": "Ni el Líbano bastará para el fuego, ni todos sus animales para el holocausto."
+        "text": "Ni el Líbano bastará para el fuego, ni todos sus animales para el holocausto¹⁵⁴."
       },
       {
         "number": "17",
@@ -2617,7 +2617,7 @@ window.ROLLOS_DATA={
       {
         "number": "19",
         "hebrew": "הפסל ויעשה מסך חרש וצורף בזהב וירקע׳נו ורתקות כסף צורף׃",
-        "text": "El artífice funde la imagen, el platero le extiende oro y le funde cadenas de plata."
+        "text": "El artífice funde la imagen¹⁵³, el platero le extiende oro y le funde cadenas de plata."
       },
       {
         "number": "20",
@@ -6886,6 +6886,27 @@ window.ROLLOS_DATA={
       "evidence": [],
       "hebrew": "Chequeo doctrinal: בְּרִית en un tramo reconstruido (4Q69a)",
       "teaser": "El decimoctavo testigo, y un pacto que cae en la reconstrucción."
+    },
+    {
+      "id": 153,
+      "chapter": 40,
+      "title": "ויעשה מסך, en vez de נסך del TM (40:19) — variante de 1QIsaa no documentada hasta ahora.",
+      "body": "El TM tiene \"הַפֶּסֶל נָסַךְ חָרָשׁ\" (\"el ídolo, un artífice [lo] funde\" — נסך como verbo, \"fundir\"). 1QIsaa, ya decodificado en este archivo, tiene en cambio \"הפסל ו יעשה מסך חרש\" (\"el ídolo, y el artífice hace un fundido\" — con una vav y el verbo יעשה, \"hace\", agregados, y מסך reinterpretado como sustantivo, \"imagen fundida\", en vez de verbo) — una reestructuración real de la cláusula, no una variante ortográfica menor. Sobre 5Q3: toda esta cláusula (הפסל נסך חרש וצרף) cae en un tramo íntegramente reconstruido por el editor moderno, sin ninguna letra físicamente conservada en el punto exacto de la variante —el resto del verso, ירקע(נו), sí está genuinamente conservado en 5Q3, pero coincide con ambos testigos y no es distintivo—; este testigo no puede confirmar ni descartar cuál de las dos formas tenía originalmente. E1 el dato de la lectura de 1QIsaa, verificado a nivel de signo individual (disponible desde la decodificación inicial del rollo, pero sin nota propia hasta ahora); D2 la lectura de que probablemente se trata de una expansión/reinterpretación sintáctica propia del perfil textual de 1QIsaa (cf. nota 1), sin que pueda descartarse una tradición textual distinta.",
+      "evidence": [
+        "E1",
+        "D2"
+      ],
+      "hebrew": "וַיַּעֲשֶׂה מַסֵּכָה / נָסַךְ — otra variante de 1QIsaa recién vista",
+      "teaser": "Segunda variante de 1QIsaa recién vista, en el mismo tramo de trabajo."
+    },
+    {
+      "id": 154,
+      "chapter": 40,
+      "title": "chequeo doctrinal: ningún verso de las nueve categorías cae en esta cobertura.",
+      "body": "Cf. notas 81-87. Se revisaron los anchor-verses de las nueve categorías doctrinales contra los cuatro versos cubiertos por 5Q3 (40:16-19); el más cercano es 40:2 (pecado), catorce versos antes. Como en las notas 136, 140 y 145, es un chequeo completo con resultado negativo por ausencia de cobertura.",
+      "evidence": [],
+      "hebrew": "Chequeo doctrinal: 5Q3, ninguna categoría en su cobertura",
+      "teaser": "El decimonoveno testigo, sin ningún anchor doctrinal en su tramo."
     }
   ],
   "meta": {
