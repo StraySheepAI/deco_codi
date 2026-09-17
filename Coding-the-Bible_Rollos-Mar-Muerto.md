@@ -1,4 +1,4 @@
-# Coding the Bible — Rollos del Mar Muerto (1QIsaa, Isaías 1 a 66 — libro completo; más 1Q8, 4Q56, 4Q57, 4Q55, 4Q60, 4Q58, 4Q59, 4Q61, 4Q64 y Mur3, segundo a undécimo testigo)
+# Coding the Bible — Rollos del Mar Muerto (1QIsaa, Isaías 1 a 66 — libro completo; más 1Q8, 4Q56, 4Q57, 4Q55, 4Q60, 4Q58, 4Q59, 4Q61, 4Q64, Mur3 y 4Q66, segundo a duodécimo testigo)
 
 ### Lectura DIMA — decodificación integral desde el hebreo/arameo original
 
@@ -1942,11 +1942,11 @@ A diferencia de Génesis y Éxodo, acá el texto es fragmentario y el hallazgo c
 
 **21** Y tu pueblo, todos ellos serán justos, para siempre heredarán la tierra; renuevos de mi plantío, obra de mis manos, para glorificarme.
 
-**22** El pequeño será por mil, el menor, por gente fuerte. Yo YHWH a su tiempo haré que esto sea presto.
+**22** El pequeño será por mil, el menor, por gente fuerte. Yo YHWH a su tiempo haré que esto sea presto¹⁴⁰.
 
 ## 1QIsaa · Isaías 61
 
-**1** El espíritu de YHWH está sobre mí⁷⁰, porque me ungió YHWH; me ha enviado a predicar buenas nuevas a los abatidos, a vendar a los quebrantados de corazón, a publicar libertad a los cautivos, y a los presos abertura de la cárcel¹⁰⁰;
+**1** El espíritu de YHWH está sobre mí⁷⁰, porque me ungió YHWH; me ha enviado a predicar buenas nuevas a los abatidos¹³⁹, a vendar a los quebrantados de corazón, a publicar libertad a los cautivos, y a los presos abertura de la cárcel¹⁰⁰;
 
 **2** a publicar año de la buena voluntad de YHWH, y día de venganza del Elohim nuestro; a consolar a todos los enlutados;
 
@@ -2530,6 +2530,17 @@ A diferencia de Génesis y Éxodo, acá el texto es fragmentario y el hallazgo c
 **137 — שממה, no שממו, y sin עליה — confirmación de la nota 5 (1:7).** Cf. nota 5 (1QIsaa tiene ושממו עליה, "y se espantaron/desolaron sobre ella," una cláusula verbal adicional con complemento, donde el TM tiene solo וּשְׁמָמָה, "y \[es\] una desolación," sin verbo conjugado ni la palabra עליה). Mur3 conserva genuinamente שממה —el sustantivo/adjetivo del TM, no la forma verbal de 1QIsaa— y no tiene ninguna palabra en el lugar donde 1QIsaa inserta עליה: la secuencia pasa directo de שממה a כ מהפכת, exactamente como en el TM. Es un caso de **Mur3 con el TM contra 1QIsaa**, un tercer testigo (independiente de cualquier otro ya usado para esta nota) que respalda la lectura de la nota 5 de que la cláusula de 1QIsaa es un plus propio de ese rollo, no una tradición textual más ampliamente compartida. E1 el dato, verificado a nivel de signo individual — las cinco consonantes de שממה están genuinamente conservadas, y la ausencia de עליה se confirma por la secuencia continua de palabras sin ningún hueco entre ellas.
 
 **138 — chequeo doctrinal: עוון cae fuera del tramo conservado (1:4).** Cf. nota 81 (pecado). El único anchor-verse de las nueve categorías doctrinales que cae dentro de la cobertura de Mur3 es 1:4, donde el TM tiene "עַם כֶּבֶד עָוֹן" ("pueblo cargado de iniquidad"). De ese verso, Mur3 solo conserva genuinamente sus dos últimas palabras (אחור, "atrás"); todo lo anterior, incluida la frase con עָוֹן, cae en un tramo íntegramente reconstruido por el editor moderno, sin ninguna letra físicamente conservada de la palabra en disputa. Se deja constancia explícita, siguiendo el mismo criterio de transparencia de las notas 125, 130 y 136: revisado y sin dato no es lo mismo que no revisado.
+
+---
+---
+
+# 4Q66 — DUODÉCIMO TESTIGO DE ISAÍAS
+
+*4Q66 (también llamado 4QIsaⁿ) es un duodécimo rollo de Isaías, un solo fragmento continuo que cubre nueve versos entre el final del capítulo 60 y el comienzo del 61 —el cierre del oráculo de la gloria de Sión, y el comienzo del pasaje ungido que Yeshúa lee en Lucas 4:18—. Cae justo sobre uno de los versos con más testigos ya comparados entre sí de todo este archivo.*
+
+**139 — traza física de אד(ני), ni con el TM completo ni con 1QIsaa ni con 1Q8 (61:1).** Cf. notas 70 (1QIsaa tiene solo רוח יהוה עלי, sin אדני, donde el TM tiene רוּחַ אֲדֹנָי יְהוִה עָלַי) y 100 (1Q8 tiene, en cambio, רוח יהוה אלהים עלי — una tercera combinación, "los tres testigos difieren entre sí" en este mismo verso). 4Q66 aporta ahora un cuarto dato, aunque con una salvedad importante sobre su nivel de certeza: en el lugar exacto donde iría אדני, el cuero conserva físicamente dos letras que el editor moderno lee, con una incertidumbre alta y explícita, como א y ד —no están dentro de un corchete de reconstrucción editorial, pero tampoco alcanzan la claridad de una letra plenamente legible—; las dos letras siguientes (נ, י) sí caen en un tramo reconstruido. Si la lectura incierta del editor es correcta, 4Q66 respaldaría la presencia de אדני en algún punto de este verso, más cerca del TM que de 1QIsaa o de 1Q8, aunque sin poder confirmar el resto de la fórmula completa (רוח mismo también tiene solo su última letra, ח, físicamente conservada con la misma incertidumbre, y יהוה está enteramente reconstruido). Dada la fragilidad del dato, se documenta aquí con la salvedad explícita, sin sumarlo como una quinta combinación firme junto a las de las notas 70 y 100. E1 el dato de que las letras א y ד no están reconstruidas, verificado a nivel de signo individual; D2 la lectura de que probablemente formaban parte de אדני, dado el nivel de incertidumbre editorial explícito sobre su identificación exacta.
+
+**140 — chequeo doctrinal: ningún verso de las nueve categorías cae en esta cobertura.** Cf. notas 81-87. Se revisaron los anchor-verses de las nueve categorías doctrinales contra los nueve versos cubiertos por 4Q66 (60:20-22 y 61:1-6): el más cercano es 61:8 (pacto y justicia), fuera del tramo conservado de este testigo por dos versos. Como en la nota 136, es un chequeo completo con resultado negativo por ausencia de cobertura, no un chequeo aligerado ni salteado.
 
 ---
 ---

@@ -4627,14 +4627,14 @@ window.ROLLOS_DATA={
       {
         "number": "22",
         "hebrew": "הקטן יהיה לאלף והצעיר לגוי עצום אני יהוה בעת׳ה אחיש׳נה׃",
-        "text": "El pequeño será por mil, el menor, por gente fuerte. Yo YHWH a su tiempo haré que esto sea presto."
+        "text": "El pequeño será por mil, el menor, por gente fuerte. Yo YHWH a su tiempo haré que esto sea presto¹⁴⁰."
       }
     ],
     "61": [
       {
         "number": "1",
         "hebrew": "רוח יהוה על׳י יען משח יהוה אות׳י לבשר ענוים שלח׳ני ולחבוש לנשברי לב לקרוא לשבויים דרור ולאסורים פקחקוח׃",
-        "text": "El espíritu de YHWH está sobre mí⁷⁰, porque me ungió YHWH; me ha enviado a predicar buenas nuevas a los abatidos, a vendar a los quebrantados de corazón, a publicar libertad a los cautivos, y a los presos abertura de la cárcel¹⁰⁰;"
+        "text": "El espíritu de YHWH está sobre mí⁷⁰, porque me ungió YHWH; me ha enviado a predicar buenas nuevas a los abatidos¹³⁹, a vendar a los quebrantados de corazón, a publicar libertad a los cautivos, y a los presos abertura de la cárcel¹⁰⁰;"
       },
       {
         "number": "2",
@@ -6742,6 +6742,27 @@ window.ROLLOS_DATA={
       "evidence": [],
       "hebrew": "Chequeo doctrinal: עָוֹן fuera del tramo conservado (Mur3)",
       "teaser": "El capítulo más anotado de todo el archivo, y aun así sin dato."
+    },
+    {
+      "id": 139,
+      "chapter": 61,
+      "title": "traza física de אד",
+      "body": "Cf. notas 70 (1QIsaa tiene solo רוח יהוה עלי, sin אדני, donde el TM tiene רוּחַ אֲדֹנָי יְהוִה עָלַי) y 100 (1Q8 tiene, en cambio, רוח יהוה אלהים עלי — una tercera combinación, \"los tres testigos difieren entre sí\" en este mismo verso). 4Q66 aporta ahora un cuarto dato, aunque con una salvedad importante sobre su nivel de certeza: en el lugar exacto donde iría אדני, el cuero conserva físicamente dos letras que el editor moderno lee, con una incertidumbre alta y explícita, como א y ד —no están dentro de un corchete de reconstrucción editorial, pero tampoco alcanzan la claridad de una letra plenamente legible—; las dos letras siguientes (נ, י) sí caen en un tramo reconstruido. Si la lectura incierta del editor es correcta, 4Q66 respaldaría la presencia de אדני en algún punto de este verso, más cerca del TM que de 1QIsaa o de 1Q8, aunque sin poder confirmar el resto de la fórmula completa (רוח mismo también tiene solo su última letra, ח, físicamente conservada con la misma incertidumbre, y יהוה está enteramente reconstruido). Dada la fragilidad del dato, se documenta aquí con la salvedad explícita, sin sumarlo como una quinta combinación firme junto a las de las notas 70 y 100. E1 el dato de que las letras א y ד no están reconstruidas, verificado a nivel de signo individual; D2 la lectura de que probablemente formaban parte de אדני, dado el nivel de incertidumbre editorial explícito sobre su identificación exacta.",
+      "evidence": [
+        "E1",
+        "D2"
+      ],
+      "hebrew": "אֲדֹנָי / — / אֱלֹהִים — un cuarto testigo, con salvedad",
+      "teaser": "El verso de Lucas 4:18 suma un cuarto testigo, con una salvedad."
+    },
+    {
+      "id": 140,
+      "chapter": 60,
+      "title": "chequeo doctrinal: ningún verso de las nueve categorías cae en esta cobertura.",
+      "body": "Cf. notas 81-87. Se revisaron los anchor-verses de las nueve categorías doctrinales contra los nueve versos cubiertos por 4Q66 (60:20-22 y 61:1-6): el más cercano es 61:8 (pacto y justicia), fuera del tramo conservado de este testigo por dos versos. Como en la nota 136, es un chequeo completo con resultado negativo por ausencia de cobertura, no un chequeo aligerado ni salteado.",
+      "evidence": [],
+      "hebrew": "Chequeo doctrinal: 4Q66, ninguna categoría en su cobertura",
+      "teaser": "El duodécimo testigo, sin ningún anchor doctrinal en su tramo."
     }
   ],
   "meta": {
