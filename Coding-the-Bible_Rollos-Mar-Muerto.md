@@ -1,4 +1,4 @@
-# Coding the Bible — Rollos del Mar Muerto (1QIsaa, Isaías 1 a 66 — libro completo; más 1Q8, 4Q56, 4Q57, 4Q55, 4Q60, 4Q58, 4Q59, 4Q61, 4Q64, Mur3, 4Q66 y 4Q62, segundo a decimotercer testigo)
+# Coding the Bible — Rollos del Mar Muerto (1QIsaa, Isaías 1 a 66 — libro completo; más 1Q8, 4Q56, 4Q57, 4Q55, 4Q60, 4Q58, 4Q59, 4Q61, 4Q64, Mur3, 4Q66, 4Q62 y 4Q68, segundo a decimocuarto testigo)
 
 ### Lectura DIMA — decodificación integral desde el hebreo/arameo original
 
@@ -386,13 +386,13 @@ A diferencia de Génesis y Éxodo, acá el texto es fragmentario y el hallazgo c
 
 **29** No te alegres tú, Filistea toda, por haberse quebrado la vara del que te hería; porque de la raíz de la culebra saldrá basilisco, y su fruto será serpiente voladora.
 
-**30-31** Y los primogénitos de los pobres serán apacentados, y los menesterosos se acostarán seguros; mas yo haré morir de hambre tu raíz, y mataré²⁹ tu remanente. Aúlla, oh puerta; clama, oh ciudad; disuelta estás toda tú, Filistea; porque humo vendrá del norte, no quedará uno solo en sus asambleas.
+**30-31** Y los primogénitos de los pobres serán apacentados, y los menesterosos se acostarán seguros; mas yo haré morir de hambre tu raíz, y mataré²⁹ tu remanente. Aúlla, oh puerta; clama, oh ciudad; disuelta estás toda tú, Filistea; porque humo vendrá del norte, no quedará uno solo en sus asambleas¹⁴³.
 
 **32** ¿Qué se responderá a los mensajeros de esa nación? Que YHWH fundó a Sión, y que a ella se acogerán los afligidos de su pueblo.
 
 ## 1QIsaa · Isaías 15
 
-**1** Profecía sobre Moab. Ciertamente en una noche fue destruida Ar de Moab, fue puesta en silencio; ciertamente en una noche fue destruida Kir de Moab, fue puesta en silencio.
+**1** Profecía sobre Moab¹⁴⁴. Ciertamente en una noche fue destruida Ar de Moab, fue puesta en silencio; ciertamente en una noche fue destruida Kir de Moab, fue puesta en silencio¹⁴⁵.
 
 **2-3** Subió a Bayit y a Divón, a los lugares altos, a llorar; sobre Nevo y sobre Medevá aullará Moab; toda cabeza de ella será rapada, y toda barba rasurada. En sus calles se ceñirán de cilicio; en sus terrados y en sus plazas aullarán todos, deshaciéndose en llanto.
 
@@ -2552,6 +2552,19 @@ A diferencia de Génesis y Éxodo, acá el texto es fragmentario y el hallazgo c
 **141 — ברית עולם, en vez de ברית עם (42:6).** El TM tiene "לִבְרִית עָם" ("por pacto al pueblo/para el pueblo," usando עם, "pueblo"); 1QIsaa, ya decodificado en este archivo, coincide exactamente con el TM en este punto (ברית עם). 4Q62 tiene, en cambio, ברית עולם ("pacto eterno," usando עולם, "eternidad/siempre") — una palabra genuinamente distinta, no una variante ortográfica menor, con las cuatro consonantes de עולם plenamente conservadas y sin ninguna marca de reconstrucción. Es un caso de **4Q62 solo, frente a la coincidencia entre el TM y 1QIsaa**: la fórmula נתן ברית ya caracterizada en la nota 82 como un uso distintivo de Isaías para describir al Siervo mismo dado "por pacto" (42:6 y 49:8), aparece aquí nivelada hacia la otra fórmula del mismo libro, הקים/כרת ברית עולם ("pacto eterno," cf. 55:3 y 61:8) — probablemente una asimilación de un copista más familiarizado con esa segunda fórmula, más común en el libro, que con la construcción más rara y específica del Siervo. Además, en el mismo verso, 4Q62 conserva las tres primeras consonantes del tetragrámaton (יהו-) en su forma ordinaria, sin ninguna corrección — a diferencia de 1QIsaa, cuyo texto base tiene aquí una corrección antigua supralineal que escribe el nombre divino con cinco yodim (cf. nota 49); ese rasgo paleográfico especial no se repite en 4Q62. E1 el dato de עולם, verificado a nivel de signo individual; D2 la lectura de que se trata de una asimilación a la fórmula más común de "pacto eterno" en el resto del libro, sin que pueda descartarse una tradición textual distinta.
 
 **142 — chequeo doctrinal: נשמה reconstruida, רוח con una sola letra incierta (42:5).** Cf. nota 87 (alma-espíritu-aliento). El único anchor de esta categoría que cae dentro de la cobertura de 4Q62 es 42:5, donde el TM empareja נשמה y רוח en la misma frase ("da respiración al pueblo... y espíritu a los que por ella andan"). En 4Q62, נשמה cae enteramente en un tramo reconstruido, sin ninguna letra físicamente conservada; de רוח solo sobrevive su última letra (ח), con una incertidumbre editorial explícita sobre su identificación y sin las dos letras anteriores. No alcanza el estándar de este archivo para contar como dato confirmado — se deja constancia explícita, siguiendo el mismo criterio de transparencia de las notas 130, 136, 138 y 140: revisado y sin dato usable no es lo mismo que no revisado.
+
+---
+---
+
+# 4Q68 — DECIMOCUARTO TESTIGO DE ISAÍAS
+
+*4Q68 (también llamado 4QIsaʳ) es un decimocuarto rollo de Isaías, un solo fragmento continuo que cubre siete versos entre 14:28-32 y 15:1-2 —el final del oráculo contra Filistea y el comienzo del oráculo contra Moab—. Un testigo pequeño, pero con un hallazgo textual-crítico de peso y un rasgo paleográfico propio muy visible en todo el tramo conservado.*
+
+**143 — מ ידעי׳ו / מודעי׳ו, ambos con ד antes de ע, en vez de מועדיו del TM (14:30-31).** Cf. nota 29 (14:30: la palabra en disputa allí, יהרג/אהרוג, cae en un tramo enteramente reconstruido de 4Q68, sin dato). En 14:31, el TM tiene "בְּמוֹעָדָיו" ("en sus tiempos señalados/asambleas," de la raíz יעד, consonantes מ-ו-ע-ד-י-ו); 1QIsaa, ya decodificado en este archivo, tiene מודעי׳ו (מ-ו-ד-ע-י-ו) — las mismas seis consonantes, pero con ד y ע transpuestas respecto del TM, acercando la palabra a la raíz ידע ("conocer") en vez de יעד ("señalar/fijar"), una variante real no documentada hasta ahora como nota aparte en este archivo. 4Q68 conserva genuinamente ם ידעי׳ו (leyendo la ם en su forma final como preposición independiente, cf. nota 144, más ידעיו, "sus conocedores/los que lo conocen") — una secuencia de consonantes distinta letra por letra de la de 1QIsaa, pero que comparte con ella el mismo rasgo decisivo: ד antes de ע, la misma raíz ידע en vez de יעד del TM. Es un caso de **4Q68 con 1QIsaa contra el TM** en el nivel de la raíz, aunque no en la ortografía exacta de la palabra —tercer caso de esta categoría en todo el archivo (los anteriores, notas 100 y 134, coincidían letra por letra; este solo coincide en el orden de las dos consonantes decisivas)—, lo que hace más probable que ambos rollos reflejen una tradición de lectura compartida en este punto, y no dos errores de copista independientes. E1 el dato de 4Q68, verificado a nivel de signo individual; D1 la lectura de que ambos testigos qumránicos comparten la raíz ידע frente a יעד del TM, dado que la transposición ד/ע es idéntica en ambos aunque el resto de la palabra difiera.
+
+**144 — ם final usada sistemáticamente en posición no final — rasgo paleográfico propio de 4Q68.** A diferencia de la ortografía plena de 1QIsaa ya caracterizada en la nota 1, 4Q68 tiene un hábito distinto y consistente: usa la forma final de la mem (ם) en posición inicial o medial, donde tanto el TM como 1QIsaa usan la forma ordinaria (מ). Se documenta en al menos cuatro puntos dentro de este solo fragmento de siete versos: מ ("de/desde," 14:29, como palabra independiente); נמוג escrito נםוג (14:31, "se derrite/disuelve"); מועדיו o el equivalente de 4Q68 escrito ם ידעיו (14:31, cf. nota 143); y משא y מואב escritos םשא y םואב, este último dos veces, en 15:1 ("profecía" y "Moab"). No es una variante de contenido en ningún caso —el sentido de cada palabra es el mismo que el del TM— sino un rasgo gráfico del copista de este manuscrito específico, análogo en función (aunque no en tipo) al perfil ortográfico ya documentado para 1QIsaa en la nota 1, y no se vuelve a anotar palabra por palabra. E1 el dato, verificado a nivel de signo individual en los cuatro puntos.
+
+**145 — chequeo doctrinal: ningún verso de las nueve categorías cae en esta cobertura.** Cf. notas 81-87. El anchor más cercano es 14:21 (pecado, avon), siete versos antes del comienzo de la cobertura de 4Q68 (14:28-32 y 15:1-2). Como en las notas 136 y 140, es un chequeo completo con resultado negativo por ausencia de cobertura, no un chequeo aligerado ni salteado.
 
 ---
 ---

@@ -875,7 +875,7 @@ window.ROLLOS_DATA={
       {
         "number": "30-31",
         "hebrew": "ורעו בכורי דלים ואביונים לבטח ירבצו והמתי ברעב שורש׳ך ושארית׳ך אהרוג׃ הילילי שער זעקי עיר נמוג פלשת כול׳ך כי מצפון עשן בא ואין מודד במודעי׳ו׃",
-        "text": "Y los primogénitos de los pobres serán apacentados, y los menesterosos se acostarán seguros; mas yo haré morir de hambre tu raíz, y mataré²⁹ tu remanente. Aúlla, oh puerta; clama, oh ciudad; disuelta estás toda tú, Filistea; porque humo vendrá del norte, no quedará uno solo en sus asambleas."
+        "text": "Y los primogénitos de los pobres serán apacentados, y los menesterosos se acostarán seguros; mas yo haré morir de hambre tu raíz, y mataré²⁹ tu remanente. Aúlla, oh puerta; clama, oh ciudad; disuelta estás toda tú, Filistea; porque humo vendrá del norte, no quedará uno solo en sus asambleas¹⁴³."
       },
       {
         "number": "32",
@@ -887,7 +887,7 @@ window.ROLLOS_DATA={
       {
         "number": "1",
         "hebrew": "משא מואב כי בלילה שודד עיר מואב ונדמה כי בלילה שודד עיר מואב נדמה׃",
-        "text": "Profecía sobre Moab. Ciertamente en una noche fue destruida Ar de Moab, fue puesta en silencio; ciertamente en una noche fue destruida Kir de Moab, fue puesta en silencio."
+        "text": "Profecía sobre Moab¹⁴⁴. Ciertamente en una noche fue destruida Ar de Moab, fue puesta en silencio; ciertamente en una noche fue destruida Kir de Moab, fue puesta en silencio¹⁴⁵."
       },
       {
         "number": "2-3",
@@ -6784,6 +6784,38 @@ window.ROLLOS_DATA={
       "evidence": [],
       "hebrew": "Chequeo doctrinal: נְשָׁמָה reconstruida, רוּחַ con una letra (4Q62)",
       "teaser": "El decimotercer testigo, y un chequeo doctrinal sin dato usable."
+    },
+    {
+      "id": 143,
+      "chapter": 14,
+      "title": "מ ידעי׳ו / מודעי׳ו, ambos con ד antes de ע, en vez de מועדיו del TM",
+      "body": "Cf. nota 29 (14:30: la palabra en disputa allí, יהרג/אהרוג, cae en un tramo enteramente reconstruido de 4Q68, sin dato). En 14:31, el TM tiene \"בְּמוֹעָדָיו\" (\"en sus tiempos señalados/asambleas,\" de la raíz יעד, consonantes מ-ו-ע-ד-י-ו); 1QIsaa, ya decodificado en este archivo, tiene מודעי׳ו (מ-ו-ד-ע-י-ו) — las mismas seis consonantes, pero con ד y ע transpuestas respecto del TM, acercando la palabra a la raíz ידע (\"conocer\") en vez de יעד (\"señalar/fijar\"), una variante real no documentada hasta ahora como nota aparte en este archivo. 4Q68 conserva genuinamente ם ידעי׳ו (leyendo la ם en su forma final como preposición independiente, cf. nota 144, más ידעיו, \"sus conocedores/los que lo conocen\") — una secuencia de consonantes distinta letra por letra de la de 1QIsaa, pero que comparte con ella el mismo rasgo decisivo: ד antes de ע, la misma raíz ידע en vez de יעד del TM. Es un caso de *4Q68 con 1QIsaa contra el TM* en el nivel de la raíz, aunque no en la ortografía exacta de la palabra —tercer caso de esta categoría en todo el archivo (los anteriores, notas 100 y 134, coincidían letra por letra; este solo coincide en el orden de las dos consonantes decisivas)—, lo que hace más probable que ambos rollos reflejen una tradición de lectura compartida en este punto, y no dos errores de copista independientes. E1 el dato de 4Q68, verificado a nivel de signo individual; D1 la lectura de que ambos testigos qumránicos comparten la raíz ידע frente a יעד del TM, dado que la transposición ד/ע es idéntica en ambos aunque el resto de la palabra difiera.",
+      "evidence": [
+        "E1",
+        "D1"
+      ],
+      "hebrew": "מוֹעָדָיו / מוֹדָעָיו / ם ידעיו — la raíz יד״ע frente a יע״ד",
+      "teaser": "Dos rollos qumránicos comparten una raíz distinta a la del TM."
+    },
+    {
+      "id": 144,
+      "chapter": 15,
+      "title": "ם final usada sistemáticamente en posición no final — rasgo paleográfico propio de 4Q68.",
+      "body": "A diferencia de la ortografía plena de 1QIsaa ya caracterizada en la nota 1, 4Q68 tiene un hábito distinto y consistente: usa la forma final de la mem (ם) en posición inicial o medial, donde tanto el TM como 1QIsaa usan la forma ordinaria (מ). Se documenta en al menos cuatro puntos dentro de este solo fragmento de siete versos: מ (\"de/desde,\" 14:29, como palabra independiente); נמוג escrito נםוג (14:31, \"se derrite/disuelve\"); מועדיו o el equivalente de 4Q68 escrito ם ידעיו (14:31, cf. nota 143); y משא y מואב escritos םשא y םואב, este último dos veces, en 15:1 (\"profecía\" y \"Moab\"). No es una variante de contenido en ningún caso —el sentido de cada palabra es el mismo que el del TM— sino un rasgo gráfico del copista de este manuscrito específico, análogo en función (aunque no en tipo) al perfil ortográfico ya documentado para 1QIsaa en la nota 1, y no se vuelve a anotar palabra por palabra. E1 el dato, verificado a nivel de signo individual en los cuatro puntos.",
+      "evidence": [
+        "E1"
+      ],
+      "hebrew": "ם final en posición inicial/medial — rasgo propio de 4Q68",
+      "teaser": "Una letra final donde no debería ir, y no es un error aislado."
+    },
+    {
+      "id": 145,
+      "chapter": 15,
+      "title": "chequeo doctrinal: ningún verso de las nueve categorías cae en esta cobertura.",
+      "body": "Cf. notas 81-87. El anchor más cercano es 14:21 (pecado, avon), siete versos antes del comienzo de la cobertura de 4Q68 (14:28-32 y 15:1-2). Como en las notas 136 y 140, es un chequeo completo con resultado negativo por ausencia de cobertura, no un chequeo aligerado ni salteado.",
+      "evidence": [],
+      "hebrew": "Chequeo doctrinal: 4Q68, ninguna categoría en su cobertura",
+      "teaser": "El decimocuarto testigo, sin ningún anchor doctrinal en su tramo."
     }
   ],
   "meta": {
